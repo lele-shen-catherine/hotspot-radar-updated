@@ -1,0 +1,5 @@
+interface:
+  display_name: "热点雷达"
+  short_description: "搭建并维护自动抓取、筛选、评分和部署的完整热点雷达系统"
+  brand_color: "#FF6B35"
+  default_prompt: "Use $hotspot-radar to create or update a deployable automated hotspot radar for my business."

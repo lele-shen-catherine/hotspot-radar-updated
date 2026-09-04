@@ -1,0 +1,16 @@
+{
+  "name": "hotspot-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "radar:filter": "node scripts/filter-hotspots.mjs",
+    "radar:analyze": "node scripts/analyze-hotspots.mjs",
+    "radar:update": "node scripts/fetch-hotspot.mjs && node scripts/filter-hotspots.mjs && node scripts/analyze-hotspots.mjs",
+    "validate": "node scripts/validate-template.mjs",
+    "build": "npm run validate"
+  }
+}
