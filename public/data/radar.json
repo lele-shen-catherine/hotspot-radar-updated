@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T04:36:45.636Z",
-  "date": "2026-09-11",
-  "sourceGeneratedAt": "2026-09-11T12:36:36.483Z",
+  "generatedAt": "2026-09-04T03:12:23.114Z",
+  "date": "2026-09-04",
+  "sourceGeneratedAt": "2026-09-04T11:12:21.780Z",
   "provider": "local-rules",
   "model": "auditable-score-v1",
   "summary": {
@@ -12,9 +12,9 @@
   },
   "hotspots": [
     {
-      "id": "douyin-24-冰山冰美式到底怎么喝",
-      "title": "冰山冰美式到底怎么喝",
-      "ruleScore": 52.7,
+      "id": "douyin-12-开学版井柏然进行曲",
+      "title": "开学版井柏然进行曲",
+      "ruleScore": 64.9,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
@@ -22,58 +22,58 @@
       "platforms": [
         {
           "platform": "douyin",
-          "rank": 24,
-          "hot": 7813351,
-          "url": "https://www.douyin.com/search/%E5%86%B0%E5%B1%B1%E5%86%B0%E7%BE%8E%E5%BC%8F%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E5%96%9D"
+          "rank": 12,
+          "hot": 9159041,
+          "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E7%89%88%E4%BA%95%E6%9F%8F%E7%84%B6%E8%BF%9B%E8%A1%8C%E6%9B%B2"
         }
       ],
       "worthLeveraging": true,
       "riskLevel": "low",
       "relevanceScore": 82,
-      "timelinessScore": 63.2,
+      "timelinessScore": 77.6,
       "creativityScore": 82,
-      "totalScore": 64.5,
-      "level": "B",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "冰山冰美式到底怎么喝",
-      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
-      "communicationIdea": "围绕“冰山冰美式到底怎么喝”给出可直接尝试的菜单、做法或购买清单。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
+      "totalScore": 72.8,
+      "level": "A",
+      "reason": "开学季节点与抖音高热度音效梗契合，业务相关性高（返校消费场景）、可执行性高，风险低。",
+      "eventSummary": "9月初全国中小学陆续开学，抖音端出现以井柏然相关音效/画面为素材、配上节奏感强的“进行曲”BGM进行二次创作的开学短视频，因旋律朗朗上口、人人可跟拍模仿，迅速扩散为开学季传播模板。",
+      "businessAction": "围绕返校场景做轻量、正向的开学内容承接：外卖/即时零售可上线'开学第一餐''返校好物30分钟达'集合，突出门店与时效确定性；用'开学节奏'语境把BGM梗转化为可参与的品牌互动，但不直接搬运原视频画面以免版权风险。",
+      "communicationIdea": "以'开学版节奏'为内容切入点，做可参与的开学梗（如'把开学好物搬到家''返校第一餐'），用真实返校学生/送学家庭的场景讲故事，突出品质与履约，弱化促销感。",
+      "riskNote": "不直接搬运原版BGM/画面以规避版权；不虚构用户返校故事；涉及情感话题不放大情绪。"
     },
     {
-      "id": "douyin-25-王者万象棋新手攻略",
-      "title": "王者万象棋新手攻略",
-      "ruleScore": 51.7,
+      "id": "weibo-15-胚胎案原配称男方想回归家庭不可能",
+      "title": "胚胎案原配称男方想回归家庭不可能",
+      "ruleScore": 57.4,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
       "exclusionReason": "",
       "platforms": [
         {
-          "platform": "douyin",
-          "rank": 25,
-          "hot": 7786841,
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5"
+          "platform": "weibo",
+          "rank": 15,
+          "hot": 297365,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E7%A7%B0%E7%94%B7%E6%96%B9%E6%83%B3%E5%9B%9E%E5%BD%92%E5%AE%B6%E5%BA%AD%E4%B8%8D%E5%8F%AF%E8%83%BD%23"
         }
       ],
       "worthLeveraging": true,
-      "riskLevel": "low",
+      "riskLevel": "high",
       "relevanceScore": 82,
-      "timelinessScore": 62,
-      "creativityScore": 72,
-      "totalScore": 62.9,
+      "timelinessScore": 74,
+      "creativityScore": 82,
+      "totalScore": 68.5,
       "level": "B",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "王者万象棋新手攻略",
-      "businessAction": "整理目的地、出行或周末消费清单，并明确价格与适用条件。",
-      "communicationIdea": "围绕“王者万象棋新手攻略”制作实用攻略，避免夸大承诺。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
+      "reason": "热度与业务相关性虽达阈值，但个体伦理争议敏感度高，借势价值低、风险高，仅列观察。",
+      "eventSummary": "一起涉及婚外情与胚胎的伦理纠纷案件，原配公开表示'男方想回归家庭不可能'，因其鲜明的个人立场与强争议性，在微博引发大量站队讨论与关注。",
+      "businessAction": "建议不借势或仅作话题敏感度参考：该事件涉及个体婚姻悲剧与伦理争议，强行绑定消费易引发负面舆情。若必须做，仅限'家庭关系/情绪管理'类中性关怀内容，严禁消费当事人、不站队、不渲染。",
+      "communicationIdea": "不把该事件直接用作传播素材；仅在必要时以'尊重个体、不评判'的中立态度回应，避免任何立场表态与商业捆绑。",
+      "riskNote": "高敏感社会伦理话题，严禁消费个体家庭；不评论案件是非；不捆绑任何商品或服务；必要时主动避让该议题。"
     }
   ],
   "watchlist": [
     {
-      "id": "douyin-1-9月11日24时国内油价将调整",
-      "title": "9月11日24时国内油价将调整",
+      "id": "douyin-1-各省文旅都成搬运工了",
+      "title": "各省文旅都成“搬运工”了",
       "ruleScore": 56.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -83,8 +83,8 @@
         {
           "platform": "douyin",
           "rank": 1,
-          "hot": 11933378,
-          "url": "https://www.douyin.com/search/9%E6%9C%8811%E6%97%A524%E6%97%B6%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4"
+          "hot": 12103731,
+          "url": "https://www.douyin.com/search/%E5%90%84%E7%9C%81%E6%96%87%E6%97%85%E9%83%BD%E6%88%90%E2%80%9C%E6%90%AC%E8%BF%90%E5%B7%A5%E2%80%9D%E4%BA%86"
         }
       ],
       "worthLeveraging": false,
@@ -95,14 +95,14 @@
       "totalScore": 55.4,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "9月11日24时国内油价将调整",
+      "eventSummary": "各省文旅都成“搬运工”了",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-2-中国男篮大胜哈萨克斯坦",
-      "title": "中国男篮大胜哈萨克斯坦",
+      "id": "douyin-2-厄尔尼诺将发展为超强级别",
+      "title": "厄尔尼诺将发展为超强级别",
       "ruleScore": 55.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -112,8 +112,8 @@
         {
           "platform": "douyin",
           "rank": 2,
-          "hot": 11774089,
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%A7%E8%83%9C%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6"
+          "hot": 11747683,
+          "url": "https://www.douyin.com/search/%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%B0%86%E5%8F%91%E5%B1%95%E4%B8%BA%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB"
         }
       ],
       "worthLeveraging": false,
@@ -124,44 +124,15 @@
       "totalScore": 54.7,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "中国男篮大胜哈萨克斯坦",
+      "eventSummary": "厄尔尼诺将发展为超强级别",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-3-我国继续保持双向投资大国地位",
-      "title": "我国继续保持双向投资大国地位",
-      "ruleScore": 54.2,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 3,
-          "hot": 11644817,
-          "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8C%81%E5%8F%8C%E5%90%91%E6%8A%95%E8%B5%84%E5%A4%A7%E5%9B%BD%E5%9C%B0%E4%BD%8D"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 88.4,
-      "creativityScore": 42,
-      "totalScore": 54.1,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "我国继续保持双向投资大国地位",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "weibo-1-车主称坠楼砸车小孩家长态度转变",
-      "title": "车主称坠楼砸车小孩家长态度转变",
-      "ruleScore": 53.4,
+      "id": "weibo-1-男子欠债想轻生学胖东来还清105万",
+      "title": "男子欠债想轻生学胖东来还清105万",
+      "ruleScore": 53.3,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -170,8 +141,8 @@
         {
           "platform": "weibo",
           "rank": 1,
-          "hot": 1363956,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%9D%A0%E6%A5%BC%E7%A0%B8%E8%BD%A6%E5%B0%8F%E5%AD%A9%E5%AE%B6%E9%95%BF%E6%80%81%E5%BA%A6%E8%BD%AC%E5%8F%98%23"
+          "hot": 1213182,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA%E6%83%B3%E8%BD%BB%E7%94%9F%E5%AD%A6%E8%83%96%E4%B8%9C%E6%9D%A5%E8%BF%98%E6%B8%85105%E4%B8%87%23"
         }
       ],
       "worthLeveraging": false,
@@ -182,14 +153,14 @@
       "totalScore": 54,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "车主称坠楼砸车小孩家长态度转变",
+      "eventSummary": "男子欠债想轻生学胖东来还清105万",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-4-莱巴金娜首进美网决赛",
-      "title": "莱巴金娜首进美网决赛",
+      "id": "douyin-4-外交部驳斥越南西沙群岛主权主张",
+      "title": "外交部驳斥越南西沙群岛主权主张",
       "ruleScore": 53.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -199,8 +170,8 @@
         {
           "platform": "douyin",
           "rank": 4,
-          "hot": 11427809,
-          "url": "https://www.douyin.com/search/%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E9%A6%96%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B"
+          "hot": 11518919,
+          "url": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E8%B6%8A%E5%8D%97%E8%A5%BF%E6%B2%99%E7%BE%A4%E5%B2%9B%E4%B8%BB%E6%9D%83%E4%B8%BB%E5%BC%A0"
         }
       ],
       "worthLeveraging": false,
@@ -211,15 +182,15 @@
       "totalScore": 53.4,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "莱巴金娜首进美网决赛",
+      "eventSummary": "外交部驳斥越南西沙群岛主权主张",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-2-iphone17pro史上最低价",
-      "title": "iPhone17Pro史上最低价",
-      "ruleScore": 51.8,
+      "id": "weibo-2-人人影视变正版了",
+      "title": "人人影视变正版了",
+      "ruleScore": 51.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -228,8 +199,8 @@
         {
           "platform": "weibo",
           "rank": 2,
-          "hot": 878591,
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17Pro%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E%E4%BB%B7%23"
+          "hot": 956013,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86%E5%8F%98%E6%AD%A3%E7%89%88%E4%BA%86%23"
         }
       ],
       "worthLeveraging": false,
@@ -237,17 +208,17 @@
       "relevanceScore": 38,
       "timelinessScore": 89.6,
       "creativityScore": 42,
-      "totalScore": 53,
+      "totalScore": 53.1,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "iPhone17Pro史上最低价",
+      "eventSummary": "人人影视变正版了",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-5-中国女篮不敌法国无缘世界杯四强",
-      "title": "中国女篮不敌法国无缘世界杯四强",
+      "id": "douyin-5-福州的雨势为何如此凶猛",
+      "title": "福州的雨势为何如此凶猛",
       "ruleScore": 52.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -257,8 +228,8 @@
         {
           "platform": "douyin",
           "rank": 5,
-          "hot": 10673706,
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA"
+          "hot": 10769439,
+          "url": "https://www.douyin.com/search/%E7%A6%8F%E5%B7%9E%E7%9A%84%E9%9B%A8%E5%8A%BF%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E5%87%B6%E7%8C%9B"
         }
       ],
       "worthLeveraging": false,
@@ -269,43 +240,14 @@
       "totalScore": 52.7,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "中国女篮不敌法国无缘世界杯四强",
+      "eventSummary": "福州的雨势为何如此凶猛",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-3-辽e点看法",
-      "title": "辽E点看法",
-      "ruleScore": 50.7,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 3,
-          "hot": 792346,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BE%BDE%E7%82%B9%E7%9C%8B%E6%B3%95%23"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 88.4,
-      "creativityScore": 42,
-      "totalScore": 52.3,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "辽E点看法",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-6-曼联40大胜沙巴巴库",
-      "title": "曼联4:0大胜沙巴巴库",
+      "id": "douyin-6-上海多家银行明确房贷新政策",
+      "title": "上海多家银行明确房贷新政策",
       "ruleScore": 51.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -315,8 +257,8 @@
         {
           "platform": "douyin",
           "rank": 6,
-          "hot": 10530157,
-          "url": "https://www.douyin.com/search/%E6%9B%BC%E8%81%944%3A0%E5%A4%A7%E8%83%9C%E6%B2%99%E5%B7%B4%E5%B7%B4%E5%BA%93"
+          "hot": 10757956,
+          "url": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%98%8E%E7%A1%AE%E6%88%BF%E8%B4%B7%E6%96%B0%E6%94%BF%E7%AD%96"
         }
       ],
       "worthLeveraging": false,
@@ -327,14 +269,43 @@
       "totalScore": 52,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "曼联4:0大胜沙巴巴库",
+      "eventSummary": "上海多家银行明确房贷新政策",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-7-当中式审美回到下颌角时代",
-      "title": "当中式审美回到下颌角时代",
+      "id": "weibo-4-海狮08全家人的科技旗舰",
+      "title": "海狮08全家人的科技旗舰",
+      "ruleScore": 49.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 4,
+          "hot": 767259,
+          "url": ""
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 87.2,
+      "creativityScore": 42,
+      "totalScore": 51.6,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "海狮08全家人的科技旗舰",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-7-女篮世界杯中国vs美国",
+      "title": "女篮世界杯中国vs美国",
       "ruleScore": 49.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -344,8 +315,8 @@
         {
           "platform": "douyin",
           "rank": 7,
-          "hot": 9391736,
-          "url": "https://www.douyin.com/search/%E5%BD%93%E4%B8%AD%E5%BC%8F%E5%AE%A1%E7%BE%8E%E5%9B%9E%E5%88%B0%E4%B8%8B%E9%A2%8C%E8%A7%92%E6%97%B6%E4%BB%A3"
+          "hot": 9532780,
+          "url": "https://www.douyin.com/search/%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BDvs%E7%BE%8E%E5%9B%BD"
         }
       ],
       "worthLeveraging": false,
@@ -356,15 +327,15 @@
       "totalScore": 51.2,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "当中式审美回到下颌角时代",
+      "eventSummary": "女篮世界杯中国vs美国",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-5-景德镇学院通报宿舍调整事件",
-      "title": "景德镇学院通报宿舍调整事件",
-      "ruleScore": 48.5,
+      "id": "weibo-5-毛阿敏对许晴称呼的变化",
+      "title": "毛阿敏对许晴称呼的变化",
+      "ruleScore": 48.6,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -373,8 +344,8 @@
         {
           "platform": "weibo",
           "rank": 5,
-          "hot": 665195,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AE%BF%E8%88%8D%E8%B0%83%E6%95%B4%E4%BA%8B%E4%BB%B6%23"
+          "hot": 760094,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E9%98%BF%E6%95%8F%E5%AF%B9%E8%AE%B8%E6%99%B4%E7%A7%B0%E5%91%BC%E7%9A%84%E5%8F%98%E5%8C%96%23"
         }
       ],
       "worthLeveraging": false,
@@ -385,14 +356,14 @@
       "totalScore": 50.9,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "景德镇学院通报宿舍调整事件",
+      "eventSummary": "毛阿敏对许晴称呼的变化",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-8-歌舞里的中华情",
-      "title": "歌舞里的中华情",
+      "id": "douyin-8-中国女篮展望世界杯",
+      "title": "中国女篮展望世界杯",
       "ruleScore": 48.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -402,8 +373,8 @@
         {
           "platform": "douyin",
           "rank": 8,
-          "hot": 9380387,
-          "url": "https://www.douyin.com/search/%E6%AD%8C%E8%88%9E%E9%87%8C%E7%9A%84%E4%B8%AD%E5%8D%8E%E6%83%85"
+          "hot": 9465845,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%B1%95%E6%9C%9B%E4%B8%96%E7%95%8C%E6%9D%AF"
         }
       ],
       "worthLeveraging": false,
@@ -414,15 +385,15 @@
       "totalScore": 50.5,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "歌舞里的中华情",
+      "eventSummary": "中国女篮展望世界杯",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-6-苹果价格把我的购物欲治好了",
-      "title": "苹果价格把我的购物欲治好了",
-      "ruleScore": 47.4,
+      "id": "weibo-6-妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
+      "title": "妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
+      "ruleScore": 47.6,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -431,8 +402,8 @@
         {
           "platform": "weibo",
           "rank": 6,
-          "hot": 622265,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%BB%B7%E6%A0%BC%E6%8A%8A%E6%88%91%E7%9A%84%E8%B4%AD%E7%89%A9%E6%AC%B2%E6%B2%BB%E5%A5%BD%E4%BA%86%23"
+          "hot": 744238,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%AE%E7%86%9F%E8%91%A1%E8%90%84%E5%A5%B3%E5%84%BF%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%B9%8C%E9%B9%91%E8%9B%8B%23"
         }
       ],
       "worthLeveraging": false,
@@ -440,17 +411,17 @@
       "relevanceScore": 38,
       "timelinessScore": 84.8,
       "creativityScore": 42,
-      "totalScore": 50.1,
+      "totalScore": 50.2,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "苹果价格把我的购物欲治好了",
+      "eventSummary": "妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-9-这是我送给爱师的花花呀",
-      "title": "这是我送给爱师的花花呀",
+      "id": "douyin-9-等到了秋天我们再去散步好不好",
+      "title": "等到了秋天我们再去散步好不好",
       "ruleScore": 47.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -460,8 +431,8 @@
         {
           "platform": "douyin",
           "rank": 9,
-          "hot": 9376131,
-          "url": "https://www.douyin.com/search/%E8%BF%99%E6%98%AF%E6%88%91%E9%80%81%E7%BB%99%E7%88%B1%E5%B8%88%E7%9A%84%E8%8A%B1%E8%8A%B1%E5%91%80"
+          "hot": 9412143,
+          "url": "https://www.douyin.com/search/%E7%AD%89%E5%88%B0%E4%BA%86%E7%A7%8B%E5%A4%A9%E6%88%91%E4%BB%AC%E5%86%8D%E5%8E%BB%E6%95%A3%E6%AD%A5%E5%A5%BD%E4%B8%8D%E5%A5%BD"
         }
       ],
       "worthLeveraging": false,
@@ -472,15 +443,15 @@
       "totalScore": 49.8,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "这是我送给爱师的花花呀",
+      "eventSummary": "等到了秋天我们再去散步好不好",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-7-秋日养肤新风向",
-      "title": "秋日养肤新风向",
-      "ruleScore": 46.3,
+      "id": "weibo-7-郑钦文怒怼主裁双标",
+      "title": "郑钦文怒怼主裁双标",
+      "ruleScore": 46.5,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -489,8 +460,8 @@
         {
           "platform": "weibo",
           "rank": 7,
-          "hot": 584282,
-          "url": ""
+          "hot": 684255,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%80%92%E6%80%BC%E4%B8%BB%E8%A3%81%E5%8F%8C%E6%A0%87%23"
         }
       ],
       "worthLeveraging": false,
@@ -498,17 +469,17 @@
       "relevanceScore": 38,
       "timelinessScore": 83.6,
       "creativityScore": 42,
-      "totalScore": 49.4,
+      "totalScore": 49.5,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "秋日养肤新风向",
+      "eventSummary": "郑钦文怒怼主裁双标",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-10-入秋第一口肉太野了",
-      "title": "入秋第一口肉太野了",
+      "id": "douyin-10-秋天少不了的好东西",
+      "title": "秋天少不了的好东西",
       "ruleScore": 46.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -518,8 +489,8 @@
         {
           "platform": "douyin",
           "rank": 10,
-          "hot": 9278098,
-          "url": "https://www.douyin.com/search/%E5%85%A5%E7%A7%8B%E7%AC%AC%E4%B8%80%E5%8F%A3%E8%82%89%E5%A4%AA%E9%87%8E%E4%BA%86"
+          "hot": 9277217,
+          "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E5%B0%91%E4%B8%8D%E4%BA%86%E7%9A%84%E5%A5%BD%E4%B8%9C%E8%A5%BF"
         }
       ],
       "worthLeveraging": false,
@@ -530,15 +501,15 @@
       "totalScore": 49.2,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "入秋第一口肉太野了",
+      "eventSummary": "秋天少不了的好东西",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-8-邻居表示梅姨儿子20多岁是个傻儿子",
-      "title": "邻居表示梅姨儿子20多岁是个傻儿子",
-      "ruleScore": 45.2,
+      "id": "weibo-8-婚外胚胎案",
+      "title": "婚外胚胎案",
+      "ruleScore": 45.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -547,8 +518,8 @@
         {
           "platform": "weibo",
           "rank": 8,
-          "hot": 561001,
-          "url": "https://s.weibo.com/weibo?q=%23%E9%82%BB%E5%B1%85%E8%A1%A8%E7%A4%BA%E6%A2%85%E5%A7%A8%E5%84%BF%E5%AD%9020%E5%A4%9A%E5%B2%81%E6%98%AF%E4%B8%AA%E5%82%BB%E5%84%BF%E5%AD%90%23"
+          "hot": 483345,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%23"
         }
       ],
       "worthLeveraging": false,
@@ -556,47 +527,18 @@
       "relevanceScore": 38,
       "timelinessScore": 82.4,
       "creativityScore": 42,
-      "totalScore": 48.7,
+      "totalScore": 48.6,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "邻居表示梅姨儿子20多岁是个傻儿子",
+      "eventSummary": "婚外胚胎案",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-11-美联储9月加息概率升至70%",
-      "title": "美联储9月加息概率升至70%",
-      "ruleScore": 45.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 11,
-          "hot": 9267036,
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A89%E6%9C%88%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%E5%8D%87%E8%87%B370%25"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 78.8,
-      "creativityScore": 42,
-      "totalScore": 48.5,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "美联储9月加息概率升至70%",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "weibo-9-李现李一桐剧宣",
-      "title": "李现李一桐剧宣",
-      "ruleScore": 44.2,
+      "id": "weibo-9-第20届亚运会中国体育代表团名单",
+      "title": "第20届亚运会中国体育代表团名单",
+      "ruleScore": 43.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -605,8 +547,8 @@
         {
           "platform": "weibo",
           "rank": 9,
-          "hot": 525985,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%9D%8E%E4%B8%80%E6%A1%90%E5%89%A7%E5%AE%A3%23"
+          "hot": 425506,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC20%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%8D%E5%8D%95%23"
         }
       ],
       "worthLeveraging": false,
@@ -614,46 +556,17 @@
       "relevanceScore": 38,
       "timelinessScore": 81.2,
       "creativityScore": 42,
-      "totalScore": 48,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "李现李一桐剧宣",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-12-孟博龙战胜前nba球员特雷伯克",
-      "title": "孟博龙战胜前NBA球员特雷伯克",
-      "ruleScore": 44.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 12,
-          "hot": 9245722,
-          "url": "https://www.douyin.com/search/%E5%AD%9F%E5%8D%9A%E9%BE%99%E6%88%98%E8%83%9C%E5%89%8DNBA%E7%90%83%E5%91%98%E7%89%B9%E9%9B%B7%E4%BC%AF%E5%85%8B"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 77.6,
-      "creativityScore": 42,
       "totalScore": 47.8,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "孟博龙战胜前NBA球员特雷伯克",
+      "eventSummary": "第20届亚运会中国体育代表团名单",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-13-全面收紧出境系误读出入境新规",
-      "title": "全面收紧出境系误读出入境新规",
+      "id": "douyin-13-郑钦文晋级美网32强",
+      "title": "郑钦文晋级美网32强",
       "ruleScore": 43.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -663,8 +576,8 @@
         {
           "platform": "douyin",
           "rank": 13,
-          "hot": 9240459,
-          "url": "https://www.douyin.com/search/%E5%85%A8%E9%9D%A2%E6%94%B6%E7%B4%A7%E5%87%BA%E5%A2%83%E7%B3%BB%E8%AF%AF%E8%AF%BB%E5%87%BA%E5%85%A5%E5%A2%83%E6%96%B0%E8%A7%84"
+          "hot": 9146217,
+          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%9132%E5%BC%BA"
         }
       ],
       "worthLeveraging": false,
@@ -675,14 +588,43 @@
       "totalScore": 47.1,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "全面收紧出境系误读出入境新规",
+      "eventSummary": "郑钦文晋级美网32强",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-14-李瑞10083战胜大n",
-      "title": "李瑞100:83战胜大N",
+      "id": "weibo-10-人力在岁月面前不堪一击",
+      "title": "人力在岁月面前不堪一击",
+      "ruleScore": 42.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 10,
+          "hot": 349469,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%8A%9B%E5%9C%A8%E5%B2%81%E6%9C%88%E9%9D%A2%E5%89%8D%E4%B8%8D%E5%A0%AA%E4%B8%80%E5%87%BB%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 80,
+      "creativityScore": 42,
+      "totalScore": 47,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "人力在岁月面前不堪一击",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-14-看看你的暑期社会实践",
+      "title": "看看你的暑期社会实践",
       "ruleScore": 42.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -692,8 +634,8 @@
         {
           "platform": "douyin",
           "rank": 14,
-          "hot": 9218483,
-          "url": "https://www.douyin.com/search/%E6%9D%8E%E7%91%9E100%3A83%E6%88%98%E8%83%9C%E5%A4%A7N"
+          "hot": 9123113,
+          "url": "https://www.douyin.com/search/%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9A%91%E6%9C%9F%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5"
         }
       ],
       "worthLeveraging": false,
@@ -704,10 +646,72 @@
       "totalScore": 46.4,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "李瑞100:83战胜大N",
+      "eventSummary": "看看你的暑期社会实践",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-11-花少8实则是花少2第二部",
+      "title": "花少8实则是花少2第二部",
+      "ruleScore": 41.4,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 11,
+          "hot": 298282,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%E5%AE%9E%E5%88%99%E6%98%AF%E8%8A%B1%E5%B0%912%E7%AC%AC%E4%BA%8C%E9%83%A8%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 78.8,
+      "creativityScore": 42,
+      "totalScore": 46.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "花少8实则是花少2第二部",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-15-福建为防御沙德尔转移837万人",
+      "title": "福建为防御沙德尔转移8.37万人",
+      "ruleScore": 41.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 15,
+          "hot": 9045932,
+          "url": "https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E4%B8%BA%E9%98%B2%E5%BE%A1%E6%B2%99%E5%BE%B7%E5%B0%94%E8%BD%AC%E7%A7%BB8.37%E4%B8%87%E4%BA%BA"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 74,
+      "creativityScore": 42,
+      "totalScore": 45.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "福建为防御沙德尔转移8.37万人",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     }
-  ]
+  ],
+  "heatReasons": {
+    "开学版井柏然进行曲": "三重推力叠加：①开学季时间节点（全国集中返校，需求与话题天然旺盛）；②音乐梗易传播——'进行曲'节奏型可跟唱、可模仿，二创门槛低；③抖音官方榜单日热度约915万，远超同期其他事件，属于平台内容簇的主引擎，并与'开学新同桌竟是小黄人'等同簇话题同步发酵。",
+    "胚胎案原配称男方想回归家庭不可能": "高热度源于社会+情感双重引擎：①婚姻伦理强争议话题（婚外情、胚胎、家庭），天然触发站队与情绪共鸣；②原配公开发声、立场鲜明，是最易引爆讨论的个人表态；③微博本就是此类情感/社会议题的主战场。但话题敏感度高，消费个体家庭悲剧风险大。"
+  }
 }
