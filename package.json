@@ -9,9 +9,8 @@
   "scripts": {
     "radar:filter": "node scripts/filter-hotspots.mjs",
     "radar:analyze": "node scripts/analyze-hotspots.mjs",
-    "radar:update": "node scripts/fetch-hotspot.mjs && node scripts/filter-hotspots.mjs && node scripts/analyze-hotspots.mjs",
+    "radar:update": "node scripts/fetch-hotspot.mjs && node scripts/filter-hotspots.mjs && node scripts/analyze-hotspots.mjs && node scripts/inject-dashboard-data.mjs",
     "validate": "node scripts/validate-template.mjs",
-    "build": "npm run validate",
-    "xhs:ask": "node scripts/ask-diandian.mjs"
+    "build": "npm run validate"
   }
 }

@@ -63,12 +63,6 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Ask Xiaohongshu Diandian
-        run: node scripts/ask-diandian.mjs
-        env:
-          DIANDIAN_API_URL: ${{ secrets.DIANDIAN_API_URL }}
-          DIANDIAN_API_TOKEN: ${{ secrets.DIANDIAN_API_TOKEN }}
-
       - name: Fetch hotspot data
         run: node scripts/fetch-hotspot.mjs
         env:

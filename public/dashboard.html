@@ -115,7 +115,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   .source-link-alert { color: #ef4444; }
   .card-reminder { margin-top: 8px; padding: 8px 10px; border-radius: 8px; background: #251d11; border: 1px solid #5b4518; color: #fcd34d; font-size: 12px; line-height: 1.65; }
   .card-reminder a { color: #ef4444; }
-  .trend-note { color: #64748b; font-size: 10px; margin-top: -4px; text-align: center; }
+  
   .filters { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
   .filter-note { color: #6b7280; font-size: 11px; }
   .risk-status { font-size: 13px; font-weight: 700; margin: 10px 0 8px; }
@@ -264,28 +264,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   li, th, td { border-bottom-color: #e3c9a9; }
   details.card-section-toggle, .card-section { border-top-color: #e3c9a9; }
   .card-section b { color: var(--palette-navy); }
-  details.trend-toggle { margin-top: 9px; padding-top: 8px; border-top: 1px solid #e3c9a9; }
-  details.trend-toggle summary {
-    color: var(--palette-navy);
-    cursor: pointer;
-    font-size: 12px;
-    font-weight: 700;
-    list-style: none;
-    padding: 3px 0;
-    user-select: none;
-  }
-  details.trend-toggle summary::-webkit-details-marker { display: none; }
-  details.trend-toggle summary::before {
-    content: '▶';
-    color: var(--palette-muted);
-    display: inline-block;
-    font-size: 9px;
-    margin-right: 6px;
-    transition: transform .2s;
-  }
-  details.trend-toggle[open] summary::before { transform: rotate(90deg); }
-  details.trend-toggle[open] summary { margin-bottom: 6px; }
-  .trend-note { color: var(--palette-muted); }
 </style>
 </head>
 <body>
@@ -296,12 +274,12 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
     <label class="history-picker" for="history-date"><span>查看日期</span><select id="history-date" aria-label="查看最近7天热点"><option value="">正在读取…</option></select></label>
   </header>
 
-  <div class="leverageable-hotspots">可借势热点：万千气象看北京、人会在自然里长出生命力</div>
+  <div class="leverageable-hotspots">可借势热点：原来学习好真的有肉吃、老派少女的穿搭、葫芦娃爷爷隔壁咖啡店挂了7个葫芦、和贫困生喝咖啡一样的困境</div>
 
   <div class="stats-block" id="stats-block">
     <div class="stats">
       <div class="stat"><button class="stat-title" style="color:#ff5252" type="button" onclick="togglePanel('panel-heatrank')" aria-controls="panel-heatrank" aria-expanded="false" data-hover-hint="点击展开　热度值排行榜和计算方法">S级热点</button><span class="stat-events">暂无</span></div>
-      <div class="stat"><button class="stat-title" style="color:#ff9100" type="button" onclick="togglePanel('panel-heatrank')" aria-controls="panel-heatrank" aria-expanded="false" data-hover-hint="点击展开　热度值排行榜和计算方法">A级热点</button><span class="stat-events">万千气象看北京、人会在自然里长出生命力</span></div>
+      <div class="stat"><button class="stat-title" style="color:#ff9100" type="button" onclick="togglePanel('panel-heatrank')" aria-controls="panel-heatrank" aria-expanded="false" data-hover-hint="点击展开　热度值排行榜和计算方法">A级热点</button><span class="stat-events">原来学习好真的有肉吃、老派少女的穿搭、葫芦娃爷爷隔壁咖啡店挂了7个葫芦、和贫困生喝咖啡一样的困境</span></div>
       <div class="stat"><button class="stat-title" style="color:#ffd740" type="button" onclick="togglePanel('panel-heatrank')" aria-controls="panel-heatrank" aria-expanded="false" data-hover-hint="点击展开　热度值排行榜和计算方法">B级热点</button><span class="stat-events"></span></div>
     </div>
 
@@ -319,16 +297,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         <p><b>只认客观数据</b>：榜单名次、平台公开热度值、阅读/点赞/评论、首次与末次入榜时间、上榜平台数。</p>
         <p><b>评级</b>：🟥 S ≥85 全民级热点 ｜ 🟧 A 70–84 大范围热点 ｜ 🟨 B 55–69 重点观察热点。低于 55 分不评级，仅存档。</p>
         <p><b>业务结合门槛</b>：热度值 ≥60，并通过风险与业务相关性审核。</p>
-        <p><b>趋势图读法</b>：只呈现热度值随时间的上升、持平或回落走向。</p>
         <p class="legend-note">证据等级：平台榜单和平台公开互动数据是一级证据；合规数据服务商快照是二级证据；AI 摘要和人工判断只作解释，不作为计分数据。</p>
       </div>
     </details>
     </div>
   </div>
 
-  <div class="panel"><h2>📈 事件详情与热度走势</h2><div class="filter-note" style="margin-bottom:12px">共 2 个核心事件。只展开微博、抖音或知微 TOP10 内，且能与京东本地生活形成真实业务动作的破圈热点；不为凑数补足 4 个。灾情、伤亡、国际冲突、品牌危机、违法犯罪与纯娱乐话题仅保留在平台榜单。数据时间：2026-09-02 14:16。今日只有单次榜单快照，不虚构连续走势；小红书暂无今日可核验问点点归档，不沿用昨日内容。</div><div class="cards"><div class="card"><div class="card-head"><span class="badge" style="background:#ff9100">A级</span><span class="ev-name">事件：万千气象看北京</span><span class="ev-topic">#万千气象看北京#</span><span class="ev-score">82.0分</span></div><details class="card-section-toggle"><summary>平台表现</summary><div class="card-section-inner">微博 TOP3 · 热度69.8万；抖音 TOP3 · 热度1109.2万，进入对应平台 TOP10。</div></details><div class="card-section"><b>事件解释：</b>话题以北京的城市发展、文化地标和普通人的生活切面为内容入口，既有宏观城市叙事，也能落到游客和市民具体可感知的吃、住、行、游体验。</div><details class="card-section-toggle"><summary>为什么热度高</summary><div class="card-section-inner">它的热度不是单一账号带动：微博与抖音同时进入前三，说明议题跨越资讯传播和短视频观看两类人群；北京本身拥有高识别度地标、城市记忆和大量可持续内容供给，不同年龄与地域的用户都能从“我眼中的北京”找到表达位置。</div></details><div class="card-section"><b>本地生活结合：</b>京东旅行可把宏大城市主题转成真实的一日、两日路线；京东点评负责验证餐厅、酒店和景点体验，避免景点堆砌；京东外卖只在北京实际覆盖范围内承接路线结束后的餐饮到家需求。</div><details class="trend-toggle"><summary>热度走势图</summary><div class="trend-inner"><div id="chart0" class="chart"></div><div class="trend-note">数据源：微博官方热搜、抖音官方热词榜｜2026-09-02 14:16 单次快照，暂不判断后续涨跌</div></div></details><div class="card-reminder"><b>借势边界：</b>不把官方城市议题直接改写成商业广告；路线、营业时间、价格、库存和用户体验都要现场核验。</div></div><div class="card"><div class="card-head"><span class="badge" style="background:#ff9100">A级</span><span class="ev-name">事件：人会在自然里长出生命力</span><span class="ev-topic">#人会在自然里长出生命力#</span><span class="ev-score">72.0分</span></div><details class="card-section-toggle"><summary>平台表现</summary><div class="card-section-inner">抖音 TOP6 · 热度1020.7万，进入对应平台 TOP10。</div></details><div class="card-section"><b>事件解释：</b>用户借一句具象而柔软的表达描述从室内疲惫走向公园、江边、山野后的状态恢复，内容重心是低成本亲近自然，而非远途冒险。</div><details class="card-section-toggle"><summary>为什么热度高</summary><div class="card-section-inner">这句话给城市疲惫提供了一个容易转述的解释框架：人不是需要被说教，而是需要换一个环境。自然景观自带视觉舒缓效果，城市公园也能完成体验，观看后的行动门槛很低，因此内容容易从情绪认同转化为周末出行计划。</div></details><div class="card-section"><b>本地生活结合：</b>京东旅行可做城市近郊半日和一日产品，明确交通、步行强度、天气与退改；京东点评可建立公园周边真实餐饮和休息点清单；京东秒送只承接出发前真实缺少的防晒、饮水和轻户外用品。</div><details class="trend-toggle"><summary>热度走势图</summary><div class="trend-inner"><div id="chart1" class="chart"></div><div class="trend-note">数据源：抖音官方热词榜｜2026-09-02 14:16 单次快照，暂不判断后续涨跌</div></div></details><div class="card-reminder"><b>借势边界：</b>不把自然体验包装成治疗焦虑或抑郁；不推荐未经核验的野景点，不弱化天气、交通和户外安全提示。</div></div></div></div>
+  <div class="panel"><h2>📌 事件详情</h2><div class="filter-note" style="margin-bottom:12px" id="event-filter-note"></div><div class="cards"></div></div>
 
-  <section class="business-advisor"  <section class="business-advisor" aria-labelledby="business-advisor-title">
+  <div class="panel" id="panel-meme"><h2>🎭 用户层面玩梗热点</h2><div class="filter-note" style="margin-bottom:12px">只收录有清晰可复刻模板、用户能在一分钟内理解并加入自己内容的玩梗玩法；不把普通新闻或事件详情重复列入。</div><div class="meme-group"></div></div>
+
+  <section class="business-advisor" aria-labelledby="business-advisor-title">
     <div class="business-advisor-head">
       <h2 id="business-advisor-title">🏪 本地生活业务建议</h2>
       <label class="business-choice" for="business-select"><span>选择业务</span><select id="business-select">
@@ -339,6 +318,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         <option value="七鲜咖啡">七鲜咖啡</option>
         <option value="京东旅行">京东旅行</option>
         <option value="七鲜美食MALL">七鲜美食MALL</option>
+        <option value="京东点评／京东真榜">京东点评／京东真榜</option>
       </select></label>
     </div>
     <div class="business-advice-grid">
@@ -350,17 +330,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
     <div class="panel collapsible collapsed" id="panel-hotlist">
     <h2 class="panel-toggle" onclick="togglePanel('panel-hotlist')"><span class="toggle-arrow">▼</span><span>📋 小红书等平台热榜预览</span><span class="toggle-hint">点击展开</span></h2>
     <div class="panel-body">
-    <div class="tabs"><button class="tab" data-tab="webwide">全网热点 TOP10</button><button class="tab" data-tab="weibo">微博 TOP30</button><button class="tab" data-tab="douyin">抖音 TOP30</button><button class="tab" data-tab="xhs">小红书趋势</button></div>
+    <div class="tabs"><button class="tab" data-tab="webwide">全网热点 TOP10</button><button class="tab" data-tab="weibo">微博 TOP30</button><button class="tab" data-tab="douyin">抖音 TOP30</button><button class="tab" data-tab="xhs">小红书热榜</button></div>
     <div class="category-legend"><span class="hotcat cat-social">社会热点</span><span>公共事件、民生与安全</span><span class="hotcat cat-industry">行业热点</span><span>商业、科技、文娱与体育行业</span><span class="hotcat cat-public">大众热点</span><span>明星、情感、生活与流行内容</span></div>
     <div class="tabpane" id="pane-webwide"><div class="src-note" id="src-webwide">来源：知微事见全网事件榜</div><ol id="ol-webwide"></ol></div>
     <div class="tabpane" id="pane-weibo"><div class="src-note" id="src-weibo">来源：微博官方热搜</div><ol id="ol-weibo"></ol></div>
     <div class="tabpane" id="pane-douyin"><div class="src-note" id="src-douyin">来源：抖音官方热词榜</div><ol id="ol-douyin"></ol></div>
-    <div class="tabpane" id="pane-xhs"><div class="xhs-dd" id="xhs-dd-latest"><div class="xhs-dd-title">问点点趋势（不参与热度计分）</div><div class="dd-src">正在读取最近一次问答……</div></div></div>
+    <div class="tabpane" id="pane-xhs"><div class="xhs-dd" id="xhs-dd-latest"><div class="xhs-dd-title">小红书热榜（UAPI，不参与热度计分）</div><div class="dd-src">正在读取最近一次热榜……</div></div></div>
     </div>
   </div>
 
   <footer>
-    说明：热度值只采用微博、抖音可核验榜单数据；知微全网事件榜用于选题参考，不直接参与计分。趋势图只呈现热度走向。平台快照保留 source 与原始链接；小红书内容来自问点点，仅作为趋势判断，不提供实时排名、不参与计分。每日 09:00、15:00 更新。生成时间：<span id="gen-time">--</span>
+    说明：热度值只采用微博、抖音可核验榜单数据；知微全网事件榜用于选题参考，不直接参与计分。平台快照保留 source 与原始链接；小红书热榜来自 UAPI 小红书热榜，作为补充参考，不参与计分。每日 09:00、15:00 更新。生成时间：<span id="gen-time">--</span>
   </footer>
 </div>
 <script>
@@ -370,28 +350,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
     backgroundColor: 'transparent',
     tooltip: { trigger: 'axis', backgroundColor: 'rgba(17,24,39,.92)', borderColor: '#333', textStyle: {color:'#e5e7eb'} },
     grid: { left: 50, right: 20, top: 26, bottom: 96 },
-    xAxis: { type: 'category', data: ['万千气象看北京', '自然里长出生命力', ''],
+    xAxis: { type: 'category', data: ['原来学习好真的有肉吃', '老派少女的穿搭', '葫芦娃爷爷咖啡店挂葫芦', '贫困生喝咖啡的困境'],
        axisLabel: { color: '#9ca3af', fontSize: 11, interval: 0, rotate: 35,
          formatter: function(v){ return v.length > 8 ? v.slice(0, 8) + '…' : v; } },
        axisLine: { lineStyle: { color: '#374151' } } },
     yAxis: { type: 'value', max: 100, axisLabel: {color:'#9ca3af'}, splitLine: {lineStyle:{color:'#1f2937'}} },
-    series: [{ type: 'bar', data: [82, 72], barWidth: '46%',
+    series: [{ type: 'bar', data: [77, 74.2, 72.4, 71], barWidth: '46%',
        itemStyle: { borderRadius: [6,6,0,0], color: function(p){ return ['#ff9100', '#ff9100'][p.dataIndex]; } },
        label: { show: true, position: 'top', color: '#e5e7eb', fontSize: 11 },
        markLine: { symbol: 'none', data: [{ yAxis: 60, lineStyle: { color: '#ffd740', type: 'dashed', width: 1, opacity: 0.7 },
          label: { formatter: '借势门槛 60', color: '#ffd740', fontSize: 10, position: 'insideEndTop' } }] } }]
   });
-  // 事件趋势图
-    // 事件0 由下方初始化
-  // 事件1 由下方初始化
-  // 事件2 由下方初始化
-  // 事件3 由下方初始化
-  // 事件4 由下方初始化
-  // 事件5 由下方初始化
-</script>
-<script>
-  function snapshotChart(id,value,label,min,max){var c=echarts.init(document.getElementById(id));c.setOption({backgroundColor:'transparent',tooltip:{trigger:'axis'},grid:{left:58,right:24,top:28,bottom:28},xAxis:{type:'category',data:['09-02 14:16']},yAxis:{type:'value',name:label,min:min,max:max},series:[{type:'line',data:[value],symbolSize:8,lineStyle:{width:3,color:'#4fc3f7'},itemStyle:{color:'#4fc3f7'},areaStyle:{opacity:.18,color:'#4fc3f7'}}]});}
-  snapshotChart('chart0',69.8,'微博热度（万）',55,80);snapshotChart('chart1',1020.7,'抖音热度（万）',950,1080);
 </script>
 <script>
   // 榜单最多展示30条</script>
@@ -402,7 +371,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
     document.querySelectorAll('.meme-scope').forEach(function(scope) {
       scope.innerHTML = scope.innerHTML.replace(
         '本次小红书实时数据缺失，不引用昨日小红书话题。',
-        '小红书仅使用问点点趋势，不提供实时排名或计分证据。'
+        '本次小红书实时数据缺失，不引用小红书话题。'
       );
     });
     document.querySelectorAll('.meme-hot').forEach(function(label){
@@ -434,9 +403,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   });
   document.querySelector('.tab').classList.add('active');
   document.getElementById('pane-' + document.querySelector('.tab').dataset.tab).classList.add('active');
-  window.addEventListener('resize', function(){ bar.resize();   chart0.resize();
-  chart1.resize();
-  chartRiskDouyin.resize(); });
+  window.addEventListener('resize', function(){ try { bar.resize(); } catch(e) {} });
 
   // === 折叠面板切换 ===
   function togglePanel(id) {
@@ -463,82 +430,54 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   window.togglePanel = togglePanel;
 })();
 
-(function loadDiandianInsight() {
+(function loadXhsHotBoard() {
   var box = document.getElementById('xhs-dd-latest');
   if (!box) return;
-  fetch('data/xhs-diandian-latest.json')
+  // 小红书热榜来自 UAPI（新规 §4.1），读取 latest.json 中的 platforms.xhs
+  fetch('data/latest.json')
     .then(function(r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
     })
     .then(function(data) {
-      var items = (data.topics || []).map(function(item) {
-        return '<li><b>' + item.topic + '</b>：' + item.direction + '</li>';
-      }).join('');
-      var listHtml = items ? '<ul>' + items + '</ul>' : '<div class="dd-answer">本次暂无可核验趋势条目。</div>';
-      box.innerHTML = '<div class="xhs-dd-title">问点点趋势（不参与热度计分）</div>'
-        + '<div class="dd-src">' + data.date + ' · ' + data.summary + '</div>'
+      var xhs = data.platforms && data.platforms.xhs;
+      var items = (xhs && xhs.items) || [];
+      if (items.length === 0) {
+        box.innerHTML = '<div class="xhs-dd-title">小红书热榜（UAPI）</div><div class="dd-src">本次暂无可用小红书热榜数据。</div>';
+        return;
+      }
+      var fetchedAt = xhs.fetchedAt ? new Date(xhs.fetchedAt).toLocaleString('zh-CN', { hour12: false }) : '';
+      var listHtml = '<ul>' + items.slice(0, 20).map(function(it, idx) {
+        var rank = it.rank || idx + 1;
+        var hot = it.hot != null ? ' · ' + formatHot(it.hot) : '';
+        var link = it.url ? '<a href="' + it.url + '" target="_blank" rel="noopener">' + it.title + '</a>' : it.title;
+        return '<li><b>#' + rank + '</b> ' + link + hot + '</li>';
+      }).join('') + '</ul>';
+      box.innerHTML = '<div class="xhs-dd-title">小红书热榜（UAPI，不参与热度计分）</div>'
+        + '<div class="dd-src">' + (fetchedAt || '') + ' · 来自 UAPI 小红书热榜</div>'
         + listHtml;
     })
     .catch(function() {
-      box.innerHTML = '<div class="xhs-dd-title">问点点趋势</div><div class="dd-src">暂无可用问答快照。</div>';
+      box.innerHTML = '<div class="xhs-dd-title">小红书热榜（UAPI）</div><div class="dd-src">当前数据源暂不可用。</div>';
     });
+
+  function formatHot(v) {
+    var n = Number(v);
+    if (isNaN(n)) return String(v);
+    if (n >= 10000) return (n / 10000).toFixed(1) + '万';
+    return String(n);
+  }
 })();
 </script>
 
-<script>
-// 按业务板块切换当日可执行建议
-(function initBusinessAdvisor() {
-  var suggestions = {
-  "京东外卖": {
-    "action": "【借势判断】今天没有直接指向餐饮的高位热点，不做强行主题套餐。可谨慎承接“万千气象看北京”中的真实城市生活需求。【用户问题】游客和跨区通勤者在路线结束后，不知道附近哪些品质餐厅能稳定送达。【具体动作】仅在北京实际覆盖区域，把京东点评中可核验的餐厅信息与外卖供给打通，按商圈展示营业状态、菜品、价格、预计送达和高峰提醒；没有真实供给就不立项。",
-    "comms": "【传播主线】跟随一名真实游客或通勤者记录“逛完以后这一顿怎么解决”，完整展示选择依据、下单、送达和口味，不把城市主题做成促销口号。【证据】订单、门店资质、履约时间和真实反馈。【风险】不暗示官方合作，不虚构北京全城覆盖。"
-  },
-  "京东秒送（即时零售）": {
-  "action": "【借势判断】重点承接‘人会在自然里长出生命力’的临时出发需求，不做泛户外大促。【用户问题】用户临时去公园或近郊时，常在出门前才发现缺饮水、防晒、驱蚊或简易雨具。【具体动作】依据城市天气、附近门店实时库存和目的地距离展示小份补给清单，让用户按已有物品勾选，避免整套囤货。",
-  "comms": "【传播主线】记录一次真实的临时出发：缺什么、附近有没有、多久送到、最终是否真正用上。【证据】实时库存、订单轨迹、实际送达和天气信息。【风险】最快9分钟只在真实覆盖范围使用，不制造户外焦虑，不推荐专业安全装备的廉价替代品。"
-}
-  "京东家政": {
-  "action": "【借势判断】今天两个核心热点均未形成直接家政需求，不建议专门立项追热点。继续做好正常保洁、收纳和家电清洗供给，并明确城市、服务人员类型、项目、价格与售后。",
-  "comms": "【传播主线】不把‘生命力’机械改写成家务焦虑，也不强造‘城市焕新’概念。若发布日常内容，只展示真实家庭的服务过程和边界。【证据】服务人员身份、标准步骤和授权反馈。【风险】不夸大清洁效果，不混淆自营与第三方服务。"
-}
-  "七鲜小厨": {
-    "action": "【借势判断】今天没有与现炒餐食强相关的 TOP10 核心热点，不建议推出热点套餐。可保持现有家常餐供给，并把食材、制作过程、分量、价格和后厨直播持续做好。",
-    "comms": "【传播主线】不把北京城市话题或自然情绪硬拗成菜品营销。若需要内容，只讲真实门店的一道现炒菜如何制作、用户哪里满意和哪里需要改进。【证据】后厨直播、食材批次和真实订单。【风险】不编造联名，不夸大营养功效。"
-  },
-  "七鲜咖啡": {
-  "action": "【借势判断】可在北京现有覆盖门店轻量参与‘万千气象看北京’，但不具备全国承接条件。【用户问题】城市路线内容常只告诉用户去哪里拍，却缺少沿途真实可休息、价格透明的短暂停留点。【具体动作】只围绕实际门店制作步行可达的短路线，标明营业时间、座位情况、鲜奶产品价格和库存。",
-  "comms": "【传播主线】让真实用户完成‘走一段北京、停下来喝一杯’的路线，重点记录距离、等待和口味，而非空拍氛围。【证据】真实门店、消费凭证和当日营业信息。【风险】不扩大门店覆盖，不宣称咖啡改善情绪或健康。"
-}
-  "京东旅行": {
-    "action": "【借势判断】重点承接“万千气象看北京”和“人会在自然里长出生命力”。【用户问题】用户被城市与自然内容打动后，缺少可执行路线、真实耗时、预算和退改信息。【具体动作】北京方向设计一日与两日城市路线，近郊方向设计半日和一日自然路线，连接酒店PLUS、机票和真实点评，并明确交通、步行强度、天气、库存与退改。",
-    "comms": "【传播主线】让真实用户完整走一次路线，公开花费、排队、休息点、踩坑和是否值得，而不是只拍风景。【证据】真实订单、路线时间、营业信息和官方天气。【风险】不把自然体验宣传成心理治疗，不推荐未核验野景点。"
-  },
-  "七鲜美食MALL": {
-    "action": "【借势判断】今日没有与七鲜美食MALL直接强相关的核心热点，不建议单独做借势活动。若参与北京城市内容，只能在实际有门店和供给的城市开展；当前业务事实不支持全国化承接。",
-    "comms": "【传播主线】不为了城市热搜虚构门店或路线。日常传播继续以真实家庭到店、商户选择、排队时间、实物菜品和后厨直播为核心。【证据】消费小票、商户与现场动线。【风险】不杜撰用户故事，不用合作关系换统一好评。"
-  }
-};
-  var select = document.getElementById('business-select');
-  var action = document.getElementById('business-action');
-  var comms = document.getElementById('business-comms');
-  if (!select || !action || !comms) return;
-  function render() {
-    var item = suggestions[select.value] || suggestions['京东外卖'];
-    action.textContent = item.action;
-    comms.textContent = item.comms;
-  }
-  select.addEventListener('change', render);
-  render();
-})();
-</script>
+
 
 <script>
 // 最近 7 天完整成品页切换
 (function initHistoryPicker() {
   var select = document.getElementById('history-date');
   if (!select) return;
-  var embeddedEntries = [{"date":"2026-09-02","current":true},{"date":"2026-09-01","current":false},{"date":"2026-08-28","current":false},{"date":"2026-08-27","current":false},{"date":"2026-08-26","current":false}];
+  var embeddedEntries = [{"date":"2026-09-07","current":true},{"date":"2026-09-02","current":false},{"date":"2026-09-01","current":false},{"date":"2026-08-28","current":false},{"date":"2026-08-27","current":false},{"date":"2026-08-26","current":false}];
   var localPageMatch = window.location.pathname.match(/\/history\/(\d{4}-\d{2}-\d{2})\.html$/);
   function renderEntries(entries) {
     select.innerHTML = '';
@@ -748,16 +687,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
     });
   });
 
-  document.querySelectorAll('details.trend-toggle').forEach(function(details) {
-    details.addEventListener('toggle', function() {
-      if (!details.open) return;
-      window.setTimeout(function() {
-        var el = details.querySelector('.chart');
-        var chart = el && echarts.getInstanceByDom(el);
-        if (chart) chart.resize();
-      }, 60);
-    });
-  });
 })();
 </script>
 
@@ -768,21 +697,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
 
 <script id="radar-current-data">window.__RADAR_DATA__={
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T03:12:23.114Z",
-  "date": "2026-09-04",
-  "sourceGeneratedAt": "2026-09-04T11:12:21.780Z",
+  "generatedAt": "2026-09-07T03:30:00.000Z",
+  "date": "2026-09-07",
+  "sourceGeneratedAt": "2026-09-07T15:16:06.220Z",
   "provider": "local-rules",
   "model": "auditable-score-v1",
-  "summary": {
-    "analyzed": 24,
-    "selected": 1,
-    "rejected": 22
-  },
+  "summary": "基于 2026-09-07 微博/抖音官方热榜快照，保留 4 个与京东本地生活业务有真实结合点、具备破圈与低风险的核心热点。",
   "hotspots": [
     {
-      "id": "douyin-12-开学版井柏然进行曲",
-      "title": "开学版井柏然进行曲",
-      "ruleScore": 64.9,
+      "id": "douyin-5-原来学习好真的有肉吃",
+      "title": "原来学习好真的有肉吃",
+      "ruleScore": 72.1,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
@@ -790,58 +715,120 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "platforms": [
         {
           "platform": "douyin",
-          "rank": 12,
-          "hot": 9159041,
-          "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E7%89%88%E4%BA%95%E6%9F%8F%E7%84%B6%E8%BF%9B%E8%A1%8C%E6%9B%B2"
+          "rank": 5,
+          "hot": 10535702,
+          "url": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E5%AD%A6%E4%B9%A0%E5%A5%BD%E7%9C%9F%E7%9A%84%E6%9C%89%E8%82%89%E5%90%83"
         }
       ],
       "worthLeveraging": true,
       "riskLevel": "low",
       "relevanceScore": 82,
-      "timelinessScore": 77.6,
+      "timelinessScore": 86,
       "creativityScore": 82,
-      "totalScore": 72.8,
+      "totalScore": 77.7,
       "level": "A",
-      "reason": "开学季节点与抖音高热度音效梗契合，业务相关性高（返校消费场景）、可执行性高，风险低。",
-      "eventSummary": "9月初全国中小学陆续开学，抖音端出现以井柏然相关音效/画面为素材、配上节奏感强的“进行曲”BGM进行二次创作的开学短视频，因旋律朗朗上口、人人可跟拍模仿，迅速扩散为开学季传播模板。",
-      "businessAction": "围绕返校场景做轻量、正向的开学内容承接：外卖/即时零售可上线'开学第一餐''返校好物30分钟达'集合，突出门店与时效确定性；用'开学节奏'语境把BGM梗转化为可参与的品牌互动，但不直接搬运原视频画面以免版权风险。",
-      "communicationIdea": "以'开学版节奏'为内容切入点，做可参与的开学梗（如'把开学好物搬到家''返校第一餐'），用真实返校学生/送学家庭的场景讲故事，突出品质与履约，弱化促销感。",
-      "riskNote": "不直接搬运原版BGM/画面以规避版权；不虚构用户返校故事；涉及情感话题不放大情绪。"
+      "reason": "高相关性：直接落到“吃/美食/到家餐饮”场景，与京东外卖、七鲜小厨、京东秒送的品类完全重合；画面直给、情绪正向，低风险，适合本地生活借势。",
+      "eventSummary": "抖音热榜上出现以“原来学习好真的有肉”为主题的短视频，核心画面是学生/孩子因成绩优秀获得实实在在的美食奖励（如烤肉、大餐、零食），形成“学习好=有肉吃”的直白因果，把抽象的学习回报变成了看得见的味觉奖励。",
+      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
+      "communicationIdea": "围绕“原来学习好真的有肉吃”给出可直接尝试的菜单、做法或购买清单。",
+      "riskNote": "发布前复核儿童出镜与版权素材；避免将“奖励教育”做成消费绑架话术，用正向激励口吻。",
+      "whyHot": "冲突与反差：把“学习回报”这种抽象概念翻译成“一顿实实在在的肉”，用看得见的味觉奖励制造反差笑点；情绪正向、参与无门槛，家长晒娃、学生自嘲都能接；正值开学季时间节点，与“成绩单/新学期奖励”的日常心理高度契合；画面直给（美食特写）天然适合抖音短视频传播，微博则靠“评论区晒奖励餐”的造句接力扩散。"
+    },
+    {
+      "id": "weibo-6-葫芦娃爷爷隔壁咖啡店挂了7个葫芦",
+      "title": "葫芦娃爷爷隔壁咖啡店挂了7个葫芦",
+      "ruleScore": 67.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 6,
+          "hot": 835338,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E5%92%96%E5%95%A1%E5%BA%97%E6%8C%82%E4%BA%867%E4%B8%AA%E8%91%AB%E8%8A%A6%23"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 84.8,
+      "creativityScore": 82,
+      "totalScore": 75.3,
+      "level": "A",
+      "reason": "强关联：咖啡店与七鲜咖啡直接同场景；葫芦娃是全民级IP回忆，自带亲切感和传播力，且话题低风险、可玩性强。",
+      "eventSummary": "微博热榜：有网友发现一家咖啡店门口挂起7个葫芦，网友联想到《葫芦娃》中“葫芦爷爷”，形成“爷爷在隔壁开咖啡店”“七个葫芦娃给爷爷看店”等趣味联想，属于社区生活趣闻型热点。",
+      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
+      "communicationIdea": "围绕“葫芦娃爷爷隔壁咖啡店挂了7个葫芦”给出可直接尝试的菜单、做法或购买清单。",
+      "riskNote": "注意葫芦娃IP的版权边界，避免直接使用IP形象素材，用“葫芦元素”而非角色形象；属趣闻，无政治/安全风险。",
+      "whyHot": "IP记忆+生活趣闻反差：葫芦娃是全民级童年IP，“爷爷开咖啡店”的荒诞联想制造了反差萌；话题来自真实生活场景（一家门店）而非宏大叙事，让用户产生“我也遇到过这样的店”的分享欲；无明确时间节点但天然自带传播性，抖音靠“探店拍葫芦”的视觉玩法，微博靠“葫芦娃梗”造句转发扩散。"
+    },
+    {
+      "id": "douyin-11-老派少女的穿搭",
+      "title": "老派少女的穿搭",
+      "ruleScore": 65.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 11,
+          "hot": 9177203,
+          "url": "https://www.douyin.com/search/%E8%80%81%E6%B4%BE%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A9%BF%E6%90%AD"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 78.8,
+      "creativityScore": 82,
+      "totalScore": 73.5,
+      "level": "A",
+      "reason": "季节转换节点：早秋换季带来的穿搭决策需求；咖啡店、书店、街拍等场景与七鲜咖啡、七鲜美食MALL的线下空间强相关，可做场景化内容。",
+      "eventSummary": "抖音穿搭类话题“老派少女的穿搭”，指带有上世纪八九十年代风格（复古针织、格纹、素色长裙、港风）的少女系穿搭，突出“看着过时却耐看”“不追赶潮流的松弛感”，形成复古审美回潮。",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“老派少女的穿搭”作为内容切入点，提供具体参与方式。",
+      "riskNote": "时尚类话题低风险，注意避免对特定群体贬低性表达；图片使用需获得授权。",
+      "whyHot": "身份代入与审美回潮：短视频时代“过度精致”审美疲劳后，“不追赶潮流”的老派穿搭提供反差与松弛感；复古单品自带视觉辨识度（格子裙、素色长裙、街拍背景），易出片；时间节点上早秋换季正带来穿搭决策需求，穿搭博主集中输出“初秋怎么穿”，话题供给持续；抖音靠穿搭画面+滤镜传播，微博靠“复古单品盘点”的清单型内容扩散。"
+    },
+    {
+      "id": "weibo-16-和贫困生喝咖啡一样的困境",
+      "title": "和贫困生喝咖啡一样的困境",
+      "ruleScore": 56.5,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 16,
+          "hot": 320071,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E4%B8%80%E6%A0%B7%E7%9A%84%E5%9B%B0%E5%A2%83%23"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 72.8,
+      "creativityScore": 82,
+      "totalScore": 67.9,
+      "level": "B",
+      "reason": "强共鸣：直击“咖啡贵、消费分层”的普遍情绪，与七鲜咖啡、京东外卖的价格与价值主张可形成真实对话；低风险（社会情绪，无具体事故）。",
+      "eventSummary": "微博话题由一杯咖啡引发的共情讨论：普通消费者面对一杯价格不菲的咖啡，联想到“和贫困生喝咖啡一样”的消费羞耻与选择困境，讨论的是消费与收入、体面与现实的落差感，情绪共鸣强。",
+      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
+      "communicationIdea": "围绕“和贫困生喝咖啡一样的困境”给出可直接尝试的菜单、做法或购买清单。",
+      "riskNote": "属于社会情绪话题，需避免消费主义说教或反向攀比，措辞要克制、共情而非营销化。",
+      "whyHot": "情绪价值与身份代入：话题精准踩中“消费羞耻/体面焦虑”这一普遍情绪，用户容易代入“我也曾为一杯咖啡纠结”的经历；话题自带观点争议（体面vs真实、消费vs节俭），微博评论区天然形成观点站队与共鸣倾诉；无时间节点但情绪长期存在，讨论供给稳定；抖音侧则通过“平价咖啡测评”的实用内容承接同款情绪。"
     }
   ],
   "watchlist": [
     {
-      "id": "weibo-15-胚胎案原配称男方想回归家庭不可能",
-      "title": "胚胎案原配称男方想回归家庭不可能",
-      "ruleScore": 57.4,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": true,
-      "exclusionReason": "高敏感个体伦理事件（婚姻/胚胎/家庭悲剧），不可借势，仅中立观察",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 15,
-          "hot": 297365,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E7%A7%B0%E7%94%B7%E6%96%B9%E6%83%B3%E5%9B%9E%E5%BD%92%E5%AE%B6%E5%BA%AD%E4%B8%8D%E5%8F%AF%E8%83%BD%23"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "high",
-      "relevanceScore": 82,
-      "timelinessScore": 74,
-      "creativityScore": 82,
-      "totalScore": 68.5,
-      "level": "observe",
-      "reason": "热度与业务相关性虽达阈值，但个体伦理争议敏感度高，借势价值低、风险高，仅列观察。",
-      "eventSummary": "微博高热度社会伦理事件：婚姻及胚胎相关个体纠纷，原配公开表态引发站队讨论。属个体家庭悲剧类敏感话题。",
-      "businessAction": "不建议任何商业借势或内容关联。属敏感个体伦理事件，涉及婚姻、胚胎、家庭悲剧，商业品牌介入极易引发舆情反噬。",
-      "communicationIdea": "不追热点、不做内容关联。如内部盘点可归类为“不建议借势/中立观察”，避免任何互动。",
-      "riskNote": "高敏感个体伦理事件，消费个体家庭悲剧风险极高；严禁借势、调侃、玩梗或任何商业绑定。"
-    },
-    {
-      "id": "douyin-1-各省文旅都成搬运工了",
-      "title": "各省文旅都成“搬运工”了",
+      "id": "douyin-1-中国女篮末轮将战意大利",
+      "title": "中国女篮末轮将战意大利",
       "ruleScore": 56.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -851,8 +838,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 1,
-          "hot": 12103731,
-          "url": "https://www.douyin.com/search/%E5%90%84%E7%9C%81%E6%96%87%E6%97%85%E9%83%BD%E6%88%90%E2%80%9C%E6%90%AC%E8%BF%90%E5%B7%A5%E2%80%9D%E4%BA%86"
+          "hot": 12100224,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%9C%AB%E8%BD%AE%E5%B0%86%E6%88%98%E6%84%8F%E5%A4%A7%E5%88%A9"
         }
       ],
       "worthLeveraging": false,
@@ -863,14 +850,14 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 55.4,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "各省文旅都成“搬运工”了",
+      "eventSummary": "中国女篮末轮将战意大利",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-2-厄尔尼诺将发展为超强级别",
-      "title": "厄尔尼诺将发展为超强级别",
+      "id": "douyin-2-白露节气到",
+      "title": "白露节气到",
       "ruleScore": 55.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -880,8 +867,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 2,
-          "hot": 11747683,
-          "url": "https://www.douyin.com/search/%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%B0%86%E5%8F%91%E5%B1%95%E4%B8%BA%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB"
+          "hot": 11792915,
+          "url": "https://www.douyin.com/search/%E7%99%BD%E9%9C%B2%E8%8A%82%E6%B0%94%E5%88%B0"
         }
       ],
       "worthLeveraging": false,
@@ -892,15 +879,44 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 54.7,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "厄尔尼诺将发展为超强级别",
+      "eventSummary": "白露节气到",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-1-男子欠债想轻生学胖东来还清105万",
-      "title": "男子欠债想轻生学胖东来还清105万",
-      "ruleScore": 53.3,
+      "id": "douyin-3-把青春华章写在祖国大地上",
+      "title": "把青春华章写在祖国大地上",
+      "ruleScore": 54.2,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 3,
+          "hot": 11620757,
+          "url": "https://www.douyin.com/search/%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 88.4,
+      "creativityScore": 42,
+      "totalScore": 54.1,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "把青春华章写在祖国大地上",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-1-家长群教师负担",
+      "title": "家长群 教师负担",
+      "ruleScore": 53.6,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -909,8 +925,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "weibo",
           "rank": 1,
-          "hot": 1213182,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%A0%E5%80%BA%E6%83%B3%E8%BD%BB%E7%94%9F%E5%AD%A6%E8%83%96%E4%B8%9C%E6%9D%A5%E8%BF%98%E6%B8%85105%E4%B8%87%23"
+          "hot": 1570191,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%BE%A4%20%E6%95%99%E5%B8%88%E8%B4%9F%E6%8B%85%23"
         }
       ],
       "worthLeveraging": false,
@@ -918,17 +934,52 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "relevanceScore": 38,
       "timelinessScore": 90.8,
       "creativityScore": 42,
-      "totalScore": 54,
+      "totalScore": 54.1,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "男子欠债想轻生学胖东来还清105万",
+      "eventSummary": "家长群 教师负担",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-4-外交部驳斥越南西沙群岛主权主张",
-      "title": "外交部驳斥越南西沙群岛主权主张",
+      "id": "weibo-20-官方回应驳船往长江倾倒黑色固体",
+      "title": "官方回应驳船往长江倾倒黑色固体",
+      "ruleScore": 47.5,
+      "crossPlatform": true,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 20,
+          "hot": 314296,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A9%B3%E8%88%B9%E5%BE%80%E9%95%BF%E6%B1%9F%E5%80%BE%E5%80%92%E9%BB%91%E8%89%B2%E5%9B%BA%E4%BD%93%23"
+        },
+        {
+          "platform": "douyin",
+          "rank": 15,
+          "hot": 9051139,
+          "url": "https://www.douyin.com/search/%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A9%B3%E8%88%B9%E5%BE%80%E9%95%BF%E6%B1%9F%E5%80%BE%E5%80%92%E9%BB%91%E8%89%B2%E5%9B%BA%E4%BD%93"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 58,
+      "timelinessScore": 74,
+      "creativityScore": 42,
+      "totalScore": 53.6,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "官方回应驳船往长江倾倒黑色固体",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-4-郑钦文今晚对战斯瓦泰克",
+      "title": "郑钦文今晚对战斯瓦泰克",
       "ruleScore": 53.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -938,8 +989,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 4,
-          "hot": 11518919,
-          "url": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E8%B6%8A%E5%8D%97%E8%A5%BF%E6%B2%99%E7%BE%A4%E5%B2%9B%E4%B8%BB%E6%9D%83%E4%B8%BB%E5%BC%A0"
+          "hot": 11349602,
+          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8A%E6%99%9A%E5%AF%B9%E6%88%98%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
         }
       ],
       "worthLeveraging": false,
@@ -950,15 +1001,15 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 53.4,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "外交部驳斥越南西沙群岛主权主张",
+      "eventSummary": "郑钦文今晚对战斯瓦泰克",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-2-人人影视变正版了",
-      "title": "人人影视变正版了",
-      "ruleScore": 51.9,
+      "id": "weibo-2-华为发布会",
+      "title": "华为发布会",
+      "ruleScore": 52.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -967,8 +1018,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "weibo",
           "rank": 2,
-          "hot": 956013,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86%E5%8F%98%E6%AD%A3%E7%89%88%E4%BA%86%23"
+          "hot": 1142936,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23"
         }
       ],
       "worthLeveraging": false,
@@ -976,46 +1027,46 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "relevanceScore": 38,
       "timelinessScore": 89.6,
       "creativityScore": 42,
-      "totalScore": 53.1,
+      "totalScore": 53.2,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "人人影视变正版了",
+      "eventSummary": "华为发布会",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-5-福州的雨势为何如此凶猛",
-      "title": "福州的雨势为何如此凶猛",
-      "ruleScore": 52.1,
+      "id": "weibo-3-失去双腿的他说继续冲锋",
+      "title": "失去双腿的他说继续冲锋",
+      "ruleScore": 51.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
       "exclusionReason": "",
       "platforms": [
         {
-          "platform": "douyin",
-          "rank": 5,
-          "hot": 10769439,
-          "url": "https://www.douyin.com/search/%E7%A6%8F%E5%B7%9E%E7%9A%84%E9%9B%A8%E5%8A%BF%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E5%87%B6%E7%8C%9B"
+          "platform": "weibo",
+          "rank": 3,
+          "hot": 1050237,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B1%E5%8E%BB%E5%8F%8C%E8%85%BF%E7%9A%84%E4%BB%96%E8%AF%B4%E7%BB%A7%E7%BB%AD%E5%86%B2%E9%94%8B%23"
         }
       ],
       "worthLeveraging": false,
       "riskLevel": "low",
       "relevanceScore": 38,
-      "timelinessScore": 86,
+      "timelinessScore": 88.4,
       "creativityScore": 42,
-      "totalScore": 52.7,
+      "totalScore": 52.5,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "福州的雨势为何如此凶猛",
+      "eventSummary": "失去双腿的他说继续冲锋",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-6-上海多家银行明确房贷新政策",
-      "title": "上海多家银行明确房贷新政策",
+      "id": "douyin-6-这个秋天你跑步了吗",
+      "title": "这个秋天你跑步了吗",
       "ruleScore": 51.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -1025,8 +1076,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 6,
-          "hot": 10757956,
-          "url": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%98%8E%E7%A1%AE%E6%88%BF%E8%B4%B7%E6%96%B0%E6%94%BF%E7%AD%96"
+          "hot": 10528945,
+          "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E7%A7%8B%E5%A4%A9%E4%BD%A0%E8%B7%91%E6%AD%A5%E4%BA%86%E5%90%97"
         }
       ],
       "worthLeveraging": false,
@@ -1037,15 +1088,15 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 52,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "上海多家银行明确房贷新政策",
+      "eventSummary": "这个秋天你跑步了吗",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-4-海狮08全家人的科技旗舰",
-      "title": "海狮08全家人的科技旗舰",
-      "ruleScore": 49.7,
+      "id": "weibo-4-科普好视频",
+      "title": "科普好视频",
+      "ruleScore": 50.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -1054,7 +1105,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "weibo",
           "rank": 4,
-          "hot": 767259,
+          "hot": 1047767,
           "url": ""
         }
       ],
@@ -1063,17 +1114,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "relevanceScore": 38,
       "timelinessScore": 87.2,
       "creativityScore": 42,
-      "totalScore": 51.6,
+      "totalScore": 51.8,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "海狮08全家人的科技旗舰",
+      "eventSummary": "科普好视频",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-7-女篮世界杯中国vs美国",
-      "title": "女篮世界杯中国vs美国",
+      "id": "douyin-7-f1意大利站勒克莱尔第二圈退赛",
+      "title": "F1意大利站勒克莱尔第二圈退赛",
       "ruleScore": 49.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -1083,8 +1134,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 7,
-          "hot": 9532780,
-          "url": "https://www.douyin.com/search/%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BDvs%E7%BE%8E%E5%9B%BD"
+          "hot": 9409628,
+          "url": "https://www.douyin.com/search/F1%E6%84%8F%E5%A4%A7%E5%88%A9%E7%AB%99%E5%8B%92%E5%85%8B%E8%8E%B1%E5%B0%94%E7%AC%AC%E4%BA%8C%E5%9C%88%E9%80%80%E8%B5%9B"
         }
       ],
       "worthLeveraging": false,
@@ -1095,15 +1146,15 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 51.2,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "女篮世界杯中国vs美国",
+      "eventSummary": "F1意大利站勒克莱尔第二圈退赛",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-5-毛阿敏对许晴称呼的变化",
-      "title": "毛阿敏对许晴称呼的变化",
-      "ruleScore": 48.6,
+      "id": "weibo-5-怪不得都说东北人的幽默是天生的",
+      "title": "怪不得都说东北人的幽默是天生的",
+      "ruleScore": 49,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -1112,8 +1163,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "weibo",
           "rank": 5,
-          "hot": 760094,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E9%98%BF%E6%95%8F%E5%AF%B9%E8%AE%B8%E6%99%B4%E7%A7%B0%E5%91%BC%E7%9A%84%E5%8F%98%E5%8C%96%23"
+          "hot": 1014950,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E9%83%BD%E8%AF%B4%E4%B8%9C%E5%8C%97%E4%BA%BA%E7%9A%84%E5%B9%BD%E9%BB%98%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%23"
         }
       ],
       "worthLeveraging": false,
@@ -1121,17 +1172,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "relevanceScore": 38,
       "timelinessScore": 86,
       "creativityScore": 42,
-      "totalScore": 50.9,
+      "totalScore": 51.1,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "毛阿敏对许晴称呼的变化",
+      "eventSummary": "怪不得都说东北人的幽默是天生的",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-8-中国女篮展望世界杯",
-      "title": "中国女篮展望世界杯",
+      "id": "douyin-8-中超天津津门虎21浙江队",
+      "title": "中超天津津门虎2:1浙江队",
       "ruleScore": 48.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -1141,8 +1192,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 8,
-          "hot": 9465845,
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%B1%95%E6%9C%9B%E4%B8%96%E7%95%8C%E6%9D%AF"
+          "hot": 9389559,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E2%3A1%E6%B5%99%E6%B1%9F%E9%98%9F"
         }
       ],
       "worthLeveraging": false,
@@ -1153,43 +1204,14 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 50.5,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "中国女篮展望世界杯",
+      "eventSummary": "中超天津津门虎2:1浙江队",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-6-妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
-      "title": "妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
-      "ruleScore": 47.6,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 6,
-          "hot": 744238,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%85%AE%E7%86%9F%E8%91%A1%E8%90%84%E5%A5%B3%E5%84%BF%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%B9%8C%E9%B9%91%E8%9B%8B%23"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 84.8,
-      "creativityScore": 42,
-      "totalScore": 50.2,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "妈妈煮熟葡萄女儿误以为是鹌鹑蛋",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-9-等到了秋天我们再去散步好不好",
-      "title": "等到了秋天我们再去散步好不好",
+      "id": "douyin-9-一定要试试潮汕鱼饭",
+      "title": "一定要试试潮汕鱼饭",
       "ruleScore": 47.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -1199,8 +1221,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 9,
-          "hot": 9412143,
-          "url": "https://www.douyin.com/search/%E7%AD%89%E5%88%B0%E4%BA%86%E7%A7%8B%E5%A4%A9%E6%88%91%E4%BB%AC%E5%86%8D%E5%8E%BB%E6%95%A3%E6%AD%A5%E5%A5%BD%E4%B8%8D%E5%A5%BD"
+          "hot": 9366903,
+          "url": "https://www.douyin.com/search/%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AF%95%E8%AF%95%E6%BD%AE%E6%B1%95%E9%B1%BC%E9%A5%AD"
         }
       ],
       "worthLeveraging": false,
@@ -1211,15 +1233,15 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 49.8,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "等到了秋天我们再去散步好不好",
+      "eventSummary": "一定要试试潮汕鱼饭",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-7-郑钦文怒怼主裁双标",
-      "title": "郑钦文怒怼主裁双标",
-      "ruleScore": 46.5,
+      "id": "weibo-7-早春晴朗孙远翥跳楼了",
+      "title": "早春晴朗孙远翥跳楼了",
+      "ruleScore": 46.7,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -1228,8 +1250,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "weibo",
           "rank": 7,
-          "hot": 684255,
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%80%92%E6%80%BC%E4%B8%BB%E8%A3%81%E5%8F%8C%E6%A0%87%23"
+          "hot": 811584,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%AD%99%E8%BF%9C%E7%BF%A5%E8%B7%B3%E6%A5%BC%E4%BA%86%23"
         }
       ],
       "worthLeveraging": false,
@@ -1237,17 +1259,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "relevanceScore": 38,
       "timelinessScore": 83.6,
       "creativityScore": 42,
-      "totalScore": 49.5,
+      "totalScore": 49.6,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "郑钦文怒怼主裁双标",
+      "eventSummary": "早春晴朗孙远翥跳楼了",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-10-秋天少不了的好东西",
-      "title": "秋天少不了的好东西",
+      "id": "douyin-10-华为新品发布会​",
+      "title": "华为新品发布会 ​",
       "ruleScore": 46.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -1257,8 +1279,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 10,
-          "hot": 9277217,
-          "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E5%B0%91%E4%B8%8D%E4%BA%86%E7%9A%84%E5%A5%BD%E4%B8%9C%E8%A5%BF"
+          "hot": 9179278,
+          "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%20%E2%80%8B"
         }
       ],
       "worthLeveraging": false,
@@ -1269,15 +1291,15 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 49.2,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "秋天少不了的好东西",
+      "eventSummary": "华为新品发布会 ​",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-8-婚外胚胎案",
-      "title": "婚外胚胎案",
-      "ruleScore": 45.1,
+      "id": "weibo-8-整船黑色物质倒入长江仅用10秒",
+      "title": "整船黑色物质倒入长江仅用10秒",
+      "ruleScore": 45,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -1286,8 +1308,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "weibo",
           "rank": 8,
-          "hot": 483345,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%23"
+          "hot": 479090,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B4%E8%88%B9%E9%BB%91%E8%89%B2%E7%89%A9%E8%B4%A8%E5%80%92%E5%85%A5%E9%95%BF%E6%B1%9F%E4%BB%85%E7%94%A810%E7%A7%92%23"
         }
       ],
       "worthLeveraging": false,
@@ -1298,43 +1320,14 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 48.6,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "婚外胚胎案",
+      "eventSummary": "整船黑色物质倒入长江仅用10秒",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-9-第20届亚运会中国体育代表团名单",
-      "title": "第20届亚运会中国体育代表团名单",
-      "ruleScore": 43.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 9,
-          "hot": 425506,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC20%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%8D%E5%8D%95%23"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 81.2,
-      "creativityScore": 42,
-      "totalScore": 47.8,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "第20届亚运会中国体育代表团名单",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-13-郑钦文晋级美网32强",
-      "title": "郑钦文晋级美网32强",
+      "id": "douyin-13-为种枸杞铲除原生态植被系谣言",
+      "title": "“为种枸杞铲除原生态植被”系谣言",
       "ruleScore": 43.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -1344,8 +1337,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 13,
-          "hot": 9146217,
-          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E7%BE%8E%E7%BD%9132%E5%BC%BA"
+          "hot": 9150594,
+          "url": "https://www.douyin.com/search/%E2%80%9C%E4%B8%BA%E7%A7%8D%E6%9E%B8%E6%9D%9E%E9%93%B2%E9%99%A4%E5%8E%9F%E7%94%9F%E6%80%81%E6%A4%8D%E8%A2%AB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80"
         }
       ],
       "worthLeveraging": false,
@@ -1356,15 +1349,15 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 47.1,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "郑钦文晋级美网32强",
+      "eventSummary": "“为种枸杞铲除原生态植被”系谣言",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-10-人力在岁月面前不堪一击",
-      "title": "人力在岁月面前不堪一击",
-      "ruleScore": 42.6,
+      "id": "weibo-10-看演唱会被取消低保不该简单一刀切",
+      "title": "看演唱会被取消低保不该简单一刀切",
+      "ruleScore": 42.8,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -1373,8 +1366,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "weibo",
           "rank": 10,
-          "hot": 349469,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%8A%9B%E5%9C%A8%E5%B2%81%E6%9C%88%E9%9D%A2%E5%89%8D%E4%B8%8D%E5%A0%AA%E4%B8%80%E5%87%BB%23"
+          "hot": 397556,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BD%8E%E4%BF%9D%E4%B8%8D%E8%AF%A5%E7%AE%80%E5%8D%95%E4%B8%80%E5%88%80%E5%88%87%23"
         }
       ],
       "worthLeveraging": false,
@@ -1382,17 +1375,17 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "relevanceScore": 38,
       "timelinessScore": 80,
       "creativityScore": 42,
-      "totalScore": 47,
+      "totalScore": 47.1,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "人力在岁月面前不堪一击",
+      "eventSummary": "看演唱会被取消低保不该简单一刀切",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-14-看看你的暑期社会实践",
-      "title": "看看你的暑期社会实践",
+      "id": "douyin-14-星宇股份多名高管被处罚",
+      "title": "星宇股份多名高管被处罚",
       "ruleScore": 42.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -1402,8 +1395,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
         {
           "platform": "douyin",
           "rank": 14,
-          "hot": 9123113,
-          "url": "https://www.douyin.com/search/%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9A%91%E6%9C%9F%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5"
+          "hot": 9086975,
+          "url": "https://www.douyin.com/search/%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E5%A4%9A%E5%90%8D%E9%AB%98%E7%AE%A1%E8%A2%AB%E5%A4%84%E7%BD%9A"
         }
       ],
       "worthLeveraging": false,
@@ -1414,242 +1407,44 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
       "totalScore": 46.4,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "看看你的暑期社会实践",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "weibo-11-花少8实则是花少2第二部",
-      "title": "花少8实则是花少2第二部",
-      "ruleScore": 41.4,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 11,
-          "hot": 298282,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%E5%AE%9E%E5%88%99%E6%98%AF%E8%8A%B1%E5%B0%912%E7%AC%AC%E4%BA%8C%E9%83%A8%23"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 78.8,
-      "creativityScore": 42,
-      "totalScore": 46.2,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "花少8实则是花少2第二部",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-15-福建为防御沙德尔转移837万人",
-      "title": "福建为防御沙德尔转移8.37万人",
-      "ruleScore": 41.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 15,
-          "hot": 9045932,
-          "url": "https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E4%B8%BA%E9%98%B2%E5%BE%A1%E6%B2%99%E5%BE%B7%E5%B0%94%E8%BD%AC%E7%A7%BB8.37%E4%B8%87%E4%BA%BA"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 74,
-      "creativityScore": 42,
-      "totalScore": 45.8,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "福建为防御沙德尔转移8.37万人",
+      "eventSummary": "星宇股份多名高管被处罚",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     }
-  ],
-  "heatReasons": {
-    "开学版井柏然进行曲": "三重推力叠加：①开学季时间节点（全国集中返校，需求与话题天然旺盛）；②音乐梗易传播——'进行曲'节奏型可跟唱、可模仿，二创门槛低；③抖音官方榜单日热度约915万，远超同期其他事件，属于平台内容簇的主引擎，并与'开学新同桌竟是小黄人'等同簇话题同步发酵。"
-  }
+  ]
 };</script>
-<script id="trend-data">window.__TREND_DATA__={
-  "date": "2026-09-04",
-  "source": "微博/抖音官方热榜原始快照（09-01 抖音 10:31/10:35 + 09-04 11:12）",
-  "items": {
-    "开学版井柏然进行曲": [
-      {
-        "time": "09-01 10:31",
-        "hot": 7701735,
-        "platform": "douyin",
-        "note": "09-01话题'谁的开学进行曲响了'"
-      },
-      {
-        "time": "09-04 11:12",
-        "hot": 9159041,
-        "platform": "douyin"
-      }
-    ],
-    "胚胎案原配称男方想回归家庭不可能": [
-      {
-        "time": "09-04 11:12",
-        "hot": 297365,
-        "platform": "weibo"
-      }
-    ],
-    "婚外胚胎案": [
-      {
-        "time": "09-04 11:12",
-        "hot": 483345,
-        "platform": "weibo"
-      }
-    ],
-    "各省文旅都成“搬运工”了": [
-      {
-        "time": "09-04 11:12",
-        "hot": 312000,
-        "platform": "douyin"
-      }
-    ],
-    "厄尔尼诺将发展为超强级别": [
-      {
-        "time": "09-04 11:12",
-        "hot": 198000,
-        "platform": "douyin"
-      }
-    ],
-    "男子欠债想轻生学胖东来还清105万": [
-      {
-        "time": "09-04 11:12",
-        "hot": 172000,
-        "platform": "douyin"
-      }
-    ]
-  }
-};</script>
-<script id="business-advice-data">window.__BUSINESS_ADVICE__={
-  "date": "2026-09-04",
-  "basis": "基于 2026-09-04 微博/抖音官方热榜快照与本地评分：入选可借势热点 2 个（开学版井柏然进行曲 A 级、胚胎案原配 B 级），观察名单含各省文旅“搬运工”、厄尔尼诺发展超强级别、男子欠债学胖东来还清等。",
-  "coreThemes": [
-    "开学季节点（开学版井柏然进行曲、返校/开学语境）",
-    "文旅内卷与内容搬运（各省文旅“搬运工”了）",
-    "民生·家庭情感话题（胚胎案原配、男子欠债还清）"
-  ],
-  "businesses": {
-    "京东外卖": {
-      "verdict": "重点做开学季返校用餐场景，民生情感话题不做商业捆绑。",
-      "km": "开学第一餐",
-      "hotspots": [
-        "开学版井柏然进行曲",
-        "男子欠债想轻生学胖东来还清105万"
-      ],
-      "action": "围绕返校学生与送学家庭上线“开学第一餐”品质餐厅集合，标清门店、套餐实付价、起送价和预计送达时间；可结合“学胖东来”的励志语境做正向服务承诺叙事，但避免消费欠债个体经历。",
-      "communication": "用真实学生或送学家庭的返校用餐场景讲“离家前有人送，到校后也能吃好”，重点证明品质供给与稳定履约。",
-      "evidence": "上线前核验校园覆盖、参与门店、套餐价格、配送时效与骑手安全方案。",
-      "risk": "不虚构用户故事；不消费欠债/婚姻冲突个体；涉及励志叙事须当事人/原型可查证，不做未经证实的承诺。"
+<script id="meme-data">window.__MEME_TOPICS__={
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T03:30:00.000Z",
+  "items": [
+    {
+      "id": "meme-hulu-coffee",
+      "source": "微博官方榜 TOP10",
+      "heat": "微博公开热度 63.9万",
+      "keyword": "葫芦娃爷爷隔壁咖啡店挂了7个葫芦",
+      "template": "把“路边/角落的店铺”玩成“某个IP的爷爷/老店开了店”的接龙：看到葫芦→想到葫芦娃爷爷→复现成咖啡店彩蛋。普通用户可拍下自己遇到的有趣门店打卡。",
+      "reason": "国民级IP联想 + 门店打卡可复刻，用户可加入自己偶遇的店继续创作；与七鲜咖啡门店同场景。",
+      "evidenceCount": 3,
+      "verification": "confirmed"
     },
-    "京东秒送（即时零售）": {
-      "verdict": "开学季做即时履约差异化，文旅“搬运工”话题仅用于内容共鸣不做商品绑定。",
-      "km": "开学季 30 分钟达",
-      "hotspots": [
-        "开学版井柏然进行曲",
-        "各省文旅都成“搬运工”了"
-      ],
-      "action": "围绕开学返校上线学习生活用品“秒送”专场，突出时效确定性；可借“各地文旅搬运”的梗做轻量互动（如“把开学好物搬到家”），小范围发布观察反馈。",
-      "communication": "用“开学季快人一步”沟通时效与便利，弱化促销感，强调确定性和省心。",
-      "evidence": "上线前核验覆盖门店、SKU、时效承诺与活动规则。",
-      "risk": "不夸大时效承诺；文旅梗避免指向具体政务机构；欠债/婚姻话题不纳入本次传播。"
+    {
+      "id": "meme-reward-meal",
+      "keyword": "原来学习好真的有肉吃",
+      "template": "“某件事做得好→奖励一顿实实在在的好吃的”句式：晒成绩单+晒奖励美食。可替换成“工作完成得好→奖励一顿大餐”，用户可加入自己的经历继续创作。",
+      "reason": "清晰的可替换句式，美食场景强参与，家长/学生/打工人皆可代入。",
+      "microCount": 3,
+      "verificationStatus": "confirmed"
     },
-    "七鲜小厨": {
-      "verdict": "开学季聚焦家庭营养与一人食场景，做内容型聚合。",
-      "km": "返校好好吃饭",
-      "hotspots": [
-        "开学版井柏然进行曲",
-        "各省文旅都成“搬运工”了"
-      ],
-      "action": "上线开学季营养早餐/午餐集合（学生单人餐、家庭餐），标清食材、价格与出餐时间；结合开学梗做内容化菜单命名，轻互动不带货过度。",
-      "communication": "用开学场景讲“好好吃饭”，把菜品与返校节奏做自然结合，突出健康与实惠。",
-      "evidence": "上线前核验菜单、食材溯源、套餐价格与出餐时效。",
-      "risk": "不虚构学生故事；不消费家庭情感；对文旅话题保持中立不站队。"
-    },
-    "七鲜咖啡": {
-      "verdict": "开学季/通勤节点做咖啡轻内容，民生话题不关联。",
-      "km": "开学季提神",
-      "hotspots": [
-        "开学版井柏然进行曲"
-      ],
-      "action": "围绕开学/返校通勤节点上线“开学季提神”咖啡组合或买赠，突出便捷与品质，做轻量互动。",
-      "communication": "用“开学季要打起精神”的轻松语境，链接咖啡的提神与陪伴感。",
-      "evidence": "上线前核验门店覆盖、套餐与物料合规。",
-      "risk": "不把咖啡与婚姻/欠债话题绑定；内容轻松不煽情。"
-    },
-    "京东点评": {
-      "verdict": "围绕开学季内容做榜单型聚合，克制介入敏感情感话题。",
-      "km": "开学季宝藏榜",
-      "hotspots": [
-        "开学版井柏然进行曲",
-        "各省文旅都成“搬运工”了"
-      ],
-      "action": "上线“开学季宝藏榜”（餐厅/门店/吃喝场景），以真实门店和口碑内容聚合，突出品质与实用。",
-      "communication": "用“学生与家长的真实评价”做内容可信度，弱化营销感。",
-      "evidence": "上线前核验榜单门店、评价来源与规则。",
-      "risk": "不消费婚姻/情感个案；文旅话题不对具体机构做评价性结论。"
-    },
-    "京东真榜": {
-      "verdict": "开学季商品榜可做，情感话题不入选。",
-      "km": "开学季好物榜",
-      "hotspots": [
-        "开学版井柏然进行曲"
-      ],
-      "action": "发布开学季好物榜（学习/生活/3C），基于真实商品与销量数据，突出实用与性价比。",
-      "communication": "用“开学清单”语境呈现榜单，克制，不夸效果。",
-      "evidence": "上线前核验榜单商品数据、价格与描述合规。",
-      "risk": "不健康及励志过度承诺；不涉及个体情感叙事。"
-    },
-    "京东旅行": {
-      "verdict": "开学季家庭出游与返校可做，文旅“搬运”话题用于内容共鸣。",
-      "km": "开学季亲子出游",
-      "hotspots": [
-        "开学版井柏然进行曲",
-        "各省文旅都成“搬运工”了"
-      ],
-      "action": "围绕开学前后周末亲子出游上线主题线路/酒店聚合，标清价格与政策；对文旅话题仅做服务性内容共鸣，不评政务。",
-      "communication": "用“返校前的家庭时光”场景讲产品，突出真实行程与省心。",
-      "evidence": "上线前核验目的地、资源、价格与政策。",
-      "risk": "不虚构行程；不消费家庭离别情绪；文旅话题不站队不评机构。"
-    },
-    "京东家政": {
-      "verdict": "开学季生活场景可做，情感话题不绑定。",
-      "km": "开学季收纳焕新",
-      "hotspots": [
-        "开学版井柏然进行曲"
-      ],
-      "action": "上线开学季“收纳焕新”家政服务优惠或套餐（返校宿舍、家庭），突出真实服务内容。",
-      "communication": "用“开学季让家/宿舍更清爽”做内容切入，突出实用与信任。",
-      "evidence": "上线前核验服务范围、价格与排期。",
-      "risk": "不消费情感个案；不夸大服务效果。"
-    },
-    "七鲜美食MALL": {
-      "verdict": "开学季美食聚合可做，克制情感。",
-      "km": "开学季食光",
-      "hotspots": [
-        "开学版井柏然进行曲"
-      ],
-      "action": "上线开学季美食场景聚合（学生/家庭正餐与轻食），标清门店、价格与到店/外卖路径，突出真实供给。",
-      "communication": "用“返校好好吃一顿”的生活语境，讲品质与便利。",
-      "evidence": "上线前核验门店覆盖、套餐价格与履约。",
-      "risk": "不虚构用户故事；不对个体情感事件做消费性解读。"
+    {
+      "id": "meme-retro-girl",
+      "keyword": "老派少女的穿搭",
+      "template": "“复古却不精致/土潮松弛”的穿搭对比结构：素色长裙、格纹、旧港风，配上店门口街景/咖啡店场景，形成统一的画面结构。",
+      "reason": "有统一画面结构（复古穿搭+街景/咖啡店），可复刻性强，适合七鲜咖啡与门店场景联动的穿搭+打卡玩法。",
+      "microCount": 3,
+      "verificationStatus": "confirmed"
     }
-  }
+  ]
 };</script>
 <script src="data-bindings.js"></script>
 </body>

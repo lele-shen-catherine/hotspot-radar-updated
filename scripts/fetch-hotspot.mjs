@@ -233,6 +233,32 @@ const SOURCES = {
     },
   ],
   xhs: [
+    // UAPI 小红书热榜（新规 §4.1 指定主要结构化数据源）
+    {
+      name: "uapi-xiaohongshu",
+      base: "https://uapis.cn",
+      path: "/api/v1/misc/hotboard?type=xiaohongshu",
+      parse(json) {
+        // UAPI: { code, msg, data: { data: [ { index,title,hot_value,url,extra,... } ], update_time } }
+        const data = json?.data?.data ?? json?.data ?? [];
+        const updateTime = json?.data?.update_time ?? json?.update_time ?? "";
+        const list = Array.isArray(data) ? data : [];
+        return list.map((it, i) => ({
+          title: it.title || it.name || it.word || "",
+          url:
+            it.url ||
+            (it.title
+              ? `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(it.title)}`
+              : ""),
+          hot: it.hot ?? it.hot_value ?? it.hotValue ?? null,
+          desc: it.extra?.label || it.label || "",
+          cover: it.extra?.cover || it.cover || "",
+          rank: it.index ?? i + 1,
+          sourceUpdatedAt: updateTime,
+          rawExtra: it.extra || {},
+        })).filter((it) => it.title);
+      },
+    },
     ...(JUSTONE_TOKEN
       ? [
           {
