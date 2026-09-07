@@ -1,4 +1,10 @@
 #!/usr/bin/env node
+/**
+ * 规则初筛（新规 v2 §六）
+ * - 不做业务相关性门槛（§一：业务相关性不得作为 S/A/B 展示条件）
+ * - 只对四类硬性排除做关键词语义复核提示，不凭单个关键词硬删（§六.5）
+ * - 保留排名、热度、来源、原始链接等客观字段
+ */
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -8,67 +14,89 @@ const latest = JSON.parse(await readFile(join(ROOT, "public/data/latest.json"), 
 const rules = JSON.parse(await readFile(join(ROOT, "config/hotspot-rules.json"), "utf8"));
 
 const clean = (value) => String(value || "").toLowerCase().replace(/[\s#“”《》【】·、，！？,.!?：:（）()\-]/g, "");
-const containsAny = (title, patterns) => patterns.some((pattern) => title.includes(clean(pattern)));
+const hitCategory = (title, categories) => {
+  const t = clean(title);
+  for (const [catId, cat] of Object.entries(categories)) {
+    if (cat.keywords.some((k) => t.includes(clean(k)))) {
+      return { category: catId, label: cat.label, keywordHit: true };
+    }
+  }
+  return null;
+};
+
 const byKey = new Map();
 
 for (const [platform, payload] of Object.entries(latest.platforms || {})) {
-  if (platform === "webwide") continue;
+  if (platform === "webwide") continue; // 全网榜仅观察，不参与计分
   for (const [index, item] of (payload.items || []).slice(0, rules.maxRankPerPlatform).entries()) {
     const title = String(item.title || "").trim();
     const key = clean(title);
     if (!key) continue;
-    const excluded = containsAny(key, rules.excludePatterns);
-    const businessMatch = containsAny(key, rules.businessPatterns);
     const rank = index + 1;
-    const rankScore = Math.max(0, 36 - rank);
-    const hotScore = Number(item.hot) > 0 ? Math.min(25, Math.log10(Number(item.hot) + 1) * 3) : 0;
-    const ruleScore = Math.round((rankScore + hotScore + (businessMatch ? 20 : 0)) * 10) / 10;
-    const occurrence = { platform, rank, hot: item.hot ?? null, url: item.url || "" };
+    const occurrence = {
+      platform,
+      rank,
+      hot: item.hot ?? null,
+      url: item.url || "",
+      sourceName: item.sourceName || item.source || platform,
+      sourceUpdatedAt: item.sourceUpdatedAt || null,
+      collectedAt: item.collectedAt || null
+    };
     const existing = byKey.get(key);
     if (existing) {
       existing.platforms.push(occurrence);
-      existing.ruleScore = Math.min(100, Math.round((existing.ruleScore + 15) * 10) / 10);
       existing.crossPlatform = true;
     } else {
+      const hit = hitCategory(title, rules.hardExclusionCategories);
       byKey.set(key, {
         id: `${platform}-${rank}-${key.slice(0, 18)}`,
         title,
-        ruleScore,
         crossPlatform: false,
-        businessKeywordMatch: businessMatch,
-        excluded,
-        exclusionReason: excluded ? "命中高风险/不宜借势关键词" : "",
+        hardExclusionHit: !!hit,
+        hardExclusionCategories: hit ? [hit] : [],
         platforms: [occurrence]
       });
     }
   }
 }
 
-const candidates = [...byKey.values()]
-  .filter((item) => !item.excluded && item.ruleScore >= rules.minimumRuleScore)
-  .sort((a, b) => b.ruleScore - a.ruleScore)
-  .slice(0, rules.maxCandidates);
+// 待语义复核（疑似硬性排除）→ 进入非公开复核队列，不进入正式候选
+const candidates = [];
+const pendingReview = [];
+for (const item of byKey.values()) {
+  if (item.hardExclusionHit) {
+    pendingReview.push({
+      id: item.id,
+      title: item.title,
+      categories: item.hardExclusionCategories.map((c) => c.label),
+      reason: item.hardExclusionCategories.map((c) => `命中「${c.label}」关键词`).join("；")
+    });
+  } else {
+    candidates.push({
+      id: item.id,
+      title: item.title,
+      crossPlatform: item.crossPlatform,
+      platforms: item.platforms
+    });
+  }
+}
 
-const rejected = [...byKey.values()]
-  .filter((item) => item.excluded || item.ruleScore < rules.minimumRuleScore)
-  .map(({ id, title, ruleScore, exclusionReason }) => ({ id, title, ruleScore, exclusionReason: exclusionReason || "规则得分不足" }));
-
+candidates.sort((a, b) => b.platforms.length - a.platforms.length || a.platforms[0].rank - b.platforms[0].rank);
 const output = {
-  schemaVersion: 1,
+  schemaVersion: 2,
   generatedAt: new Date().toISOString(),
   sourceGeneratedAt: latest.generatedAt,
   date: latest.date,
   rulesSummary: {
     maxRankPerPlatform: rules.maxRankPerPlatform,
-    minimumRuleScore: rules.minimumRuleScore,
     candidateCount: candidates.length,
-    rejectedCount: rejected.length
+    pendingReviewCount: pendingReview.length
   },
   candidates,
-  rejected
+  pendingReview
 };
 
 const target = join(ROOT, "data/processed/candidates.json");
 await mkdir(dirname(target), { recursive: true });
 await writeFile(target, JSON.stringify(output, null, 2) + "\n", "utf8");
-console.log(`规则初筛完成：${candidates.length} 个候选，${rejected.length} 个排除`);
+console.log(`规则初筛完成：${candidates.length} 个候选，${pendingReview.length} 个待语义复核（四类硬性排除）`);

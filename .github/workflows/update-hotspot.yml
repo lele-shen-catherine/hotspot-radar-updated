@@ -2,10 +2,10 @@ name: Update Hotspot Radar
 
 on:
   schedule:
-    # CST 08:15 = UTC 00:15
-    - cron: "15 0 * * *"
-    # CST 15:00 = UTC 07:00
-    - cron: "0 7 * * *"
+    # 上午：CST 08:50 = UTC 00:50（为 09:00 Agent 完整更新准备数据）
+    - cron: "50 0 * * *"
+    # 下午：CST 14:30 = UTC 06:30（为 14:40 Agent 完整更新准备数据）
+    - cron: "30 6 * * *"
   # 支持手动触发
   workflow_dispatch:
     inputs:

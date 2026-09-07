@@ -5,7 +5,7 @@ import { chromium } from "playwright";
   const errors = [];
   page.on('console', m => { if (m.type() === 'error') errors.push('CONSOLE: ' + m.text()); });
   page.on('pageerror', e => errors.push('PAGEERROR: ' + e.message + ' | stack: ' + (e.stack||'').slice(0,400)));
-  const url = 'http://localhost:8899/public/dashboard.html';
+  const url = 'http://localhost:8899/dashboard.html';
   await page.goto(url, { waitUntil: 'networkidle' });
   await page.waitForTimeout(1500);
   const data = await page.evaluate(() => {
