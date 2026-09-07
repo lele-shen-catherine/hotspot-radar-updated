@@ -104,9 +104,39 @@ function assess(candidate) {
   };
 }
 
+// ---- S 级名额上限（§九.6）：S 级只保留热度最高的前 N 条，其余按分数自然落入 A/B/C ----
+const S_LEVEL_CAP = 2; // S 级名额上限：默认只保留热度最高的前 2 条
+
 const decisions = input.candidates.map(assess).sort((a, b) => b.totalScore - a.totalScore);
-// 四类硬性排除已由初筛置于 pendingReview，不进入正式展示
-const hotspots = decisions.filter((d) => d.level !== "C");
+
+// 1) 先按分数自然分级（score>=85→S，>=70→A，>=60→B，<60→C）
+for (const d of decisions) {
+  d.level = d.totalScore >= 85 ? "S" : d.totalScore >= 70 ? "A" : d.totalScore >= 60 ? "B" : "C";
+}
+// 2) 对 S 级候选做名额截断：分数已按 totalScore 降序排列（并列分数时稳定排序保持候选原始输入顺序），
+//    只保留分数最高的前 S_LEVEL_CAP 名；超出名额的（即使 score>=85）降为 A 级（score>=70 落 A）。
+//    若 S 级候选不足 S_LEVEL_CAP 名，则按实际数量判定，不硬凑。
+let sCount = 0;
+for (const d of decisions) {
+  if (d.level !== "S") continue;
+  if (sCount < S_LEVEL_CAP) {
+    sCount++;
+    continue;
+  }
+  d.level = d.totalScore >= 70 ? "A" : d.totalScore >= 60 ? "B" : "C"; // 超出名额 → 降级
+  d.levelNote = `分数≥S级阈值但因 S 级名额上限(${S_LEVEL_CAP}条)被降级为 ${d.level}`;
+}
+
+// 四类硬排除已由 reveal 置于 watchlist，不进入正式展示
+// 展示上限（用户需求）：每次最多只保留 6 条热点，按 totalScore 降序取前 6；超出部分全部丢弃不展示。
+// decisions 已按 totalScore 降序排列，直接 slice 前 6 即为热度最高的 6 条。
+const TOP6_LIMIT = 6;
+let hotspots = decisions.filter((d) => d.level !== "C");
+if (hotspots.length > TOP6_LIMIT) {
+  const dropped = hotspots.length - TOP6_LIMIT;
+  hotspots = hotspots.slice(0, TOP6_LIMIT);
+  console.log(`[cap] 热点数 ${dropped + TOP6_LIMIT} 超过上限 ${TOP6_LIMIT}，丢弃超出 ${dropped} 条，仅保留热度最高前 ${TOP6_LIMIT} 条`);
+}
 const watchlist = decisions.filter((d) => d.level === "C");
 
 const radar = {
