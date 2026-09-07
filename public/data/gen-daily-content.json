@@ -1,0 +1,226 @@
+{
+  "updatedAt": "2026-09-07T11:41:27.367Z",
+  "collectedAt": "2026-09-07T11:41:27.367Z",
+  "date": "2026-09-07",
+  "events": [
+    {
+      "level": "B",
+      "eventName": "郭德纲事件处罚通报",
+      "topic": "郭德纲篡改红歌",
+      "score": 64,
+      "platform": "微博置顶/热搜",
+      "platformDetail": {
+        "platform": "微博置顶/热搜",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "微博置顶",
+        "collectedAt": "2026-09-07T11:41:27.367Z",
+        "duration": "上午、下午均在榜（可核验）",
+        "rankChange": "高位持续",
+        "link": "UAPI 微博热榜"
+      },
+      "explanation": "郭德纲“篡改红歌”事件经官方通报，成为微博置顶热搜。涉及公众人物对特定歌曲的不当改编及官方处罚。热搜词与事件的关系为事件处置通报本身。",
+      "whyHot": "公众人物+官方通报双重叠加、冲突与反差（才艺身份 vs 不当改编）、观点争议多、跨平台扩散。",
+      "risk": "涉及官方通报与意识形态敏感，风险较高：仅建议做公共信息服务，不建议娱乐化，不建议商业化表达，不建议玩梗。"
+    },
+    {
+      "level": "B",
+      "eventName": "华为再发布高性能芯片",
+      "topic": "华为再发布高性能芯片",
+      "score": 64,
+      "platform": "",
+      "platformDetail": {
+        "platform": "",
+        "peakRank": 1,
+        "hotValue": "",
+        "collectedAt": "2026-09-07T11:41:27.367Z",
+        "duration": "上午、下午均在榜（可核验）",
+        "rankChange": "持续在榜",
+        "link": ""
+      },
+      "explanation": "",
+      "whyHot": "",
+      "risk": ""
+    },
+    {
+      "level": "B",
+      "eventName": "秋天的第一件燕麦系卫衣",
+      "topic": "秋天的第一件燕麦系卫衣",
+      "score": 64,
+      "platform": "",
+      "platformDetail": {
+        "platform": "",
+        "peakRank": 2,
+        "hotValue": "",
+        "collectedAt": "2026-09-07T11:41:27.367Z",
+        "duration": "上午、下午均在榜（可核验）",
+        "rankChange": "持续在榜",
+        "link": ""
+      },
+      "explanation": "",
+      "whyHot": "",
+      "risk": ""
+    },
+    {
+      "level": "B",
+      "eventName": "青春华章",
+      "topic": "青春华章",
+      "score": 64,
+      "platform": "抖音热榜第3",
+      "platformDetail": {
+        "platform": "抖音热榜第3",
+        "currentRank": 3,
+        "peakRank": 3,
+        "hotValue": "抖音热榜 top",
+        "collectedAt": "2026-09-07T11:41:27.367Z",
+        "duration": "下午在榜",
+        "rankChange": "新进入榜",
+        "link": "UAPI 抖音热榜"
+      },
+      "explanation": "“青春华章”为抖音热榜话题，与青年主题活动/传播节点相关，话题围绕青春表达与集体展示展开，多与校园、青年节庆或文化传播关联。",
+      "whyHot": "主题传播节点、情绪共鸣（青春/家国）、活动或节庆带动，官方与用户侧共同参与。",
+      "risk": "涉及青年/家国主题，建议仅做公共信息服务，避免娱乐化消解。"
+    },
+    {
+      "level": "B",
+      "eventName": "郑钦文今晚对战斯瓦泰克",
+      "topic": "郑钦文今晚对战斯瓦泰克",
+      "score": 61.2,
+      "platform": "",
+      "platformDetail": {
+        "platform": "",
+        "peakRank": 4,
+        "hotValue": "",
+        "collectedAt": "2026-09-07T11:41:27.367Z",
+        "duration": "上午、下午均在榜（可核验）",
+        "rankChange": "持续在榜",
+        "link": ""
+      },
+      "explanation": "",
+      "whyHot": "",
+      "risk": ""
+    },
+    {
+      "level": "B",
+      "eventName": "中国女篮末轮将战意大利",
+      "topic": "中国女篮末轮将战意大利",
+      "score": 61.2,
+      "platform": "",
+      "platformDetail": {
+        "platform": "",
+        "peakRank": 5,
+        "hotValue": "",
+        "collectedAt": "2026-09-07T11:41:27.367Z",
+        "duration": "上午、下午均在榜（可核验）",
+        "rankChange": "持续在榜",
+        "link": ""
+      },
+      "explanation": "",
+      "whyHot": "",
+      "risk": ""
+    }
+  ],
+  "memeTopics": [
+    {
+      "title": "燕麦卫衣穿搭",
+      "platform": "抖音",
+      "rank": "TOP2",
+      "hotValue": "抖音热榜第2",
+      "template": "燕麦/奶咖色系卫衣叠穿（同色系搭配）",
+      "reason": "低门槛穿搭模板，用户可加入自身衣橱，可复制性强；具备二创潜力。",
+      "verifyStatus": "具备二创潜力（尚待 3 个独立用户样本核验）",
+      "risk": "低风险"
+    },
+    {
+      "title": "郑钦文赛后梗",
+      "platform": "抖音",
+      "rank": "TOP4",
+      "hotValue": "抖音热榜第4",
+      "template": "模仿/回放她的关键瞬间或台词",
+      "reason": "赛事节点带动，球迷可回放+二创；具备二创潜力。",
+      "verifyStatus": "待内容级核验",
+      "risk": "低风险"
+    }
+  ],
+  "businessAdvice": [
+    {
+      "business": "京东外卖",
+      "hotspot": "燕麦卫衣",
+      "connection": "穿搭/生活方式类热度高，用户即时消费意愿强，可结合餐饮/饮品场景做\"穿搭+下午茶\"组合话题。",
+      "need": "用户消费生活方式内容，追求即时满足。",
+      "supply": "京东外卖即时配送、餐饮商家供给。",
+      "action": "围绕\"穿搭日+轻食/咖啡\"发起话题，引导外卖点单。",
+      "evidence": "话题互动数据、外卖订单带动。",
+      "risk": "避免硬蹭穿搭与餐饮关联，需有真实场景。"
+    },
+    {
+      "business": "京东秒送",
+      "hotspot": "燕麦卫衣",
+      "connection": "穿搭热度下对\"即买即送\"体验有需求",
+      "need": "即时送达、不等待",
+      "supply": "秒送即时配送",
+      "action": "结合穿搭/配饰即时配送做体验话题。",
+      "risk": "中低风险。"
+    },
+    {
+      "business": "京东家政",
+      "hotspot": "青春华章",
+      "connection": "青年节点话题与家居环境改善有弱关联，建议谨慎。",
+      "need": "居家体验",
+      "supply": "家政服务",
+      "action": "以\"青年生活品质\"切入做轻话题。",
+      "risk": "关联较弱，建议仅做公共话题观察。"
+    },
+    {
+      "business": "七鲜小厨",
+      "hotspot": "燕麦卫衣",
+      "connection": "生活方式热度，可搭\"燕麦美食\"（燕麦系轻食）真实产品。",
+      "need": "健康轻食",
+      "supply": "七鲜小厨燕麦/谷物类餐品",
+      "action": "将\"燕麦卫衣\"话题转化为\"燕麦系轻食\"内容。",
+      "risk": "低风险。"
+    },
+    {
+      "business": "七鲜咖啡",
+      "hotspot": "燕麦卫衣",
+      "connection": "燕麦与奶咖品类直接相关（燕麦拿铁）。",
+      "need": "咖啡消费",
+      "supply": "七鲜咖啡燕麦拿铁等",
+      "action": "借\"燕麦\"字眼做\"燕麦拿铁\"套餐话题。",
+      "risk": "低风险。"
+    },
+    {
+      "business": "京东点评/京东真榜",
+      "hotspot": "燕麦卫衣",
+      "connection": "穿搭/生活方式评价可沉淀\"燕麦系穿搭\"相关榜单。",
+      "need": "消费决策参考",
+      "supply": "点评/真榜评价体系",
+      "action": "推出穿搭/生活方式类榜单话题。",
+      "risk": "中风险需保证真实榜单。"
+    },
+    {
+      "business": "京东旅行",
+      "hotspot": "郑钦文",
+      "connection": "体育赛事热度带动观赛/体育旅行兴趣，可做网球观赛类话题。",
+      "need": "观赛/度假需求",
+      "supply": "旅行产品",
+      "action": "结合网球/体育赛程做\"观赛+出行\"内容。",
+      "risk": "需真实赛事节点。"
+    },
+    {
+      "business": "七鲜美食MALL",
+      "hotspot": "燕麦卫衣",
+      "connection": "热度可关联美食场景（燕麦/谷物美食主题）。",
+      "need": "美食体验",
+      "supply": "MALL 美食供给",
+      "action": "做\"燕麦/谷物美食\"主题内容。",
+      "risk": "低风险。"
+    }
+  ],
+  "meta": {
+    "dataSource": "UAPI(微博/抖音/小红书) + 时光热搜 + 知微观察",
+    "hardExcluded": 0,
+    "pendingReview": 0,
+    "note": "郭德纲事件经用户确认保留展示；趋势图已按新规删除；问点点已删除。"
+  }
+}

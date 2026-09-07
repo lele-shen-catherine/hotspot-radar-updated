@@ -239,9 +239,9 @@ const SOURCES = {
       base: "https://uapis.cn",
       path: "/api/v1/misc/hotboard?type=xiaohongshu",
       parse(json) {
-        // UAPI: { code, msg, data: { data: [ { index,title,hot_value,url,extra,... } ], update_time } }
-        const data = json?.data?.data ?? json?.data ?? [];
-        const updateTime = json?.data?.update_time ?? json?.update_time ?? "";
+        // UAPI 实际返回: { type, update_time, list: [ { index,title,hot_value,url,extra,... } ] }
+        const data = json?.list ?? json?.data?.data ?? json?.data ?? [];
+        const updateTime = json?.update_time ?? json?.data?.update_time ?? "";
         const list = Array.isArray(data) ? data : [];
         return list.map((it, i) => ({
           title: it.title || it.name || it.word || "",
