@@ -1,36 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T04:36:44.922Z",
-  "sourceGeneratedAt": "2026-09-07T12:36:41.235Z",
+  "generatedAt": "2026-09-07T13:09:50.939Z",
+  "sourceGeneratedAt": "2026-09-07T21:09:46.973Z",
   "date": "2026-09-07",
   "rulesSummary": {
     "maxRankPerPlatform": 30,
     "minimumRuleScore": 20,
     "candidateCount": 24,
-    "rejectedCount": 3
+    "rejectedCount": 0
   },
   "candidates": [
     {
-      "id": "douyin-5-原来学习好真的有肉吃",
-      "title": "原来学习好真的有肉吃",
-      "ruleScore": 72.1,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 5,
-          "hot": 10713171,
-          "url": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E5%AD%A6%E4%B9%A0%E5%A5%BD%E7%9C%9F%E7%9A%84%E6%9C%89%E8%82%89%E5%90%83"
-        }
-      ]
-    },
-    {
-      "id": "douyin-10-老派少女的穿搭",
+      "id": "douyin-11-老派少女的穿搭",
       "title": "老派少女的穿搭",
-      "ruleScore": 66.9,
+      "ruleScore": 65.7,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
@@ -38,16 +21,16 @@
       "platforms": [
         {
           "platform": "douyin",
-          "rank": 10,
-          "hot": 9238417,
+          "rank": 11,
+          "hot": 7739606,
           "url": "https://www.douyin.com/search/%E8%80%81%E6%B4%BE%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A9%BF%E6%90%AD"
         }
       ]
     },
     {
-      "id": "weibo-8-葫芦娃爷爷隔壁咖啡店挂了7个葫芦",
-      "title": "葫芦娃爷爷隔壁咖啡店挂了7个葫芦",
-      "ruleScore": 65.5,
+      "id": "weibo-9-葫芦娃爷爷隔壁咖啡店遭大量差评",
+      "title": "葫芦娃爷爷隔壁咖啡店遭大量差评",
+      "ruleScore": 64.1,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
@@ -55,32 +38,15 @@
       "platforms": [
         {
           "platform": "weibo",
-          "rank": 8,
-          "hot": 698710,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E5%92%96%E5%95%A1%E5%BA%97%E6%8C%82%E4%BA%867%E4%B8%AA%E8%91%AB%E8%8A%A6%23"
+          "rank": 9,
+          "hot": 515834,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E5%92%96%E5%95%A1%E5%BA%97%E9%81%AD%E5%A4%A7%E9%87%8F%E5%B7%AE%E8%AF%84%23"
         }
       ]
     },
     {
-      "id": "weibo-14-和贫困生喝咖啡一样的困境",
-      "title": "和贫困生喝咖啡一样的困境",
-      "ruleScore": 59.2,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 14,
-          "hot": 533608,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E4%B8%80%E6%A0%B7%E7%9A%84%E5%9B%B0%E5%A2%83%23"
-        }
-      ]
-    },
-    {
-      "id": "douyin-1-中国女篮加时险胜捷克女篮",
-      "title": "中国女篮加时险胜捷克女篮",
+      "id": "douyin-1-华为再发布高性能芯片",
+      "title": "华为再发布高性能芯片",
       "ruleScore": 56.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -90,14 +56,14 @@
         {
           "platform": "douyin",
           "rank": 1,
-          "hot": 12090595,
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%8A%A0%E6%97%B6%E9%99%A9%E8%83%9C%E6%8D%B7%E5%85%8B%E5%A5%B3%E7%AF%AE"
+          "hot": 12037553,
+          "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E5%86%8D%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87"
         }
       ]
     },
     {
-      "id": "douyin-2-白露节气到",
-      "title": "白露节气到",
+      "id": "douyin-2-中国女篮末轮将战意大利",
+      "title": "中国女篮末轮将战意大利",
       "ruleScore": 55.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -107,15 +73,32 @@
         {
           "platform": "douyin",
           "rank": 2,
-          "hot": 11833724,
-          "url": "https://www.douyin.com/search/%E7%99%BD%E9%9C%B2%E8%8A%82%E6%B0%94%E5%88%B0"
+          "hot": 12031062,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%9C%AB%E8%BD%AE%E5%B0%86%E6%88%98%E6%84%8F%E5%A4%A7%E5%88%A9"
         }
       ]
     },
     {
-      "id": "douyin-3-把青春华章写在祖国大地上",
-      "title": "把青春华章写在祖国大地上",
-      "ruleScore": 54.2,
+      "id": "douyin-22-蘑菇射击挑战都谁通关了",
+      "title": "蘑菇射击挑战都谁通关了",
+      "ruleScore": 54.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 22,
+          "hot": 7641716,
+          "url": "https://www.douyin.com/search/%E8%98%91%E8%8F%87%E5%B0%84%E5%87%BB%E6%8C%91%E6%88%98%E9%83%BD%E8%B0%81%E9%80%9A%E5%85%B3%E4%BA%86"
+        }
+      ]
+    },
+    {
+      "id": "douyin-3-信息通信行业发展十五五规划发布",
+      "title": "信息通信行业发展十五五规划发布",
+      "ruleScore": 54.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -124,15 +107,32 @@
         {
           "platform": "douyin",
           "rank": 3,
-          "hot": 11746204,
-          "url": "https://www.douyin.com/search/%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A"
+          "hot": 11111664,
+          "url": "https://www.douyin.com/search/%E4%BF%A1%E6%81%AF%E9%80%9A%E4%BF%A1%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%8F%91%E5%B8%83"
         }
       ]
     },
     {
-      "id": "weibo-1-星宇车灯处罚公告",
-      "title": "星宇车灯处罚公告",
-      "ruleScore": 53.4,
+      "id": "weibo-19-惠英红为逼母亲吃饭把菜倒进垃圾桶",
+      "title": "惠英红为逼母亲吃饭把菜倒进垃圾桶",
+      "ruleScore": 53.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 19,
+          "hot": 398821,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E4%B8%BA%E9%80%BC%E6%AF%8D%E4%BA%B2%E5%90%83%E9%A5%AD%E6%8A%8A%E8%8F%9C%E5%80%92%E8%BF%9B%E5%9E%83%E5%9C%BE%E6%A1%B6%23"
+        }
+      ]
+    },
+    {
+      "id": "weibo-1-赵一鸣致歉",
+      "title": "赵一鸣致歉",
+      "ruleScore": 53.7,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -141,15 +141,15 @@
         {
           "platform": "weibo",
           "rank": 1,
-          "hot": 1399622,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%AE%87%E8%BD%A6%E7%81%AF%E5%A4%84%E7%BD%9A%E5%85%AC%E5%91%8A%23"
+          "hot": 1712958,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E9%B8%A3%E8%87%B4%E6%AD%89%23"
         }
       ]
     },
     {
-      "id": "douyin-4-郑钦文今晚对战斯瓦泰克",
-      "title": "郑钦文今晚对战斯瓦泰克",
-      "ruleScore": 53.2,
+      "id": "douyin-4-秋天的第一件燕麦系卫衣",
+      "title": "秋天的第一件燕麦系卫衣",
+      "ruleScore": 53.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -158,15 +158,15 @@
         {
           "platform": "douyin",
           "rank": 4,
-          "hot": 11694338,
-          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8A%E6%99%9A%E5%AF%B9%E6%88%98%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
+          "hot": 11040313,
+          "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%B6%E7%87%95%E9%BA%A6%E7%B3%BB%E5%8D%AB%E8%A1%A3"
         }
       ]
     },
     {
-      "id": "weibo-2-中秋放假3天不调休高速不免费",
-      "title": "中秋放假3天不调休高速不免费",
-      "ruleScore": 52,
+      "id": "weibo-2-小米澎程",
+      "title": "小米澎程",
+      "ruleScore": 52.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -175,15 +175,15 @@
         {
           "platform": "weibo",
           "rank": 2,
-          "hot": 992881,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E4%B8%8D%E8%B0%83%E4%BC%91%E9%AB%98%E9%80%9F%E4%B8%8D%E5%85%8D%E8%B4%B9%23"
+          "hot": 1175171,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%23"
         }
       ]
     },
     {
-      "id": "douyin-6-军训才艺大赏",
-      "title": "军训才艺大赏",
-      "ruleScore": 51.1,
+      "id": "douyin-5-郑钦文今晚对战斯瓦泰克",
+      "title": "郑钦文今晚对战斯瓦泰克",
+      "ruleScore": 52.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -191,16 +191,16 @@
       "platforms": [
         {
           "platform": "douyin",
-          "rank": 6,
-          "hot": 10669817,
-          "url": "https://www.douyin.com/search/%E5%86%9B%E8%AE%AD%E6%89%8D%E8%89%BA%E5%A4%A7%E8%B5%8F"
+          "rank": 5,
+          "hot": 10470175,
+          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8A%E6%99%9A%E5%AF%B9%E6%88%98%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
         }
       ]
     },
     {
-      "id": "weibo-3-失去双腿的他说继续冲锋",
-      "title": "失去双腿的他说继续冲锋",
-      "ruleScore": 51,
+      "id": "weibo-3-院士寄语当代青年",
+      "title": "院士寄语当代青年",
+      "ruleScore": 51.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -209,15 +209,32 @@
         {
           "platform": "weibo",
           "rank": 3,
-          "hot": 974355,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B1%E5%8E%BB%E5%8F%8C%E8%85%BF%E7%9A%84%E4%BB%96%E8%AF%B4%E7%BB%A7%E7%BB%AD%E5%86%B2%E9%94%8B%23"
+          "hot": 1149087,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E5%AF%84%E8%AF%AD%E5%BD%93%E4%BB%A3%E9%9D%92%E5%B9%B4%23"
         }
       ]
     },
     {
-      "id": "weibo-4-在三国志战略版偶遇张靓颖",
-      "title": "在三国志战略版偶遇张靓颖",
-      "ruleScore": 50,
+      "id": "douyin-6-真正想上大学的是高三的自己",
+      "title": "真正想上大学的是高三的自己",
+      "ruleScore": 51,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 6,
+          "hot": 9873471,
+          "url": "https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E6%83%B3%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%98%AF%E9%AB%98%E4%B8%89%E7%9A%84%E8%87%AA%E5%B7%B1"
+        }
+      ]
+    },
+    {
+      "id": "weibo-4-小米澎程suv今晚上市",
+      "title": "小米澎程SUV今晚上市",
+      "ruleScore": 50.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -226,15 +243,15 @@
         {
           "platform": "weibo",
           "rank": 4,
-          "hot": 964908,
+          "hot": 1145345,
           "url": ""
         }
       ]
     },
     {
-      "id": "douyin-7-这个秋天你跑步了吗",
-      "title": "这个秋天你跑步了吗",
-      "ruleScore": 49.9,
+      "id": "douyin-7-白露节气到",
+      "title": "白露节气到",
+      "ruleScore": 49.7,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -243,15 +260,15 @@
         {
           "platform": "douyin",
           "rank": 7,
-          "hot": 9355541,
-          "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E7%A7%8B%E5%A4%A9%E4%BD%A0%E8%B7%91%E6%AD%A5%E4%BA%86%E5%90%97"
+          "hot": 8169329,
+          "url": "https://www.douyin.com/search/%E7%99%BD%E9%9C%B2%E8%8A%82%E6%B0%94%E5%88%B0"
         }
       ]
     },
     {
-      "id": "weibo-5-官方回应赴港看演唱会被取消全家低保",
-      "title": "官方回应赴港看演唱会被取消全家低保",
-      "ruleScore": 48.9,
+      "id": "weibo-5-宝格丽高珠晚宴",
+      "title": "宝格丽高珠晚宴",
+      "ruleScore": 49.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -260,15 +277,15 @@
         {
           "platform": "weibo",
           "rank": 5,
-          "hot": 960254,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%B5%B4%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%96%E6%B6%88%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%23"
+          "hot": 1134117,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%AB%98%E7%8F%A0%E6%99%9A%E5%AE%B4%23"
         }
       ]
     },
     {
-      "id": "douyin-8-韩女早秋穿什么",
-      "title": "韩女早秋穿什么",
-      "ruleScore": 48.9,
+      "id": "douyin-8-这个秋天你跑步了吗",
+      "title": "这个秋天你跑步了吗",
+      "ruleScore": 48.7,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -277,15 +294,32 @@
         {
           "platform": "douyin",
           "rank": 8,
-          "hot": 9340466,
-          "url": "https://www.douyin.com/search/%E9%9F%A9%E5%A5%B3%E6%97%A9%E7%A7%8B%E7%A9%BF%E4%BB%80%E4%B9%88"
+          "hot": 8053441,
+          "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E7%A7%8B%E5%A4%A9%E4%BD%A0%E8%B7%91%E6%AD%A5%E4%BA%86%E5%90%97"
         }
       ]
     },
     {
-      "id": "weibo-6-贫困生能不能追星",
-      "title": "贫困生能不能追星",
-      "ruleScore": 47.9,
+      "id": "douyin-28-酒店都凑不齐的雷霆混搭风装修",
+      "title": "酒店都凑不齐的雷霆混搭风装修",
+      "ruleScore": 48.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 28,
+          "hot": 7625483,
+          "url": "https://www.douyin.com/search/%E9%85%92%E5%BA%97%E9%83%BD%E5%87%91%E4%B8%8D%E9%BD%90%E7%9A%84%E9%9B%B7%E9%9C%86%E6%B7%B7%E6%90%AD%E9%A3%8E%E8%A3%85%E4%BF%AE"
+        }
+      ]
+    },
+    {
+      "id": "weibo-6-小孩子的社交不谈感情全是事情",
+      "title": "小孩子的社交不谈感情全是事情",
+      "ruleScore": 47.7,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -294,15 +328,15 @@
         {
           "platform": "weibo",
           "rank": 6,
-          "hot": 954631,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%AB%E5%9B%B0%E7%94%9F%E8%83%BD%E4%B8%8D%E8%83%BD%E8%BF%BD%E6%98%9F%23"
+          "hot": 818806,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%9A%84%E7%A4%BE%E4%BA%A4%E4%B8%8D%E8%B0%88%E6%84%9F%E6%83%85%E5%85%A8%E6%98%AF%E4%BA%8B%E6%83%85%23"
         }
       ]
     },
     {
-      "id": "douyin-9-多彩民族共舞中华",
-      "title": "多彩民族共舞中华",
-      "ruleScore": 47.9,
+      "id": "douyin-9-中国央行连续22个月增持黄金",
+      "title": "中国央行连续22个月增持黄金",
+      "ruleScore": 47.7,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -311,15 +345,49 @@
         {
           "platform": "douyin",
           "rank": 9,
-          "hot": 9293877,
-          "url": "https://www.douyin.com/search/%E5%A4%9A%E5%BD%A9%E6%B0%91%E6%97%8F%E5%85%B1%E8%88%9E%E4%B8%AD%E5%8D%8E"
+          "hot": 7759355,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD22%E4%B8%AA%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91"
         }
       ]
     },
     {
-      "id": "weibo-7-黄金散户",
-      "title": "黄金 散户",
+      "id": "weibo-26-吃播网红干饭莹莹去世年仅24岁",
+      "title": "吃播网红干饭莹莹去世年仅24岁",
       "ruleScore": 46.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 26,
+          "hot": 380256,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E6%92%AD%E7%BD%91%E7%BA%A2%E5%B9%B2%E9%A5%AD%E8%8E%B9%E8%8E%B9%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8524%E5%B2%81%23"
+        }
+      ]
+    },
+    {
+      "id": "douyin-10-华为新品发布会​",
+      "title": "华为新品发布会 ​",
+      "ruleScore": 46.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 10,
+          "hot": 7745829,
+          "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%20%E2%80%8B"
+        }
+      ]
+    },
+    {
+      "id": "weibo-7-小米发布会",
+      "title": "小米发布会",
+      "ruleScore": 46.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -328,49 +396,15 @@
         {
           "platform": "weibo",
           "rank": 7,
-          "hot": 812303,
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%20%E6%95%A3%E6%88%B7%23"
+          "hot": 540846,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%23"
         }
       ]
     },
     {
-      "id": "douyin-11-埃弗顿22曼联奈尔斯世界波绝平",
-      "title": "埃弗顿2:2曼联 奈尔斯世界波绝平",
-      "ruleScore": 45.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 11,
-          "hot": 9177951,
-          "url": "https://www.douyin.com/search/%E5%9F%83%E5%BC%97%E9%A1%BF2%3A2%E6%9B%BC%E8%81%94%20%E5%A5%88%E5%B0%94%E6%96%AF%E4%B8%96%E7%95%8C%E6%B3%A2%E7%BB%9D%E5%B9%B3"
-        }
-      ]
-    },
-    {
-      "id": "douyin-12-中国女篮末轮将战意大利",
-      "title": "中国女篮末轮将战意大利",
-      "ruleScore": 44.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 12,
-          "hot": 9168400,
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%9C%AB%E8%BD%AE%E5%B0%86%E6%88%98%E6%84%8F%E5%A4%A7%E5%88%A9"
-        }
-      ]
-    },
-    {
-      "id": "weibo-9-单亲妈妈说没钱再捐后公益机构笑了",
-      "title": "单亲妈妈说没钱再捐后公益机构笑了",
-      "ruleScore": 44.2,
+      "id": "weibo-8-忙忙碌碌寻宝藏群像夯爆了",
+      "title": "忙忙碌碌寻宝藏群像夯爆了",
+      "ruleScore": 45.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -378,65 +412,12 @@
       "platforms": [
         {
           "platform": "weibo",
-          "rank": 9,
-          "hot": 544376,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%AF%B4%E6%B2%A1%E9%92%B1%E5%86%8D%E6%8D%90%E5%90%8E%E5%85%AC%E7%9B%8A%E6%9C%BA%E6%9E%84%E7%AC%91%E4%BA%86%23"
-        }
-      ]
-    },
-    {
-      "id": "douyin-13-青铜峡大坝开始泄洪系谣言",
-      "title": "青铜峡大坝开始泄洪系谣言",
-      "ruleScore": 43.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 13,
-          "hot": 9153182,
-          "url": "https://www.douyin.com/search/%E9%9D%92%E9%93%9C%E5%B3%A1%E5%A4%A7%E5%9D%9D%E5%BC%80%E5%A7%8B%E6%B3%84%E6%B4%AA%E7%B3%BB%E8%B0%A3%E8%A8%80"
-        }
-      ]
-    },
-    {
-      "id": "weibo-10-詹青云宣传早春晴朗被吐槽",
-      "title": "詹青云宣传早春晴朗被吐槽",
-      "ruleScore": 43.2,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 10,
-          "hot": 544182,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9D%92%E4%BA%91%E5%AE%A3%E4%BC%A0%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%A2%AB%E5%90%90%E6%A7%BD%23"
+          "rank": 8,
+          "hot": 535344,
+          "url": ""
         }
       ]
     }
   ],
-  "rejected": [
-    {
-      "id": "weibo-12-母亲哄睡3岁儿子外出喝酒儿子坠亡",
-      "title": "母亲哄睡3岁儿子外出喝酒儿子坠亡",
-      "ruleScore": 61.2,
-      "exclusionReason": "命中高风险/不宜借势关键词"
-    },
-    {
-      "id": "weibo-23-李沐宸道歉",
-      "title": "李沐宸道歉",
-      "ruleScore": 30.1,
-      "exclusionReason": "命中高风险/不宜借势关键词"
-    },
-    {
-      "id": "douyin-21-西藏泥石流43人遇难519人失联",
-      "title": "西藏泥石流43人遇难519人失联",
-      "ruleScore": 35.7,
-      "exclusionReason": "命中高风险/不宜借势关键词"
-    }
-  ]
+  "rejected": []
 }
