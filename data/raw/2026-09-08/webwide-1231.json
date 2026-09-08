@@ -1,0 +1,3149 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 776846,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-09-01",
+        "sumH": 1051747,
+        "info": [
+          {
+            "eventId": "c99a38c93518740110179922",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "抖音被指推荐算法异常",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 25.71,
+            "hE": 270443,
+            "tags": [
+              "抖音",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 20.31,
+            "hE": 213644,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 0,
+            "pro": 14.83,
+            "hE": 155957,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "e438ac51e5c2623310179932",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "苹果正式换帅：特努斯接棒",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 7.54,
+            "hE": 79301,
+            "tags": [
+              "苹果"
+            ]
+          },
+          {
+            "eventId": "99aeb9de857ed6e610179890",
+            "img": "33.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "孙宇晨起诉景甜",
+            "startTime": 1787760000000,
+            "oldPoint": 0,
+            "pro": 5.6,
+            "hE": 58889,
+            "tags": [
+              "孙宇晨",
+              "景甜"
+            ]
+          },
+          {
+            "eventId": "098a68ed2b053ca910179918",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "体育",
+            "name": "梅西宣布从阿根廷国家队退役",
+            "startTime": 1788105600000,
+            "oldPoint": 0,
+            "pro": 4.56,
+            "hE": 47967,
+            "tags": [
+              "梅西",
+              "退役"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 3.28,
+            "hE": 34450,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 2.12,
+            "hE": 22278,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "5b2970ab5c0d9ba410179925",
+            "img": "4.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "官方通报78名学生住体育场宿舍",
+            "startTime": 1788105600000,
+            "oldPoint": 0,
+            "pro": 1.93,
+            "hE": 20323,
+            "tags": [
+              "宿舍",
+              "学生",
+              "广西"
+            ]
+          },
+          {
+            "eventId": "a2ace6c07289129310179927",
+            "img": "6.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "官方通报医院就诊被收20元空调费",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 1.73,
+            "hE": 18151,
+            "tags": [
+              "医院",
+              "空调费"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 130344
+          }
+        ]
+      },
+      {
+        "time": "2026-09-02",
+        "sumH": 627161,
+        "info": [
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 2,
+            "pro": 19.94,
+            "hE": 125042,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 1,
+            "pro": 19.8,
+            "hE": 124200,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "e438ac51e5c2623310179932",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "苹果正式换帅：特努斯接棒",
+            "startTime": 1788192000000,
+            "oldPoint": 3,
+            "pro": 10.8,
+            "hE": 67715,
+            "tags": [
+              "苹果"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 7,
+            "pro": 7.03,
+            "hE": 44089,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "ead0966e9500219610179965",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "微信回应单删提示",
+            "startTime": 1788278400000,
+            "oldPoint": 70,
+            "pro": 5.07,
+            "hE": 31799,
+            "tags": [
+              "微信",
+              "新功能"
+            ]
+          },
+          {
+            "eventId": "7ad07dee72d2940610179948",
+            "img": "1788334396247.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "科大讯飞一员工被曝出轨",
+            "startTime": 1788105600000,
+            "oldPoint": 17,
+            "pro": 3.89,
+            "hE": 24387,
+            "tags": [
+              "科大讯飞",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b86d099e31e7cc4610179934",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "徐州12345涌入万件演唱会诉求",
+            "startTime": 1788192000000,
+            "oldPoint": 38,
+            "pro": 3.79,
+            "hE": 23757,
+            "tags": [
+              "演唱会",
+              "12345",
+              "徐州"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 6,
+            "pro": 3.77,
+            "hE": 23643,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "933d85a8367d250810179935",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "美国银行副总裁在时代广场被刺身亡",
+            "startTime": 1788105600000,
+            "oldPoint": 40,
+            "pro": 3.36,
+            "hE": 21052,
+            "tags": [
+              "纽约",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "9d2c625924b142d610179959",
+            "img": "1.jpg",
+            "pointPro": 99.87,
+            "firstType": "违法犯罪",
+            "name": "反中乱港分子黄之锋当庭认罪",
+            "startTime": 1788278400000,
+            "oldPoint": 86,
+            "pro": 2.42,
+            "hE": 15156,
+            "tags": [
+              "黄之锋",
+              "认罪"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 126321
+          }
+        ]
+      },
+      {
+        "time": "2026-09-03",
+        "sumH": 934738,
+        "info": [
+          {
+            "eventId": "ead0966e9500219610179965",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "微信回应单删提示",
+            "startTime": 1788278400000,
+            "oldPoint": 4,
+            "pro": 16.47,
+            "hE": 153987,
+            "tags": [
+              "微信",
+              "新功能"
+            ]
+          },
+          {
+            "eventId": "30d28dbb3190a9c910179967",
+            "img": "3.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "家长自称纪委书记求关照 纪检介入",
+            "startTime": 1788364800000,
+            "oldPoint": 39,
+            "pro": 15.92,
+            "hE": 148808,
+            "tags": [
+              "卫健委",
+              "纪委书记",
+              "河北",
+              "调查"
+            ]
+          },
+          {
+            "eventId": "7247b9de511958d210179963",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "保定一高中家长在班级群自报干部身份",
+            "startTime": 1788278400000,
+            "oldPoint": 32,
+            "pro": 8.13,
+            "hE": 76038,
+            "tags": [
+              "保定"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 0,
+            "pro": 6.85,
+            "hE": 64046,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 56,
+            "pro": 5.8,
+            "hE": 54194,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "e19aa242aeb5287c10179897",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "四川内江地震",
+            "startTime": 1787846400000,
+            "oldPoint": 37,
+            "pro": 5.27,
+            "hE": 49307,
+            "tags": [
+              "地震",
+              "四川"
+            ]
+          },
+          {
+            "eventId": "d2d7d25a812643bd10179973",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "男子充值1000元误到账26419933亿元",
+            "startTime": 1788364800000,
+            "oldPoint": 74,
+            "pro": 4.28,
+            "hE": 39992,
+            "tags": [
+              "湖南",
+              "不当得利"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 41,
+            "pro": 3.48,
+            "hE": 32559,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "77bd142dd1e90d3110179961",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "李月汝护照遗失缺席女篮世界杯",
+            "startTime": 1788278400000,
+            "oldPoint": 18,
+            "pro": 2.89,
+            "hE": 27059,
+            "tags": [
+              "李月汝",
+              "女篮"
+            ]
+          },
+          {
+            "eventId": "6dea1b595d6b9a7b10179969",
+            "img": "5.jpg",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "网红博雅偷税被罚仍正常直播",
+            "startTime": 1788364800000,
+            "oldPoint": 76,
+            "pro": 2.87,
+            "hE": 26869,
+            "tags": [
+              "网红",
+              "偷逃税"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 261879
+          }
+        ]
+      },
+      {
+        "time": "2026-09-04",
+        "sumH": 726466,
+        "info": [
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 14,
+            "pro": 14.03,
+            "hE": 101948,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 4,
+            "pro": 12.58,
+            "hE": 91381,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 16,
+            "pro": 11.82,
+            "hE": 85894,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.96,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 3,
+            "pro": 10.1,
+            "hE": 73409,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "460e35c1c9670abe10179978",
+            "img": "2.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "女子在寿司郎餐桌上给孩子接小便",
+            "startTime": 1788451200000,
+            "oldPoint": 66,
+            "pro": 7.4,
+            "hE": 53764,
+            "tags": [
+              "寿司郎",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3be779783b5c04bc10179975",
+            "img": "33.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "人人影视上线正版APP",
+            "startTime": 1788278400000,
+            "oldPoint": 24,
+            "pro": 6.54,
+            "hE": 47535,
+            "tags": [
+              "人人影视"
+            ]
+          },
+          {
+            "eventId": "63a394ebb3783c6510179977",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "龚爽去世",
+            "startTime": 1788451200000,
+            "oldPoint": 67,
+            "pro": 5.15,
+            "hE": 37422,
+            "tags": [
+              "龚爽",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 10,
+            "pro": 3.01,
+            "hE": 21832,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "388488e34294c06010179980",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "政务",
+            "name": "朱忠明任上海市副市长",
+            "startTime": 1788451200000,
+            "oldPoint": 74,
+            "pro": 2.63,
+            "hE": 19142,
+            "tags": [
+              "朱忠明",
+              "副市长",
+              "上海"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 7,
+            "pro": 2.6,
+            "hE": 18914,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 175225
+          }
+        ]
+      },
+      {
+        "time": "2026-09-05",
+        "sumH": 320688,
+        "info": [
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 3,
+            "pro": 13.59,
+            "hE": 43567,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 9,
+            "pro": 12.46,
+            "hE": 39945,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 2,
+            "pro": 9.84,
+            "hE": 31548,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 0,
+            "pro": 9.53,
+            "hE": 30554,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 42,
+            "pro": 8.87,
+            "hE": 28451,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 20,
+            "pro": 8.79,
+            "hE": 28188,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "58c90283bba684b910179992",
+            "img": "1788759803116.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "羽衣甘蓝被曝农药超标",
+            "startTime": 1788278400000,
+            "oldPoint": 76,
+            "pro": 5.03,
+            "hE": 16144,
+            "tags": [
+              "食品安全",
+              "羽衣甘蓝"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 4.7,
+            "hE": 15080,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "b8031d470c6e268e10180002",
+            "img": "11.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "问界汽车辟谣",
+            "startTime": 1788451200000,
+            "oldPoint": 26,
+            "pro": 3.8,
+            "hE": 12182,
+            "tags": [
+              "问界",
+              "辟谣",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 7,
+            "pro": 3.44,
+            "hE": 11032,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 63997
+          }
+        ]
+      },
+      {
+        "time": "2026-09-06",
+        "sumH": 579087,
+        "info": [
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 27.36,
+            "hE": 158436,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 38,
+            "pro": 26.04,
+            "hE": 150802,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 0,
+            "pro": 10.74,
+            "hE": 62166,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "baa32243e03b58c510179985",
+            "img": "1000.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "多地严查赵一鸣、好想来",
+            "startTime": 1788451200000,
+            "oldPoint": 21,
+            "pro": 6.66,
+            "hE": 38587,
+            "tags": [
+              "好想来",
+              "赵一鸣零食",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 28,
+            "pro": 4.83,
+            "hE": 27972,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 3,
+            "pro": 4.24,
+            "hE": 24577,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 12,
+            "pro": 3.98,
+            "hE": 23059,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "97bbe5013cc5ebd510179986",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "违法犯罪",
+            "name": "贵阳一医生被患者锦旗藏刀刺伤",
+            "startTime": 1788451200000,
+            "oldPoint": 35,
+            "pro": 3.37,
+            "hE": 19540,
+            "tags": [
+              "医闹",
+              "贵阳"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 2,
+            "pro": 3.25,
+            "hE": 18818,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 5,
+            "pro": 1.72,
+            "hE": 9980,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 45150
+          }
+        ]
+      },
+      {
+        "time": "2026-09-07",
+        "sumH": 762133,
+        "info": [
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 4,
+            "pro": 18.68,
+            "hE": 142378,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 66,
+            "pro": 10.23,
+            "hE": 77936,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 12,
+            "pro": 10.1,
+            "hE": 76963,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 0,
+            "pro": 9.33,
+            "hE": 71070,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 6,
+            "pro": 8.37,
+            "hE": 63806,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 2,
+            "pro": 6.97,
+            "hE": 53116,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "6be6408d6775314210179996",
+            "img": "8.jpg",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "南宁铁路通报男子跳轨身亡",
+            "startTime": 1788710400000,
+            "oldPoint": 67,
+            "pro": 3.96,
+            "hE": 30166,
+            "tags": [
+              "南宁",
+              "跳轨"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 68,
+            "pro": 3.38,
+            "hE": 25774,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "baa32243e03b58c510179985",
+            "img": "1000.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "多地严查赵一鸣、好想来",
+            "startTime": 1788451200000,
+            "oldPoint": 3,
+            "pro": 3.24,
+            "hE": 24676,
+            "tags": [
+              "好想来",
+              "赵一鸣零食",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 18,
+            "pro": 3.13,
+            "hE": 23842,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 172406
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-09-08 00",
+        "sumH": 11353,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 26.03,
+            "hE": 2956,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 0,
+            "pro": 13.7,
+            "hE": 1556,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 0,
+            "pro": 13.65,
+            "hE": 1550,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 0,
+            "pro": 13.06,
+            "hE": 1483,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.85,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 0,
+            "pro": 12.37,
+            "hE": 1404,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 0,
+            "pro": 6.52,
+            "hE": 740,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 4.78,
+            "hE": 543,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.74,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 4.24,
+            "hE": 481,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.7,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 1.16,
+            "hE": 131,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "35b2431bacaa403610180010",
+            "img": "44.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "央视曝光环境监测造假",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 0.97,
+            "hE": 111,
+            "tags": [
+              "环境监测",
+              "造假",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 398
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 01",
+        "sumH": 7531,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 82.49,
+            "hE": 6212,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 3,
+            "pro": 5.13,
+            "hE": 387,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 7,
+            "pro": 2.01,
+            "hE": 151,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "55b93da46c01e81310179993",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "易慕峰抗癌药临床受试者死亡",
+            "startTime": 1788278400000,
+            "oldPoint": 41,
+            "pro": 1.68,
+            "hE": 127,
+            "tags": [
+              "易慕峰",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 10,
+            "pro": 1.52,
+            "hE": 114,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 22,
+            "pro": 1.44,
+            "hE": 108,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.77,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 4,
+            "pro": 1.36,
+            "hE": 102,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.73,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 6,
+            "pro": 1.11,
+            "hE": 83,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4595b54b45d51b8810180007",
+            "img": "11.png",
+            "pointPro": 99.69,
+            "firstType": "国际",
+            "name": "“姜健”号驱逐舰正式入列朝鲜海军",
+            "startTime": 1788624000000,
+            "oldPoint": 51,
+            "pro": 0.63,
+            "hE": 47,
+            "tags": [
+              "金正恩",
+              "驱逐舰",
+              "朝鲜"
+            ]
+          },
+          {
+            "eventId": "a9317b095777284e10179798",
+            "pointPro": 99.65,
+            "firstType": "体育",
+            "name": "逐梦少年足球赛",
+            "startTime": 1781193600000,
+            "oldPoint": 58,
+            "pro": 0.59,
+            "hE": 45,
+            "tags": [
+              "聊球节目"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 155
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 02",
+        "sumH": 5731,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 66.03,
+            "hE": 3784,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 16,
+            "pro": 3.85,
+            "hE": 221,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 23,
+            "pro": 3.85,
+            "hE": 221,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 3.65,
+            "hE": 209,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 14,
+            "pro": 3.28,
+            "hE": 188,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.74,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 4,
+            "pro": 3.02,
+            "hE": 173,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.68,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 15,
+            "pro": 2.93,
+            "hE": 168,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.63,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 18,
+            "pro": 2.68,
+            "hE": 154,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.58,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 19,
+            "pro": 2.41,
+            "hE": 138,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.53,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 2.25,
+            "hE": 129,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 346
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 03",
+        "sumH": 2247,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 61.4,
+            "hE": 1380,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 7,
+            "pro": 10.82,
+            "hE": 243,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 9,
+            "pro": 9.07,
+            "hE": 204,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 3,
+            "pro": 5.87,
+            "hE": 132,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 10,
+            "pro": 3.79,
+            "hE": 85,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 5,
+            "pro": 2.67,
+            "hE": 60,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.67,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 19,
+            "pro": 2.14,
+            "hE": 48,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "97bbe5013cc5ebd510179986",
+            "img": "22.png",
+            "pointPro": 99.61,
+            "firstType": "违法犯罪",
+            "name": "贵阳一医生被患者锦旗藏刀刺伤",
+            "startTime": 1788451200000,
+            "oldPoint": 12,
+            "pro": 1.79,
+            "hE": 40,
+            "tags": [
+              "医闹",
+              "贵阳"
+            ]
+          },
+          {
+            "eventId": "6be6408d6775314210179996",
+            "img": "8.jpg",
+            "pointPro": 99.56,
+            "firstType": "社会",
+            "name": "南宁铁路通报男子跳轨身亡",
+            "startTime": 1788710400000,
+            "oldPoint": 11,
+            "pro": 1.65,
+            "hE": 37,
+            "tags": [
+              "南宁",
+              "跳轨"
+            ]
+          },
+          {
+            "eventId": "c99a38c93518740110179922",
+            "img": "1.jpg",
+            "pointPro": 99.5,
+            "firstType": "企业",
+            "name": "抖音被指推荐算法异常",
+            "startTime": 1788192000000,
+            "oldPoint": 15,
+            "pro": 0.27,
+            "hE": 6,
+            "tags": [
+              "抖音",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 12
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 04",
+        "sumH": 1737,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 31.82,
+            "hE": 553,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 3,
+            "pro": 21.14,
+            "hE": 367,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 13.8,
+            "hE": 240,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "c99a38c93518740110179922",
+            "img": "1.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "抖音被指推荐算法异常",
+            "startTime": 1788192000000,
+            "oldPoint": 9,
+            "pro": 5.92,
+            "hE": 103,
+            "tags": [
+              "抖音",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.8,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 11,
+            "pro": 5.5,
+            "hE": 95,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "4595b54b45d51b8810180007",
+            "img": "11.png",
+            "pointPro": 99.75,
+            "firstType": "国际",
+            "name": "“姜健”号驱逐舰正式入列朝鲜海军",
+            "startTime": 1788624000000,
+            "oldPoint": 51,
+            "pro": 3.07,
+            "hE": 53,
+            "tags": [
+              "金正恩",
+              "驱逐舰",
+              "朝鲜"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.7,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 17,
+            "pro": 2.99,
+            "hE": 52,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.65,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 4,
+            "pro": 2.94,
+            "hE": 51,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.6,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 10,
+            "pro": 2.9,
+            "hE": 50,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.55,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 19,
+            "pro": 2.84,
+            "hE": 49,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 124
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 05",
+        "sumH": 3400,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 39.73,
+            "hE": 1351,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 14.99,
+            "hE": 510,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 13.84,
+            "hE": 470,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.86,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 21,
+            "pro": 10.84,
+            "hE": 369,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 19,
+            "pro": 5.76,
+            "hE": 196,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 4,
+            "pro": 2.77,
+            "hE": 94,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "baa32243e03b58c510179985",
+            "img": "1000.png",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "多地严查赵一鸣、好想来",
+            "startTime": 1788451200000,
+            "oldPoint": 14,
+            "pro": 2.75,
+            "hE": 94,
+            "tags": [
+              "好想来",
+              "赵一鸣零食",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e438ac51e5c2623310179932",
+            "img": "11.png",
+            "pointPro": 99.67,
+            "firstType": "企业",
+            "name": "苹果正式换帅：特努斯接棒",
+            "startTime": 1788192000000,
+            "oldPoint": 24,
+            "pro": 2.57,
+            "hE": 87,
+            "tags": [
+              "苹果"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.62,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 7,
+            "pro": 2.29,
+            "hE": 78,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "6be6408d6775314210179996",
+            "img": "8.jpg",
+            "pointPro": 99.57,
+            "firstType": "社会",
+            "name": "南宁铁路通报男子跳轨身亡",
+            "startTime": 1788710400000,
+            "oldPoint": 17,
+            "pro": 1.63,
+            "hE": 55,
+            "tags": [
+              "南宁",
+              "跳轨"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 96
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 06",
+        "sumH": 18098,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 62.06,
+            "hE": 11232,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 6.95,
+            "hE": 1258,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 6.76,
+            "hE": 1223,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "e438ac51e5c2623310179932",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "苹果正式换帅：特努斯接棒",
+            "startTime": 1788192000000,
+            "oldPoint": 7,
+            "pro": 5.04,
+            "hE": 912,
+            "tags": [
+              "苹果"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.86,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 3,
+            "pro": 3.16,
+            "hE": 571,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 4,
+            "pro": 2.24,
+            "hE": 406,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 10,
+            "pro": 1.95,
+            "hE": 353,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 13,
+            "pro": 1.89,
+            "hE": 342,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "35b2431bacaa403610180010",
+            "img": "44.png",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "央视曝光环境监测造假",
+            "startTime": 1788624000000,
+            "oldPoint": 44,
+            "pro": 1.75,
+            "hE": 317,
+            "tags": [
+              "环境监测",
+              "造假",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.69,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 15,
+            "pro": 1.17,
+            "hE": 212,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1272
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 07",
+        "sumH": 44667,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 69.14,
+            "hE": 30881,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 7.84,
+            "hE": 3501,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 6,
+            "pro": 3.97,
+            "hE": 1775,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 7,
+            "pro": 3.88,
+            "hE": 1732,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 3.31,
+            "hE": 1480,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 5,
+            "pro": 2.33,
+            "hE": 1042,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 11,
+            "pro": 1.41,
+            "hE": 631,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 12,
+            "pro": 1.31,
+            "hE": 585,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.75,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 4,
+            "pro": 0.96,
+            "hE": 429,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "a0de459399031ac310180008",
+            "img": "22.png",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "记者暗访化妆品“地下工厂”",
+            "startTime": 1788710400000,
+            "oldPoint": 10,
+            "pro": 0.96,
+            "hE": 428,
+            "tags": [
+              "化妆品",
+              "暗访",
+              "广东"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2183
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 08",
+        "sumH": 49169,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 68.16,
+            "hE": 33517,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 5.18,
+            "hE": 2546,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 4,
+            "pro": 4.72,
+            "hE": 2320,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 2,
+            "pro": 4.3,
+            "hE": 2116,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 3,
+            "pro": 3.95,
+            "hE": 1945,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.85,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 8,
+            "pro": 2.91,
+            "hE": 1428,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 5,
+            "pro": 2.89,
+            "hE": 1421,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 21,
+            "pro": 1.22,
+            "hE": 599,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "6be6408d6775314210179996",
+            "img": "8.jpg",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "南宁铁路通报男子跳轨身亡",
+            "startTime": 1788710400000,
+            "oldPoint": 15,
+            "pro": 0.89,
+            "hE": 438,
+            "tags": [
+              "南宁",
+              "跳轨"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.74,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 13,
+            "pro": 0.66,
+            "hE": 322,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2517
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 09",
+        "sumH": 48506,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 61.05,
+            "hE": 29611,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 7.29,
+            "hE": 3538,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 5.66,
+            "hE": 2747,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 3,
+            "pro": 3.57,
+            "hE": 1731,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 7,
+            "pro": 3.44,
+            "hE": 1668,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.83,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 5,
+            "pro": 3.3,
+            "hE": 1599,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.8,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 4,
+            "pro": 3,
+            "hE": 1457,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 6,
+            "pro": 2.86,
+            "hE": 1388,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 9,
+            "pro": 1.89,
+            "hE": 915,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "35b2431bacaa403610180010",
+            "img": "44.png",
+            "pointPro": 99.7,
+            "firstType": "社会",
+            "name": "央视曝光环境监测造假",
+            "startTime": 1788624000000,
+            "oldPoint": 11,
+            "pro": 1.72,
+            "hE": 833,
+            "tags": [
+              "环境监测",
+              "造假",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3019
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 10",
+        "sumH": 54954,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 54.84,
+            "hE": 30138,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 9.24,
+            "hE": 5079,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 10,
+            "pro": 6.48,
+            "hE": 3561,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 3,
+            "pro": 5.82,
+            "hE": 3198,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 6,
+            "pro": 5.52,
+            "hE": 3032,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 5.14,
+            "hE": 2822,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 7,
+            "pro": 3.26,
+            "hE": 1790,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.75,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 5,
+            "pro": 2.76,
+            "hE": 1516,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.71,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 4,
+            "pro": 1.51,
+            "hE": 832,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.68,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 8,
+            "pro": 1.43,
+            "hE": 787,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2199
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08 11",
+        "sumH": 33693,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 34.51,
+            "hE": 11628,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 22.53,
+            "hE": 7592,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 5,
+            "pro": 7.8,
+            "hE": 2628,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 6,
+            "pro": 6.61,
+            "hE": 2227,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 3,
+            "pro": 5.9,
+            "hE": 1989,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "7d4aeb9415e02a6110179998",
+            "img": "3.jpg",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "葫芦娃爷爷提前剪掉葫芦称需要休息",
+            "startTime": 1788364800000,
+            "oldPoint": 4,
+            "pro": 5.31,
+            "hE": 1788,
+            "tags": [
+              "浙江",
+              "打卡",
+              "扰民"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 8,
+            "pro": 3.46,
+            "hE": 1166,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.75,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 7,
+            "pro": 3.31,
+            "hE": 1114,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 2,
+            "pro": 2.57,
+            "hE": 866,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.68,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 14,
+            "pro": 1.41,
+            "hE": 476,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2219
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
