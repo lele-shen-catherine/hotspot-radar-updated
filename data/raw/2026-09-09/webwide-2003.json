@@ -1,0 +1,3163 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 747397,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-09-02",
+        "sumH": 626825,
+        "info": [
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 0,
+            "pro": 19.95,
+            "hE": 125042,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 19.81,
+            "hE": 124200,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "e438ac51e5c2623310179932",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "苹果正式换帅：特努斯接棒",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 10.8,
+            "hE": 67715,
+            "tags": [
+              "苹果"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 7.03,
+            "hE": 44089,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "ead0966e9500219610179965",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "微信回应单删提示",
+            "startTime": 1788278400000,
+            "oldPoint": 0,
+            "pro": 5.07,
+            "hE": 31799,
+            "tags": [
+              "微信",
+              "新功能"
+            ]
+          },
+          {
+            "eventId": "7ad07dee72d2940610179948",
+            "img": "1788334396247.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "科大讯飞一员工被曝出轨",
+            "startTime": 1788105600000,
+            "oldPoint": 0,
+            "pro": 3.89,
+            "hE": 24387,
+            "tags": [
+              "科大讯飞",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b86d099e31e7cc4610179934",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "徐州12345涌入万件演唱会诉求",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 3.79,
+            "hE": 23757,
+            "tags": [
+              "演唱会",
+              "12345",
+              "徐州"
+            ]
+          },
+          {
+            "eventId": "865c892bdda9a5a410179923",
+            "img": "2.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "大众已启动对星宇股份投诉专项调查",
+            "startTime": 1788192000000,
+            "oldPoint": 0,
+            "pro": 3.77,
+            "hE": 23643,
+            "tags": [
+              "大众汽车",
+              "星宇股份",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "933d85a8367d250810179935",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "美国银行副总裁在时代广场被刺身亡",
+            "startTime": 1788105600000,
+            "oldPoint": 0,
+            "pro": 3.36,
+            "hE": 21052,
+            "tags": [
+              "纽约",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "9d2c625924b142d610179959",
+            "img": "1.jpg",
+            "pointPro": 99.87,
+            "firstType": "违法犯罪",
+            "name": "反中乱港分子黄之锋当庭认罪",
+            "startTime": 1788278400000,
+            "oldPoint": 0,
+            "pro": 2.42,
+            "hE": 15156,
+            "tags": [
+              "黄之锋",
+              "认罪"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 125985
+          }
+        ]
+      },
+      {
+        "time": "2026-09-03",
+        "sumH": 902374,
+        "info": [
+          {
+            "eventId": "ead0966e9500219610179965",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "微信回应单删提示",
+            "startTime": 1788278400000,
+            "oldPoint": 4,
+            "pro": 17.06,
+            "hE": 153987,
+            "tags": [
+              "微信",
+              "新功能"
+            ]
+          },
+          {
+            "eventId": "30d28dbb3190a9c910179967",
+            "img": "3.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "家长自称纪委书记求关照 纪检介入",
+            "startTime": 1788364800000,
+            "oldPoint": 39,
+            "pro": 16.49,
+            "hE": 148808,
+            "tags": [
+              "卫健委",
+              "纪委书记",
+              "河北",
+              "调查"
+            ]
+          },
+          {
+            "eventId": "7247b9de511958d210179963",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "保定一高中家长在班级群自报干部身份",
+            "startTime": 1788278400000,
+            "oldPoint": 32,
+            "pro": 8.43,
+            "hE": 76038,
+            "tags": [
+              "保定"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 0,
+            "pro": 7.1,
+            "hE": 64046,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 55,
+            "pro": 6.01,
+            "hE": 54194,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "e19aa242aeb5287c10179897",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "四川内江地震",
+            "startTime": 1787846400000,
+            "oldPoint": 37,
+            "pro": 5.46,
+            "hE": 49307,
+            "tags": [
+              "地震",
+              "四川"
+            ]
+          },
+          {
+            "eventId": "d2d7d25a812643bd10179973",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "男子充值1000元误到账26419933亿元",
+            "startTime": 1788364800000,
+            "oldPoint": 73,
+            "pro": 4.44,
+            "hE": 40046,
+            "tags": [
+              "湖南",
+              "不当得利"
+            ]
+          },
+          {
+            "eventId": "77bd142dd1e90d3110179961",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "李月汝护照遗失缺席女篮世界杯",
+            "startTime": 1788278400000,
+            "oldPoint": 18,
+            "pro": 3.01,
+            "hE": 27143,
+            "tags": [
+              "李月汝",
+              "女篮"
+            ]
+          },
+          {
+            "eventId": "6dea1b595d6b9a7b10179969",
+            "img": "5.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "网红博雅偷税被罚仍正常直播",
+            "startTime": 1788364800000,
+            "oldPoint": 75,
+            "pro": 2.98,
+            "hE": 26926,
+            "tags": [
+              "网红",
+              "偷逃税"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 1,
+            "pro": 2.79,
+            "hE": 25186,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 236693
+          }
+        ]
+      },
+      {
+        "time": "2026-09-04",
+        "sumH": 707827,
+        "info": [
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 13,
+            "pro": 14.4,
+            "hE": 101948,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 4,
+            "pro": 12.92,
+            "hE": 91464,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 15,
+            "pro": 12.15,
+            "hE": 85972,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 3,
+            "pro": 10.37,
+            "hE": 73409,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "460e35c1c9670abe10179978",
+            "img": "2.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "女子在寿司郎餐桌上给孩子接小便",
+            "startTime": 1788451200000,
+            "oldPoint": 66,
+            "pro": 7.6,
+            "hE": 53764,
+            "tags": [
+              "寿司郎",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3be779783b5c04bc10179975",
+            "img": "33.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "人人影视上线正版APP",
+            "startTime": 1788278400000,
+            "oldPoint": 23,
+            "pro": 6.72,
+            "hE": 47536,
+            "tags": [
+              "人人影视"
+            ]
+          },
+          {
+            "eventId": "63a394ebb3783c6510179977",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "龚爽去世",
+            "startTime": 1788451200000,
+            "oldPoint": 67,
+            "pro": 5.29,
+            "hE": 37469,
+            "tags": [
+              "龚爽",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 9,
+            "pro": 3.08,
+            "hE": 21832,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "388488e34294c06010179980",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "政务",
+            "name": "朱忠明任上海市副市长",
+            "startTime": 1788451200000,
+            "oldPoint": 74,
+            "pro": 2.71,
+            "hE": 19198,
+            "tags": [
+              "朱忠明",
+              "副市长",
+              "上海"
+            ]
+          },
+          {
+            "eventId": "ab3a7139d8e1460e10179952",
+            "img": "4.jpg",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "豆包手机计划9月开售",
+            "startTime": 1788192000000,
+            "oldPoint": 14,
+            "pro": 2.55,
+            "hE": 18018,
+            "tags": [
+              "豆包手机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 157217
+          }
+        ]
+      },
+      {
+        "time": "2026-09-05",
+        "sumH": 280798,
+        "info": [
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 3,
+            "pro": 15.52,
+            "hE": 43567,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.98,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 2,
+            "pro": 11.24,
+            "hE": 31548,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 0,
+            "pro": 10.88,
+            "hE": 30554,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 41,
+            "pro": 10.13,
+            "hE": 28451,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.93,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 19,
+            "pro": 10.06,
+            "hE": 28238,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "58c90283bba684b910179992",
+            "img": "1788759803116.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "羽衣甘蓝被曝农药超标",
+            "startTime": 1788278400000,
+            "oldPoint": 77,
+            "pro": 5.75,
+            "hE": 16144,
+            "tags": [
+              "食品安全",
+              "羽衣甘蓝"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 5.37,
+            "hE": 15082,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "b8031d470c6e268e10180002",
+            "img": "11.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "问界汽车辟谣",
+            "startTime": 1788451200000,
+            "oldPoint": 25,
+            "pro": 4.34,
+            "hE": 12182,
+            "tags": [
+              "问界",
+              "辟谣",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 7,
+            "pro": 3.93,
+            "hE": 11032,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "55b93da46c01e81310179993",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "易慕峰抗癌药临床受试者死亡",
+            "startTime": 1788278400000,
+            "oldPoint": 16,
+            "pro": 2.64,
+            "hE": 7403,
+            "tags": [
+              "易慕峰",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 56597
+          }
+        ]
+      },
+      {
+        "time": "2026-09-06",
+        "sumH": 423259,
+        "info": [
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 37,
+            "pro": 35.63,
+            "hE": 150802,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.99,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 0,
+            "pro": 14.69,
+            "hE": 62166,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "baa32243e03b58c510179985",
+            "img": "1000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "多地严查赵一鸣、好想来",
+            "startTime": 1788451200000,
+            "oldPoint": 20,
+            "pro": 9.12,
+            "hE": 38587,
+            "tags": [
+              "好想来",
+              "赵一鸣零食",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 27,
+            "pro": 6.61,
+            "hE": 27972,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 2,
+            "pro": 5.81,
+            "hE": 24577,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 11,
+            "pro": 5.45,
+            "hE": 23059,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "97bbe5013cc5ebd510179986",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "违法犯罪",
+            "name": "贵阳一医生被患者锦旗藏刀刺伤",
+            "startTime": 1788451200000,
+            "oldPoint": 34,
+            "pro": 4.62,
+            "hE": 19541,
+            "tags": [
+              "医闹",
+              "贵阳"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.9,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 4.45,
+            "hE": 18820,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 2.36,
+            "hE": 9980,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "89830c771243bed510179924",
+            "img": "3.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "华为小米荣耀多款手机集体调价",
+            "startTime": 1788192000000,
+            "oldPoint": 8,
+            "pro": 1.93,
+            "hE": 8161,
+            "tags": [
+              "小米",
+              "华为",
+              "荣耀",
+              "手机",
+              "涨价"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 39594
+          }
+        ]
+      },
+      {
+        "time": "2026-09-07",
+        "sumH": 967398,
+        "info": [
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 13,
+            "pro": 23.31,
+            "hE": 225524,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 3,
+            "pro": 14.73,
+            "hE": 142473,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "49e1e5921394805310179995",
+            "img": "7.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "官方通报“郭德纲篡改红歌”",
+            "startTime": 1788710400000,
+            "oldPoint": 68,
+            "pro": 8.06,
+            "hE": 77936,
+            "tags": [
+              "郭德纲",
+              "文旅局",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "39cd109ba9c7996410179999",
+            "img": "2.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "女子停止捐款后遭公益机构电话催捐",
+            "startTime": 1788451200000,
+            "oldPoint": 11,
+            "pro": 7.96,
+            "hE": 76964,
+            "tags": [
+              "公益机构",
+              "催捐"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 5,
+            "pro": 6.6,
+            "hE": 63808,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "30c6410de333006c10179870",
+            "img": "3.jpg",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "西藏吉隆口岸发生泥石流",
+            "startTime": 1787673600000,
+            "oldPoint": 1,
+            "pro": 5.49,
+            "hE": 53116,
+            "tags": [
+              "泥石流",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "e6e5d87a55a68dba10180017",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "“干饭莹莹”因病去世",
+            "startTime": 1788451200000,
+            "oldPoint": 54,
+            "pro": 3.98,
+            "hE": 38512,
+            "tags": [
+              "吃播",
+              "网红",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "6be6408d6775314210179996",
+            "img": "8.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "南宁铁路通报男子跳轨身亡",
+            "startTime": 1788710400000,
+            "oldPoint": 70,
+            "pro": 3.12,
+            "hE": 30225,
+            "tags": [
+              "南宁",
+              "跳轨"
+            ]
+          },
+          {
+            "eventId": "13bb230c8a67778e10179997",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "官方回应驳船往长江倾倒黑色固体",
+            "startTime": 1788710400000,
+            "oldPoint": 71,
+            "pro": 2.68,
+            "hE": 25891,
+            "tags": [
+              "长江",
+              "非法倾倒"
+            ]
+          },
+          {
+            "eventId": "baa32243e03b58c510179985",
+            "img": "1000.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "多地严查赵一鸣、好想来",
+            "startTime": 1788451200000,
+            "oldPoint": 2,
+            "pro": 2.56,
+            "hE": 24802,
+            "tags": [
+              "好想来",
+              "赵一鸣零食",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 208147
+          }
+        ]
+      },
+      {
+        "time": "2026-09-08",
+        "sumH": 1122055,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 23,
+            "pro": 19.81,
+            "hE": 222272,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 11,
+            "pro": 19.18,
+            "hE": 215180,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 10.54,
+            "hE": 118306,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "65da51ab70cb635510180013",
+            "img": "2.jpg",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "网红宣传捐款百万实际只捐1元",
+            "startTime": 1788710400000,
+            "oldPoint": 21,
+            "pro": 6.4,
+            "hE": 71833,
+            "tags": [
+              "网红",
+              "广西",
+              "虚假捐款"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 1,
+            "pro": 4.75,
+            "hE": 53287,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "2a979ce06a31c20110180012",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "旅行青蛙即将停运",
+            "startTime": 1788796800000,
+            "oldPoint": 66,
+            "pro": 4.04,
+            "hE": 45380,
+            "tags": [
+              "旅行青蛙",
+              "停运"
+            ]
+          },
+          {
+            "eventId": "850c1432e2030c1510180016",
+            "img": "5.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "太子奶创始人李途纯去世",
+            "startTime": 1788796800000,
+            "oldPoint": 68,
+            "pro": 3.72,
+            "hE": 41763,
+            "tags": [
+              "李途纯",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "9cd1107e2745e8cc10180019",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "郑钦文收获中网正赛外卡",
+            "startTime": 1788796800000,
+            "oldPoint": 53,
+            "pro": 3.64,
+            "hE": 40894,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "048e827358d8343510180014",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "微信视频号崩了",
+            "startTime": 1788796800000,
+            "oldPoint": 60,
+            "pro": 3.37,
+            "hE": 37771,
+            "tags": [
+              "微信",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0b85711a60b869de10179989",
+            "img": "1788759414654.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "浙江绍兴葫芦娃爷爷走红后剪掉葫芦",
+            "startTime": 1787932800000,
+            "oldPoint": 4,
+            "pro": 2.74,
+            "hE": 30769,
+            "tags": [
+              "绍兴"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 244600
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-09-09 08",
+        "sumH": 50164,
+        "info": [
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 38.36,
+            "hE": 19245,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 15.15,
+            "hE": 7602,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 10.89,
+            "hE": 5463,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 7.28,
+            "hE": 3654,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 7.23,
+            "hE": 3627,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 0,
+            "pro": 3.64,
+            "hE": 1828,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.82,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 0,
+            "pro": 3.02,
+            "hE": 1515,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 0,
+            "pro": 2.76,
+            "hE": 1384,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 0,
+            "pro": 2.46,
+            "hE": 1234,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "2a979ce06a31c20110180012",
+            "img": "1.jpg",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "旅行青蛙即将停运",
+            "startTime": 1788796800000,
+            "oldPoint": 0,
+            "pro": 1.54,
+            "hE": 773,
+            "tags": [
+              "旅行青蛙",
+              "停运"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3839
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 09",
+        "sumH": 50328,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 1,
+            "pro": 19.59,
+            "hE": 9858,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 18.98,
+            "hE": 9553,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 16.07,
+            "hE": 8087,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 12.12,
+            "hE": 6102,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 11.1,
+            "hE": 5588,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 6,
+            "pro": 3.31,
+            "hE": 1666,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 5,
+            "pro": 2.39,
+            "hE": 1204,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 8,
+            "pro": 2.03,
+            "hE": 1023,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.8,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 7,
+            "pro": 1.67,
+            "hE": 838,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "e6e5d87a55a68dba10180017",
+            "img": "11.png",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "“干饭莹莹”因病去世",
+            "startTime": 1788451200000,
+            "oldPoint": 11,
+            "pro": 1.59,
+            "hE": 799,
+            "tags": [
+              "吃播",
+              "网红",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5610
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 10",
+        "sumH": 47222,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 22.03,
+            "hE": 10403,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 18.1,
+            "hE": 8548,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 16.24,
+            "hE": 7667,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 11.47,
+            "hE": 5419,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 10.76,
+            "hE": 5083,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 5,
+            "pro": 3.78,
+            "hE": 1783,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "850c1432e2030c1510180016",
+            "img": "5.jpg",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "太子奶创始人李途纯去世",
+            "startTime": 1788796800000,
+            "oldPoint": 10,
+            "pro": 2.51,
+            "hE": 1187,
+            "tags": [
+              "李途纯",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 6,
+            "pro": 2.41,
+            "hE": 1136,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.75,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 8,
+            "pro": 2.28,
+            "hE": 1075,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "2a979ce06a31c20110180012",
+            "img": "1.jpg",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "旅行青蛙即将停运",
+            "startTime": 1788796800000,
+            "oldPoint": 12,
+            "pro": 1.88,
+            "hE": 886,
+            "tags": [
+              "旅行青蛙",
+              "停运"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4035
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 11",
+        "sumH": 50757,
+        "info": [
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 34.72,
+            "hE": 17624,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 23.31,
+            "hE": 11833,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 9,
+            "hE": 4567,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 7.07,
+            "hE": 3588,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 6.29,
+            "hE": 3190,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 7,
+            "pro": 3.86,
+            "hE": 1958,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 5,
+            "pro": 2.43,
+            "hE": 1233,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 10,
+            "pro": 1.77,
+            "hE": 899,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "850c1432e2030c1510180016",
+            "img": "5.jpg",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "太子奶创始人李途纯去世",
+            "startTime": 1788796800000,
+            "oldPoint": 6,
+            "pro": 1.53,
+            "hE": 778,
+            "tags": [
+              "李途纯",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "2a979ce06a31c20110180012",
+            "img": "1.jpg",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "旅行青蛙即将停运",
+            "startTime": 1788796800000,
+            "oldPoint": 9,
+            "pro": 1.3,
+            "hE": 658,
+            "tags": [
+              "旅行青蛙",
+              "停运"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4429
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 12",
+        "sumH": 42073,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 1,
+            "pro": 41.04,
+            "hE": 17268,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 12.7,
+            "hE": 5344,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 10.23,
+            "hE": 4304,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 5.63,
+            "hE": 2367,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 10,
+            "pro": 4.58,
+            "hE": 1928,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 4.48,
+            "hE": 1887,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 5,
+            "pro": 4.16,
+            "hE": 1749,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.79,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 6,
+            "pro": 3.79,
+            "hE": 1596,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 7,
+            "pro": 3.47,
+            "hE": 1458,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "9c561a20476d438310179979",
+            "img": "3.jpg",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "武大通报教师曾某某被举报",
+            "startTime": 1788364800000,
+            "oldPoint": 18,
+            "pro": 2,
+            "hE": 841,
+            "tags": [
+              "武汉大学",
+              "安徽大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3331
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 13",
+        "sumH": 33352,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 40.8,
+            "hE": 13609,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 8.31,
+            "hE": 2772,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 7.82,
+            "hE": 2609,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 7.07,
+            "hE": 2358,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 6,
+            "pro": 6.51,
+            "hE": 2172,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 7,
+            "pro": 4.65,
+            "hE": 1550,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 4.15,
+            "hE": 1384,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 5,
+            "pro": 3.77,
+            "hE": 1259,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 8,
+            "pro": 2.47,
+            "hE": 825,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "9cd1107e2745e8cc10180019",
+            "img": "33.png",
+            "pointPro": 99.72,
+            "firstType": "体育",
+            "name": "郑钦文收获中网正赛外卡",
+            "startTime": 1788796800000,
+            "oldPoint": 13,
+            "pro": 2.39,
+            "hE": 796,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4018
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 14",
+        "sumH": 44423,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 30.44,
+            "hE": 13523,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 14.21,
+            "hE": 6312,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 1,
+            "pro": 8.3,
+            "hE": 3689,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 6,
+            "pro": 7.7,
+            "hE": 3420,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 7.51,
+            "hE": 3336,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 4,
+            "pro": 6.88,
+            "hE": 3054,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.8,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 5,
+            "pro": 4.99,
+            "hE": 2218,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "e6e5d87a55a68dba10180017",
+            "img": "11.png",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "“干饭莹莹”因病去世",
+            "startTime": 1788451200000,
+            "oldPoint": 16,
+            "pro": 3.57,
+            "hE": 1584,
+            "tags": [
+              "吃播",
+              "网红",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 8,
+            "pro": 2.65,
+            "hE": 1178,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "d85934bddb82d40c10179988",
+            "img": "44.png",
+            "pointPro": 99.7,
+            "firstType": "灾难",
+            "name": "莆田暴雨：洪水淹到屋内3米高",
+            "startTime": 1788364800000,
+            "oldPoint": 12,
+            "pro": 2.32,
+            "hE": 1031,
+            "tags": [
+              "洪涝灾害",
+              "莆田",
+              "暴雨"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5078
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 15",
+        "sumH": 46755,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 27.52,
+            "hE": 12866,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 16.68,
+            "hE": 7800,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 13.3,
+            "hE": 6220,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 6.93,
+            "hE": 3239,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 6,
+            "pro": 5.35,
+            "hE": 2502,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 4.54,
+            "hE": 2120,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 11,
+            "pro": 3.97,
+            "hE": 1857,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 5,
+            "pro": 3.61,
+            "hE": 1686,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 8,
+            "pro": 3.56,
+            "hE": 1664,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "9cd1107e2745e8cc10180019",
+            "img": "33.png",
+            "pointPro": 99.72,
+            "firstType": "体育",
+            "name": "郑钦文收获中网正赛外卡",
+            "startTime": 1788796800000,
+            "oldPoint": 21,
+            "pro": 2.45,
+            "hE": 1147,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5654
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 16",
+        "sumH": 37959,
+        "info": [
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 27.8,
+            "hE": 10554,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 16.27,
+            "hE": 6175,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 11.58,
+            "hE": 4397,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 3,
+            "pro": 9.96,
+            "hE": 3779,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 4,
+            "pro": 4.93,
+            "hE": 1871,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 8,
+            "pro": 4.17,
+            "hE": 1584,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 7,
+            "pro": 3.94,
+            "hE": 1494,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 6,
+            "pro": 3.04,
+            "hE": 1155,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e6e5d87a55a68dba10180017",
+            "img": "11.png",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "“干饭莹莹”因病去世",
+            "startTime": 1788451200000,
+            "oldPoint": 11,
+            "pro": 2.87,
+            "hE": 1091,
+            "tags": [
+              "吃播",
+              "网红",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "d218d98eb6e660b910179976",
+            "img": "44.png",
+            "pointPro": 99.74,
+            "firstType": "企业",
+            "name": "特斯拉Cybercab正式发布",
+            "startTime": 1788364800000,
+            "oldPoint": 13,
+            "pro": 2.05,
+            "hE": 779,
+            "tags": [
+              "特斯拉",
+              "特斯拉汽车"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5080
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 17",
+        "sumH": 70186,
+        "info": [
+          {
+            "eventId": "56942e3478a5c10110180026",
+            "img": "2.jpg",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "孙绍骋被双开",
+            "startTime": 1788883200000,
+            "oldPoint": 11,
+            "pro": 25.94,
+            "hE": 18204,
+            "tags": [
+              "孙绍骋",
+              "双开"
+            ]
+          },
+          {
+            "eventId": "8eaa40e5d5b18e0b10180030",
+            "img": "6.jpg",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "宁德时代否认网传不让普工上厕所",
+            "startTime": 1788883200000,
+            "oldPoint": 17,
+            "pro": 25.09,
+            "hE": 17611,
+            "tags": [
+              "宁德时代",
+              "辟谣",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 11.76,
+            "hE": 8254,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 3,
+            "pro": 7.63,
+            "hE": 5352,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 6.69,
+            "hE": 4692,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 5.54,
+            "hE": 3891,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 5,
+            "pro": 2.79,
+            "hE": 1959,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "a67546243049a83010180029",
+            "img": "5.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "小米回应澎程试驾事故",
+            "startTime": 1788883200000,
+            "oldPoint": 7,
+            "pro": 2.42,
+            "hE": 1699,
+            "tags": [
+              "小米",
+              "事故",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 10,
+            "pro": 2.21,
+            "hE": 1549,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "e6e5d87a55a68dba10180017",
+            "img": "11.png",
+            "pointPro": 99.74,
+            "firstType": "社会",
+            "name": "“干饭莹莹”因病去世",
+            "startTime": 1788451200000,
+            "oldPoint": 8,
+            "pro": 1.75,
+            "hE": 1227,
+            "tags": [
+              "吃播",
+              "网红",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5748
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 18",
+        "sumH": 42576,
+        "info": [
+          {
+            "eventId": "8eaa40e5d5b18e0b10180030",
+            "img": "6.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "宁德时代否认网传不让普工上厕所",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 41.56,
+            "hE": 17693,
+            "tags": [
+              "宁德时代",
+              "辟谣",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 2,
+            "pro": 14.29,
+            "hE": 6083,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 7.49,
+            "hE": 3190,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 3,
+            "pro": 6.18,
+            "hE": 2631,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 5,
+            "pro": 5.35,
+            "hE": 2280,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "56942e3478a5c10110180026",
+            "img": "2.jpg",
+            "pointPro": 99.84,
+            "firstType": "政务",
+            "name": "孙绍骋被双开",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 5.3,
+            "hE": 2256,
+            "tags": [
+              "孙绍骋",
+              "双开"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 6,
+            "pro": 3.58,
+            "hE": 1526,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.78,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 10,
+            "pro": 2.61,
+            "hE": 1113,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 8,
+            "pro": 1.89,
+            "hE": 806,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 11,
+            "pro": 1.44,
+            "hE": 614,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4384
+          }
+        ]
+      },
+      {
+        "time": "2026-09-09 19",
+        "sumH": 27565,
+        "info": [
+          {
+            "eventId": "8eaa40e5d5b18e0b10180030",
+            "img": "6.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "宁德时代否认网传不让普工上厕所",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 43.92,
+            "hE": 12107,
+            "tags": [
+              "宁德时代",
+              "辟谣",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 1,
+            "pro": 15.88,
+            "hE": 4377,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 11.07,
+            "hE": 3051,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "4a0d234804e8240d10179994",
+            "img": "1.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "女生赴港看演唱会被取消低保",
+            "startTime": 1788364800000,
+            "oldPoint": 6,
+            "pro": 6.55,
+            "hE": 1804,
+            "tags": [
+              "演唱会",
+              "低保",
+              "江西"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 3,
+            "pro": 4.98,
+            "hE": 1374,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 4.29,
+            "hE": 1183,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰"
+            ]
+          },
+          {
+            "eventId": "56942e3478a5c10110180026",
+            "img": "2.jpg",
+            "pointPro": 99.8,
+            "firstType": "政务",
+            "name": "孙绍骋被双开",
+            "startTime": 1788883200000,
+            "oldPoint": 5,
+            "pro": 2.84,
+            "hE": 784,
+            "tags": [
+              "孙绍骋",
+              "双开"
+            ]
+          },
+          {
+            "eventId": "c874ae48aba3157910180025",
+            "img": "1.jpg",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "董建华逝世",
+            "startTime": 1788883200000,
+            "oldPoint": 8,
+            "pro": 2.1,
+            "hE": 578,
+            "tags": [
+              "董建华",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "4c8e8b3e89b870e710180028",
+            "img": "4.jpg",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "军训教官强制猥亵高一女生被刑拘",
+            "startTime": 1788796800000,
+            "oldPoint": 9,
+            "pro": 1.85,
+            "hE": 510,
+            "tags": [
+              "教官",
+              "猥亵"
+            ]
+          },
+          {
+            "eventId": "b98755bb678d5a4710179987",
+            "img": "33.png",
+            "pointPro": 99.7,
+            "firstType": "体育",
+            "name": "郑钦文逆转晋级美网16强",
+            "startTime": 1788624000000,
+            "oldPoint": 7,
+            "pro": 1,
+            "hE": 276,
+            "tags": [
+              "郑钦文",
+              "美国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1521
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}

@@ -1,194 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T04:38:38.544Z",
+  "generatedAt": "2026-09-09T12:03:39.046Z",
   "date": "2026-09-09",
-  "sourceGeneratedAt": "2026-09-09T12:38:35.011Z",
+  "sourceGeneratedAt": "2026-09-09T20:03:33.556Z",
   "provider": "local-rules",
   "model": "auditable-score-v1",
   "summary": {
     "analyzed": 24,
-    "selected": 8,
-    "rejected": 16
+    "selected": 1,
+    "rejected": 23
   },
   "hotspots": [
     {
-      "id": "weibo-2-西电学生回应数学开学考",
-      "title": "西电学生回应数学开学考",
-      "ruleScore": 71.9,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 2,
-          "hot": 958781,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%94%B5%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%95%B0%E5%AD%A6%E5%BC%80%E5%AD%A6%E8%80%83%23"
-        }
-      ],
-      "worthLeveraging": true,
-      "riskLevel": "low",
-      "relevanceScore": 82,
-      "timelinessScore": 89.6,
-      "creativityScore": 82,
-      "totalScore": 78.1,
-      "level": "A",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "西电学生回应数学开学考",
-      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
-      "communicationIdea": "用“西电学生回应数学开学考”作为内容切入点，提供具体参与方式。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "weibo-4-女孩去邻居家吃饭惨遭夫妻分尸",
-      "title": "女孩去邻居家吃饭惨遭夫妻分尸",
-      "ruleScore": 69.5,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 4,
-          "hot": 682326,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8E%BB%E9%82%BB%E5%B1%85%E5%AE%B6%E5%90%83%E9%A5%AD%E6%83%A8%E9%81%AD%E5%A4%AB%E5%A6%BB%E5%88%86%E5%B0%B8%23"
-        }
-      ],
-      "worthLeveraging": true,
-      "riskLevel": "low",
-      "relevanceScore": 82,
-      "timelinessScore": 87.2,
-      "creativityScore": 82,
-      "totalScore": 76.5,
-      "level": "A",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "女孩去邻居家吃饭惨遭夫妻分尸",
-      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
-      "communicationIdea": "围绕“女孩去邻居家吃饭惨遭夫妻分尸”给出可直接尝试的菜单、做法或购买清单。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-11-国庆出游日常不费力穿搭",
-      "title": "国庆出游日常不费力穿搭",
-      "ruleScore": 65.7,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 11,
-          "hot": 7995864,
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E6%97%A5%E5%B8%B8%E4%B8%8D%E8%B4%B9%E5%8A%9B%E7%A9%BF%E6%90%AD"
-        }
-      ],
-      "worthLeveraging": true,
-      "riskLevel": "low",
-      "relevanceScore": 82,
-      "timelinessScore": 78.8,
-      "creativityScore": 82,
-      "totalScore": 73.4,
-      "level": "A",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "国庆出游日常不费力穿搭",
-      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
-      "communicationIdea": "用“国庆出游日常不费力穿搭”作为内容切入点，提供具体参与方式。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-16-人类对运动的开发不足百分之一",
-      "title": "人类对运动的开发不足百分之一",
-      "ruleScore": 60.7,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 16,
-          "hot": 7709930,
-          "url": "https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%AF%B9%E8%BF%90%E5%8A%A8%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8D%E8%B6%B3%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80"
-        }
-      ],
-      "worthLeveraging": true,
-      "riskLevel": "low",
-      "relevanceScore": 82,
-      "timelinessScore": 72.8,
-      "creativityScore": 82,
-      "totalScore": 70,
-      "level": "A",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "人类对运动的开发不足百分之一",
-      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
-      "communicationIdea": "用“人类对运动的开发不足百分之一”作为内容切入点，提供具体参与方式。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-18-鼎叔魔性化妆模仿挑战",
-      "title": "鼎叔魔性化妆模仿挑战",
-      "ruleScore": 58.7,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 18,
-          "hot": 7684875,
-          "url": "https://www.douyin.com/search/%E9%BC%8E%E5%8F%94%E9%AD%94%E6%80%A7%E5%8C%96%E5%A6%86%E6%A8%A1%E4%BB%BF%E6%8C%91%E6%88%98"
-        }
-      ],
-      "worthLeveraging": true,
-      "riskLevel": "low",
-      "relevanceScore": 82,
-      "timelinessScore": 70.4,
-      "creativityScore": 82,
-      "totalScore": 68.6,
-      "level": "B",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "鼎叔魔性化妆模仿挑战",
-      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
-      "communicationIdea": "用“鼎叔魔性化妆模仿挑战”作为内容切入点，提供具体参与方式。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "weibo-18-女子向大雁塔景区雨水井塞不明物",
-      "title": "女子向大雁塔景区雨水井塞不明物",
-      "ruleScore": 54.4,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 18,
-          "hot": 291967,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%91%E5%A4%A7%E9%9B%81%E5%A1%94%E6%99%AF%E5%8C%BA%E9%9B%A8%E6%B0%B4%E4%BA%95%E5%A1%9E%E4%B8%8D%E6%98%8E%E7%89%A9%23"
-        }
-      ],
-      "worthLeveraging": true,
-      "riskLevel": "low",
-      "relevanceScore": 82,
-      "timelinessScore": 70.4,
-      "creativityScore": 72,
-      "totalScore": 65.5,
-      "level": "B",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "女子向大雁塔景区雨水井塞不明物",
-      "businessAction": "整理目的地、出行或周末消费清单，并明确价格与适用条件。",
-      "communicationIdea": "围绕“女子向大雁塔景区雨水井塞不明物”制作实用攻略，避免夸大承诺。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
       "id": "douyin-29-官俊臣重庆大学开学报到",
       "title": "官俊臣重庆大学开学报到",
-      "ruleScore": 47.6,
+      "ruleScore": 47.7,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
@@ -197,7 +23,7 @@
         {
           "platform": "douyin",
           "rank": 29,
-          "hot": 7640152,
+          "hot": 7707079,
           "url": "https://www.douyin.com/search/%E5%AE%98%E4%BF%8A%E8%87%A3%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%AD%A6%E6%8A%A5%E5%88%B0"
         }
       ],
@@ -213,41 +39,12 @@
       "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
       "communicationIdea": "用“官俊臣重庆大学开学报到”作为内容切入点，提供具体参与方式。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-30-金铲铲自然之力版本攻略",
-      "title": "金铲铲自然之力版本攻略",
-      "ruleScore": 46.6,
-      "crossPlatform": false,
-      "businessKeywordMatch": true,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 30,
-          "hot": 7639848,
-          "url": "https://www.douyin.com/search/%E9%87%91%E9%93%B2%E9%93%B2%E8%87%AA%E7%84%B6%E4%B9%8B%E5%8A%9B%E7%89%88%E6%9C%AC%E6%94%BB%E7%95%A5"
-        }
-      ],
-      "worthLeveraging": true,
-      "riskLevel": "low",
-      "relevanceScore": 82,
-      "timelinessScore": 56,
-      "creativityScore": 72,
-      "totalScore": 59.4,
-      "level": "B",
-      "reason": "热度、业务相关性和可执行性达到入选阈值。",
-      "eventSummary": "金铲铲自然之力版本攻略",
-      "businessAction": "整理目的地、出行或周末消费清单，并明确价格与适用条件。",
-      "communicationIdea": "围绕“金铲铲自然之力版本攻略”制作实用攻略，避免夸大承诺。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
     }
   ],
   "watchlist": [
     {
-      "id": "douyin-1-皇马21击败国米",
-      "title": "皇马2:1击败国米",
+      "id": "douyin-1-燕麦系秋天的神",
+      "title": "燕麦系秋天的神",
       "ruleScore": 56.3,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -257,8 +54,8 @@
         {
           "platform": "douyin",
           "rank": 1,
-          "hot": 12125183,
-          "url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC2%3A1%E5%87%BB%E8%B4%A5%E5%9B%BD%E7%B1%B3"
+          "hot": 12116847,
+          "url": "https://www.douyin.com/search/%E7%87%95%E9%BA%A6%E7%B3%BB%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%A5%9E"
         }
       ],
       "worthLeveraging": false,
@@ -269,15 +66,15 @@
       "totalScore": 55.5,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "皇马2:1击败国米",
+      "eventSummary": "燕麦系秋天的神",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-2-写给老师的教师节贺卡",
-      "title": "写给老师的教师节贺卡",
-      "ruleScore": 55.3,
+      "id": "douyin-2-伊朗打击美军基地和战舰",
+      "title": "伊朗打击美军基地和战舰",
+      "ruleScore": 55.2,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -286,8 +83,8 @@
         {
           "platform": "douyin",
           "rank": 2,
-          "hot": 12124471,
-          "url": "https://www.douyin.com/search/%E5%86%99%E7%BB%99%E8%80%81%E5%B8%88%E7%9A%84%E6%95%99%E5%B8%88%E8%8A%82%E8%B4%BA%E5%8D%A1"
+          "hot": 12110001,
+          "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%92%8C%E6%88%98%E8%88%B0"
         }
       ],
       "worthLeveraging": false,
@@ -295,18 +92,18 @@
       "relevanceScore": 38,
       "timelinessScore": 89.6,
       "creativityScore": 42,
-      "totalScore": 54.8,
+      "totalScore": 54.7,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "写给老师的教师节贺卡",
+      "eventSummary": "伊朗打击美军基地和战舰",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-1-早春晴朗大结局",
-      "title": "早春晴朗大结局",
-      "ruleScore": 53.9,
+      "id": "weibo-1-宁德时代已报警",
+      "title": "宁德时代已报警",
+      "ruleScore": 54.6,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -315,8 +112,8 @@
         {
           "platform": "weibo",
           "rank": 1,
-          "hot": 1987275,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%A4%A7%E7%BB%93%E5%B1%80%23"
+          "hot": 3293185,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6%23"
         }
       ],
       "worthLeveraging": false,
@@ -324,10 +121,10 @@
       "relevanceScore": 38,
       "timelinessScore": 90.8,
       "creativityScore": 42,
-      "totalScore": 54.3,
+      "totalScore": 54.6,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "早春晴朗大结局",
+      "eventSummary": "宁德时代已报警",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
@@ -344,7 +141,7 @@
         {
           "platform": "douyin",
           "rank": 3,
-          "hot": 11339014,
+          "hot": 11330357,
           "url": "https://www.douyin.com/search/%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0"
         }
       ],
@@ -362,9 +159,67 @@
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-5-龙版传媒停牌核查",
-      "title": "龙版传媒停牌核查",
-      "ruleScore": 52.1,
+      "id": "douyin-4-在太空拧湿毛巾有多神奇",
+      "title": "在太空拧湿毛巾有多神奇",
+      "ruleScore": 53.2,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 4,
+          "hot": 11303573,
+          "url": "https://www.douyin.com/search/%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%8B%A7%E6%B9%BF%E6%AF%9B%E5%B7%BE%E6%9C%89%E5%A4%9A%E7%A5%9E%E5%A5%87"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 87.2,
+      "creativityScore": 42,
+      "totalScore": 53.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "在太空拧湿毛巾有多神奇",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-2-梅姨微信朋友圈曝光",
+      "title": "梅姨微信朋友圈曝光",
+      "ruleScore": 52.3,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 2,
+          "hot": 1293116,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9B%9D%E5%85%89%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 89.6,
+      "creativityScore": 42,
+      "totalScore": 53.3,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "梅姨微信朋友圈曝光",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-5-写给老师的教师节贺卡",
+      "title": "写给老师的教师节贺卡",
+      "ruleScore": 52,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -373,8 +228,8 @@
         {
           "platform": "douyin",
           "rank": 5,
-          "hot": 10573684,
-          "url": "https://www.douyin.com/search/%E9%BE%99%E7%89%88%E4%BC%A0%E5%AA%92%E5%81%9C%E7%89%8C%E6%A0%B8%E6%9F%A5"
+          "hot": 10380631,
+          "url": "https://www.douyin.com/search/%E5%86%99%E7%BB%99%E8%80%81%E5%B8%88%E7%9A%84%E6%95%99%E5%B8%88%E8%8A%82%E8%B4%BA%E5%8D%A1"
         }
       ],
       "worthLeveraging": false,
@@ -382,10 +237,10 @@
       "relevanceScore": 38,
       "timelinessScore": 86,
       "creativityScore": 42,
-      "totalScore": 52.7,
+      "totalScore": 52.6,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "龙版传媒停牌核查",
+      "eventSummary": "写给老师的教师节贺卡",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
@@ -393,7 +248,7 @@
     {
       "id": "weibo-3-服贸会今日开幕",
       "title": "服贸会今日开幕",
-      "ruleScore": 50.6,
+      "ruleScore": 51.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -402,7 +257,7 @@
         {
           "platform": "weibo",
           "rank": 3,
-          "hot": 755150,
+          "hot": 1096160,
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%23"
         }
       ],
@@ -411,7 +266,7 @@
       "relevanceScore": 38,
       "timelinessScore": 88.4,
       "creativityScore": 42,
-      "totalScore": 52.3,
+      "totalScore": 52.5,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
       "eventSummary": "服贸会今日开幕",
@@ -420,37 +275,37 @@
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-6-国足公布新一期集训名单",
-      "title": "国足公布新一期集训名单",
-      "ruleScore": 51,
+      "id": "weibo-4-科颜氏蔡徐坤",
+      "title": "科颜氏蔡徐坤",
+      "ruleScore": 50.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
       "exclusionReason": "",
       "platforms": [
         {
-          "platform": "douyin",
-          "rank": 6,
-          "hot": 10295986,
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%85%AC%E5%B8%83%E6%96%B0%E4%B8%80%E6%9C%9F%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95"
+          "platform": "weibo",
+          "rank": 4,
+          "hot": 1071712,
+          "url": ""
         }
       ],
       "worthLeveraging": false,
       "riskLevel": "low",
       "relevanceScore": 38,
-      "timelinessScore": 84.8,
+      "timelinessScore": 87.2,
       "creativityScore": 42,
-      "totalScore": 51.9,
+      "totalScore": 51.8,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "国足公布新一期集训名单",
+      "eventSummary": "科颜氏蔡徐坤",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-7-ig30战胜lgd",
-      "title": "IG 3:0战胜LGD",
+      "id": "douyin-7-中国男排13不敌伊朗",
+      "title": "中国男排1:3不敌伊朗",
       "ruleScore": 49.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -460,8 +315,8 @@
         {
           "platform": "douyin",
           "rank": 7,
-          "hot": 8913060,
-          "url": "https://www.douyin.com/search/IG%203%3A0%E6%88%98%E8%83%9CLGD"
+          "hot": 9184510,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%921%3A3%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97"
         }
       ],
       "worthLeveraging": false,
@@ -472,44 +327,15 @@
       "totalScore": 51.2,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "IG 3:0战胜LGD",
+      "eventSummary": "中国男排1:3不敌伊朗",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-5-一只羊脱衣全过程",
-      "title": "一只羊脱衣全过程",
-      "ruleScore": 48.3,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 5,
-          "hot": 602922,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%BE%8A%E8%84%B1%E8%A1%A3%E5%85%A8%E8%BF%87%E7%A8%8B%23"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 86,
-      "creativityScore": 42,
-      "totalScore": 50.8,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "一只羊脱衣全过程",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-8-毛泽东逝世50周年",
-      "title": "毛泽东逝世50周年",
-      "ruleScore": 48.8,
+      "id": "douyin-8-郑钦文今晚对阵莱巴金娜",
+      "title": "郑钦文今晚对阵莱巴金娜",
+      "ruleScore": 48.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -518,8 +344,8 @@
         {
           "platform": "douyin",
           "rank": 8,
-          "hot": 8582484,
-          "url": "https://www.douyin.com/search/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%9D%E4%B8%9650%E5%91%A8%E5%B9%B4"
+          "hot": 9109105,
+          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8A%E6%99%9A%E5%AF%B9%E9%98%B5%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C"
         }
       ],
       "worthLeveraging": false,
@@ -530,44 +356,15 @@
       "totalScore": 50.5,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "毛泽东逝世50周年",
+      "eventSummary": "郑钦文今晚对阵莱巴金娜",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-6-复方甘草片低钾血",
-      "title": "复方甘草片 低钾血",
-      "ruleScore": 47.3,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 6,
-          "hot": 594611,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%96%B9%E7%94%98%E8%8D%89%E7%89%87%20%E4%BD%8E%E9%92%BE%E8%A1%80%23"
-        }
-      ],
-      "worthLeveraging": false,
-      "riskLevel": "low",
-      "relevanceScore": 38,
-      "timelinessScore": 84.8,
-      "creativityScore": 42,
-      "totalScore": 50.1,
-      "level": "observe",
-      "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "复方甘草片 低钾血",
-      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
-      "communicationIdea": "保留为趋势观察，不直接追热点。",
-      "riskNote": "发布前复核事实、版权和品牌语境。"
-    },
-    {
-      "id": "douyin-9-觉醒吧我的厨艺天赋",
-      "title": "觉醒吧我的厨艺天赋",
-      "ruleScore": 47.8,
+      "id": "douyin-9-openai宣布ai给出千禧难题证明",
+      "title": "OpenAI宣布AI给出千禧难题证明",
+      "ruleScore": 47.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -576,8 +373,8 @@
         {
           "platform": "douyin",
           "rank": 9,
-          "hot": 8512436,
-          "url": "https://www.douyin.com/search/%E8%A7%89%E9%86%92%E5%90%A7%E6%88%91%E7%9A%84%E5%8E%A8%E8%89%BA%E5%A4%A9%E8%B5%8B"
+          "hot": 9097958,
+          "url": "https://www.douyin.com/search/OpenAI%E5%AE%A3%E5%B8%83AI%E7%BB%99%E5%87%BA%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E8%AF%81%E6%98%8E"
         }
       ],
       "worthLeveraging": false,
@@ -588,15 +385,15 @@
       "totalScore": 49.8,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "觉醒吧我的厨艺天赋",
+      "eventSummary": "OpenAI宣布AI给出千禧难题证明",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-7-阴阳师绮梦花语惊喜上线",
-      "title": "阴阳师绮梦花语惊喜上线",
-      "ruleScore": 46.1,
+      "id": "weibo-6-戚薇ai脸演丧尸片了",
+      "title": "戚薇AI脸演丧尸片了",
+      "ruleScore": 46.8,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -604,27 +401,27 @@
       "platforms": [
         {
           "platform": "weibo",
-          "rank": 7,
-          "hot": 494113,
-          "url": ""
+          "rank": 6,
+          "hot": 405568,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86%23"
         }
       ],
       "worthLeveraging": false,
       "riskLevel": "low",
       "relevanceScore": 38,
-      "timelinessScore": 83.6,
+      "timelinessScore": 84.8,
       "creativityScore": 42,
-      "totalScore": 49.3,
+      "totalScore": 49.8,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "阴阳师绮梦花语惊喜上线",
+      "eventSummary": "戚薇AI脸演丧尸片了",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-10-华屋村的十七棵松与长征精神",
-      "title": "华屋村的十七棵松与长征精神",
+      "id": "douyin-10-人在异乡胃在故乡",
+      "title": "人在异乡胃在故乡",
       "ruleScore": 46.8,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -634,8 +431,8 @@
         {
           "platform": "douyin",
           "rank": 10,
-          "hot": 8445597,
-          "url": "https://www.douyin.com/search/%E5%8D%8E%E5%B1%8B%E6%9D%91%E7%9A%84%E5%8D%81%E4%B8%83%E6%A3%B5%E6%9D%BE%E4%B8%8E%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E"
+          "hot": 8767377,
+          "url": "https://www.douyin.com/search/%E4%BA%BA%E5%9C%A8%E5%BC%82%E4%B9%A1%E8%83%83%E5%9C%A8%E6%95%85%E4%B9%A1"
         }
       ],
       "worthLeveraging": false,
@@ -646,15 +443,73 @@
       "totalScore": 49.1,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "华屋村的十七棵松与长征精神",
+      "eventSummary": "人在异乡胃在故乡",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "weibo-8-硬座出差软裁员",
-      "title": "硬座出差 软裁员",
-      "ruleScore": 44.9,
+      "id": "weibo-7-迪丽热巴老式脸盆帽子",
+      "title": "迪丽热巴老式脸盆帽子",
+      "ruleScore": 45.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 7,
+          "hot": 357111,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%80%81%E5%BC%8F%E8%84%B8%E7%9B%86%E5%B8%BD%E5%AD%90%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 83.6,
+      "creativityScore": 42,
+      "totalScore": 49.1,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "迪丽热巴老式脸盆帽子",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-11-女高音歌唱家龚爽告别仪式举行",
+      "title": "女高音歌唱家龚爽告别仪式举行",
+      "ruleScore": 45.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 11,
+          "hot": 8741355,
+          "url": "https://www.douyin.com/search/%E5%A5%B3%E9%AB%98%E9%9F%B3%E6%AD%8C%E5%94%B1%E5%AE%B6%E9%BE%9A%E7%88%BD%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E4%B8%BE%E8%A1%8C"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 78.8,
+      "creativityScore": 42,
+      "totalScore": 48.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "女高音歌唱家龚爽告别仪式举行",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-8-tf2026绝色之夜",
+      "title": "TF2026绝色之夜",
+      "ruleScore": 44.6,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -663,8 +518,8 @@
         {
           "platform": "weibo",
           "rank": 8,
-          "hot": 421337,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A1%AC%E5%BA%A7%E5%87%BA%E5%B7%AE%20%E8%BD%AF%E8%A3%81%E5%91%98%23"
+          "hot": 329293,
+          "url": ""
         }
       ],
       "worthLeveraging": false,
@@ -672,18 +527,18 @@
       "relevanceScore": 38,
       "timelinessScore": 82.4,
       "creativityScore": 42,
-      "totalScore": 48.5,
+      "totalScore": 48.4,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "硬座出差 软裁员",
+      "eventSummary": "TF2026绝色之夜",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
     },
     {
-      "id": "douyin-12-香港首任特首董建华逝世",
-      "title": "香港首任特首董建华逝世",
-      "ruleScore": 44.7,
+      "id": "douyin-12-今日人设是可可美人",
+      "title": "今日人设是可可美人",
+      "ruleScore": 44.8,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -692,8 +547,8 @@
         {
           "platform": "douyin",
           "rank": 12,
-          "hot": 7989388,
-          "url": "https://www.douyin.com/search/%E9%A6%99%E6%B8%AF%E9%A6%96%E4%BB%BB%E7%89%B9%E9%A6%96%E8%91%A3%E5%BB%BA%E5%8D%8E%E9%80%9D%E4%B8%96"
+          "hot": 8526637,
+          "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E4%BA%BA%E8%AE%BE%E6%98%AF%E5%8F%AF%E5%8F%AF%E7%BE%8E%E4%BA%BA"
         }
       ],
       "worthLeveraging": false,
@@ -704,7 +559,152 @@
       "totalScore": 47.7,
       "level": "observe",
       "reason": "当前业务相关性或可执行性不足，建议观察。",
-      "eventSummary": "香港首任特首董建华逝世",
+      "eventSummary": "今日人设是可可美人",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-9-人民日报锐评一边高消费一边领低保",
+      "title": "人民日报锐评一边高消费一边领低保",
+      "ruleScore": 43.5,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 9,
+          "hot": 307435,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E4%B8%80%E8%BE%B9%E9%AB%98%E6%B6%88%E8%B4%B9%E4%B8%80%E8%BE%B9%E9%A2%86%E4%BD%8E%E4%BF%9D%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 81.2,
+      "creativityScore": 42,
+      "totalScore": 47.6,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "人民日报锐评一边高消费一边领低保",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-13-孙绍骋被双开",
+      "title": "孙绍骋被双开",
+      "ruleScore": 43.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 13,
+          "hot": 8162277,
+          "url": "https://www.douyin.com/search/%E5%AD%99%E7%BB%8D%E9%AA%8B%E8%A2%AB%E5%8F%8C%E5%BC%80"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 76.4,
+      "creativityScore": 42,
+      "totalScore": 47,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "孙绍骋被双开",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-10-栾念尚之桃穿得太少了",
+      "title": "栾念尚之桃穿得太少了",
+      "ruleScore": 42.2,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 10,
+          "hot": 259726,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%E5%B0%9A%E4%B9%8B%E6%A1%83%E7%A9%BF%E5%BE%97%E5%A4%AA%E5%B0%91%E4%BA%86%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 80,
+      "creativityScore": 42,
+      "totalScore": 46.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "栾念尚之桃穿得太少了",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-14-杜兰特在抖音潜水被发现了",
+      "title": "杜兰特在抖音潜水被发现了",
+      "ruleScore": 42.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 14,
+          "hot": 8032519,
+          "url": "https://www.douyin.com/search/%E6%9D%9C%E5%85%B0%E7%89%B9%E5%9C%A8%E6%8A%96%E9%9F%B3%E6%BD%9C%E6%B0%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 75.2,
+      "creativityScore": 42,
+      "totalScore": 46.3,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "杜兰特在抖音潜水被发现了",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-15-属于教师节的仪式感",
+      "title": "属于教师节的仪式感",
+      "ruleScore": 41.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 15,
+          "hot": 7900999,
+          "url": "https://www.douyin.com/search/%E5%B1%9E%E4%BA%8E%E6%95%99%E5%B8%88%E8%8A%82%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 74,
+      "creativityScore": 42,
+      "totalScore": 45.7,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "属于教师节的仪式感",
       "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
       "communicationIdea": "保留为趋势观察，不直接追热点。",
       "riskNote": "发布前复核事实、版权和品牌语境。"
