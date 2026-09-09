@@ -1,19 +1,53 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:54:11.891Z",
-  "sourceGeneratedAt": "2026-09-08T19:54:07.046Z",
-  "date": "2026-09-08",
+  "generatedAt": "2026-09-09T04:38:38.502Z",
+  "sourceGeneratedAt": "2026-09-09T12:38:35.011Z",
+  "date": "2026-09-09",
   "rulesSummary": {
     "maxRankPerPlatform": 30,
     "minimumRuleScore": 20,
     "candidateCount": 24,
-    "rejectedCount": 1
+    "rejectedCount": 3
   },
   "candidates": [
     {
-      "id": "douyin-11-第五人格s44赛季末冲刺攻略",
-      "title": "第五人格S44赛季末冲刺攻略",
-      "ruleScore": 65.8,
+      "id": "weibo-2-西电学生回应数学开学考",
+      "title": "西电学生回应数学开学考",
+      "ruleScore": 71.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 2,
+          "hot": 958781,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%94%B5%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%95%B0%E5%AD%A6%E5%BC%80%E5%AD%A6%E8%80%83%23"
+        }
+      ]
+    },
+    {
+      "id": "weibo-4-女孩去邻居家吃饭惨遭夫妻分尸",
+      "title": "女孩去邻居家吃饭惨遭夫妻分尸",
+      "ruleScore": 69.5,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 4,
+          "hot": 682326,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8E%BB%E9%82%BB%E5%B1%85%E5%AE%B6%E5%90%83%E9%A5%AD%E6%83%A8%E9%81%AD%E5%A4%AB%E5%A6%BB%E5%88%86%E5%B0%B8%23"
+        }
+      ]
+    },
+    {
+      "id": "douyin-11-国庆出游日常不费力穿搭",
+      "title": "国庆出游日常不费力穿搭",
+      "ruleScore": 65.7,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
@@ -22,54 +56,48 @@
         {
           "platform": "douyin",
           "rank": 11,
-          "hot": 8445720,
-          "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCS44%E8%B5%9B%E5%AD%A3%E6%9C%AB%E5%86%B2%E5%88%BA%E6%94%BB%E7%95%A5"
+          "hot": 7995864,
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E6%97%A5%E5%B8%B8%E4%B8%8D%E8%B4%B9%E5%8A%9B%E7%A9%BF%E6%90%AD"
         }
       ]
     },
     {
-      "id": "weibo-15-唐国强问赖冠霖有家庭了吗",
-      "title": "唐国强问赖冠霖有家庭了吗",
-      "ruleScore": 57.8,
+      "id": "douyin-16-人类对运动的开发不足百分之一",
+      "title": "人类对运动的开发不足百分之一",
+      "ruleScore": 60.7,
       "crossPlatform": false,
       "businessKeywordMatch": true,
       "excluded": false,
       "exclusionReason": "",
       "platforms": [
         {
-          "platform": "weibo",
-          "rank": 15,
-          "hot": 390299,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%9B%BD%E5%BC%BA%E9%97%AE%E8%B5%96%E5%86%A0%E9%9C%96%E6%9C%89%E5%AE%B6%E5%BA%AD%E4%BA%86%E5%90%97%23"
+          "platform": "douyin",
+          "rank": 16,
+          "hot": 7709930,
+          "url": "https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%AF%B9%E8%BF%90%E5%8A%A8%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8D%E8%B6%B3%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80"
         }
       ]
     },
     {
-      "id": "weibo-11-太子奶创始人李途纯去世",
-      "title": "太子奶创始人李途纯去世",
-      "ruleScore": 56.8,
-      "crossPlatform": true,
-      "businessKeywordMatch": false,
+      "id": "douyin-18-鼎叔魔性化妆模仿挑战",
+      "title": "鼎叔魔性化妆模仿挑战",
+      "ruleScore": 58.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
       "excluded": false,
       "exclusionReason": "",
       "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 11,
-          "hot": 396600,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%AD%90%E5%A5%B6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E9%80%94%E7%BA%AF%E5%8E%BB%E4%B8%96%23"
-        },
         {
           "platform": "douyin",
           "rank": 18,
-          "hot": 7736877,
-          "url": "https://www.douyin.com/search/%E5%A4%AA%E5%AD%90%E5%A5%B6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E9%80%94%E7%BA%AF%E5%8E%BB%E4%B8%96"
+          "hot": 7684875,
+          "url": "https://www.douyin.com/search/%E9%BC%8E%E5%8F%94%E9%AD%94%E6%80%A7%E5%8C%96%E5%A6%86%E6%A8%A1%E4%BB%BF%E6%8C%91%E6%88%98"
         }
       ]
     },
     {
-      "id": "douyin-1-中国女篮将迎战波多黎各队",
-      "title": "中国女篮将迎战波多黎各队",
+      "id": "douyin-1-皇马21击败国米",
+      "title": "皇马2:1击败国米",
       "ruleScore": 56.3,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -79,15 +107,15 @@
         {
           "platform": "douyin",
           "rank": 1,
-          "hot": 12125022,
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%B0%86%E8%BF%8E%E6%88%98%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%E9%98%9F"
+          "hot": 12125183,
+          "url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC2%3A1%E5%87%BB%E8%B4%A5%E5%9B%BD%E7%B1%B3"
         }
       ]
     },
     {
-      "id": "douyin-2-跑步可以治愈一切",
-      "title": "跑步可以治愈一切",
-      "ruleScore": 55.2,
+      "id": "douyin-2-写给老师的教师节贺卡",
+      "title": "写给老师的教师节贺卡",
+      "ruleScore": 55.3,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -96,8 +124,25 @@
         {
           "platform": "douyin",
           "rank": 2,
-          "hot": 11792325,
-          "url": "https://www.douyin.com/search/%E8%B7%91%E6%AD%A5%E5%8F%AF%E4%BB%A5%E6%B2%BB%E6%84%88%E4%B8%80%E5%88%87"
+          "hot": 12124471,
+          "url": "https://www.douyin.com/search/%E5%86%99%E7%BB%99%E8%80%81%E5%B8%88%E7%9A%84%E6%95%99%E5%B8%88%E8%8A%82%E8%B4%BA%E5%8D%A1"
+        }
+      ]
+    },
+    {
+      "id": "weibo-18-女子向大雁塔景区雨水井塞不明物",
+      "title": "女子向大雁塔景区雨水井塞不明物",
+      "ruleScore": 54.4,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 18,
+          "hot": 291967,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%91%E5%A4%A7%E9%9B%81%E5%A1%94%E6%99%AF%E5%8C%BA%E9%9B%A8%E6%B0%B4%E4%BA%95%E5%A1%9E%E4%B8%8D%E6%98%8E%E7%89%A9%23"
         }
       ]
     },
@@ -113,15 +158,15 @@
         {
           "platform": "douyin",
           "rank": 3,
-          "hot": 11269305,
+          "hot": 11339014,
           "url": "https://www.douyin.com/search/%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0"
         }
       ]
     },
     {
-      "id": "weibo-1-苹果用户换华为",
-      "title": "苹果用户换华为",
-      "ruleScore": 53.6,
+      "id": "weibo-1-早春晴朗大结局",
+      "title": "早春晴朗大结局",
+      "ruleScore": 53.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -130,48 +175,14 @@
         {
           "platform": "weibo",
           "rank": 1,
-          "hot": 1608043,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E6%8D%A2%E5%8D%8E%E4%B8%BA%23"
+          "hot": 1987275,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%A4%A7%E7%BB%93%E5%B1%80%23"
         }
       ]
     },
     {
-      "id": "douyin-4-初代神图全靠手抖出片",
-      "title": "初代神图全靠手抖出片",
-      "ruleScore": 53.1,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 4,
-          "hot": 11106106,
-          "url": "https://www.douyin.com/search/%E5%88%9D%E4%BB%A3%E7%A5%9E%E5%9B%BE%E5%85%A8%E9%9D%A0%E6%89%8B%E6%8A%96%E5%87%BA%E7%89%87"
-        }
-      ]
-    },
-    {
-      "id": "weibo-2-金湘军受贿148亿余元",
-      "title": "金湘军受贿1.48亿余元",
-      "ruleScore": 52.3,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 2,
-          "hot": 1297473,
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B9%98%E5%86%9B%E5%8F%97%E8%B4%BF1.48%E4%BA%BF%E4%BD%99%E5%85%83%23"
-        }
-      ]
-    },
-    {
-      "id": "douyin-5-应急管理部原部长王祥喜被双开",
-      "title": "应急管理部原部长王祥喜被双开",
+      "id": "douyin-5-龙版传媒停牌核查",
+      "title": "龙版传媒停牌核查",
       "ruleScore": 52.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -181,15 +192,32 @@
         {
           "platform": "douyin",
           "rank": 5,
-          "hot": 10512829,
-          "url": "https://www.douyin.com/search/%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8%E5%8E%9F%E9%83%A8%E9%95%BF%E7%8E%8B%E7%A5%A5%E5%96%9C%E8%A2%AB%E5%8F%8C%E5%BC%80"
+          "hot": 10573684,
+          "url": "https://www.douyin.com/search/%E9%BE%99%E7%89%88%E4%BC%A0%E5%AA%92%E5%81%9C%E7%89%8C%E6%A0%B8%E6%9F%A5"
         }
       ]
     },
     {
-      "id": "weibo-3-一代代科技工作者回答中国人为何行",
-      "title": "一代代科技工作者回答中国人为何行",
-      "ruleScore": 51.2,
+      "id": "douyin-6-国足公布新一期集训名单",
+      "title": "国足公布新一期集训名单",
+      "ruleScore": 51,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 6,
+          "hot": 10295986,
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%85%AC%E5%B8%83%E6%96%B0%E4%B8%80%E6%9C%9F%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95"
+        }
+      ]
+    },
+    {
+      "id": "weibo-3-服贸会今日开幕",
+      "title": "服贸会今日开幕",
+      "ruleScore": 50.6,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -198,31 +226,14 @@
         {
           "platform": "weibo",
           "rank": 3,
-          "hot": 1176870,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BB%A3%E4%BB%A3%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%E5%9B%9E%E7%AD%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%A1%8C%23"
+          "hot": 755150,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%23"
         }
       ]
     },
     {
-      "id": "weibo-4-小米澎程让你久等了",
-      "title": "小米澎程让你久等了",
-      "ruleScore": 50.2,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 4,
-          "hot": 1151884,
-          "url": ""
-        }
-      ]
-    },
-    {
-      "id": "douyin-7-写给老师的教师节贺卡",
-      "title": "写给老师的教师节贺卡",
+      "id": "douyin-7-ig30战胜lgd",
+      "title": "IG 3:0战胜LGD",
       "ruleScore": 49.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -232,32 +243,15 @@
         {
           "platform": "douyin",
           "rank": 7,
-          "hot": 9245193,
-          "url": "https://www.douyin.com/search/%E5%86%99%E7%BB%99%E8%80%81%E5%B8%88%E7%9A%84%E6%95%99%E5%B8%88%E8%8A%82%E8%B4%BA%E5%8D%A1"
+          "hot": 8913060,
+          "url": "https://www.douyin.com/search/IG%203%3A0%E6%88%98%E8%83%9CLGD"
         }
       ]
     },
     {
-      "id": "weibo-5-ig战胜lgd",
-      "title": "iG战胜LGD",
-      "ruleScore": 49.2,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 5,
-          "hot": 1151374,
-          "url": "https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CLGD%23"
-        }
-      ]
-    },
-    {
-      "id": "douyin-8-觉醒吧我的厨艺天赋",
-      "title": "觉醒吧我的厨艺天赋",
-      "ruleScore": 48.9,
+      "id": "douyin-8-毛泽东逝世50周年",
+      "title": "毛泽东逝世50周年",
+      "ruleScore": 48.8,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -266,14 +260,31 @@
         {
           "platform": "douyin",
           "rank": 8,
-          "hot": 8953758,
-          "url": "https://www.douyin.com/search/%E8%A7%89%E9%86%92%E5%90%A7%E6%88%91%E7%9A%84%E5%8E%A8%E8%89%BA%E5%A4%A9%E8%B5%8B"
+          "hot": 8582484,
+          "url": "https://www.douyin.com/search/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%9D%E4%B8%9650%E5%91%A8%E5%B9%B4"
         }
       ]
     },
     {
-      "id": "douyin-9-ig对战lgd",
-      "title": "IG对战LGD",
+      "id": "weibo-5-一只羊脱衣全过程",
+      "title": "一只羊脱衣全过程",
+      "ruleScore": 48.3,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 5,
+          "hot": 602922,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E7%BE%8A%E8%84%B1%E8%A1%A3%E5%85%A8%E8%BF%87%E7%A8%8B%23"
+        }
+      ]
+    },
+    {
+      "id": "douyin-9-觉醒吧我的厨艺天赋",
+      "title": "觉醒吧我的厨艺天赋",
       "ruleScore": 47.8,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -283,15 +294,32 @@
         {
           "platform": "douyin",
           "rank": 9,
-          "hot": 8689594,
-          "url": "https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98LGD"
+          "hot": 8512436,
+          "url": "https://www.douyin.com/search/%E8%A7%89%E9%86%92%E5%90%A7%E6%88%91%E7%9A%84%E5%8E%A8%E8%89%BA%E5%A4%A9%E8%B5%8B"
         }
       ]
     },
     {
-      "id": "weibo-6-ig计划有变准备冲冠",
-      "title": "iG计划有变准备冲冠",
-      "ruleScore": 47.5,
+      "id": "douyin-29-官俊臣重庆大学开学报到",
+      "title": "官俊臣重庆大学开学报到",
+      "ruleScore": 47.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 29,
+          "hot": 7640152,
+          "url": "https://www.douyin.com/search/%E5%AE%98%E4%BF%8A%E8%87%A3%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%AD%A6%E6%8A%A5%E5%88%B0"
+        }
+      ]
+    },
+    {
+      "id": "weibo-6-复方甘草片低钾血",
+      "title": "复方甘草片 低钾血",
+      "ruleScore": 47.3,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -300,14 +328,14 @@
         {
           "platform": "weibo",
           "rank": 6,
-          "hot": 691630,
-          "url": "https://s.weibo.com/weibo?q=%23iG%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%E5%87%86%E5%A4%87%E5%86%B2%E5%86%A0%23"
+          "hot": 594611,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%96%B9%E7%94%98%E8%8D%89%E7%89%87%20%E4%BD%8E%E9%92%BE%E8%A1%80%23"
         }
       ]
     },
     {
-      "id": "douyin-10-郑钦文20战胜斯瓦泰克",
-      "title": "郑钦文2:0战胜斯瓦泰克",
+      "id": "douyin-10-华屋村的十七棵松与长征精神",
+      "title": "华屋村的十七棵松与长征精神",
       "ruleScore": 46.8,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -317,15 +345,32 @@
         {
           "platform": "douyin",
           "rank": 10,
-          "hot": 8617232,
-          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%872%3A0%E6%88%98%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B"
+          "hot": 8445597,
+          "url": "https://www.douyin.com/search/%E5%8D%8E%E5%B1%8B%E6%9D%91%E7%9A%84%E5%8D%81%E4%B8%83%E6%A3%B5%E6%9D%BE%E4%B8%8E%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E"
         }
       ]
     },
     {
-      "id": "weibo-7-医生眼里让大脑休息最好的方法",
-      "title": "医生眼里让大脑休息最好的方法",
-      "ruleScore": 46.5,
+      "id": "douyin-30-金铲铲自然之力版本攻略",
+      "title": "金铲铲自然之力版本攻略",
+      "ruleScore": 46.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 30,
+          "hot": 7639848,
+          "url": "https://www.douyin.com/search/%E9%87%91%E9%93%B2%E9%93%B2%E8%87%AA%E7%84%B6%E4%B9%8B%E5%8A%9B%E7%89%88%E6%9C%AC%E6%94%BB%E7%95%A5"
+        }
+      ]
+    },
+    {
+      "id": "weibo-7-阴阳师绮梦花语惊喜上线",
+      "title": "阴阳师绮梦花语惊喜上线",
+      "ruleScore": 46.1,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -334,15 +379,15 @@
         {
           "platform": "weibo",
           "rank": 7,
-          "hot": 687154,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%9C%BC%E9%87%8C%E8%AE%A9%E5%A4%A7%E8%84%91%E4%BC%91%E6%81%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E6%B3%95%23"
+          "hot": 494113,
+          "url": ""
         }
       ]
     },
     {
-      "id": "weibo-8-宝格丽kaleidos",
-      "title": "宝格丽KALEIDOS",
-      "ruleScore": 45.5,
+      "id": "weibo-8-硬座出差软裁员",
+      "title": "硬座出差 软裁员",
+      "ruleScore": 44.9,
       "crossPlatform": false,
       "businessKeywordMatch": false,
       "excluded": false,
@@ -351,14 +396,14 @@
         {
           "platform": "weibo",
           "rank": 8,
-          "hot": 683359,
-          "url": ""
+          "hot": 421337,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A1%AC%E5%BA%A7%E5%87%BA%E5%B7%AE%20%E8%BD%AF%E8%A3%81%E5%91%98%23"
         }
       ]
     },
     {
-      "id": "douyin-12-首届柚子形象设计大赛",
-      "title": "首届柚子形象设计大赛",
+      "id": "douyin-12-香港首任特首董建华逝世",
+      "title": "香港首任特首董建华逝世",
       "ruleScore": 44.7,
       "crossPlatform": false,
       "businessKeywordMatch": false,
@@ -368,68 +413,29 @@
         {
           "platform": "douyin",
           "rank": 12,
-          "hot": 7870183,
-          "url": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E6%9F%9A%E5%AD%90%E5%BD%A2%E8%B1%A1%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B"
-        }
-      ]
-    },
-    {
-      "id": "weibo-9-华为备用机",
-      "title": "华为 备用机",
-      "ruleScore": 44.5,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 9,
-          "hot": 674909,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%20%E5%A4%87%E7%94%A8%E6%9C%BA%23"
-        }
-      ]
-    },
-    {
-      "id": "douyin-13-新疆中考科目分值大调整系谣言",
-      "title": "新疆中考科目分值大调整系谣言",
-      "ruleScore": 43.7,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 13,
-          "hot": 7768217,
-          "url": "https://www.douyin.com/search/%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E7%A7%91%E7%9B%AE%E5%88%86%E5%80%BC%E5%A4%A7%E8%B0%83%E6%95%B4%E7%B3%BB%E8%B0%A3%E8%A8%80"
-        }
-      ]
-    },
-    {
-      "id": "weibo-10-栾念为了见尚之桃飞西北20次",
-      "title": "栾念为了见尚之桃飞西北20次",
-      "ruleScore": 42.8,
-      "crossPlatform": false,
-      "businessKeywordMatch": false,
-      "excluded": false,
-      "exclusionReason": "",
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 10,
-          "hot": 397654,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%E4%B8%BA%E4%BA%86%E8%A7%81%E5%B0%9A%E4%B9%8B%E6%A1%83%E9%A3%9E%E8%A5%BF%E5%8C%9720%E6%AC%A1%23"
+          "hot": 7989388,
+          "url": "https://www.douyin.com/search/%E9%A6%99%E6%B8%AF%E9%A6%96%E4%BB%BB%E7%89%B9%E9%A6%96%E8%91%A3%E5%BB%BA%E5%8D%8E%E9%80%9D%E4%B8%96"
         }
       ]
     }
   ],
   "rejected": [
     {
-      "id": "douyin-6-江西遂川泥石流已致12人遇难",
-      "title": "江西遂川泥石流已致12人遇难",
-      "ruleScore": 51,
+      "id": "weibo-19-美伊以冲突",
+      "title": "美伊以冲突",
+      "ruleScore": 33.4,
+      "exclusionReason": "命中高风险/不宜借势关键词"
+    },
+    {
+      "id": "weibo-21-高一女生被教官猥亵老师说没多大事",
+      "title": "高一女生被教官猥亵老师说没多大事",
+      "ruleScore": 31.4,
+      "exclusionReason": "命中高风险/不宜借势关键词"
+    },
+    {
+      "id": "douyin-4-小米回应澎程试驾事故",
+      "title": "小米回应澎程试驾事故",
+      "ruleScore": 53.2,
       "exclusionReason": "命中高风险/不宜借势关键词"
     }
   ]
