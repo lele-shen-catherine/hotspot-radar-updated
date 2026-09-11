@@ -75,6 +75,21 @@ jobs:
       - name: Local relevance and risk scoring
         run: node scripts/analyze-hotspots.mjs
 
+      # —— 完整数据流水线（步骤 2-4，纯本地规则脚本，无需外部 API / secret）——
+      # 生成 AI 深度分析（事件解释/为什么热/风险提醒），基于关键词规则匹配，不调 LLM
+      - name: Generate AI analysis
+        run: node scripts/generate-ai-analysis.mjs
+
+      # 将 AI 字段注入 radar.json
+      - name: Patch radar with AI fields
+        run: node scripts/patch-radar-with-ai.mjs
+
+      # 合成本地生活业务建议 + 玩梗模板（meme-topics.json / business-advice.json）
+      - name: Generate meme & business advice content
+        run: node scripts/gen-daily-content.mjs
+
+      # 注：dashboard.html 保持静态壳（不含注入数据），页面打开时经 loader 从 jsDelivr CDN
+      # 实时读取 public/data/*.json。因此不再运行 inject-dashboard-data.mjs，数据变化不触发部署。
       - name: Check for changes
         id: changes
         run: |

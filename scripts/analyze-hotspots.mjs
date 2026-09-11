@@ -1,166 +1,244 @@
 #!/usr/bin/env node
 /**
- * 热度分级（新规 v2 §九）
- * 热度值 = 峰值榜位×35% + 平台公开热度×20% + 在榜时长×25% + 跨平台×20%
- * - 除四类硬性排除外，客观达到 S/A/B 全部展示，不再以业务相关性/借势价值作门槛（§一）
- * - 风险只影响 riskNote 与业务建议，不影响 S/A/B 等级（§一.3）
+ * 热点雷达 · 每日分析（新规：固定6席 + 新热度公式分级）
+ * 规则（用户自定义，2026-09-09 定稿）:
+ *  - 固定6席 = 需要详细呈现的6个热点（选定不看热度值）:
+ *      知微事见Top4 + 抖音Top1 + 微博Top1，同平台内先删四类禁区再顺延补足
+ *  - 热度值只用来给这6席划分 S/A/B 等级:
+ *      热度值 = 榜位35% + 平台热度20% + 趋势/持续性25% + 跨平台共振20%
+ *  - 榜位/平台热度: 同平台同批次内转 0-100 百分位
+ *  - 趋势: 上升100/高位85/平稳70/刚上榜或未知60/下降40; 缺时长记60
+ *  - 共振: 三源100/两源80/单源但有外部讨论证据60/仅单平台45
+ *  - 分级: S≥80, A=65~79.9, B<65
+ *  - radar.json 只存这6席（页面只展示6张卡），按固定席位顺序
+ *
+ * 数据源: public/data/latest.json（含 webwide/douyin/weibo）
+ *         + data/raw/<date>/webwide-<batch>.json（rankHour 历史批次，用于趋势）
+ * 输出:   public/data/radar.json（6席，含 level 字段）
  */
-import { readFile, writeFile, mkdir } from "node:fs/promises";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const input = JSON.parse(await readFile(join(ROOT, "data/processed/candidates.json"), "utf8"));
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const LATEST = path.join(root, "public", "data", "latest.json");
+const OUT = path.join(root, "public", "data", "radar.json");
+const RAW_DIR = path.join(root, "data", "raw");
 
-// 与 config/hotspot-rules.json 一致的四类硬性排除语义复核（此处为分析层二次复核）
-const RISK_KEYWORDS = /死亡|遇难|伤亡|坠亡|自杀|杀人|强奸|猥亵|诈骗|被捕|刑拘|被查|违法|事故|爆炸|火灾|地震|洪水|灾情|塌方|泥石流|救援|失联|溺水|战争|军事冲突|围剿|网暴|仇富|地域歧视/;
-
-const clamp = (value, min = 0, max = 100) => Math.max(min, Math.min(max, value));
-const round = (value) => Math.round(value * 10) / 10;
-
-// 同平台热度标准化：微博、抖音、小红书各自归一化到 0-100，不做跨平台横向相加（§九.2）
-function normalizeHot(platform, hot) {
-  if (hot == null) return null;
-  const n = Number(hot);
-  // 微博热搜热度通常 50~500 万；抖音热榜通常 10~10000；小红书热度差异较大
-  const cap = { weibo: 2000000, douyin: 20000, xhs: 200000, xiaohongshu: 200000 }[platform] || 2000000;
-  return clamp((n / cap) * 100);
-}
-
-// 峰值榜位得分：榜位越小得分越高（仅使用出现过的最好排名，§九.1）
-function rankScore(bestRank) {
-  if (!bestRank) return 30;
-  if (bestRank <= 3) return 100;
-  if (bestRank <= 5) return 92;
-  if (bestRank <= 10) return 80;
-  if (bestRank <= 20) return 64;
-  if (bestRank <= 30) return 50;
-  return 40;
-}
-
-// 在榜时长得分：优先时光热搜；无可靠时长→缺失（§九.3）
-function durationScore(durationMin) {
-  if (!durationMin) return null; // 标记缺失
-  if (durationMin >= 180) return 100;
-  if (durationMin >= 120) return 90;
-  if (durationMin >= 60) return 80;
-  if (durationMin >= 30) return 65;
-  if (durationMin >= 10) return 50;
-  return 30;
-}
-
-// 跨平台得分：同平台多个话题只算一个平台（§九.4）
-function crossPlatformScore(platformCount) {
-  if (platformCount >= 3) return 100;
-  if (platformCount === 2) return 75;
-  if (platformCount === 1) return 45;
-  return 0;
-}
-
-function assess(candidate) {
-  const platforms = candidate.platforms || [];
-  const platformCount = new Set(platforms.map((p) => p.platform)).size;
-
-  // 峰值榜位 = 出现过的最高（即最小 rank）
-  const bestRank = Math.min(...platforms.map((p) => p.rank || 99));
-  // 平台公开热度：取各平台标准化后均值（不跨平台相加）
-  const hotScores = platforms.map((p) => normalizeHot(p.platform, p.hot)).filter((v) => v != null);
-  const hotScore = hotScores.length ? hotScores.reduce((s, v) => s + v, 0) / hotScores.length : 0;
-  // 在榜时长：优先时光热搜字段，缺失则记 0 并在展示中标记“暂无可核验在榜时长”
-  const duration = candidate.bestDurationMin ?? candidate.durationMin ?? null;
-
-  const sRank = rankScore(bestRank);
-  const sHot = hotScore;
-  const sDur = durationScore(duration) ?? 0;
-  const sCross = crossPlatformScore(platformCount);
-  const totalScore = round(sRank * 0.35 + sHot * 0.2 + sDur * 0.25 + sCross * 0.2);
-
-  // S/A/B 完全依据客观热度值（§九），不依赖业务相关性/借势价值
-  const level = totalScore >= 85 ? "S" : totalScore >= 70 ? "A" : totalScore >= 60 ? "B" : "C";
-
-  // 风险与业务相关性：只影响 riskNote / businessAction，不改等级（§一.3）
-  const isPublicService = /台风|暴雨|高温|降温|寒潮|大风|天气|预警/.test(candidate.title);
-  const riskLevel = isPublicService ? "medium" : "low";
-  const riskNote = isPublicService
-    ? "公共信息服务事件：只允许权威信息、履约调整与民生保障提醒，不做娱乐化表达。"
-    : "低风险，发布前复核事实、版权与品牌语境。";
-
-  return {
-    ...candidate,
-    peakRank: bestRank,
-    platformCount,
-    subScores: { rank: round(sRank), hot: round(sHot), duration: sDur, cross: round(sCross) },
-    totalScore,
-    level,
-    riskLevel,
-    riskNote,
-    eventSummary: candidate.title,
-    // 传播状态（纯文字，需有上午/下午或时光数据支持；无数据则写“当前数据源暂不可用”）
-    propagation: candidate.propagation || "当前数据源暂不可用",
-    // 业务建议由 gen-daily-content.mjs 针对有真实连接点的热点生成，此处不填默认占位
-    businessNote: isPublicService
-      ? "仅做权威信息服务与履约保障，不商业化表达。"
-      : "是否生成业务建议由 AI 层依据真实连接点判断。"
-  };
-}
-
-// ---- S 级名额上限（§九.6）：S 级只保留热度最高的前 N 条，其余按分数自然落入 A/B/C ----
-const S_LEVEL_CAP = 2; // S 级名额上限：默认只保留热度最高的前 2 条
-
-const decisions = input.candidates.map(assess).sort((a, b) => b.totalScore - a.totalScore);
-
-// 1) 先按分数自然分级（score>=85→S，>=70→A，>=60→B，<60→C）
-for (const d of decisions) {
-  d.level = d.totalScore >= 85 ? "S" : d.totalScore >= 70 ? "A" : d.totalScore >= 60 ? "B" : "C";
-}
-// 2) 对 S 级候选做名额截断：分数已按 totalScore 降序排列（并列分数时稳定排序保持候选原始输入顺序），
-//    只保留分数最高的前 S_LEVEL_CAP 名；超出名额的（即使 score>=85）降为 A 级（score>=70 落 A）。
-//    若 S 级候选不足 S_LEVEL_CAP 名，则按实际数量判定，不硬凑。
-let sCount = 0;
-for (const d of decisions) {
-  if (d.level !== "S") continue;
-  if (sCount < S_LEVEL_CAP) {
-    sCount++;
-    continue;
+// ---------- 四类禁区（与 config/hotspot-rules.json 一致，含语义复核关键词） ----------
+const EXCLUDE = {
+  gender_antagonism: ["男女对立","性别对立","性别攻击","性别歧视","婚恋污名","彩礼","生育对立","性别仇恨","网暴某一性别"],
+  populism: ["阶层仇恨","地域歧视","敌我叙事","职业对立","集体抵制","围攻","群体攻击","极端民族主义"],
+  animal_protection: ["虐狗","虐猫","偷狗","毒狗","捕杀流浪动物","爱狗人士冲突","爱猫人士冲突","宠物伤人争议","动物救助道德审判","宠物极端对立"],
+  political_sensitive: ["中美关系","外交冲突","台湾","香港","新疆","西藏","领导人","政要","战争","军事冲突","军事演习","国家安全","选举","领土主权","外交制裁","政治传闻"],
+};
+function isExcluded(title) {
+  const t = String(title || "").replace(/\u200c/g, ""); // 去零宽字符
+  for (const [cat, kws] of Object.entries(EXCLUDE)) {
+    for (const kw of kws) {
+      if (t.includes(kw)) return cat;
+    }
   }
-  d.level = d.totalScore >= 70 ? "A" : d.totalScore >= 60 ? "B" : "C"; // 超出名额 → 降级
-  d.levelNote = `分数≥S级阈值但因 S 级名额上限(${S_LEVEL_CAP}条)被降级为 ${d.level}`;
+  return null;
 }
 
-// 四类硬排除已由 reveal 置于 watchlist，不进入正式展示
-// 展示上限（用户需求）：每次最多只保留 6 条热点，按 totalScore 降序取前 6；超出部分全部丢弃不展示。
-// decisions 已按 totalScore 降序排列，直接 slice 前 6 即为热度最高的 6 条。
-const TOP6_LIMIT = 6;
-let hotspots = decisions.filter((d) => d.level !== "C");
-if (hotspots.length > TOP6_LIMIT) {
-  const dropped = hotspots.length - TOP6_LIMIT;
-  hotspots = hotspots.slice(0, TOP6_LIMIT);
-  console.log(`[cap] 热点数 ${dropped + TOP6_LIMIT} 超过上限 ${TOP6_LIMIT}，丢弃超出 ${dropped} 条，仅保留热度最高前 ${TOP6_LIMIT} 条`);
+// ---------- 读取 latest.json ----------
+let latest;
+try {
+  latest = JSON.parse(fs.readFileSync(LATEST, "utf8"));
+} catch (e) {
+  console.error("[analyze] latest.json 读取失败:", e.message);
+  process.exit(1);
 }
-const watchlist = decisions.filter((d) => d.level === "C");
+const date = latest.date;
+const platforms = latest.platforms || {};
+const webwideItems = (platforms.webwide?.items || []).map((it, i) => ({
+  platform: "知微", title: String(it.title).replace(/\u200c/g, ""), hot: it.hot,
+  rank: i + 1, url: it.url, eventId: extractEventId(it.url),
+}));
+const douyinItems = (platforms.douyin?.items || []).map((it, i) => ({
+  platform: "抖音", title: String(it.title).replace(/\u200c/g, ""), hot: it.hot,
+  rank: i + 1, url: it.url, label: it.label,
+}));
+const weiboItems = (platforms.weibo?.items || []).map((it, i) => ({
+  platform: "微博", title: String(it.title).replace(/\u200c/g, ""), hot: it.hot,
+  rank: i + 1, url: it.url, label: it.label,
+}));
 
-const radar = {
-  schemaVersion: 2,
-  generatedAt: new Date().toISOString(),
-  date: input.date,
-  sourceGeneratedAt: input.sourceGeneratedAt,
-  provider: "objective-heat",
-  model: "auditable-heat-v2",
-  summary: {
-    analyzed: decisions.length,
-    S: hotspots.filter((d) => d.level === "S").length,
-    A: hotspots.filter((d) => d.level === "A").length,
-    B: hotspots.filter((d) => d.level === "B").length,
-    hotspots: hotspots.length,
-    watchlist: watchlist.length
-  },
-  hotspots,
-  watchlist
+function extractEventId(url) {
+  const m = String(url || "").match(/eventRk\/([\w]+)/);
+  return m ? m[1] : null;
+}
+
+// ---------- 读取当天最新 webwide 原始 JSON（含 rankHour 历史批次，用于趋势） ----------
+let rank = [];
+let zhiweiRaw = null;
+(function loadRankHour() {
+  const dateDir = path.join(RAW_DIR, date);
+  if (!fs.existsSync(dateDir)) return;
+  const files = fs.readdirSync(dateDir).filter(f => f.startsWith("webwide-") && f.endsWith(".json"));
+  if (!files.length) return;
+  // 取最新批次文件
+  files.sort();
+  const f = files[files.length - 1];
+  try {
+    const raw = JSON.parse(fs.readFileSync(path.join(dateDir, f), "utf8"));
+    rank = raw?.data?.rankHour || [];
+  } catch (e) { console.warn("[warn] 读取 webwide 原始 rankHour 失败:", e.message); }
+})();
+
+// 历史: eventId -> { firstBatch, batches, ranks }
+const hist = {};
+rank.forEach((r, ri) => {
+  (r.info || []).forEach((it, i) => {
+    if (!it.eventId || it.eventId === "other_hidden" || it.eventId === "otherEventId") return;
+    if (!hist[it.eventId]) hist[it.eventId] = { firstBatch: ri, batches: [], ranks: [] };
+    hist[it.eventId].batches.push(ri);
+    hist[it.eventId].ranks.push(i + 1);
+  });
+});
+
+// ---------- 百分位工具 ----------
+function percentileRank(arr, value, dir) {
+  if (!arr.length) return 0;
+  if (dir === "desc") { // 排名越小越好
+    const below = arr.filter(x => x > value).length;
+    return (below / arr.length) * 100;
+  } else { // 热度越大越好
+    const eq = arr.filter(x => x === value).length;
+    const lt = arr.filter(x => x < value).length;
+    return (lt + eq / 2) / arr.length * 100;
+  }
+}
+
+// ---------- 趋势/持续性 ----------
+function trendScoreZhiwei(item) {
+  const h = hist[item.eventId || ""];
+  const latestIdx = rank.length - 1;
+  if (!h || !h.batches.length || latestIdx < 0) return { score: 60, evidence: "缺少在榜时长(按未知60)" };
+  if (!h.batches.includes(latestIdx)) return { score: 60, evidence: "当前不在最新批次" };
+  const span = latestIdx - Math.min(...h.batches);
+  const lastRank = h.ranks[h.ranks.length - 1];
+  const prevRank = h.ranks.length > 1 ? h.ranks[h.ranks.length - 2] : null;
+  if (span === 0 && h.batches.length === 1) return { score: 60, evidence: `刚上榜(在榜${span}小时)` };
+  if (prevRank !== null && prevRank > lastRank && (prevRank - lastRank) >= 1)
+    return { score: 100, evidence: `排名上升 ${prevRank}→${lastRank}, 在榜${span}小时` };
+  if (lastRank <= 4 && span >= 5) return { score: 85, evidence: `持续高位(第${lastRank}名, 在榜${span}小时)` };
+  return { score: 70, evidence: `平稳(第${lastRank}名, 在榜${span}小时)` };
+}
+function trendScoreDouyin(item) {
+  if (item.label === 3 || item.label === "爆") return { score: 85, evidence: "抖音标记'爆'" };
+  if (item.label === 2 || item.label === "热") return { score: 70, evidence: "抖音标记'热'" };
+  if (item.label === 1 || item.label === "新") return { score: 60, evidence: "抖音标记'新'(刚上榜)" };
+  return { score: 60, evidence: "抖音无在榜时长(按60)" };
+}
+function trendScoreWeibo() { return { score: 60, evidence: "微博单次快照无在榜时长(按60)" }; }
+
+// ---------- 跨平台共振（语义合并，排除自身平台） ----------
+function resonanceScore(title, ownPlatform) {
+  const norm = t => String(t || "").replace(/[：:，,。.!！?？\s"'"（）()\u200c]/g, "");
+  const core = norm(title);
+  const kw = core.slice(0, 8);
+  const others = [];
+  if (ownPlatform !== "抖音") others.push(...douyinItems.map(i => i.title));
+  if (ownPlatform !== "微博") others.push(...weiboItems.map(i => i.title));
+  if (ownPlatform !== "知微") others.push(...webwideItems.map(i => i.title));
+  const matched = others.filter(t => {
+    const n = norm(t);
+    return n.includes(kw) || kw.includes(n.slice(0, 8)) || core.includes(n.slice(0, 6));
+  });
+  if (matched.length >= 1) return { score: 80, evidence: `两源共振(其他: ${matched.slice(0,2).join("、")})` };
+  return { score: 45, evidence: "仅单平台, 未确认外部讨论证据" };
+}
+
+// ---------- 构建固定6席（删禁区后顺延） ----------
+const fixed = [];
+// 1) 知微 Top4（顺延）
+const zhiweiValid = webwideItems.filter(i => !isExcluded(i.title));
+zhiweiValid.slice(0, 4).forEach(i => fixed.push({ ...i, seat: "知微Top" + i.rank }));
+
+// 2) 抖音 Top1（顺延）
+const douyinValid = douyinItems.filter(i => !isExcluded(i.title));
+if (douyinValid.length) fixed.push({ ...douyinValid[0], seat: "抖音Top" + douyinValid[0].rank });
+
+// 3) 微博 Top1（顺延）
+const weiboValid = weiboItems.filter(i => !isExcluded(i.title));
+if (weiboValid.length) fixed.push({ ...weiboValid[0], seat: "微博Top" + weiboValid[0].rank });
+
+// ---------- 各平台有效榜位/热度百分位 ----------
+function pctPos(list) { return list.map(i => ({ item: i, pct: percentileRank(list.map(x => x.rank), i.rank, "desc") })); }
+function pctHot(list) {
+  const hots = list.map(i => i.hot).filter(v => typeof v === "number" && !isNaN(v) && v > 0);
+  return list.map(i => ({ item: i, pct: hots.length ? percentileRank(hots, i.hot, "asc") : 0 }));
+}
+const posZ = pctPos(zhiweiValid), hotZ = pctHot(zhiweiValid);
+const posD = pctPos(douyinValid), hotD = pctHot(douyinValid);
+const posW = pctPos(weiboValid), hotW = pctHot(weiboValid);
+function getPct(list, item) { const f = list.find(x => x.item.title === item.title); return f ? f.pct : null; }
+
+// ---------- 计算每席热度值 + 分级 ----------
+const hotspots = fixed.map(it => {
+  let posPct, hotPct, trend, reson;
+  if (it.platform === "知微") {
+    posPct = getPct(posZ, it); hotPct = getPct(hotZ, it);
+    trend = trendScoreZhiwei(it); reson = resonanceScore(it.title, "知微");
+  } else if (it.platform === "抖音") {
+    posPct = getPct(posD, it); hotPct = getPct(hotD, it);
+    trend = trendScoreDouyin(it); reson = resonanceScore(it.title, "抖音");
+  } else {
+    posPct = getPct(posW, it); hotPct = getPct(hotW, it);
+    trend = trendScoreWeibo(); reson = resonanceScore(it.title, "微博");
+  }
+  const score = (posPct || 0) * 0.35 + (hotPct || 0) * 0.20 + trend.score * 0.25 + reson.score * 0.20;
+  const grade = score >= 80 ? "S" : (score >= 65 ? "A" : "B");
+  return {
+    level: grade,
+    seat: it.seat,
+    title: it.title,
+    topic: it.title,
+    eventName: it.title,
+    platform: it.platform,
+    rank: it.rank,
+    hot: it.hot ?? null,
+    hotValue: it.hot ?? null,
+    url: it.url,
+    platforms: [{ platform: it.platform, rank: it.rank, hot: it.hot ?? null }],
+    totalScore: Math.round(score * 10) / 10,
+    posScore: Math.round((posPct || 0) * 10) / 10,
+    hotScore: Math.round((hotPct || 0) * 10) / 10,
+    trendScore: trend.score,
+    trendEvidence: trend.evidence,
+    resonanceScore: reson.score,
+    resonanceEvidence: reson.evidence,
+    duration: trend.evidence,
+    rankChange: trend.evidence,
+    excludeCat: isExcluded(it.title),
+    collectedAt: latest.generatedAt || new Date().toISOString(),
+  };
+});
+
+// 保留原始排序（固定席位顺序：知微4 + 抖音 + 微博）
+const radarData = {
+  generatedAt: latest.generatedAt || new Date().toISOString(),
+  date: date,
+  note: "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 热度值仅用于S/A/B分级",
+  hotspots: hotspots,
 };
 
-const targets = [join(ROOT, "public/data/radar.json"), join(ROOT, `public/data/history/${input.date}-radar.json`)];
-for (const target of targets) {
-  await mkdir(dirname(target), { recursive: true });
-  await writeFile(target, JSON.stringify(radar, null, 2) + "\n", "utf8");
+// ---------- 写入 radar.json ----------
+try {
+  fs.writeFileSync(OUT, JSON.stringify(radarData, null, 2));
+  console.log(`[analyze] 已写入 radar.json: ${hotspots.length} 席`);
+} catch (e) {
+  console.error("[❌] 写入 radar.json 失败:", e.message);
+  process.exit(1);
 }
-console.log(`热度分级完成：S=${radar.summary.S} A=${radar.summary.A} B=${radar.summary.B} 观察=${radar.summary.watchlist}`);
+
+// ---------- 打印 ----------
+console.log("======== 热点雷达 · 固定6席分级 ========  " + date);
+hotspots.forEach(h => {
+  console.log(`\n【${h.level}】 ${h.platform} ${h.seat} · ${h.title}  总分=${h.totalScore}`);
+  console.log(`  榜位分=${h.posScore}/100(35%) 热度分=${h.hotScore}/100(20%) 趋势分=${h.trendScore}(25%) 共振分=${h.resonanceScore}(20%)`);
+  console.log(`  趋势: ${h.trendEvidence}`);
+  console.log(`  禁区: ${h.exclude ? h.exclude : "无"}`);
+});

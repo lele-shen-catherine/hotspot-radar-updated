@@ -27,7 +27,7 @@ const hitCategory = (title, categories) => {
 const byKey = new Map();
 
 for (const [platform, payload] of Object.entries(latest.platforms || {})) {
-  if (platform === "webwide") continue; // 全网榜仅观察，不参与计分
+  // webwide 全网榜纳入候选(固定6席需知微Top4)，同样参与四类硬性排除语义复核
   for (const [index, item] of (payload.items || []).slice(0, rules.maxRankPerPlatform).entries()) {
     const title = String(item.title || "").trim();
     const key = clean(title);
