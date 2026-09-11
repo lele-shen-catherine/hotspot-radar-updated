@@ -1,1279 +1,205 @@
 {
-  "schemaVersion": 2,
-  "generatedAt": "2026-09-07T12:30:55.090Z",
-  "date": "2026-09-07",
-  "sourceGeneratedAt": "2026-09-07T18:33:39.015Z",
-  "provider": "objective-heat",
-  "model": "auditable-heat-v2",
-  "summary": {
-    "analyzed": 80,
-    "S": 2,
-    "A": 4,
-    "B": 0,
-    "hotspots": 6,
-    "watchlist": 30
-  },
+  "generatedAt": "2026-09-11T14:24:02.171Z",
+  "date": "2026-09-11",
+  "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "id": "weibo-1-郭德纲事件处罚通报",
-      "title": "郭德纲事件处罚通报",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 1,
-          "hot": 4502355,
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%BD%9A%E9%80%9A%E6%8A%A5%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 1,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": 100,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 89,
       "level": "S",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "郭德纲事件处罚通报",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "douyin-1-华为再发布高性能芯片",
-      "title": "华为再发布高性能芯片",
-      "crossPlatform": false,
+      "seat": "知微Top1",
+      "title": "苹果2026秋季新品发布会",
+      "topic": "苹果2026秋季新品发布会",
+      "eventName": "苹果2026秋季新品发布会",
+      "platform": "知微",
+      "rank": 1,
+      "hot": 11465,
+      "hotValue": 11465,
+      "url": "https://ef.zhiweidata.com/eventRk/317596e254e1a57d10180042/profil",
       "platforms": [
         {
-          "platform": "douyin",
+          "platform": "知微",
           "rank": 1,
-          "hot": 12111146,
-          "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E5%86%8D%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87",
-          "sourceName": "douyin",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
+          "hot": 11465
         }
       ],
-      "bestDurationMin": 197,
-      "snapshotCount": 2,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 1,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": 100,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 89,
+      "totalScore": 80.8,
+      "posScore": 90,
+      "hotScore": 95,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第1名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第1名, 在榜11小时)",
+      "rankChange": "持续高位(第1名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-11T14:24:02.171Z",
+      "eventSummary": "苹果2026秋季新品发布会——成为 平台 官方热榜TOP1 话题，1.1w 公开热度，事件性强、参与度高。",
+      "propagation": "<b>硬核突破与民族自豪感共振</b>；国产科技自主可控议题自带议程设置能力，短视频拆解 + 科技大V视角带动跨平台扩散，属高频借势窗口。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
+    },
+    {
       "level": "S",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "华为再发布高性能芯片",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "douyin-2-秋天的第一件燕麦系卫衣",
-      "title": "秋天的第一件燕麦系卫衣",
-      "crossPlatform": false,
+      "seat": "知微Top2",
+      "title": "苹果推出首款折叠屏iPhone Duo",
+      "topic": "苹果推出首款折叠屏iPhone Duo",
+      "eventName": "苹果推出首款折叠屏iPhone Duo",
+      "platform": "知微",
+      "rank": 2,
+      "hot": 5793,
+      "hotValue": 5793,
+      "url": "https://ef.zhiweidata.com/eventRk/e2a68ed6cd321c5710180038/profil",
       "platforms": [
         {
-          "platform": "douyin",
+          "platform": "知微",
           "rank": 2,
-          "hot": 11931395,
-          "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%B6%E7%87%95%E9%BA%A6%E7%B3%BB%E5%8D%AB%E8%A1%A3",
-          "sourceName": "douyin",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
+          "hot": 5793
         }
       ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 2,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": 100,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 89,
-      "level": "A",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "秋天的第一件燕麦系卫衣",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。",
-      "levelNote": "分数≥S级阈值但因 S 级名额上限(2条)被降级为 A"
+      "totalScore": 82.3,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: iPhone Duo遭爆炒溢价超4000元、iPhone Duo手机壳上手)",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-11T14:24:02.171Z",
+      "eventSummary": "苹果推出首款折叠屏iPhone Duo——成为 平台 官方热榜TOP2 话题，5793 公开热度，事件性强、参与度高。",
+      "propagation": "<b>「苹果推出首款折叠屏iPhone Duo」因高关注度/强时效进入热榜</b>；在所在平台高热排名下，用户讨论与二次创作共同推动扩散，需结合后续进展动态观察热度走向；本地生活可谨慎关联同类消费场景。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "id": "weibo-2-别让低保女生赴港追星争议撕裂舆论",
-      "title": "别让低保女生赴港追星争议撕裂舆论",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 2,
-          "hot": 1209728,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E4%BD%8E%E4%BF%9D%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E8%BF%BD%E6%98%9F%E4%BA%89%E8%AE%AE%E6%92%95%E8%A3%82%E8%88%86%E8%AE%BA%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 2,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": 60.5,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 81.1,
       "level": "A",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "别让低保女生赴港追星争议撕裂舆论",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "douyin-3-青春华章",
-      "title": "青春华章",
-      "crossPlatform": false,
+      "seat": "知微Top3",
+      "title": "2026年服贸会在京开幕",
+      "topic": "2026年服贸会在京开幕",
+      "eventName": "2026年服贸会在京开幕",
+      "platform": "知微",
+      "rank": 3,
+      "hot": 2895,
+      "hotValue": 2895,
+      "url": "https://ef.zhiweidata.com/eventRk/7c7b53a325cd31d110180018/profil",
       "platforms": [
         {
-          "platform": "douyin",
+          "platform": "知微",
           "rank": 3,
-          "hot": 11912231,
-          "url": "https://www.douyin.com/search/%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0",
-          "sourceName": "douyin",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
+          "hot": 2895
         }
       ],
-      "bestDurationMin": 439,
-      "snapshotCount": 8,
-      "durationSource": "snapshot-span",
-      "peakRank": 3,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": 100,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 89,
+      "totalScore": 73.5,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 4→3, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 4→3, 在榜11小时",
+      "rankChange": "排名上升 4→3, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-09-11T14:24:02.171Z",
+      "eventSummary": "2026年服贸会在京开幕——成为 平台 官方热榜TOP3 话题，2895 公开热度，事件性强、参与度高。",
+      "propagation": "<b>国家级展会/政策窗口自带议程设置</b>；作为对外开放与产业风向标，媒体集中报道 + 行业关注叠加，属长线但短期亦有讨论高峰，本地商户可借\"展会经济+消费提振\"节点切入。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
       "level": "A",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "青春华章",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。",
-      "levelNote": "分数≥S级阈值但因 S 级名额上限(2条)被降级为 A"
-    },
-    {
-      "id": "weibo-3-在祖国大地上书写新时代青春答卷",
-      "title": "在祖国大地上书写新时代青春答卷",
-      "crossPlatform": false,
+      "seat": "知微Top4",
+      "title": "小米2026年秋季旗舰新品发布会",
+      "topic": "小米2026年秋季旗舰新品发布会",
+      "eventName": "小米2026年秋季旗舰新品发布会",
+      "platform": "知微",
+      "rank": 4,
+      "hot": 1828,
+      "hotValue": 1828,
+      "url": "https://ef.zhiweidata.com/eventRk/9eb49ce1b2aae98910180011/profil",
       "platforms": [
         {
-          "platform": "weibo",
-          "rank": 3,
-          "hot": 1198759,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%E4%B9%A6%E5%86%99%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92%E6%98%A5%E7%AD%94%E5%8D%B7%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 3,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": 59.9,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 81,
-      "level": "A",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "在祖国大地上书写新时代青春答卷",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    }
-  ],
-  "watchlist": [
-    {
-      "id": "xhs-1-用万能旅行拍照姿势美美出片",
-      "title": "用万能旅行拍照姿势美美出片",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 1,
-          "hot": "947.5w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E4%B8%87%E8%83%BD%E6%97%85%E8%A1%8C%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 1,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "用万能旅行拍照姿势美美出片",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-2-耗时三年拍下古诗词里的中国",
-      "title": "耗时三年拍下古诗词里的中国",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 2,
-          "hot": "934.8w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%97%E6%97%B6%E4%B8%89%E5%B9%B4%E6%8B%8D%E4%B8%8B%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 2,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "耗时三年拍下古诗词里的中国",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-3-我拍到了海鸥雨",
-      "title": "我拍到了海鸥雨",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 3,
-          "hot": "903.2w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B5%B7%E9%B8%A5%E9%9B%A8&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 3,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 100,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "我拍到了海鸥雨",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-4-超日常美食教程速来get",
-      "title": "超日常美食教程速来get",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
+          "platform": "知微",
           "rank": 4,
-          "hot": "886w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E6%97%A5%E5%B8%B8%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B%E9%80%9F%E6%9D%A5get&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
+          "hot": 1828
         }
       ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 4,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 92,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "超日常美食教程速来get",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+      "totalScore": 68,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 5→4, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 5→4, 在榜11小时",
+      "rankChange": "排名上升 5→4, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-09-11T14:24:02.171Z",
+      "eventSummary": "小米2026年秋季旗舰新品发布会——小米相关企业/产品动态登上热榜，围绕科技品牌动向与用户关注展开，属科技消费话题，需结合具体进展解读。",
+      "propagation": "<b>硬核突破与民族自豪感共振</b>；国产科技自主可控议题自带议程设置能力，短视频拆解 + 科技大V视角带动跨平台扩散，属高频借势窗口。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
     },
     {
-      "id": "xhs-5-定格这一刻的日照金山",
-      "title": "定格这一刻的日照金山",
-      "crossPlatform": false,
+      "level": "S",
+      "seat": "抖音Top1",
+      "title": "9月11日24时国内油价将调整",
+      "topic": "9月11日24时国内油价将调整",
+      "eventName": "9月11日24时国内油价将调整",
+      "platform": "抖音",
+      "rank": 1,
+      "hot": 11985450,
+      "hotValue": 11985450,
+      "url": "https://www.douyin.com/search/9%E6%9C%8811%E6%97%A524%E6%97%B6%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4",
       "platforms": [
         {
-          "platform": "xhs",
-          "rank": 5,
-          "hot": "871.1w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%9A%E6%A0%BC%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 11985450
         }
       ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 5,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 92,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "定格这一刻的日照金山",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+      "totalScore": 84.4,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 85,
+      "trendEvidence": "抖音标记'爆'",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音标记'爆'",
+      "rankChange": "抖音标记'爆'",
+      "excludeCat": null,
+      "collectedAt": "2026-09-11T14:24:02.171Z",
+      "eventSummary": "9月11日24时国内油价将调整——成为 平台 官方热榜TOP1 话题，1198.5w 公开热度，事件性强、参与度高。",
+      "propagation": "<b>「9月11日24时国内油价将调整」因高关注度/强时效进入热榜</b>；在所在平台高热排名下，用户讨论与二次创作共同推动扩散，需结合后续进展动态观察热度走向；本地生活可谨慎关联同类消费场景。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "id": "xhs-6-你可以永远相信赛里木湖的美景",
-      "title": "你可以永远相信赛里木湖的美景",
-      "crossPlatform": false,
+      "level": "A",
+      "seat": "微博Top1",
+      "title": "车主称坠楼砸车小孩家长态度转变",
+      "topic": "车主称坠楼砸车小孩家长态度转变",
+      "eventName": "车主称坠楼砸车小孩家长态度转变",
+      "platform": "微博",
+      "rank": 1,
+      "hot": 1142384,
+      "hotValue": 1142384,
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%9D%A0%E6%A5%BC%E7%A0%B8%E8%BD%A6%E5%B0%8F%E5%AD%A9%E5%AE%B6%E9%95%BF%E6%80%81%E5%BA%A6%E8%BD%AC%E5%8F%98%23",
       "platforms": [
         {
-          "platform": "xhs",
-          "rank": 6,
-          "hot": "783.1w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E7%9A%84%E7%BE%8E%E6%99%AF&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1142384
         }
       ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 6,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 80,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "你可以永远相信赛里木湖的美景",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-7-拼豆上也可以作画了",
-      "title": "拼豆上也可以作画了",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 7,
-          "hot": "749.8w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B8%8A%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%9C%E7%94%BB%E4%BA%86&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 7,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 80,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "拼豆上也可以作画了",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-8-我的家庭旅行更像是打副本",
-      "title": "我的家庭旅行更像是打副本",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 8,
-          "hot": "737.1w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%97%85%E8%A1%8C%E6%9B%B4%E5%83%8F%E6%98%AF%E6%89%93%E5%89%AF%E6%9C%AC&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 8,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 80,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "我的家庭旅行更像是打副本",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-9-原来古诗词里的河南真的存在",
-      "title": "原来古诗词里的河南真的存在",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 9,
-          "hot": "727.8w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 9,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 80,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "原来古诗词里的河南真的存在",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-10-蒸出了奶香爆米花馒头",
-      "title": "蒸出了奶香爆米花馒头",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 10,
-          "hot": "716.2w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 10,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 80,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "蒸出了奶香爆米花馒头",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-11-这可能是江西最被低估的一座山",
-      "title": "这可能是江西最被低估的一座山",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 11,
-          "hot": "703w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B1%9F%E8%A5%BF%E6%9C%80%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%B8%80%E5%BA%A7%E5%B1%B1&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 11,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "这可能是江西最被低估的一座山",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-12-海边日落赴一场温柔约会",
-      "title": "海边日落赴一场温柔约会",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 12,
-          "hot": "689.4w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%B7%E8%BE%B9%E6%97%A5%E8%90%BD%E8%B5%B4%E4%B8%80%E5%9C%BA%E6%B8%A9%E6%9F%94%E7%BA%A6%E4%BC%9A&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 12,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "海边日落赴一场温柔约会",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-13-拼豆也能当火漆印章玩",
-      "title": "拼豆也能当火漆印章玩",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 13,
-          "hot": "241.7w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B9%9F%E8%83%BD%E5%BD%93%E7%81%AB%E6%BC%86%E5%8D%B0%E7%AB%A0%E7%8E%A9&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 13,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "拼豆也能当火漆印章玩",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-14-我创造了新型遛狗法",
-      "title": "我创造了新型遛狗法",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 14,
-          "hot": "231.8w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E5%88%9B%E9%80%A0%E4%BA%86%E6%96%B0%E5%9E%8B%E9%81%9B%E7%8B%97%E6%B3%95&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 14,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "我创造了新型遛狗法",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-15-用镜头捕捉四季如画",
-      "title": "用镜头捕捉四季如画",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 15,
-          "hot": "222.8w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E9%95%9C%E5%A4%B4%E6%8D%95%E6%8D%89%E5%9B%9B%E5%AD%A3%E5%A6%82%E7%94%BB&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 15,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "用镜头捕捉四季如画",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-16-笔墨重现课本诗意",
-      "title": "笔墨重现课本诗意",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 16,
-          "hot": "213.5w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%AC%94%E5%A2%A8%E9%87%8D%E7%8E%B0%E8%AF%BE%E6%9C%AC%E8%AF%97%E6%84%8F&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 16,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "笔墨重现课本诗意",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-17-拍到了洱海的丁达尔效应",
-      "title": "拍到了洱海的丁达尔效应",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 17,
-          "hot": "203.3w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B4%B1%E6%B5%B7%E7%9A%84%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 17,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "拍到了洱海的丁达尔效应",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-18-珠圆玉润妆完全是淡颜天菜",
-      "title": "珠圆玉润妆完全是淡颜天菜",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 18,
-          "hot": "193.8w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%8F%A0%E5%9C%86%E7%8E%89%E6%B6%A6%E5%A6%86%E5%AE%8C%E5%85%A8%E6%98%AF%E6%B7%A1%E9%A2%9C%E5%A4%A9%E8%8F%9C&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 18,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "珠圆玉润妆完全是淡颜天菜",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-19-碎钻美甲指尖藏着细碎星光",
-      "title": "碎钻美甲指尖藏着细碎星光",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 19,
-          "hot": "184.5w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%A2%8E%E9%92%BB%E7%BE%8E%E7%94%B2%E6%8C%87%E5%B0%96%E8%97%8F%E7%9D%80%E7%BB%86%E7%A2%8E%E6%98%9F%E5%85%89&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 19,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "碎钻美甲指尖藏着细碎星光",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "xhs-20-我来当旅行中的颜色猎手",
-      "title": "我来当旅行中的颜色猎手",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "xhs",
-          "rank": 20,
-          "hot": "175.7w",
-          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%9D%A5%E5%BD%93%E6%97%85%E8%A1%8C%E4%B8%AD%E7%9A%84%E9%A2%9C%E8%89%B2%E7%8C%8E%E6%89%8B&type=51",
-          "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-07T08:12:28.126Z",
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 0,
-      "snapshotCount": 0,
-      "durationSource": "no-data",
-      "durationEstimateNote": "数据源未返回在榜时长且快照历史中未见上榜，如实标注数据不可得",
-      "peakRank": 20,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 64,
-        "hot": null,
-        "duration": 0,
-        "cross": 45
-      },
-      "totalScore": null,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "我来当旅行中的颜色猎手",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-21-贫困生追星错在哪",
-      "title": "贫困生追星错在哪",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 21,
-          "hot": 421617,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%AB%E5%9B%B0%E7%94%9F%E8%BF%BD%E6%98%9F%E9%94%99%E5%9C%A8%E5%93%AA%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 21,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 21.1,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.7,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "贫困生追星错在哪",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-22-整船黑色物质倒入长江仅用10秒",
-      "title": "整船黑色物质倒入长江仅用10秒",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 22,
-          "hot": 418186,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B4%E8%88%B9%E9%BB%91%E8%89%B2%E7%89%A9%E8%B4%A8%E5%80%92%E5%85%A5%E9%95%BF%E6%B1%9F%E4%BB%85%E7%94%A810%E7%A7%92%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 210,
-      "snapshotCount": 4,
-      "durationSource": "snapshot-span",
-      "peakRank": 22,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 20.9,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.7,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "整船黑色物质倒入长江仅用10秒",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-23-才知道井柏然是刘雯初恋",
-      "title": "才知道井柏然是刘雯初恋",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 23,
-          "hot": 410389,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E4%BA%95%E6%9F%8F%E7%84%B6%E6%98%AF%E5%88%98%E9%9B%AF%E5%88%9D%E6%81%8B%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 23,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 20.5,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.6,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "才知道井柏然是刘雯初恋",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-24-南阳禁行老头乐能产能卖不能开",
-      "title": "南阳禁行老头乐能产能卖不能开",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 24,
-          "hot": 403805,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E7%A6%81%E8%A1%8C%E8%80%81%E5%A4%B4%E4%B9%90%E8%83%BD%E4%BA%A7%E8%83%BD%E5%8D%96%E4%B8%8D%E8%83%BD%E5%BC%80%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 24,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 20.2,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.5,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "南阳禁行老头乐能产能卖不能开",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-25-余承东发布会现场连喊3个super",
-      "title": "余承东发布会现场连喊3个Super",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 25,
-          "hot": 395430,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E8%BF%9E%E5%96%8A3%E4%B8%AASuper%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 25,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 19.8,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.5,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "余承东发布会现场连喊3个Super",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-26-看张家齐妈妈聊天记录窒息了",
-      "title": "看张家齐妈妈聊天记录窒息了",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 26,
-          "hot": 392279,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E7%AA%92%E6%81%AF%E4%BA%86%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 26,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 19.6,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.4,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "看张家齐妈妈聊天记录窒息了",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-27-赵昭仪提到北斗七行哭了",
-      "title": "赵昭仪提到北斗七行哭了",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 27,
-          "hot": 390018,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E6%8F%90%E5%88%B0%E5%8C%97%E6%96%97%E4%B8%83%E8%A1%8C%E5%93%AD%E4%BA%86%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 27,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 19.5,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.4,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "赵昭仪提到北斗七行哭了",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-28-全新一代华为matepadair正式",
-      "title": "全新一代华为MatePadAir正式发布",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 28,
-          "hot": 389186,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E4%B8%80%E4%BB%A3%E5%8D%8E%E4%B8%BAMatePadAir%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 28,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 19.5,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.4,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "全新一代华为MatePadAir正式发布",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-29-华为展翼三折叠首发第三代红枫影像",
-      "title": "华为展翼三折叠首发第三代红枫影像",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 29,
-          "hot": 385377,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B1%95%E7%BF%BC%E4%B8%89%E6%8A%98%E5%8F%A0%E9%A6%96%E5%8F%91%E7%AC%AC%E4%B8%89%E4%BB%A3%E7%BA%A2%E6%9E%AB%E5%BD%B1%E5%83%8F%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 197,
-      "snapshotCount": 1,
-      "durationSource": "snapshot-floor-estimate",
-      "durationEstimateNote": "仅在最后一次快照(最晚)被观测到，按 上一快照→最晚快照 间隔 197min 估算下限",
-      "peakRank": 29,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 19.3,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.4,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "华为展翼三折叠首发第三代红枫影像",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
-    },
-    {
-      "id": "weibo-30-网红tiny泰国手术失败去世",
-      "title": "网红Tiny泰国手术失败去世",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "weibo",
-          "rank": 30,
-          "hot": 384149,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2Tiny%E6%B3%B0%E5%9B%BD%E6%89%8B%E6%9C%AF%E5%A4%B1%E8%B4%A5%E5%8E%BB%E4%B8%96%23",
-          "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ],
-      "bestDurationMin": 210,
-      "snapshotCount": 4,
-      "durationSource": "snapshot-span",
-      "peakRank": 30,
-      "platformCount": 1,
-      "subScores": {
-        "rank": 50,
-        "hot": 19.2,
-        "duration": 100,
-        "cross": 45
-      },
-      "totalScore": 55.3,
-      "level": "C",
-      "riskLevel": "low",
-      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
-      "eventSummary": "网红Tiny泰国手术失败去世",
-      "propagation": "当前数据源暂不可用",
-      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-11T14:24:02.171Z",
+      "eventSummary": "车主称坠楼砸车小孩家长态度转变——成为 平台 官方热榜TOP1 话题，114.2w 公开热度，事件性强、参与度高。",
+      "propagation": "<b>「车主称坠楼砸车小孩家长态度转变」因高关注度/强时效进入热榜</b>；在所在平台高热排名下，用户讨论与二次创作共同推动扩散，需结合后续进展动态观察热度走向；本地生活可谨慎关联同类消费场景。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }

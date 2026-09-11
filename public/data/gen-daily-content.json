@@ -1,220 +1,785 @@
 {
-  "updatedAt": "2026-09-07T12:31:01.769Z",
-  "collectedAt": "2026-09-07T12:31:01.769Z",
-  "date": "2026-09-07",
+  "updatedAt": "2026-09-11T06:24:08.409Z",
+  "collectedAt": "2026-09-11T06:24:08.409Z",
+  "date": "2026-09-11",
   "events": [
     {
       "level": "S",
-      "eventName": "郭德纲事件处罚通报",
-      "topic": "郭德纲篡改红歌",
-      "score": 89,
-      "platform": "微博置顶/热搜",
+      "eventName": "苹果2026秋季新品发布会",
+      "topic": "苹果2026秋季新品发布会",
+      "score": 80.8,
+      "platform": "知微",
       "platformDetail": {
-        "platform": "微博置顶/热搜",
+        "platform": "知微",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "微博置顶",
-        "collectedAt": "2026-09-07T12:31:01.769Z",
-        "duration": "上午、下午均在榜（可核验）",
-        "rankChange": "高位持续",
-        "link": "UAPI 微博热榜"
+        "hotValue": "1.1w",
+        "collectedAt": "2026-09-11T06:24:08.409Z",
+        "duration": "持续高位(第1名, 在榜11小时)",
+        "rankChange": "持续高位(第1名, 在榜11小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/317596e254e1a57d10180042/profil"
       },
-      "explanation": "郭德纲“篡改红歌”事件经官方通报，成为微博置顶热搜。涉及公众人物对特定歌曲的不当改编及官方处罚。热搜词与事件的关系为事件处置通报本身。",
-      "whyHot": "公众人物+官方通报双重叠加、冲突与反差（才艺身份 vs 不当改编）、观点争议多、跨平台扩散。",
-      "risk": "涉及官方通报与意识形态敏感，风险较高：仅建议做公共信息服务，不建议娱乐化，不建议商业化表达，不建议玩梗。"
+      "explanation": "苹果2026秋季新品发布会——成为 平台 官方热榜TOP1 话题，1.1w 公开热度，事件性强、参与度高。",
+      "whyHot": "<b>硬核突破与民族自豪感共振</b>；国产科技自主可控议题自带议程设置能力，短视频拆解 + 科技大V视角带动跨平台扩散，属高频借势窗口。",
+      "risk": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
+      "title": "苹果2026秋季新品发布会",
+      "eventSummary": "苹果2026秋季新品发布会——成为 平台 官方热榜TOP1 话题，1.1w 公开热度，事件性强、参与度高。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
+      "totalScore": 80.8,
+      "source": "知微",
+      "heat": "1.1w",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 11465
+        }
+      ]
     },
     {
       "level": "S",
-      "eventName": "华为再发布高性能芯片",
-      "topic": "华为再发布高性能芯片",
-      "score": 89,
-      "platform": "",
+      "eventName": "苹果推出首款折叠屏iPhone Duo",
+      "topic": "苹果推出首款折叠屏iPhone Duo",
+      "score": 82.3,
+      "platform": "知微",
       "platformDetail": {
-        "platform": "",
-        "peakRank": 1,
-        "hotValue": "",
-        "collectedAt": "2026-09-07T12:31:01.769Z",
-        "duration": "上午、下午均在榜（可核验）",
-        "rankChange": "持续在榜",
-        "link": ""
-      },
-      "explanation": "",
-      "whyHot": "",
-      "risk": ""
-    },
-    {
-      "level": "A",
-      "eventName": "秋天的第一件燕麦系卫衣",
-      "topic": "秋天的第一件燕麦系卫衣",
-      "score": 89,
-      "platform": "",
-      "platformDetail": {
-        "platform": "",
+        "platform": "知微",
+        "currentRank": 2,
         "peakRank": 2,
-        "hotValue": "",
-        "collectedAt": "2026-09-07T12:31:01.769Z",
-        "duration": "上午、下午均在榜（可核验）",
-        "rankChange": "持续在榜",
-        "link": ""
+        "hotValue": "5793",
+        "collectedAt": "2026-09-11T06:24:08.409Z",
+        "duration": "持续高位(第2名, 在榜11小时)",
+        "rankChange": "持续高位(第2名, 在榜11小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/e2a68ed6cd321c5710180038/profil"
       },
-      "explanation": "",
-      "whyHot": "",
-      "risk": ""
+      "explanation": "苹果推出首款折叠屏iPhone Duo——成为 平台 官方热榜TOP2 话题，5793 公开热度，事件性强、参与度高。",
+      "whyHot": "<b>「苹果推出首款折叠屏iPhone Duo」因高关注度/强时效进入热榜</b>；在所在平台高热排名下，用户讨论与二次创作共同推动扩散，需结合后续进展动态观察热度走向；本地生活可谨慎关联同类消费场景。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "苹果推出首款折叠屏iPhone Duo",
+      "eventSummary": "苹果推出首款折叠屏iPhone Duo——成为 平台 官方热榜TOP2 话题，5793 公开热度，事件性强、参与度高。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 82.3,
+      "source": "知微",
+      "heat": "5793",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 5793
+        }
+      ]
     },
     {
       "level": "A",
-      "eventName": "青春华章",
-      "topic": "青春华章",
-      "score": 89,
-      "platform": "抖音热榜第3",
+      "eventName": "2026年服贸会在京开幕",
+      "topic": "2026年服贸会在京开幕",
+      "score": 73.5,
+      "platform": "知微",
       "platformDetail": {
-        "platform": "抖音热榜第3",
+        "platform": "知微",
         "currentRank": 3,
         "peakRank": 3,
-        "hotValue": "抖音热榜 top",
-        "collectedAt": "2026-09-07T12:31:01.769Z",
-        "duration": "下午在榜",
-        "rankChange": "新进入榜",
-        "link": "UAPI 抖音热榜"
+        "hotValue": "2895",
+        "collectedAt": "2026-09-11T06:24:08.409Z",
+        "duration": "排名上升 4→3, 在榜11小时",
+        "rankChange": "排名上升 4→3, 在榜11小时",
+        "link": "https://ef.zhiweidata.com/eventRk/7c7b53a325cd31d110180018/profil"
       },
-      "explanation": "“青春华章”为抖音热榜话题，与青年主题活动/传播节点相关，话题围绕青春表达与集体展示展开，多与校园、青年节庆或文化传播关联。",
-      "whyHot": "主题传播节点、情绪共鸣（青春/家国）、活动或节庆带动，官方与用户侧共同参与。",
-      "risk": "涉及青年/家国主题，建议仅做公共信息服务，避免娱乐化消解。"
+      "explanation": "2026年服贸会在京开幕——成为 平台 官方热榜TOP3 话题，2895 公开热度，事件性强、参与度高。",
+      "whyHot": "<b>国家级展会/政策窗口自带议程设置</b>；作为对外开放与产业风向标，媒体集中报道 + 行业关注叠加，属长线但短期亦有讨论高峰，本地商户可借\"展会经济+消费提振\"节点切入。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "2026年服贸会在京开幕",
+      "eventSummary": "2026年服贸会在京开幕——成为 平台 官方热榜TOP3 话题，2895 公开热度，事件性强、参与度高。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 73.5,
+      "source": "知微",
+      "heat": "2895",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 2895
+        }
+      ]
     },
     {
       "level": "A",
-      "eventName": "别让低保女生赴港追星争议撕裂舆论",
-      "topic": "别让低保女生赴港追星争议撕裂舆论",
-      "score": 81.1,
-      "platform": "",
+      "eventName": "小米2026年秋季旗舰新品发布会",
+      "topic": "小米2026年秋季旗舰新品发布会",
+      "score": 68,
+      "platform": "知微",
       "platformDetail": {
-        "platform": "",
-        "peakRank": 2,
-        "hotValue": "",
-        "collectedAt": "2026-09-07T12:31:01.769Z",
-        "duration": "上午、下午均在榜（可核验）",
-        "rankChange": "持续在榜",
-        "link": ""
+        "platform": "知微",
+        "currentRank": 4,
+        "peakRank": 4,
+        "hotValue": "1828",
+        "collectedAt": "2026-09-11T06:24:08.409Z",
+        "duration": "排名上升 5→4, 在榜11小时",
+        "rankChange": "排名上升 5→4, 在榜11小时",
+        "link": "https://ef.zhiweidata.com/eventRk/9eb49ce1b2aae98910180011/profil"
       },
-      "explanation": "",
-      "whyHot": "",
-      "risk": ""
+      "explanation": "小米2026年秋季旗舰新品发布会——小米相关企业/产品动态登上热榜，围绕科技品牌动向与用户关注展开，属科技消费话题，需结合具体进展解读。",
+      "whyHot": "<b>硬核突破与民族自豪感共振</b>；国产科技自主可控议题自带议程设置能力，短视频拆解 + 科技大V视角带动跨平台扩散，属高频借势窗口。",
+      "risk": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
+      "title": "小米2026年秋季旗舰新品发布会",
+      "eventSummary": "小米2026年秋季旗舰新品发布会——小米相关企业/产品动态登上热榜，围绕科技品牌动向与用户关注展开，属科技消费话题，需结合具体进展解读。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
+      "totalScore": 68,
+      "source": "知微",
+      "heat": "1828",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 1828
+        }
+      ]
+    },
+    {
+      "level": "S",
+      "eventName": "9月11日24时国内油价将调整",
+      "topic": "9月11日24时国内油价将调整",
+      "score": 84.4,
+      "platform": "抖音",
+      "platformDetail": {
+        "platform": "抖音",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "1198.5w",
+        "collectedAt": "2026-09-11T06:24:08.409Z",
+        "duration": "抖音标记'爆'",
+        "rankChange": "抖音标记'爆'",
+        "link": "https://www.douyin.com/search/9%E6%9C%8811%E6%97%A524%E6%97%B6%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%B0%83%E6%95%B4"
+      },
+      "explanation": "9月11日24时国内油价将调整——成为 平台 官方热榜TOP1 话题，1198.5w 公开热度，事件性强、参与度高。",
+      "whyHot": "<b>「9月11日24时国内油价将调整」因高关注度/强时效进入热榜</b>；在所在平台高热排名下，用户讨论与二次创作共同推动扩散，需结合后续进展动态观察热度走向；本地生活可谨慎关联同类消费场景。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "9月11日24时国内油价将调整",
+      "eventSummary": "9月11日24时国内油价将调整——成为 平台 官方热榜TOP1 话题，1198.5w 公开热度，事件性强、参与度高。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 84.4,
+      "source": "抖音",
+      "heat": "1198.5w",
+      "crossPlatform": [
+        "抖音"
+      ],
+      "platforms": [
+        {
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 11985450
+        }
+      ]
     },
     {
       "level": "A",
-      "eventName": "在祖国大地上书写新时代青春答卷",
-      "topic": "在祖国大地上书写新时代青春答卷",
-      "score": 81,
-      "platform": "",
+      "eventName": "车主称坠楼砸车小孩家长态度转变",
+      "topic": "车主称坠楼砸车小孩家长态度转变",
+      "score": 78.1,
+      "platform": "微博",
       "platformDetail": {
-        "platform": "",
-        "peakRank": 3,
-        "hotValue": "",
-        "collectedAt": "2026-09-07T12:31:01.769Z",
-        "duration": "上午、下午均在榜（可核验）",
-        "rankChange": "持续在榜",
-        "link": ""
+        "platform": "微博",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "114.2w",
+        "collectedAt": "2026-09-11T06:24:08.409Z",
+        "duration": "微博单次快照无在榜时长(按60)",
+        "rankChange": "微博单次快照无在榜时长(按60)",
+        "link": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%9D%A0%E6%A5%BC%E7%A0%B8%E8%BD%A6%E5%B0%8F%E5%AD%A9%E5%AE%B6%E9%95%BF%E6%80%81%E5%BA%A6%E8%BD%AC%E5%8F%98%23"
       },
-      "explanation": "",
-      "whyHot": "",
-      "risk": ""
+      "explanation": "车主称坠楼砸车小孩家长态度转变——成为 平台 官方热榜TOP1 话题，114.2w 公开热度，事件性强、参与度高。",
+      "whyHot": "<b>「车主称坠楼砸车小孩家长态度转变」因高关注度/强时效进入热榜</b>；在所在平台高热排名下，用户讨论与二次创作共同推动扩散，需结合后续进展动态观察热度走向；本地生活可谨慎关联同类消费场景。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "车主称坠楼砸车小孩家长态度转变",
+      "eventSummary": "车主称坠楼砸车小孩家长态度转变——成为 平台 官方热榜TOP1 话题，114.2w 公开热度，事件性强、参与度高。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 78.1,
+      "source": "微博",
+      "heat": "114.2w",
+      "crossPlatform": [
+        "微博"
+      ],
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1142384
+        }
+      ]
     }
   ],
   "memeTopics": [
     {
-      "title": "燕麦卫衣穿搭",
-      "platform": "抖音",
-      "rank": "TOP2",
-      "hotValue": "抖音热榜第2",
-      "template": "燕麦/奶咖色系卫衣叠穿（同色系搭配）",
-      "reason": "低门槛穿搭模板，用户可加入自身衣橱，可复制性强；具备二创潜力。",
-      "verifyStatus": "具备二创潜力（尚待 3 个独立用户样本核验）",
-      "risk": "低风险"
+      "title": "苹果2026秋季新品发布会",
+      "platform": "知微",
+      "rank": "TOP1",
+      "hotValue": "1.1w",
+      "template": "「苹果2026秋季新品发布会」玩梗公式：用\"新品价格/配置\"做反差对比梗（如\"买不起但想看\"） + \"等等党/真香党\"立场文案，截图晒单即可参与",
+      "reason": "强参与感、天然有讨论度（价格/值不值得）、适合图文二创",
+      "verifyStatus": "具备二创潜力，尚待内容级核验（≥3独立用户）",
+      "risk": "中低风险：可调侃价格与配置，避免编造参数/不贬损品牌",
+      "keyword": "「苹果2026秋季新品发布会」玩梗公式：用\"新品价格/配置\"做反差对比梗（如\"买不起但想看\"） + \"等等党/真香党\"立场文案，截图晒单即可参与",
+      "source": "知微",
+      "heat": "1.1w"
     },
     {
-      "title": "郑钦文赛后梗",
-      "platform": "抖音",
+      "title": "苹果推出首款折叠屏iPhone Duo",
+      "platform": "知微",
+      "rank": "TOP2",
+      "hotValue": "5793",
+      "template": "「苹果推出首款折叠屏iPhone Duo」玩梗公式：用\"新品价格/配置\"做反差对比梗（如\"买不起但想看\"） + \"等等党/真香党\"立场文案，截图晒单即可参与",
+      "reason": "强参与感、天然有讨论度（价格/值不值得）、适合图文二创",
+      "verifyStatus": "具备二创潜力，尚待内容级核验（≥3独立用户）",
+      "risk": "中低风险：可调侃价格与配置，避免编造参数/不贬损品牌",
+      "keyword": "「苹果推出首款折叠屏iPhone Duo」玩梗公式：用\"新品价格/配置\"做反差对比梗（如\"买不起但想看\"） + \"等等党/真香党\"立场文案，截图晒单即可参与",
+      "source": "知微",
+      "heat": "5793"
+    },
+    {
+      "title": "2026年服贸会在京开幕",
+      "platform": "知微",
+      "rank": "TOP3",
+      "hotValue": "2895",
+      "template": "围绕「2026年服贸会在京开幕」发起用户可复制表达（真实热搜词 + 个人视角晒单/吐槽/解读）",
+      "reason": "具备二创参与感，可引导用户真实表达",
+      "verifyStatus": "具备二创潜力，尚待内容级核验（≥3独立用户）",
+      "risk": "中低风险",
+      "keyword": "围绕「2026年服贸会在京开幕」发起用户可复制表达（真实热搜词 + 个人视角晒单/吐槽/解读）",
+      "source": "知微",
+      "heat": "2895"
+    },
+    {
+      "title": "小米2026年秋季旗舰新品发布会",
+      "platform": "知微",
       "rank": "TOP4",
-      "hotValue": "抖音热榜第4",
-      "template": "模仿/回放她的关键瞬间或台词",
-      "reason": "赛事节点带动，球迷可回放+二创；具备二创潜力。",
-      "verifyStatus": "待内容级核验",
-      "risk": "低风险"
+      "hotValue": "1828",
+      "template": "「小米2026年秋季旗舰新品发布会」玩梗公式：用\"新品价格/配置\"做反差对比梗（如\"买不起但想看\"） + \"等等党/真香党\"立场文案，截图晒单即可参与",
+      "reason": "强参与感、天然有讨论度（价格/值不值得）、适合图文二创",
+      "verifyStatus": "具备二创潜力，尚待内容级核验（≥3独立用户）",
+      "risk": "中低风险：可调侃价格与配置，避免编造参数/不贬损品牌",
+      "keyword": "「小米2026年秋季旗舰新品发布会」玩梗公式：用\"新品价格/配置\"做反差对比梗（如\"买不起但想看\"） + \"等等党/真香党\"立场文案，截图晒单即可参与",
+      "source": "知微",
+      "heat": "1828"
+    },
+    {
+      "title": "9月11日24时国内油价将调整",
+      "platform": "抖音",
+      "rank": "TOP1",
+      "hotValue": "1198.5w",
+      "template": "围绕「9月11日24时国内油价将调整」发起用户可复制表达（真实热搜词 + 个人视角晒单/吐槽/解读）",
+      "reason": "具备二创参与感，可引导用户真实表达",
+      "verifyStatus": "具备二创潜力，尚待内容级核验（≥3独立用户）",
+      "risk": "中低风险",
+      "keyword": "围绕「9月11日24时国内油价将调整」发起用户可复制表达（真实热搜词 + 个人视角晒单/吐槽/解读）",
+      "source": "抖音",
+      "heat": "1198.5w"
+    },
+    {
+      "title": "车主称坠楼砸车小孩家长态度转变",
+      "platform": "微博",
+      "rank": "TOP1",
+      "hotValue": "114.2w",
+      "template": "围绕「车主称坠楼砸车小孩家长态度转变」发起用户可复制表达（真实热搜词 + 个人视角晒单/吐槽/解读）",
+      "reason": "具备二创参与感，可引导用户真实表达",
+      "verifyStatus": "具备二创潜力，尚待内容级核验（≥3独立用户）",
+      "risk": "中低风险",
+      "keyword": "围绕「车主称坠楼砸车小孩家长态度转变」发起用户可复制表达（真实热搜词 + 个人视角晒单/吐槽/解读）",
+      "source": "微博",
+      "heat": "114.2w"
     }
   ],
   "businessAdvice": [
     {
       "business": "京东外卖",
-      "hotspot": "燕麦卫衣",
-      "connection": "穿搭/生活方式类热度高，用户即时消费意愿强，可结合餐饮/饮品场景做\"穿搭+下午茶\"组合话题。",
-      "need": "用户消费生活方式内容，追求即时满足。",
-      "supply": "京东外卖即时配送、餐饮商家供给。",
-      "action": "围绕\"穿搭日+轻食/咖啡\"发起话题，引导外卖点单。",
-      "evidence": "话题互动数据、外卖订单带动。",
-      "risk": "避免硬蹭穿搭与餐饮关联，需有真实场景。"
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "新品热度下用户想\"马上体验\"，即时餐饮/饮品消费意愿上升",
+      "need": "",
+      "supply": "",
+      "action": "借\"新品发布\"做外卖尝鲜/科技饮品话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
     },
     {
-      "business": "京东秒送",
-      "hotspot": "燕麦卫衣",
-      "connection": "穿搭热度下对\"即买即送\"体验有需求",
-      "need": "即时送达、不等待",
-      "supply": "秒送即时配送",
-      "action": "结合穿搭/配饰即时配送做体验话题。",
-      "risk": "中低风险。"
+      "business": "京东秒送（即时零售）",
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "用户看中科技新品想\"即买即送\"到手",
+      "need": "",
+      "supply": "",
+      "action": "用\"发布日/补货日即时送达\"动线突出极速履约",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
     },
     {
       "business": "京东家政",
-      "hotspot": "青春华章",
-      "connection": "青年节点话题与家居环境改善有弱关联，建议谨慎。",
-      "need": "居家体验",
-      "supply": "家政服务",
-      "action": "以\"青年生活品质\"切入做轻话题。",
-      "risk": "关联较弱，建议仅做公共话题观察。"
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "科技新品与家政服务无直接关联",
+      "need": "",
+      "supply": "",
+      "action": "仅观察不借势",
+      "evidence": "仅观察",
+      "risk": "高风险"
     },
     {
       "business": "七鲜小厨",
-      "hotspot": "燕麦卫衣",
-      "connection": "生活方式热度，可搭\"燕麦美食\"（燕麦系轻食）真实产品。",
-      "need": "健康轻食",
-      "supply": "七鲜小厨燕麦/谷物类餐品",
-      "action": "将\"燕麦卫衣\"话题转化为\"燕麦系轻食\"内容。",
-      "risk": "低风险。"
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "发布会熬夜看直播，可搭配美食宵夜场景",
+      "need": "",
+      "supply": "",
+      "action": "观发布会\"夜宵/零食\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
     },
     {
       "business": "七鲜咖啡",
-      "hotspot": "燕麦卫衣",
-      "connection": "燕麦与奶咖品类直接相关（燕麦拿铁）。",
-      "need": "咖啡消费",
-      "supply": "七鲜咖啡燕麦拿铁等",
-      "action": "借\"燕麦\"字眼做\"燕麦拿铁\"套餐话题。",
-      "risk": "低风险。"
-    },
-    {
-      "business": "京东点评/京东真榜",
-      "hotspot": "燕麦卫衣",
-      "connection": "穿搭/生活方式评价可沉淀\"燕麦系穿搭\"相关榜单。",
-      "need": "消费决策参考",
-      "supply": "点评/真榜评价体系",
-      "action": "推出穿搭/生活方式类榜单话题。",
-      "risk": "中风险需保证真实榜单。"
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "熬夜看发布会提神需求",
+      "need": "",
+      "supply": "",
+      "action": "新品发布会夜\"提神咖啡\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
     },
     {
       "business": "京东旅行",
-      "hotspot": "郑钦文",
-      "connection": "体育赛事热度带动观赛/体育旅行兴趣，可做网球观赛类话题。",
-      "need": "观赛/度假需求",
-      "supply": "旅行产品",
-      "action": "结合网球/体育赛程做\"观赛+出行\"内容。",
-      "risk": "需真实赛事节点。"
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "科技感/数码出行好物联想",
+      "need": "",
+      "supply": "",
+      "action": "数码出行好物清单话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
     },
     {
       "business": "七鲜美食MALL",
-      "hotspot": "燕麦卫衣",
-      "connection": "热度可关联美食场景（燕麦/谷物美食主题）。",
-      "need": "美食体验",
-      "supply": "MALL 美食供给",
-      "action": "做\"燕麦/谷物美食\"主题内容。",
-      "risk": "低风险。"
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "新品体验/线下尝鲜打卡",
+      "need": "",
+      "supply": "",
+      "action": "线下到店体验新品主题话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东本地生活（整体）",
+      "hotspot": "苹果2026秋季新品发布会",
+      "connection": "国货/自主创新正向情绪",
+      "need": "",
+      "supply": "",
+      "action": "做\"支持自主创新\"正向价值内容，不硬蹭产品",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东外卖",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "新品热度下用户想\"马上体验\"，即时餐饮/饮品消费意愿上升",
+      "need": "",
+      "supply": "",
+      "action": "借\"新品发布\"做外卖尝鲜/科技饮品话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东秒送（即时零售）",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "用户看中科技新品想\"即买即送\"到手",
+      "need": "",
+      "supply": "",
+      "action": "用\"发布日/补货日即时送达\"动线突出极速履约",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东家政",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "科技新品与家政服务无直接关联",
+      "need": "",
+      "supply": "",
+      "action": "仅观察不借势",
+      "evidence": "仅观察",
+      "risk": "高风险"
+    },
+    {
+      "business": "七鲜小厨",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "发布会熬夜看直播，可搭配美食宵夜场景",
+      "need": "",
+      "supply": "",
+      "action": "观发布会\"夜宵/零食\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜咖啡",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "熬夜看发布会提神需求",
+      "need": "",
+      "supply": "",
+      "action": "新品发布会夜\"提神咖啡\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东旅行",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "科技感/数码出行好物联想",
+      "need": "",
+      "supply": "",
+      "action": "数码出行好物清单话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜美食MALL",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "新品体验/线下尝鲜打卡",
+      "need": "",
+      "supply": "",
+      "action": "线下到店体验新品主题话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东本地生活（整体）",
+      "hotspot": "苹果推出首款折叠屏iPhone Duo",
+      "connection": "国货/自主创新正向情绪",
+      "need": "",
+      "supply": "",
+      "action": "做\"支持自主创新\"正向价值内容，不硬蹭产品",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东外卖",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "热点话题带动即时消费/餐饮意愿",
+      "need": "",
+      "supply": "",
+      "action": "结合话题做\"尝鲜/体验\"正向内容，不强蹭",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东秒送（即时零售）",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "热点下用户有\"即买即送\"需求",
+      "need": "",
+      "supply": "",
+      "action": "用\"即时送达\"动线突出极速履约",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东家政",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "与热点弱关联，审慎观察",
+      "need": "",
+      "supply": "",
+      "action": "仅观察不借势",
+      "evidence": "仅观察",
+      "risk": "高风险"
+    },
+    {
+      "business": "七鲜小厨",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "热点话题常伴随美食/聚会场景",
+      "need": "",
+      "supply": "",
+      "action": "做\"场景化餐品\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜咖啡",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "\"提神/小聚\"场景可关联",
+      "need": "",
+      "supply": "",
+      "action": "做\"提神/下午茶\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东旅行",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "热点若涉出行/生活方式可关联",
+      "need": "",
+      "supply": "",
+      "action": "视热点走向谨慎做出行话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜美食MALL",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "线下到店/聚餐场景可关联",
+      "need": "",
+      "supply": "",
+      "action": "到店\"体验/聚餐\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东本地生活（整体）",
+      "hotspot": "2026年服贸会在京开幕",
+      "connection": "围绕热点正向情绪做价值内容",
+      "need": "",
+      "supply": "",
+      "action": "做正向价值内容，不硬蹭、不消费负面",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东外卖",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "新品热度下用户想\"马上体验\"，即时餐饮/饮品消费意愿上升",
+      "need": "",
+      "supply": "",
+      "action": "借\"新品发布\"做外卖尝鲜/科技饮品话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东秒送（即时零售）",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "用户看中科技新品想\"即买即送\"到手",
+      "need": "",
+      "supply": "",
+      "action": "用\"发布日/补货日即时送达\"动线突出极速履约",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东家政",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "科技新品与家政服务无直接关联",
+      "need": "",
+      "supply": "",
+      "action": "仅观察不借势",
+      "evidence": "仅观察",
+      "risk": "高风险"
+    },
+    {
+      "business": "七鲜小厨",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "发布会熬夜看直播，可搭配美食宵夜场景",
+      "need": "",
+      "supply": "",
+      "action": "观发布会\"夜宵/零食\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜咖啡",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "熬夜看发布会提神需求",
+      "need": "",
+      "supply": "",
+      "action": "新品发布会夜\"提神咖啡\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东旅行",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "科技感/数码出行好物联想",
+      "need": "",
+      "supply": "",
+      "action": "数码出行好物清单话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜美食MALL",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "新品体验/线下尝鲜打卡",
+      "need": "",
+      "supply": "",
+      "action": "线下到店体验新品主题话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东本地生活（整体）",
+      "hotspot": "小米2026年秋季旗舰新品发布会",
+      "connection": "国货/自主创新正向情绪",
+      "need": "",
+      "supply": "",
+      "action": "做\"支持自主创新\"正向价值内容，不硬蹭产品",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东外卖",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "热点话题带动即时消费/餐饮意愿",
+      "need": "",
+      "supply": "",
+      "action": "结合话题做\"尝鲜/体验\"正向内容，不强蹭",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东秒送（即时零售）",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "热点下用户有\"即买即送\"需求",
+      "need": "",
+      "supply": "",
+      "action": "用\"即时送达\"动线突出极速履约",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东家政",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "与热点弱关联，审慎观察",
+      "need": "",
+      "supply": "",
+      "action": "仅观察不借势",
+      "evidence": "仅观察",
+      "risk": "高风险"
+    },
+    {
+      "business": "七鲜小厨",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "热点话题常伴随美食/聚会场景",
+      "need": "",
+      "supply": "",
+      "action": "做\"场景化餐品\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜咖啡",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "\"提神/小聚\"场景可关联",
+      "need": "",
+      "supply": "",
+      "action": "做\"提神/下午茶\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东旅行",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "热点若涉出行/生活方式可关联",
+      "need": "",
+      "supply": "",
+      "action": "视热点走向谨慎做出行话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜美食MALL",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "线下到店/聚餐场景可关联",
+      "need": "",
+      "supply": "",
+      "action": "到店\"体验/聚餐\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东本地生活（整体）",
+      "hotspot": "9月11日24时国内油价将调整",
+      "connection": "围绕热点正向情绪做价值内容",
+      "need": "",
+      "supply": "",
+      "action": "做正向价值内容，不硬蹭、不消费负面",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东外卖",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "热点话题带动即时消费/餐饮意愿",
+      "need": "",
+      "supply": "",
+      "action": "结合话题做\"尝鲜/体验\"正向内容，不强蹭",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东秒送（即时零售）",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "热点下用户有\"即买即送\"需求",
+      "need": "",
+      "supply": "",
+      "action": "用\"即时送达\"动线突出极速履约",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东家政",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "与热点弱关联，审慎观察",
+      "need": "",
+      "supply": "",
+      "action": "仅观察不借势",
+      "evidence": "仅观察",
+      "risk": "高风险"
+    },
+    {
+      "business": "七鲜小厨",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "热点话题常伴随美食/聚会场景",
+      "need": "",
+      "supply": "",
+      "action": "做\"场景化餐品\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜咖啡",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "\"提神/小聚\"场景可关联",
+      "need": "",
+      "supply": "",
+      "action": "做\"提神/下午茶\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东旅行",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "热点若涉出行/生活方式可关联",
+      "need": "",
+      "supply": "",
+      "action": "视热点走向谨慎做出行话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "七鲜美食MALL",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "线下到店/聚餐场景可关联",
+      "need": "",
+      "supply": "",
+      "action": "到店\"体验/聚餐\"话题",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
+    },
+    {
+      "business": "京东本地生活（整体）",
+      "hotspot": "车主称坠楼砸车小孩家长态度转变",
+      "connection": "围绕热点正向情绪做价值内容",
+      "need": "",
+      "supply": "",
+      "action": "做正向价值内容，不硬蹭、不消费负面",
+      "evidence": "小范围测试后放量",
+      "risk": "中低风险"
     }
   ],
   "meta": {
