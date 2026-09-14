@@ -237,6 +237,93 @@ function businessFor(title, hotspot){
     B.mk('京东本地生活（整体）','围绕热点正向情绪做价值内容','做正向价值内容，不硬蹭、不消费负面'),
   ];
 }
+// ---------- 本地生活业务建议：以业务为核心，整合当日全部热点 → 每业务一段 action + 一段 comms ----------
+// 对标 08-28 标杆：suggestions[业务名] = { action, comms }，深度关联当日真实多热点，
+// 而不是「热点×业务」笛卡尔积套模板。这是"动脑子二次加工"的体现。
+const BUSINESS_ORDER = [
+  '京东外卖',
+  '京东秒送（即时零售）',
+  '京东家政',
+  '七鲜小厨',
+  '七鲜咖啡',
+  '京东旅行',
+  '七鲜美食MALL',
+  '京东本地生活（整体）',
+];
+function bizTag(title){
+  // 返回该热点命中的业务标签（用于判断某业务是否与某热点强相关）
+  const T = {
+    京东外卖: /外卖|美食|餐饮|零食|夜宵|庆祝|观赛|节日|发布会|苹果|新品|科技|入秋|秋|大骨|肉|饭|甜品|咖啡/,
+  '京东秒送（即时零售）': /秒送|即时|配送|送达|备货|零食|饮料|饮用水|应急|防雨|台风|暴雨|科技|新品|补给/,
+    京东家政: /家政|家务|清洁|整理|收纳|换季|开学|暑假|台风|雨后|大扫除/,
+    七鲜小厨: /美食|餐饮|小厨|餐|大骨|饭|菜|海鲜|甜点|甜品|夜宵|庆祝|聚餐/,
+    七鲜咖啡: /咖啡|熬夜|提神|下午茶|小聚|慢生活/,
+    京东旅行: /旅行|出行|旅游|台风|航班|铁路|景区|机票|暑假|短途|退改/,
+  '七鲜美食MALL': /美食|聚餐|mall|mall|门店|线下|打卡|聚会|庆祝|餐饮/,
+  '京东本地生活（整体）': /国货|自主|创新|正向|致敬|公益|安全/,
+  };
+  return Object.keys(T).filter(k => T[k].test(title));
+}
+function buildBusinessAdvice(hotspots){
+  // 汇总当日热点主题标签（去重）
+  const tags = new Set();
+  for (const h of hotspots){ bizTag(h.title).forEach(t => tags.add(t)); }
+  const T = [...tags];
+
+  // 从热点标题提炼「季节/节点/情绪信号」
+  const seasonText = [];
+  if (hotspots.some(h => /入秋|秋|入冬|降温|换季/.test(h.title))) seasonText.push('入秋/入冬换季');
+  if (hotspots.some(h => /开学|暑假收尾/.test(h.title))) seasonText.push('开学前/暑假收尾');
+  if (hotspots.some(h => /台风|暴雨|洪水/.test(h.title))) seasonText.push('台风/暴雨天气');
+  if (hotspots.some(h => /春节|中秋|国庆|节日|纪念日/.test(h.title))) seasonText.push('节日节点');
+
+  // 识别当日「强相关」热点标题（供深度整合引用）
+  const mealHot = hotspots.find(h => /大骨|酱骨|铁锅|炖|砂锅|火锅|夜宵|烧烤|甜品|面/.test(h.title));
+  const sportHot = hotspots.find(h => /网球|比赛|对战|赛事|夺冠|逆转|晋级|美网|足球|篮球/.test(h.title));
+  const weatherHot = hotspots.find(h => /台风|暴雨|洪水|降温/.test(h.title));
+  const tributeHot = hotspots.find(h => /逝世|离世|悼念|致敬/.test(h.title));
+  const fairHot = hotspots.find(h => /服贸会|博览会|展会|开幕/.test(h.title));
+
+  const S = {
+    '京东外卖': {
+      action: mealHot
+        ? `围绕「${mealHot.title}」的强关联餐饮场景，搭建可履约的外卖聚合页，展示真实商家、套餐价格与预计送达时间；${sportHot ? '结合观赛话题做庆祝餐/夜宵组合；' : ''}${weatherHot ? '台风/暴雨影响地区按安全条件动态调整配送范围并实时更新。' : '基于当日消费情绪设计轻量尝鲜主题。'}`
+        : `围绕当日热点（${T.length?T.slice(0,3).join('、'):'多话题'}）设计可履约的外卖场景，突出真实商家、价格与送达时效，${weatherHot?'台风影响地区按安全条件调整配送范围。':''}`,
+      comms: `用"想吃就点""赢球一起庆祝一下""入秋第一顿"连接真实餐饮场景，优惠、库存与配送承诺必须可兑现，不擅自使用赛事标识或公众人物形象。${tributeHot?'对逝者类事件不做任何借势营销。':''}`,
+    },
+    '京东秒送（即时零售）': {
+      action: `${seasonText.join('、')||'即时生活'}场景下，承接零食饮料、家庭庆祝用品及应急物资的即时需求；${weatherHot?'台风影响地区优先提供饮用水、防雨用品、应急照明等必要物资，并实时更新可售库存与送达时间。':'突出"即买即送"的极速履约动线。'}`,
+      comms: `日常场景用"有事没事犒劳一下"展示真实到家组合；${weatherHot?'天气内容只发布权威预警、服务范围与履约变化，不用灾情制造消费焦虑。':'不夸大送达时效、不做虚假承诺。'}${tributeHot?'对逝者事件不做营销。':''}`,
+    },
+    '京东家政': {
+      action: seasonText.includes('开学')?`围绕开学前推出家庭整理、厨房清洁与换季收纳服务；${weatherHot?'台风影响地区仅在确认安全后开放雨后清洁预约，明确服务范围。':''}`:`结合${seasonText.includes('换季')?'换季':'家庭日常'}推出清洁/收纳服务，明确服务范围、时长与价格。`,
+      comms: `以"给生活做一次整理""干干净净过季"为主题展示标准流程、人员资质与价格边界；公共安全事件中只做服务通知，不做抢热点营销。`,
+    },
+    '七鲜小厨': {
+      action: mealHot? `围绕「${mealHot.title}」设计可落地餐品组合（双人餐/家庭餐/限时加菜），明确门店、菜品、价格、适用人数与库存；${sportHot?'结合观赛配餐做"看球夜宵"场景。':''}` : `结合当日${T.join('、')}场景设计真餐品，明确门店、菜品、价格与可用时段。`,
+      comms: `用"今天值得好好吃一顿"记录真实出餐与分享场景；不使用受保护的赛事素材，重点呈现菜品分量、口味与可用时段。`,
+    },
+    '七鲜咖啡': {
+      action: sportHot? `围绕观赛夜做"熬夜提神咖啡"轻量场景，用真实门店优惠或新品试饮承接；无可兑现活动时保持常规运营。` : `今日若无咖啡直接相关热点，可将轻量仪式感用于已有门店优惠或真实新品试饮；无可兑现活动时保持常规运营。`,
+      comms: `传播只说真实门店活动、产品风味与可用时段，用日常小事表达轻量仪式感；不强行关联赛事权益或公共安全话题。`,
+    },
+    '京东旅行': {
+      action: weatherHot? `台风影响区域优先展示航班、铁路、景区开放与退改政策，必要时暂停相关目的地促销；非受影响区域可承接${seasonText.includes('暑假收尾')?'暑假收尾':'换季'}的短途出行需求。`: `承接当日出行需求，明确真实余位与退改条件。`,
+      comms: `传播重点是"安心调整行程"和权威信息入口，天气/交通结论链接官方来源；不制造"最后机会"焦虑。`,
+    },
+    '七鲜美食MALL': {
+      action: seasonText.includes('暑假')? `结合暑假收尾和聚餐场景组织可执行的聚餐路线或家庭餐组合，明确参与商户、楼层、营业时段与排队信息；${weatherHot?'台风地区及时调整或取消线下活动。':''}` : `结合当日餐饮热点组织可执行聚餐/打卡路线，明确商户、楼层、营业时段与现场可兑现信息。`,
+      comms: `用"来 MALL 好好吃一顿"呈现真实餐饮路线与用户聚会体验；不使用未授权赛事素材，所有活动时间、商户和权益以现场可兑现为准。`,
+    },
+    '京东本地生活（整体）': {
+      action: tributeHot? `围绕纪念/致敬类热点做中性正向的服务通知与人文关怀内容，不消费逝者、不渲染悲情。` : `围绕当日热点做「品质生活」整合主题（如换季餐饮+即时零售+家政联动），突出京东本地生活一站式服务能力。`,
+      comms: `以正向价值内容为主，不硬蹭、不消费负面；公共事件只做服务提醒与权威信息引导。`,
+    },
+  };
+
+  return BUSINESS_ORDER.map(name => ({ business: name, ...S[name] }));
+}
+
 // ---------- 组装 ai-analysis ----------
 const analyses = {};
 for (const h of hotspots){
@@ -252,12 +339,16 @@ for (const h of hotspots){
   };
 }
 
+// 以业务为核心，整合当日全部热点 → 每业务一段 action + comms（08-28 标杆）
+const businessAdvice = buildBusinessAdvice(hotspots);
+
 const output = {
   updatedAt: ts,
   generatedBy: 'generate-ai-analysis.mjs (自动流水线)',
   date: today,
   note: '由脚本依据 radar.json 真实热点数据确定性生成，作为每日定时流水线的一环，替代手工。',
   analyses,
+  businessAdvice,
 };
 
 mkdirSync(dirname(outPath), { recursive: true });

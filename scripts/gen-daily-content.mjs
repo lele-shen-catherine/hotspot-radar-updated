@@ -96,27 +96,17 @@ const TOP6_LIMIT = 6;
 const topEvents = events.slice(0, TOP6_LIMIT);
 console.log('[gen] 固定6席生效：', events.length, '→', topEvents.length, '（保留固定席位顺序）');
 
-// ---------- 本地生活业务建议：从 ai-analysis.json 的 business 字段生成 ----------
-// 只选择存在真实连接点的热点，无法强关联时明确"暂无适合跟进"。
-const businessAdvice = [];
-for (const h of topEvents) {
-  const a = analyses[h.eventName] || {};
-  const bizs = Array.isArray(a.business) ? a.business : [];
-  for (const b of bizs) {
-    businessAdvice.push({
-      business: b.business || '',
-      hotspot: h.eventName,
-      connection: b.connection || '',
-      need: b.need || '',
-      supply: b.supply || '',
-      action: b.action || '',
-      evidence: b.evidence || '',
-      risk: b.risk || '',
-    });
-  }
-}
-// 对无 business 建议的热点不做占位；businessAdvice 只保留有真实建议的条目
-console.log('[gen] 业务建议:', businessAdvice.length, '条');
+// ---------- 本地生活业务建议：从 ai-analysis.json 顶层 businessAdvice 读取 ----------
+// 08-28 标杆：ai-analysis.json 顶部 businessAdvice = [{ business, action, comms } × 8]
+// 每业务一段整合建议（深度关联当日真实热点），直接透传，不再逐热点笛卡尔积合并。
+const rawBizAdvice = Array.isArray(aiAnalysis.businessAdvice) ? aiAnalysis.businessAdvice : [];
+const businessAdvice = rawBizAdvice.map(b => ({
+  business: b.business || '',
+  hotspot: b.hotspot || '',
+  action: b.action || '',
+  comms: b.comms || '',
+}));
+console.log('[gen] 业务建议(08-28风格):', businessAdvice.length, '个业务');
 
 // ---------- 写文件 ----------
 mkdirSync(outRoot, { recursive: true });
@@ -137,29 +127,18 @@ writeFileSync(join(outRoot, 'gen-daily-content.json'), JSON.stringify(output, nu
 
 // ---------- reshape 为 dashboard 消费的 schema ----------
 // dashboard: __BUSINESS_ADVICE__?.businesses = { <业务名>: { action, comms } }
-// 参考 08-28 版排版：每个业务整合为「一段业务建议(action) + 一段传播建议(comms)」，
-// 把该业务下所有热点的建议去重合并成精炼的两段话，不做逐热点清单堆叠。
-const _bizMerge = {};
-for (const b of businessAdvice) {
-  const bizName = b.business || '未归类';
-  if (!_bizMerge[bizName]) _bizMerge[bizName] = { action: [], connection: [] };
-  const act = b.action || (b.risk && b.risk.indexOf('高') !== -1 ? '仅观察不借势' : '暂不发起业务动作');
-  if (act && !_bizMerge[bizName].action.includes(act)) _bizMerge[bizName].action.push(act);
-  if (b.connection && !_bizMerge[bizName].connection.includes(b.connection)) _bizMerge[bizName].connection.push(b.connection);
-}
+// 08-28 标杆：每个业务一段 action + comms，直接透传，不做清单堆叠。
 const businesses = {};
-for (const [name, v] of Object.entries(_bizMerge)) {
-  const actionText = v.action.join('；');
-  const connText = v.connection.length ? '围绕' + v.connection.join('、') + '等场景发起传播，突出真实可兑现的卖点与服务承诺，不擅自使用赛事标识、肖像或公共安全话题制造焦虑。' : '当日暂无明确可借势热点，仅保持常规运营与真实服务信息发布。';
-  businesses[name] = {
-    action: actionText || '当日暂无明确可借势热点，建议仅作观察。',
-    comms: connText,
+for (const b of businessAdvice) {
+  businesses[b.business] = {
+    action: b.action || '当日暂无明确可借势热点，建议仅作观察。',
+    comms: b.comms || '当日保持常规运营与真实服务信息发布，不强行蹭热点。',
   };
 }
 const businessForDash = {
   date: today,
-  basis: '参考 08-28 版：按京东本地生活各业务维度，将当日可借势热点去重合并为「一段业务建议 + 一段传播建议」，选择业务即展示整合后的两段话。',
-  coreThemes: businessAdvice.map(b => b.hotspot).filter((v, i, a) => a.indexOf(v) === i),
+  basis: '参考 08-28 版：按京东本地生活各业务维度，将当日可借势热点整合为「一段业务建议 + 一段传播建议」，选择业务即展示整合后的两段话。',
+  coreThemes: topEvents.map(h => h.eventName).filter((v, i, a) => a.indexOf(v) === i),
   businesses,
 };
 
