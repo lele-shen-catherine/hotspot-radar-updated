@@ -37,7 +37,10 @@ for (const path of [
 
 // ---------- 3. dashboard 板块 UI 存在性（随页面结构同步） ----------
 const dashboard = await readFile("public/dashboard.html", "utf8");
-const markers = ["S级热点", "A级热点", "B级热点", "热度值排行榜", "小红书等平台热榜预览", "本地生活业务建议", "可复刻模板"];
+// 与当前 dashboard.html 结构同步：
+//  - "小红书等平台热榜预览" 已随 d06e6c4 删除小红书板块而移除
+//  - "可复刻模板"（玩梗热点板块）已随 983964e 移除玩梗热点板块而移除
+const markers = ["S级热点", "A级热点", "B级热点", "热度值排行榜", "本地生活业务建议"];
 for (const marker of markers) {
   if (!dashboard.includes(marker)) throw new Error(`Dashboard module missing: ${marker}`);
 }
