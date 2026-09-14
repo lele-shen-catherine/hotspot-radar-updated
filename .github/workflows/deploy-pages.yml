@@ -23,13 +23,9 @@ jobs:
           # 移除备份文件
           find /tmp/pages-build -name "*.bak*" -delete
 
-          # 切换到 gh-pages 分支（或从零创建）
+          # 切换/创建 gh-pages 部署分支（gh-pages 是纯部署分支，强制覆盖安全）
           git fetch origin gh-pages || true
-          if git rev-parse --verify gh-pages >/dev/null 2>&1; then
-            git checkout gh-pages
-          else
-            git checkout --orphan gh-pages
-          fi
+          git checkout --orphan gh-pages || true
 
           # 清空并放入新内容
           git rm -rf . --quiet || true
@@ -41,5 +37,5 @@ jobs:
           else
             git -c user.name="Hotspot Radar Bot" -c user.email="bot@users.noreply.github.com" \
               commit -m "chore: deploy to pages $(date +'%Y-%m-%d %H:%M')"
-            git push origin gh-pages
+            git push origin gh-pages --force
           fi
