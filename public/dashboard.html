@@ -132,17 +132,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   .risk-meta { font-size: 11px; color: #9ca3af; margin-top: 4px; }
   .risk-warn { font-size: 12px; color: #fca5a5; line-height: 1.6; margin-top: 6px; }
   .card-risk { font-size: 11px; color: #f87171; margin-top: 4px; }
-  .meme-group { margin-bottom: 14px; }
-  .meme-status { font-size: 14px; font-weight: 700; margin: 4px 0 8px; }
-  .meme-card { background: #0d1526; border: 1px solid #1f2b45; border-left: 3px solid #334155; border-radius: 10px; padding: 10px 12px; margin-bottom: 8px; }
-  .meme-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-  .meme-badge { color: #fff; font-size: 11px; padding: 2px 7px; border-radius: 999px; }
-  .meme-name { font-size: 14px; }
-  .meme-hot { margin-left: auto; color: #9ca3af; font-size: 11px; line-height: 1.5; text-align: right; max-width: 48%; }
-  .meme-core { font-size: 12px; color: #d1d5db; line-height: 1.6; margin-top: 6px; }
-  .meme-ev { font-size: 12px; color: #9ca3af; line-height: 1.6; margin-top: 3px; }
-  .meme-link { font-size: 11px; margin-top: 3px; }
-  .meme-scope { font-size: 11px; color: #6b7280; margin-top: 8px; line-height: 1.7; }
   .dd-q { font-size: 13px; color: #d1d5db; margin: 6px 0 4px; }
   .dd-src { font-size: 11px; color: #6b7280; margin-bottom: 8px; }
   .dd-topics { font-size: 12px; color: #e5e7eb; margin: 8px 0; }
@@ -212,11 +201,11 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   }
   body { background: var(--palette-cream); color: var(--palette-navy); }
   h1 em, .ev-score, .dim b, .xhs-dd-title { color: var(--palette-teal); }
-  .sub, .stat span, .bar-legend, .ev-topic, .card-meta, .meme-hot,
-  .meme-ev, .dd-src, .dd-ev, .hv, th, footer, .toggle-arrow,
+  .sub, .stat span, .bar-legend, .ev-topic, .card-meta,
+  .dd-src, .dd-ev, .hv, th, footer, .toggle-arrow,
   details.card-section-toggle summary::before, details.legend summary::before { color: var(--palette-muted); }
   .toggle-hint { color: #9ca3af; }
-  .stat, .card, .meme-card, .tab {
+  .stat, .card, .tab {
     background: var(--palette-paper);
     border-color: var(--palette-tan);
   }
@@ -245,7 +234,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   details.card-section-toggle summary, details.card-section-toggle .card-section-inner b {
     color: var(--palette-navy);
   }
-  .legend-body, .card-biz, .card-section, .meme-core, .dd-q,
+  .legend-body, .card-biz, .card-section, .dd-q,
   details.card-section-toggle .card-section-inner { color: #264e73; }
   .dim, .dd-answer, .xhs-dd {
     background: var(--palette-cream);
@@ -256,7 +245,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   .risk-meta { color: var(--palette-muted); }
   .risk-warn { color: #a33131; }
   .card-reminder { background: #fff4d8; border-color: var(--palette-tan); color: #7a5600; }
-  .meme-card { border-left-color: var(--palette-blue); }
+  .card { border-left-color: var(--palette-blue); }
   .tab { color: var(--palette-muted); border-color: var(--palette-blue); }
   .tab.active { background: var(--palette-navy); color: #fff; border-color: var(--palette-navy); }
   .panel.collapsible .panel-toggle:hover { color: var(--palette-teal); }
@@ -307,8 +296,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   </div>
 
   <div class="panel"><h2>📌 事件详情</h2><div class="filter-note" style="margin-bottom:12px" id="event-filter-note"></div><div class="cards"></div></div>
-
-  <div class="panel" id="panel-meme"><h2>🎭 用户层面玩梗热点</h2><div class="filter-note" style="margin-bottom:12px">只收录有清晰可复刻模板、用户能在一分钟内理解并加入自己内容的玩梗玩法；不把普通新闻或事件详情重复列入。</div><div class="meme-group"></div></div>
 
   <section class="business-advisor" aria-labelledby="business-advisor-title">
     <div class="business-advisor-head">
@@ -420,17 +407,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
 <script>
   // 榜单最多展示30条，并按内容主题标注类型。分类仅用于浏览，不参与热度计分。
   (function(){
-    var memeMetricLabels = {};
-    document.querySelectorAll('.meme-scope').forEach(function(scope) {
-      scope.innerHTML = scope.innerHTML.replace(
-        '本次小红书实时数据缺失，不引用昨日小红书话题。',
-        '本次小红书实时数据缺失，不引用小红书话题。'
-      );
-    });
-    document.querySelectorAll('.meme-hot').forEach(function(label){
-      var original = label.textContent.trim();
-      if (memeMetricLabels[original]) label.textContent = memeMetricLabels[original];
-    });
     window.applyHotCategories = function() {
       var social = /台风|警方|公安|拘|法院|判决|强拆|坍塌|事故|去世|逝世|癌症|谣言|12306|工位|员工|经济成绩|台湾|气象|闷热|黄金协会|债市|美联储|礼金|游客|占座|爱心水|生活息息相关|立案调查|洪水|暴雨|地震|火灾|爆炸|塌方|矿难|食品|安全|疫苗|医保|社保|退休金|养老金|楼市|房价|房租|拆迁|城管|交通|酒驾|车祸|溺水|坠楼|电梯|燃气|停电|停水|供暖|物业|快递|外卖|投诉|维权|仲裁|罢工|裁员|欠薪|工伤|职业病|尘肺|白血病|肿瘤|结石|近视|抑郁|焦虑|自杀|网暴|诈骗|传销|P2P|非法集资|老赖|限消|失信|执行|通缉|逃犯|命案|杀人|伤人|斗殴|寻衅|猥亵|性侵|家暴|虐童|拐卖|盗抢|走私|贩毒|吸毒|赌博|黄赌毒/;
       var industry = /电影|票房|首映|机器人|火箭|航天|AI|人工智能|金价|财经|公司|年薪|酒店|旺旺|LPL|王者|火影|曼城|纪录片|综艺|晚会|节目单|餐馆|便利店|游戏|科技|通勤穿搭|国风|芯片|半导体|新能源|电动车|充电桩|电池|光伏|风电|核电|高铁|飞机|卫星|5G|6G|通信|互联网|电商|直播|短视频|社交|搜索|广告|营销|品牌|消费|零售|餐饮|旅游|航空|物流|配送|供应链|金融|银行|保险|基金|股票|A股|港股|美股|债券|期货|外汇|加密|区块链|Web3|元宇宙|VR|AR|智能|IoT|车联网|自动驾驶|无人机|3D打印|生物|医药|医疗|基因|疫苗|创新药|器械|医美|宠物|农业|种业|化肥|农药|饮料|乳业|白酒|啤酒|红酒|茶|咖啡|零食|美妆|护肤|彩妆|香水|日化|纺织|服装|珠宝|手表|家具|家电|建材|装修|房产|文旅|主题公园|博物馆|展览|演出|赛事|奥运|中超|CBA|NBA|英超|欧冠|世界杯|电竞|手游|Switch|PS5|Xbox|Steam|B站|抖音|快手|小红书|微博|知乎|豆瓣|公众号|视频号|小程序|APP|软件|系统|上线|下线|公测|预约|抢购|首发|开售|预售|退款|售后|客服|口碑|评分|开分|收视率|播放量|阅读量|点赞|评论|转发|关注|粉丝|订阅|会员|付费|免费|试用|测评|评测|排名|榜单|热搜|热门|爆火|出圈|刷屏|趋势|赛道|概念|题材|板块|龙头|退市|IPO|上市|融资|估值|独角兽|招聘|校招|offer|跳槽|裁员|降薪|涨薪|年终|期权|股权|分红|回购|财报|年报|季报|公告|声明|召回|停牌|复牌|科创板|创业板|北交所|新能源|碳中和|ESG|合规|监管|处罚|立案|调查|约谈|整改|下架|专利|商标|版权|侵权|假货|价格战|补贴|促销|打折|满减|优惠券|红包|秒杀|直播带货|种草|GMV|转化率|DAU|MAU|ARPU/;
@@ -759,7 +735,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   var CDN = 'https://cdn.jsdelivr.net/gh/lele-shen-catherine/hotspot-radar-updated@main/public/data/';
   var FILES = {
     radar: 'radar.json',
-    meme: 'meme-topics.json',
     advice: 'business-advice.json'
   };
   var version = '';
@@ -787,13 +762,11 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
     return null;
   }
   // 先用"时间戳 cache-buster"请求 radar.json（确保不命中 CDN 旧缓存），
-  // 拿到其 generatedAt 后再据此生成统一版本号，让 meme/advice 与 radar 同批次数据一致
+  // 拿到其 generatedAt 后再据此生成统一版本号，让 advice 与 radar 同批次数据一致
   var pageBust = new Date().getTime();
   var radar = syncLoad(FILES.radar, pageBust);
   var v = resolveVersion(radar);
   if (radar) window.__RADAR_DATA__ = radar;
-  var meme = syncLoad(FILES.meme, v);
-  if (meme) window.__MEME_TOPICS__ = meme;
   var advice = syncLoad(FILES.advice, v);
   if (advice) window.__BUSINESS_ADVICE__ = advice;
 })();

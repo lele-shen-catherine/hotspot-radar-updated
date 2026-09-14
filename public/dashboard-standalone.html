@@ -129,17 +129,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   .risk-meta { font-size: 11px; color: #9ca3af; margin-top: 4px; }
   .risk-warn { font-size: 12px; color: #fca5a5; line-height: 1.6; margin-top: 6px; }
   .card-risk { font-size: 11px; color: #f87171; margin-top: 4px; }
-  .meme-group { margin-bottom: 14px; }
-  .meme-status { font-size: 14px; font-weight: 700; margin: 4px 0 8px; }
-  .meme-card { background: #0d1526; border: 1px solid #1f2b45; border-left: 3px solid #334155; border-radius: 10px; padding: 10px 12px; margin-bottom: 8px; }
-  .meme-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-  .meme-badge { color: #fff; font-size: 11px; padding: 2px 7px; border-radius: 999px; }
-  .meme-name { font-size: 14px; }
-  .meme-hot { margin-left: auto; color: #9ca3af; font-size: 11px; line-height: 1.5; text-align: right; max-width: 48%; }
-  .meme-core { font-size: 12px; color: #d1d5db; line-height: 1.6; margin-top: 6px; }
-  .meme-ev { font-size: 12px; color: #9ca3af; line-height: 1.6; margin-top: 3px; }
-  .meme-link { font-size: 11px; margin-top: 3px; }
-  .meme-scope { font-size: 11px; color: #6b7280; margin-top: 8px; line-height: 1.7; }
   .dd-q { font-size: 13px; color: #d1d5db; margin: 6px 0 4px; }
   .dd-src { font-size: 11px; color: #6b7280; margin-bottom: 8px; }
   .dd-topics { font-size: 12px; color: #e5e7eb; margin: 8px 0; }
@@ -209,11 +198,11 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   }
   body { background: var(--palette-cream); color: var(--palette-navy); }
   h1 em, .ev-score, .dim b, .xhs-dd-title { color: var(--palette-teal); }
-  .sub, .stat span, .bar-legend, .ev-topic, .card-meta, .meme-hot,
-  .meme-ev, .dd-src, .dd-ev, .hv, th, footer, .toggle-arrow,
+  .sub, .stat span, .bar-legend, .ev-topic, .card-meta,
+  .dd-src, .dd-ev, .hv, th, footer, .toggle-arrow,
   details.card-section-toggle summary::before, details.legend summary::before { color: var(--palette-muted); }
   .toggle-hint { color: #9ca3af; }
-  .stat, .card, .meme-card, .tab {
+  .stat, .card, .tab {
     background: var(--palette-paper);
     border-color: var(--palette-tan);
   }
@@ -242,7 +231,7 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   details.card-section-toggle summary, details.card-section-toggle .card-section-inner b {
     color: var(--palette-navy);
   }
-  .legend-body, .card-biz, .card-section, .meme-core, .dd-q,
+  .legend-body, .card-biz, .card-section, .dd-q,
   details.card-section-toggle .card-section-inner { color: #264e73; }
   .dim, .dd-answer, .xhs-dd {
     background: var(--palette-cream);
@@ -253,7 +242,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   .risk-meta { color: var(--palette-muted); }
   .risk-warn { color: #a33131; }
   .card-reminder { background: #fff4d8; border-color: var(--palette-tan); color: #7a5600; }
-  .meme-card { border-left-color: var(--palette-blue); }
   .tab { color: var(--palette-muted); border-color: var(--palette-blue); }
   .tab.active { background: var(--palette-navy); color: #fff; border-color: var(--palette-navy); }
   .panel.collapsible .panel-toggle:hover { color: var(--palette-teal); }
@@ -398,17 +386,6 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
 <script>
   // 榜单最多展示30条，并按内容主题标注类型。分类仅用于浏览，不参与热度计分。
   (function(){
-    var memeMetricLabels = {};
-    document.querySelectorAll('.meme-scope').forEach(function(scope) {
-      scope.innerHTML = scope.innerHTML.replace(
-        '本次小红书实时数据缺失，不引用昨日小红书话题。',
-        '小红书仅使用问点点趋势，不提供实时排名或计分证据。'
-      );
-    });
-    document.querySelectorAll('.meme-hot').forEach(function(label){
-      var original = label.textContent.trim();
-      if (memeMetricLabels[original]) label.textContent = memeMetricLabels[original];
-    });
     window.applyHotCategories = function() {
       var social = /台风|警方|公安|拘|法院|判决|强拆|坍塌|事故|去世|逝世|癌症|谣言|12306|工位|员工|经济成绩|台湾|气象|闷热|黄金协会|债市|美联储|礼金|游客|占座|爱心水|生活息息相关|立案调查|洪水|暴雨|地震|火灾|爆炸|塌方|矿难|食品|安全|疫苗|医保|社保|退休金|养老金|楼市|房价|房租|拆迁|城管|交通|酒驾|车祸|溺水|坠楼|电梯|燃气|停电|停水|供暖|物业|快递|外卖|投诉|维权|仲裁|罢工|裁员|欠薪|工伤|职业病|尘肺|白血病|肿瘤|结石|近视|抑郁|焦虑|自杀|网暴|诈骗|传销|P2P|非法集资|老赖|限消|失信|执行|通缉|逃犯|命案|杀人|伤人|斗殴|寻衅|猥亵|性侵|家暴|虐童|拐卖|盗抢|走私|贩毒|吸毒|赌博|黄赌毒/;
       var industry = /电影|票房|首映|机器人|火箭|航天|AI|人工智能|金价|财经|公司|年薪|酒店|旺旺|LPL|王者|火影|曼城|纪录片|综艺|晚会|节目单|餐馆|便利店|游戏|科技|通勤穿搭|国风|芯片|半导体|新能源|电动车|充电桩|电池|光伏|风电|核电|高铁|飞机|卫星|5G|6G|通信|互联网|电商|直播|短视频|社交|搜索|广告|营销|品牌|消费|零售|餐饮|旅游|航空|物流|配送|供应链|金融|银行|保险|基金|股票|A股|港股|美股|债券|期货|外汇|加密|区块链|Web3|元宇宙|VR|AR|智能|IoT|车联网|自动驾驶|无人机|3D打印|生物|医药|医疗|基因|疫苗|创新药|器械|医美|宠物|农业|种业|化肥|农药|饮料|乳业|白酒|啤酒|红酒|茶|咖啡|零食|美妆|护肤|彩妆|香水|日化|纺织|服装|珠宝|手表|家具|家电|建材|装修|房产|文旅|主题公园|博物馆|展览|演出|赛事|奥运|中超|CBA|NBA|英超|欧冠|世界杯|电竞|手游|Switch|PS5|Xbox|Steam|B站|抖音|快手|小红书|微博|知乎|豆瓣|公众号|视频号|小程序|APP|软件|系统|上线|下线|公测|预约|抢购|首发|开售|预售|退款|售后|客服|口碑|评分|开分|收视率|播放量|阅读量|点赞|评论|转发|关注|粉丝|订阅|会员|付费|免费|试用|测评|评测|排名|榜单|热搜|热门|爆火|出圈|刷屏|趋势|赛道|概念|题材|板块|龙头|退市|IPO|上市|融资|估值|独角兽|招聘|校招|offer|跳槽|裁员|降薪|涨薪|年终|期权|股权|分红|回购|财报|年报|季报|公告|声明|召回|停牌|复牌|科创板|创业板|北交所|新能源|碳中和|ESG|合规|监管|处罚|立案|调查|约谈|整改|下架|专利|商标|版权|侵权|假货|价格战|补贴|促销|打折|满减|优惠券|红包|秒杀|直播带货|种草|GMV|转化率|DAU|MAU|ARPU/;
@@ -1658,7 +1635,7 @@ function heatReason(x){return heatReasons[x.title]||'<b>\u8bdd\u9898\u672c\u8eab
 document.getElementById('hdr-date').textContent=radar.date;document.getElementById('gen-time').textContent=new Date(radar.generatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai'});const stats=document.querySelectorAll('.stat-events');['S','A','B'].forEach((level,i)=>{if(stats[i])stats[i].textContent=selected.filter(x=>x.level===level).map(x=>x.title).join('\u3001')||'\u6682\u65e0'});const note=document.querySelector('.filter-note');if(note)note.textContent='\u5171 '+selected.length+'/'+selected.length+' \u4e2a\u53ef\u501f\u52bf\u4e8b\u4ef6\u5df2\u5c55\u5f00\u8be6\u60c5\u3002\u8bc4\u5206\u4f7f\u7528 '+radar.date+' \u5fae\u535a\u3001\u6296\u97f3\u5b98\u65b9\u699c\u5355\u5feb\u7167\uff1b\u8d8b\u52bf\u56fe\u4ec5\u4f7f\u7528\u540c\u5e73\u53f0\u539f\u59cb\u5feb\u7167\u70ed\u5ea6\u503c\u3002';
 const cards=document.querySelector('.cards');if(cards)cards.innerHTML=selected.map((x,i)=>{const ps=platformText(x),series=trends[x.title]||[],trendNote=series.length>1?'\u6570\u636e\u6e90\uff1a'+(names[series[0].platform]||series[0].platform)+'\u5b98\u65b9\u699c\u539f\u59cb\u5feb\u7167\uff5c'+series[0].time+' \u81f3 '+series.at(-1).time:'\u6570\u636e\u6e90\uff1a'+esc(ps)+'\uff5c\u5f53\u524d\u4ec5\u6709\u5355\u6b21\u5feb\u7167\uff0c\u6682\u4e0d\u5224\u65ad\u6301\u7eed\u8d70\u52bf';return '<div class="card"><div class="card-head"><span class="badge" style="background:'+colors[x.level]+'">'+esc(x.level)+'\u7ea7</span><span class="ev-name">\u4e8b\u4ef6\uff1a'+esc(x.title)+'</span><span class="ev-topic">#'+esc(x.title)+'#</span><span class="ev-score">'+x.totalScore.toFixed(1)+'\u5206</span></div><details class="card-section-toggle"><summary>\u5e73\u53f0\u8868\u73b0</summary><div class="card-section-inner">'+esc(ps)+'</div></details><div class="card-section"><b>\u4e8b\u4ef6\u89e3\u91ca\uff1a</b>'+esc(x.eventSummary||x.title)+'\u3002</div><details class="card-section-toggle"><summary>\u4e3a\u4ec0\u4e48\u70ed\u5ea6\u9ad8</summary><div class="card-section-inner">'+heatReason(x)+'</div></details><details class="trend-toggle"><summary>\u70ed\u5ea6\u8d70\u52bf\u56fe</summary><div class="trend-inner"><div id="live-chart-'+i+'" class="chart"></div><div class="trend-note">'+trendNote+'</div></div></details><div class="card-reminder"><b>\u63d0\u9192\uff5c\u98ce\u9669\u8fb9\u754c\uff1a</b>'+esc(x.riskNote)+'</div></div>'}).join('');
 if(window.echarts){selected.forEach((x,i)=>{const el=document.getElementById('live-chart-'+i),series=trends[x.title]||[];if(!el)return;const values=series.length?series.map(v=>v.hot/10000):[x.platforms?.[0]?.hot/10000||0],labels=series.length?series.map(v=>v.time):[radar.date];echarts.init(el).setOption({backgroundColor:'transparent',tooltip:{trigger:'axis',valueFormatter:v=>v+'\u4e07'},grid:{left:58,right:24,top:28,bottom:28},xAxis:{type:'category',data:labels,axisLabel:{color:'#9ca3af',fontSize:10}},yAxis:{type:'value',name:'\u5e73\u53f0\u70ed\u5ea6\uff08\u4e07\uff09',axisLabel:{color:'#9ca3af'}},series:[{type:'line',data:values,smooth:true,symbolSize:6,lineStyle:{width:3,color:'#4fc3f7'},itemStyle:{color:'#4fc3f7'},areaStyle:{opacity:.18,color:'#4fc3f7'}}]})});if(window.bar)bar.setOption({xAxis:{data:selected.map(x=>x.title)},series:[{data:selected.map(x=>({value:x.totalScore,itemStyle:{color:colors[x.level]}}))}]})}
-const memes=selected.filter(x=>x.riskLevel==='low'&&x.creativityScore>=70).slice(0,3),group=document.querySelector('.meme-group');if(group){const memeTitle=group.closest('.panel')?.querySelector('h2');if(memeTitle)memeTitle.textContent='\ud83c\udfad \u7528\u6237\u5c42\u9762\u73a9\u6897\u70ed\u70b9\uff08'+radar.date+'\uff09';}if(group)group.innerHTML='<div class="meme-status" style="color:#4ade80">\u4eca\u65e5\u65b0\u589e\uff08'+memes.length+'\uff09</div>'+memes.map(x=>'<div class="meme-card"><div class="meme-head"><span class="meme-badge" style="background:#4ade80">NEW</span><b class="meme-name">'+esc(x.title)+'</b><span class="meme-hot">'+(x.platforms||[]).map(p=>(names[p.platform]||p.platform)+' TOP'+p.rank+' \u00b7 \u70ed\u5ea6'+heat(p.hot)).join(' / ')+'</span></div><div class="meme-core"><b>\u53ef\u590d\u523b\u6a21\u677f\uff1a</b>'+esc(x.communicationIdea)+'</div><div class="meme-ev"><b>\u5165\u9009\u7406\u7531\uff1a</b>'+esc(x.reason)+'</div></div>').join('');
+
 const business=window.__BUSINESS_ADVICE__?.businesses||{};
 const fallback=['\u4ec5\u5bf9\u4e0e\u5f53\u524d\u4e1a\u52a1\u6709\u660e\u786e\u89e6\u70b9\u7684\u4f4e\u98ce\u9669\u70ed\u70b9\u505a\u5c0f\u8303\u56f4\u6d4b\u8bd5\uff0c\u4f18\u5148\u4fdd\u8bc1\u4f9b\u7ed9\u548c\u5c65\u7ea6\u3002','\u4f7f\u7528\u771f\u5b9e\u95e8\u5e97\u3001\u4ea7\u54c1\u548c\u670d\u52a1\u4fe1\u606f\uff0c\u4e0d\u4f7f\u7528\u672a\u6388\u6743\u7d20\u6750\uff0c\u4e0d\u5bf9\u9ad8\u98ce\u9669\u4e8b\u4ef6\u5546\u4e1a\u5316\u3002'];const select=document.getElementById('business-select'),action=document.getElementById('business-action'),comms=document.getElementById('business-comms');function renderBusiness(){const item=business[select.value]||{verdict:'',km:'',action:fallback[0],communication:fallback[1],evidence:'',risk:''};action.textContent=(item.verdict?'\u3010\u5224\u65ad\u3011'+item.verdict+' ':'')+(item.km?'\u3010\u6838\u5fc3\u5fc3\u667a\u3011'+item.km+' ':'')+'\u3010\u4e1a\u52a1\u52a8\u4f5c\u3011'+(item.action||item[0]);comms.textContent='\u3010\u4f20\u64ad\u5efa\u8bae\u3011'+(item.communication||item[1])+(item.evidence?' \u3010\u4e0a\u7ebf\u524d\u6838\u9a8c\u3011'+item.evidence:'')+(item.risk?' \u3010\u98ce\u9669\u8fb9\u754c\u3011'+item.risk:'')}if(select&&action&&comms){Object.keys(business).forEach(name=>{if(!Array.from(select.options).some(option=>option.value===name)){const option=document.createElement('option');option.value=name;option.textContent=name;select.appendChild(option)}});select.addEventListener('change',renderBusiness);renderBusiness()}
 })();
