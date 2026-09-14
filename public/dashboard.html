@@ -785,31 +785,15 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   function esc(s) { return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
   function render() {
     var biz = sel.value;
-    var list = data[biz];
-    if (!list || !list.length) {
-      actionEl.innerHTML = '<div class="dd-none">当前业务暂无明确可借势热点，建议仅作观察。</div>';
-      commsEl.innerHTML = '';
+    var entry = data[biz];
+    // 08-28 风格：每业务整合为两段话（action = 本地生活业务建议，comms = 对应业务传播建议）
+    if (!entry || (!entry.action && !entry.comms)) {
+      actionEl.innerHTML = '当前业务暂无明确可借势热点，建议仅作观察。';
+      commsEl.innerHTML = '当日保持常规运营与真实服务信息发布，不强行蹭热点。';
       return;
     }
-    var html = '<ol class="business-list">';
-    list.forEach(function (item) {
-      html += '<li class="business-item">';
-      html += '<div class="business-hot">' + esc(item.hotspot) + '</div>';
-      if (item.connection) html += '<div class="business-conn"><span>连接点：</span>' + esc(item.connection) + '</div>';
-      if (item.action) html += '<div class="business-act"><span>借势建议：</span>' + esc(item.action) + '</div>';
-      if (item.evidence) html += '<div class="business-ev"><span>依据：</span>' + esc(item.evidence) + '</div>';
-      if (item.risk) html += '<div class="business-risk"><span>风险：</span>' + esc(item.risk) + '</div>';
-      html += '</li>';
-    });
-    html += '</ol>';
-    actionEl.innerHTML = html + '<div class="business-hint">共 ' + list.length + ' 条可借势热点。</div>';
-    // 传播建议：对每个热点给出聚合后的传播动作（简化为动作摘要）
-    var comm = '<ul class="business-comms-list">';
-    list.forEach(function (item) {
-      if (item.action) comm += '<li>' + esc(item.action) + '</li>';
-    });
-    comm += '</ul>';
-    commsEl.innerHTML = comm;
+    actionEl.textContent = entry.action || '当前业务暂无明确可借势热点，建议仅作观察。';
+    commsEl.textContent = entry.comms || '当日保持常规运营与真实服务信息发布，不强行蹭热点。';
   }
 
   // 仅当数据里存在该业务时才渲染；否则保留原下拉但提示

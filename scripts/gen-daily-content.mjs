@@ -136,23 +136,29 @@ const output = {
 writeFileSync(join(outRoot, 'gen-daily-content.json'), JSON.stringify(output, null, 2));
 
 // ---------- reshape 为 dashboard 消费的 schema ----------
-// dashboard: __BUSINESS_ADVICE__?.businesses = { <业务名>: [ {hotspot,connection,action,evidence,risk}, ... ] }
-// 按业务为核心：下拉框 = 业务列表，选某业务显示该业务可借势的热点清单；无借势点的业务不放入下拉。
-const businesses = {};
+// dashboard: __BUSINESS_ADVICE__?.businesses = { <业务名>: { action, comms } }
+// 参考 08-28 版排版：每个业务整合为「一段业务建议(action) + 一段传播建议(comms)」，
+// 把该业务下所有热点的建议去重合并成精炼的两段话，不做逐热点清单堆叠。
+const _bizMerge = {};
 for (const b of businessAdvice) {
   const bizName = b.business || '未归类';
-  if (!businesses[bizName]) businesses[bizName] = [];
-  businesses[bizName].push({
-    hotspot: b.hotspot,
-    connection: b.connection || '',
-    action: b.action || (b.risk && b.risk.indexOf('高') !== -1 ? '仅观察不借势' : '暂不发起业务动作'),
-    evidence: b.evidence || '',
-    risk: b.risk || '',
-  });
+  if (!_bizMerge[bizName]) _bizMerge[bizName] = { action: [], connection: [] };
+  const act = b.action || (b.risk && b.risk.indexOf('高') !== -1 ? '仅观察不借势' : '暂不发起业务动作');
+  if (act && !_bizMerge[bizName].action.includes(act)) _bizMerge[bizName].action.push(act);
+  if (b.connection && !_bizMerge[bizName].connection.includes(b.connection)) _bizMerge[bizName].connection.push(b.connection);
+}
+const businesses = {};
+for (const [name, v] of Object.entries(_bizMerge)) {
+  const actionText = v.action.join('；');
+  const connText = v.connection.length ? '围绕' + v.connection.join('、') + '等场景发起传播，突出真实可兑现的卖点与服务承诺，不擅自使用赛事标识、肖像或公共安全话题制造焦虑。' : '当日暂无明确可借势热点，仅保持常规运营与真实服务信息发布。';
+  businesses[name] = {
+    action: actionText || '当日暂无明确可借势热点，建议仅作观察。',
+    comms: connText,
+  };
 }
 const businessForDash = {
   date: today,
-  basis: '以业务为核心：按京东本地生活各业务维度聚合当日可借势热点清单，选择业务即展示该业务对应热点借势建议',
+  basis: '参考 08-28 版：按京东本地生活各业务维度，将当日可借势热点去重合并为「一段业务建议 + 一段传播建议」，选择业务即展示整合后的两段话。',
   coreThemes: businessAdvice.map(b => b.hotspot).filter((v, i, a) => a.indexOf(v) === i),
   businesses,
 };
