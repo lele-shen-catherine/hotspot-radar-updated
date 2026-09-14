@@ -1,0 +1,45 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy public/ to gh-pages branch
+        run: |
+          # 提取 public 目录内容到临时目录
+          mkdir -p /tmp/pages-build
+          cp -r public/* /tmp/pages-build/
+          # 移除备份文件
+          find /tmp/pages-build -name "*.bak*" -delete
+
+          # 切换到 gh-pages 分支（或从零创建）
+          git fetch origin gh-pages || true
+          if git rev-parse --verify gh-pages >/dev/null 2>&1; then
+            git checkout gh-pages
+          else
+            git checkout --orphan gh-pages
+          fi
+
+          # 清空并放入新内容
+          git rm -rf . --quiet || true
+          cp -r /tmp/pages-build/* .
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to deploy"
+          else
+            git -c user.name="Hotspot Radar Bot" -c user.email="bot@users.noreply.github.com" \
+              commit -m "chore: deploy to pages $(date +'%Y-%m-%d %H:%M')"
+            git push origin gh-pages
+          fi
