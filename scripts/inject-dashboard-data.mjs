@@ -3,7 +3,7 @@
  * 注入最新数据到 dashboard.html 内嵌区
  * 流程:
  *  1. 读 public/data/radar.json (最新核心数据)
- *  2. 读取 public/data/business-advice.json 与 public/data/meme-topics.json (若无当日则生成占位)
+ *  2. 读取 public/data/business-advice.json (若无当日则生成占位)
  *  3. 用最新数据替换 dashboard.html 注入区区块
  * 用法: node scripts/inject-dashboard-data.mjs
  */
@@ -18,7 +18,6 @@ const publicDir = path.join(root, 'public');
 const htmlPath = path.join(publicDir, 'dashboard.html');
 const radarPath = path.join(publicDir, 'data', 'radar.json');
 const advicePath = path.join(publicDir, 'data', 'business-advice.json');
-const memePath = path.join(publicDir, 'data', 'meme-topics.json');
 
 function readJson(p) {
   if (!existsSync(p)) return null;
@@ -39,11 +38,7 @@ const date = radar.date || '';
 const hotspots = radar.hotspots || [];
 const advice = readJson(advicePath) || { date, basis: '智能分析本次暂未生成', coreThemes: [], businesses: {} };
 
-// ---------- MEME_TOPICS ----------
-// 玩梗由 gen-daily-content.mjs 完成内容级核验后生成，此处直接读取注入，绝不从热点自动拼凑或沿用旧玩梗。
-const meme = readJson(memePath) || { date, items: [] };
-
-// ---------- 替换三个注入区 ----------
+// ---------- 替换注入区 ----------
 function replaceBlock(html, id, varName, data) {
   const startTag = `<script id="${id}">window.${varName}=`;
   const start = html.indexOf(startTag);
@@ -60,7 +55,6 @@ function replaceBlock(html, id, varName, data) {
 
 html = replaceBlock(html, 'radar-current-data', '__RADAR_DATA__', radar);
 html = replaceBlock(html, 'business-advice-data', '__BUSINESS_ADVICE__', advice);
-html = replaceBlock(html, 'meme-data', '__MEME_TOPICS__', meme);
 
 writeFileSync(htmlPath, html, 'utf-8');
 console.log(`✅ dashboard.html 已注入 ${date} 数据 (radar=${radar.hotspots?.length || 0} hotspots, advice=${Object.keys(advice.businesses||{}).length})`);

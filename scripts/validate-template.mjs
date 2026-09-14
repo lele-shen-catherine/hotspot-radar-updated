@@ -6,7 +6,7 @@
  *  dashboard 已是 loader 版 —— 运行时从 data/latest.json / jsDelivr CDN 动态拉取
  *  radar.json 渲染 AI 深度思考字段，HTML 内不再硬编码 eventSummary 等字段名。
  *  因此本脚本不再检查 dashboard HTML 里的 AI 字段字符串，
- *  改为直接校验数据文件本身是否真实包含 AI 字段 + 业务建议 + meme 数据。
+ *  改为直接校验数据文件本身是否真实包含 AI 字段 + 业务建议。
  */
 import { access, readFile } from "node:fs/promises";
 
@@ -17,7 +17,6 @@ const required = [
   "public/data/latest.json",
   "public/data/radar.json",
   "public/data/business-advice.json",
-  "public/data/meme-topics.json",
   "config/hotspot-rules.json",
   ".github/workflows/update-hotspot.yml"
 ];
@@ -29,7 +28,6 @@ for (const path of [
   "public/data/latest.json",
   "public/data/radar.json",
   "public/data/business-advice.json",
-  "public/data/meme-topics.json",
   "config/hotspot-rules.json"
 ]) {
   JSON.parse(await readFile(path, "utf8"));
@@ -60,17 +58,11 @@ for (let i = 0; i < hotspots.length; i++) {
 }
 console.log(`[门禁] radar.json ${hotspots.length} 条热点 AI 字段完整`);
 
-// ---------- 5. business-advice 与 meme-topics 非空 ----------
+// ---------- 5. business-advice 非空 ----------
 const advice = JSON.parse(await readFile("public/data/business-advice.json", "utf8"));
 if (!advice.date || !advice.businesses || !Object.keys(advice.businesses).length) {
   throw new Error("business-advice.json 缺少当日业务建议（businesses 非空）");
 }
 console.log(`[门禁] business-advice.json 当日业务建议完整 (${Object.keys(advice.businesses).length} 类)`);
-
-const meme = JSON.parse(await readFile("public/data/meme-topics.json", "utf8"));
-if (!meme.date || !Array.isArray(meme.items) || !meme.items.length) {
-  throw new Error("meme-topics.json 缺少当日 meme 话题");
-}
-console.log(`[门禁] meme-topics.json ${meme.items.length} 条 meme 话题完整`);
 
 console.log("Hotspot radar template validation passed. ✅");

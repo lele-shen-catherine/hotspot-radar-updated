@@ -3,7 +3,7 @@
 //       并为每个非硬性排除的 S/A/B 热点附加 Agent/API 思考层内容。
 //
 // 【整改 v2.1】2026-09-07 21:36
-//   移除硬编码 analysisByTitle / memeTopics / businessAdvice（旧标题 key 导致匹配失败、
+//   移除硬编码 analysisByTitle / businessAdvice（旧标题 key 导致匹配失败、
 //   内容空字段、引用不存在热点如"郑钦文"）。
 //   改为统一读取 ai-analysis.json（Agent 逐条深度思考产物，按 radar.json 真实标题为 key）。
 //   本脚本退化为"纯渲染器"，AI 思考内容全部来自 ai-analysis.json，永远与真实标题匹配。
@@ -17,7 +17,6 @@ import { fileURLToPath } from 'node:url';
 const root = fileURLToPath(new URL('.', import.meta.url));
 const radarPath = join(root, '..', 'public', 'data', 'radar.json');
 const aiAnalysisPath = join(root, '..', 'public', 'data', 'ai-analysis.json');
-const memePath = join(root, '..', 'public', 'data', 'meme-topics.json');
 const bizPath = join(root, '..', 'public', 'data', 'business-advice.json');
 const outRoot = join(root, '..', 'public', 'data');
 
@@ -97,35 +96,6 @@ const TOP6_LIMIT = 6;
 const topEvents = events.slice(0, TOP6_LIMIT);
 console.log('[gen] 固定6席生效：', events.length, '→', topEvents.length, '（保留固定席位顺序）');
 
-// ---------- 玩梗热点（meme-topics.json）：从 ai-analysis 生成 ----------
-// 仅取 analyses 中带 meme 字段的热点；meme 含 template/reason/verifyStatus/risk。
-const memeTopics = [];
-for (const h of topEvents) {
-  const a = analyses[h.eventName] || {};
-  if (a.meme && a.meme.template) {
-    // radar 热点真实结构：热度在 h.platforms[]（platform/rank/hot），顶层无 platformDetail/hotValue
-    const p0 = (h.platforms && h.platforms[0]) || {};
-    const srcPlat = p0.platform || h.platform || '抖音';
-    const rankText = p0.rank != null ? 'TOP' + p0.rank : '';
-    const hotText = p0.hot != null ? (typeof p0.hot === 'number' ? (p0.hot >= 10000 ? (p0.hot / 10000).toFixed(1) + 'w' : String(p0.hot)) : String(p0.hot)) : '';
-    memeTopics.push({
-      title: h.eventName,
-      platform: srcPlat,
-      rank: rankText,
-      hotValue: hotText,
-      template: a.meme.template,
-      reason: a.meme.reason || '',
-      verifyStatus: a.meme.verifyStatus || '待内容级核验',
-      risk: a.meme.risk || '低风险',
-      // ---- dashboard 渲染对齐字段 ----
-      keyword: a.meme.template,
-      source: srcPlat,
-      heat: hotText || rankText,
-    });
-  }
-}
-console.log('[gen] 玩梗热点:', memeTopics.length, '条');
-
 // ---------- 本地生活业务建议：从 ai-analysis.json 的 business 字段生成 ----------
 // 只选择存在真实连接点的热点，无法强关联时明确"暂无适合跟进"。
 const businessAdvice = [];
@@ -155,7 +125,6 @@ const output = {
   collectedAt,
   date: today,
   events: topEvents,
-  memeTopics,
   businessAdvice,
   meta: {
     dataSource: 'UAPI(微博/抖音/小红书) + 时光热搜 + 知微观察',
@@ -167,20 +136,6 @@ const output = {
 writeFileSync(join(outRoot, 'gen-daily-content.json'), JSON.stringify(output, null, 2));
 
 // ---------- reshape 为 dashboard 消费的 schema ----------
-// dashboard: __MEME_TOPICS__?.items = [{keyword,template,reason,source,heat}]
-const memeForDash = {
-  date: today,
-  items: memeTopics.map(m => ({
-    keyword: m.title,
-    template: m.template,
-    reason: m.reason,
-    source: m.platform,
-    heat: m.hotValue || m.rank || '',
-    verifyStatus: m.verifyStatus,
-    risk: m.risk,
-  })),
-};
-
 // dashboard: __BUSINESS_ADVICE__?.businesses = { <业务名>: [ {hotspot,connection,action,evidence,risk}, ... ] }
 // 按业务为核心：下拉框 = 业务列表，选某业务显示该业务可借势的热点清单；无借势点的业务不放入下拉。
 const businesses = {};
@@ -202,7 +157,6 @@ const businessForDash = {
   businesses,
 };
 
-writeFileSync(memePath, JSON.stringify(memeForDash, null, 2));
 writeFileSync(bizPath, JSON.stringify(businessForDash, null, 2));
 
 // ---------- 同步注入 dashboard.html 内嵌块（保持前端与数据单一来源一致） ----------
@@ -222,5 +176,5 @@ try {
   console.log('[gen] ⚠️ dashboard.html 注入失败：', e.message);
 }
 
-console.log('[gen] 完成：事件数', topEvents.length, 'meme', memeTopics.length, '业务建议', businessAdvice.length);
+console.log('[gen] 完成：事件数', topEvents.length, '业务建议', businessAdvice.length);
 console.log('[gen] 输出：', outRoot);

@@ -4,7 +4,7 @@
  * 定位：在 radar:update 链中自动运行，把 analyze-hotspots 产出的原始热点
  *       （爬虫标题 + 平台排名/热度）二次加工成 AI 深度思考字段：
  *       eventSummary(事件解释)、whyHot(为什么热度高)、riskNote(风险提醒)，
- *       并生成 meme（玩梗模板/入选理由）与 business（本地生活业务建议）。
+ *       并生成 business（本地生活业务建议）。
  *
  * 彻底解决"每次看都有新问题"根因：
  *   - 旧问题：ai-analysis.json 由 Agent 手工写、不在流水线里 → 定时跑没有 AI 分析
@@ -243,48 +243,11 @@ for (const h of hotspots){
   const p0 = (h.platforms && h.platforms[0]) || {};
   const lvl = h.level || 'B';
   const risk = riskLevel(h.title);
-  const meme = (lvl==='A'||lvl==='S')
-    ? (() => {
-        // 按热点类型产出"可复刻玩梗模板"：真实可操作的二创公式，而非通用占位
-        let template, reason, riskTxt;
-        if (/iPhone|苹果|折叠|发布会|手机|小米|新品|旗舰/.test(h.title)){
-          template = `「${h.title}」玩梗公式：用"新品价格/配置"做反差对比梗（如"买不起但想看"） + "等等党/真香党"立场文案，截图晒单即可参与`;
-          reason = '强参与感、天然有讨论度（价格/值不值得）、适合图文二创';
-          riskTxt = '中低风险：可调侃价格与配置，避免编造参数/不贬损品牌';
-        } else if (/对战|比赛|网球|夺冠|世界杯|奥运|体育|赛事|逆转|晋级|美网|淘汰/.test(h.title)){
-          template = `「${h.title}」玩梗公式：观赛情绪反差（"本来躺着，关键球瞬间坐直"） + "真香/可惜"二选一梗，配观赛零食图复刻`;
-          reason = '观赛场景共情强、容易引发"我也这样"刷屏';
-          riskTxt = '中低风险：调侃情绪，不涉争议判罚/运动员隐私';
-        } else if (/疫情|梅毒|流感|病毒|健康|传染病|公共卫生/.test(h.title)){
-          template = `「${h.title}」玩梗公式："卫生/健康"段子（如"出门带口罩"日常梗） + 健康自嘲轻表达，适合生活场景二创`;
-          reason = '健康话题有普遍共鸣，可做轻自嘲不渲染恐慌';
-          riskTxt = '中高风险：仅健康自嘲，不得制造恐慌、不涉具体病情细节';
-        } else if (/回应|道歉|风波|争议/.test(h.title)){
-          template = `「${h.title}」玩梗公式：以"当事方回应态度"做表情包/语录二次创作（如经典语录截图），轻吐槽不站队`;
-          reason = '公众热议、有表情包素材，传播性强';
-          riskTxt = '高风险：不站队、不审判、不传播未证实细节';
-        } else if (/男童|女童|未成年|摸|偷拍|监控|隐私/.test(h.title)){
-          template = `「${h.title}」仅作公共话题理性传播，不产出玩梗模板（涉及未成年人/隐私高敏感）`;
-          reason = '高敏感议题，不应娱乐化';
-          riskTxt = '高风险：严禁玩梗、不披露隐私、不煽动对立';
-        } else if (/吐痰|卫生|曝光|安全|投诉|打假/.test(h.title)){
-          template = `「${h.title}」玩梗公式：用"放心消费/眼见为实"正向对照梗（如"看得见的干净"），强调自家服务承诺`;
-          reason = '借安全话题做正向服务表达，弱化负面冲击';
-          riskTxt = '中高风险：不贬损同行、不渲染具体丑闻';
-        } else {
-          template = `围绕「${h.title}」发起用户可复制表达（真实热搜词 + 个人视角晒单/吐槽/解读）`;
-          reason = '具备二创参与感，可引导用户真实表达';
-          riskTxt = '中低风险';
-        }
-        return { template, reason, verifyStatus:'具备二创潜力，尚待内容级核验（≥3独立用户）', risk: riskTxt };
-      })()
-    : null;
 
   analyses[h.title] = {
     explanation: explanation(h.title, p0),
     whyHot: whyHot(h.title),
     risk: `风险等级：${risk}。${risk==='高' ? '涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。' : risk==='中' ? '涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。' : '可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。'}`,
-    meme,
     business: businessFor(h.title, lvl),
   };
 }

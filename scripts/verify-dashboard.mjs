@@ -17,9 +17,6 @@ const data = await page.evaluate(() => {
   const text = document.body.innerText;
   return {
     bodyTextLen: text.length,
-    // meme cards
-    memeCards: document.querySelectorAll('[class*="meme"], [class*="meme-item"], .meme-card').length,
-    memeText: (text.match(/燕麦卫衣|郑钦文|玩梗/g) || []).length,
     // biz
     bizHasOuts: /京东外卖/.test(text),
     bizHasSec: /京东秒送/.test(text),
