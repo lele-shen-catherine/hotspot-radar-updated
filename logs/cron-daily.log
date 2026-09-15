@@ -649,3 +649,74 @@ Hotspot radar template validation passed. ✅
   ai-analysis.json  → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
   dashboard.html    → /root/.joyclaw/workspace/hotspot-radar-updated/public/dashboard.html
 --- 推送 GitHub（触发 gh-pages 自动部署） ---
+[main 09f294c] daily update 2026-09-15 1500
+ 12 files changed, 5599 insertions(+), 947 deletions(-)
+ create mode 100644 data/raw/2026-09-15/douyin-1500.json
+ create mode 100644 data/raw/2026-09-15/webwide-1500.json
+ create mode 100644 data/raw/2026-09-15/weibo-1500.json
+ create mode 100644 data/raw/2026-09-15/xhs-1500.json
+==> 开始推送 origin main（HTTP/1.1，最多 6 次）
+--- 第 1/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+⚠️ 第 1 次失败，等待 20s 后重试...
+--- 第 2/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+⚠️ 第 2 次失败，等待 40s 后重试...
+--- 第 3/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+⚠️ 第 3 次失败，等待 80s 后重试...
+--- 第 4/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+⚠️ 第 4 次失败，等待 160s 后重试...
+--- 第 5/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+⚠️ 第 5 次失败，等待 320s 后重试...
+--- 第 6/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+❌ 推送失败：已达最大重试次数
+   诊断建议：
+   - 检查网络: curl -sI https://github.com
+   - 检查认证: git ls-remote origin HEAD
+❌ GitHub 推送失败，请检查网络/认证后手动重跑 scripts/push-github.sh
