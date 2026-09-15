@@ -190,7 +190,9 @@ const hotspots = fixed.map(it => {
     trend = trendScoreWeibo(); reson = resonanceScore(it.title, "微博");
   }
   const score = (posPct || 0) * 0.35 + (hotPct || 0) * 0.20 + trend.score * 0.25 + reson.score * 0.20;
-  const grade = score >= 80 ? "S" : (score >= 65 ? "A" : "B");
+  // 分级标准（用户硬性要求，严格按分数阈值，不按席位地位）：
+  //   S >= 85 全民级热点 / A 70-84 大范围热点 / B 55-69 重点观察热点 / <55 不评级仅存档
+  const grade = score >= 85 ? "S" : (score >= 70 ? "A" : (score >= 55 ? "B" : null));
   return {
     level: grade,
     seat: it.seat,
