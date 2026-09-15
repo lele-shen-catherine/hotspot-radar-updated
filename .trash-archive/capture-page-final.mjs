@@ -1,0 +1,15 @@
+import { chromium } from 'playwright';
+const url = 'http://127.0.0.1:8899/dashboard.html';
+const out = '/root/.joyclaw/workspace/hotspot-radar-updated/page-final.png';
+const b = await chromium.launch();
+const p = await b.newPage({ viewport: { width: 1280, height: 900 } });
+const errors = [];
+p.on('console', m => { if (m.type()==='error') errors.push(m.text()); });
+p.on('pageerror', e => errors.push(String(e)));
+const resp = await p.goto(url, { waitUntil: 'networkidle' });
+await p.waitForTimeout(1500);
+await p.screenshot({ path: out, fullPage: true });
+console.log('HTTP:', resp.status());
+console.log('consoleErrors:', JSON.stringify(errors));
+console.log('saved:', out);
+await b.close();

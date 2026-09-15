@@ -1,0 +1,535 @@
+=== 开始每日更新 2026-09-08 15:00 ===
+--- 全流程(含AI深度分析+质量门禁+部署) ---
+========================================
+  热点雷达 每日全流程  2026/9/8 15:00:01
+  deploy=true  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-08 15:00
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，51 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-08/webwide-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-08/weibo-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-08/douyin-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-08/xhs-1500.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：78 个候选，2 个待语义复核（四类硬性排除）
+热度分级完成：S=0 A=0 B=4 观察=74
+
+
+━━━ [2.AI深度分析] ━━━
+[ai] 已生成 4 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+[ai] 自检通过：全部字段为 AI 深度内容（非爬虫原文/占位/雷同）
+
+
+━━━ [3.修补radar(注入AI字段)] ━━━
+✅ 已用 AI 深度分析修补 radar.json: 4 条注入, 0 条缺失
+
+
+━━━ [4.合成业务建议+玩梗模板] ━━━
+[gen] 从 radar.json 读取热点数: 4
+[gen] AI 分析匹配: 4/4
+[gen] top6 上限生效： 4 → 4
+[gen] 玩梗热点: 0 条
+[gen] 业务建议: 4 条
+[gen] ✅ 已注入 businessForDash 到 dashboard.html
+[gen] 完成：事件数 4 meme 0 业务建议 4
+[gen] 输出： /root/.joyclaw/workspace/hotspot-radar-updated/public/data
+
+[门禁] 4 条热点 × 3 字段 + business 非空，热度榜 4 条有效。
+
+━━━ [5.注入dashboard] ━━━
+✅ dashboard.html 已注入 2026-09-08 数据 (radar=4 hotspots, advice=4)
+
+
+━━━ [6.模板校验] ━━━
+
+> hotspot-radar@1.0.0 validate
+> node scripts/validate-template.mjs
+
+Hotspot radar template validation passed.
+
+
+━━ 部署到 Netlify v2 (hotspot-radar-kaikai-v2) ━━
+❌ 缺少 NETLIFY_AUTH_TOKEN
+❌ 全流程失败，未部署
+=== 开始每日更新 2026-09-09 15:00 ===
+--- 全流程(含AI深度分析+质量门禁+部署) ---
+========================================
+  热点雷达 每日全流程  2026/9/9 15:00:02
+  deploy=true  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-09 15:00
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，52 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-09/webwide-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-09/weibo-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-09/douyin-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-09/xhs-1500.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：77 个候选，3 个待语义复核（四类硬性排除）
+热度分级完成：S=3 A=8 B=26 展示=37 排除=1
+
+
+━━━ [2.AI深度分析] ━━━
+[ai] 已生成 37 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+[ai] 自检通过：全部字段为 AI 深度内容（非爬虫原文/占位/雷同）
+
+
+━━━ [3.修补radar(注入AI字段)] ━━━
+✅ 已用 AI 深度分析修补 radar.json: 37 条注入, 0 条缺失
+
+
+━━━ [4.合成业务建议+玩梗模板] ━━━
+[gen] 从 radar.json 读取热点数: 37
+[gen] AI 分析匹配: 37/37
+[gen] top6 上限生效： 37 → 6
+[gen] 玩梗热点: 1 条
+[gen] 业务建议: 10 条
+[gen] ✅ 已注入 businessForDash 到 dashboard.html
+[gen] 完成：事件数 6 meme 1 业务建议 10
+[gen] 输出： /root/.joyclaw/workspace/hotspot-radar-updated/public/data
+
+[门禁] 37 条热点 × 3 字段 + business 非空，热度榜 37 条有效。
+
+━━━ [5.注入dashboard] ━━━
+✅ dashboard.html 已注入 2026-09-09 数据 (radar=37 hotspots, advice=6)
+
+
+━━━ [6.模板校验] ━━━
+
+> hotspot-radar@1.0.0 validate
+> node scripts/validate-template.mjs
+
+Hotspot radar template validation passed.
+
+
+━━ 部署到 Netlify v2 (hotspot-radar-kaikai-v2) ━━
+
+━━━ [7.部署] ━━━
+​
+Netlify Build                                                 
+────────────────────────────────────────────────────────────────
+​
+❯ Version
+  @netlify/build 36.4.7
+​
+❯ Flags
+  accountId: 6a4ce7c89457a75fa84581f0
+  deployId: 6aa103ff41ee9aa819e19c20
+​
+❯ Current directory
+  /root/.joyclaw/workspace/hotspot-radar-updated
+​
+❯ Config file
+  /root/.joyclaw/workspace/hotspot-radar-updated/netlify.toml
+​
+❯ Context
+  production
+
+Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+Deploy path:        /root/.joyclaw/workspace/hotspot-radar-updated/public
+Configuration path: /root/.joyclaw/workspace/hotspot-radar-updated/netlify.toml
+
+​
+Netlify Build Complete                                        
+────────────────────────────────────────────────────────────────
+​
+(Netlify Build completed in 9s)
+
+🚀 Deploy complete
+────────────────────────────────────────────────────────────────
+
+Production URL: <https://hotspot-radar-kaikai-v2.netlify.app>
+Unique deploy URL: <https://6aa103ff41ee9aa819e19c20--hotspot-radar-kaikai-v2.netlify.app>
+
+Build logs: <https://app.netlify.com/projects/hotspot-radar-kaikai-v2/deploys/6aa103ff41ee9aa819e19c20>
+Function logs: <https://app.netlify.com/projects/hotspot-radar-kaikai-v2/logs/functions>
+Edge function logs: <https://app.netlify.com/projects/hotspot-radar-kaikai-v2/logs/edge-functions>
+
+
+✅ 每日全流程完成。
+产物:
+  radar.json        → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/radar.json
+  ai-analysis.json  → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+  dashboard.html    → /root/.joyclaw/workspace/hotspot-radar-updated/public/dashboard.html
+
+=== ✅ 每日更新完成 2026-09-09 15:00 ===
+正式站点: https://hotspot-radar-kaikai-v2.netlify.app
+=== 开始每日更新 2026-09-10 15:00 ===
+--- 全流程(含AI深度分析+质量门禁+部署) ---
+========================================
+  热点雷达 每日全流程  2026/9/10 15:00:01
+  deploy=true  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-10 15:00
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，50 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/webwide-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/weibo-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/douyin-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/xhs-1500.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：89 个候选，0 个待语义复核（四类硬性排除）
+[analyze] 已写入 radar.json: 6 席
+======== 热点雷达 · 固定6席分级 ========  2026-09-10
+
+【S】 知微 知微Top1 · 苹果2026秋季新品发布会  总分=80.8
+  榜位分=90/100(35%) 热度分=95/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 持续高位(第1名, 在榜11小时)
+  禁区: 无
+
+【S】 知微 知微Top2 · 苹果推出首款折叠屏iPhone Duo  总分=82.3
+  榜位分=80/100(35%) 热度分=85/100(20%) 趋势分=85(25%) 共振分=80(20%)
+  趋势: 持续高位(第2名, 在榜11小时)
+  禁区: 无
+
+【A】 知微 知微Top3 · 日本暴发梅毒疫情  总分=76.8
+  榜位分=70/100(35%) 热度分=75/100(20%) 趋势分=85(25%) 共振分=80(20%)
+  趋势: 持续高位(第3名, 在榜10小时)
+  禁区: 无
+
+【A】 知微 知微Top4 · 小米2026年秋季旗舰新品发布会  总分=68
+  榜位分=60/100(35%) 热度分=65/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 7→4, 在榜11小时
+  禁区: 无
+
+【S】 抖音 抖音Top1 · 今天是教师节  总分=91.4
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=85(25%) 共振分=80(20%)
+  趋势: 抖音标记'爆'
+  禁区: 无
+
+【A】 微博 微博Top1 · 梅姨首任丈夫称她生两个儿子后离开  总分=77.7
+  榜位分=98/100(35%) 热度分=97/100(20%) 趋势分=60(25%) 共振分=45(20%)
+  趋势: 微博单次快照无在榜时长(按60)
+  禁区: 无
+
+
+━━━ [2.AI深度分析] ━━━
+❌ 2.AI深度分析 失败 (exit 1)
+[ai] 已生成 6 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+
+[ai] 自检失败: 梅姨首任丈夫称她生两个儿子后离开.business 为空（每条热点都需 AI 业务建议）
+[ai] 自检不通过：1 处字段不合格
+
+❌ 全流程失败，未部署
+=== 开始每日更新 2026-09-11 15:00 ===
+--- 全流程(含AI深度分析+质量门禁+部署) ---
+========================================
+  热点雷达 每日全流程  2026/9/11 15:00:01
+  deploy=true  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-11 15:00
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，51 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-11/webwide-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-11/weibo-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-11/douyin-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-11/xhs-1500.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：90 个候选，0 个待语义复核（四类硬性排除）
+[analyze] 已写入 radar.json: 6 席
+======== 热点雷达 · 固定6席分级 ========  2026-09-11
+
+【S】 知微 知微Top1 · 苹果2026秋季新品发布会  总分=80.8
+  榜位分=90/100(35%) 热度分=95/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 持续高位(第1名, 在榜11小时)
+  禁区: 无
+
+【S】 知微 知微Top2 · 苹果推出首款折叠屏iPhone Duo  总分=82.3
+  榜位分=80/100(35%) 热度分=85/100(20%) 趋势分=85(25%) 共振分=80(20%)
+  趋势: 持续高位(第2名, 在榜11小时)
+  禁区: 无
+
+【A】 知微 知微Top3 · 2026年服贸会在京开幕  总分=73.5
+  榜位分=70/100(35%) 热度分=75/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 4→3, 在榜11小时
+  禁区: 无
+
+【A】 知微 知微Top4 · 小米2026年秋季旗舰新品发布会  总分=68
+  榜位分=60/100(35%) 热度分=65/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 5→4, 在榜11小时
+  禁区: 无
+
+【S】 抖音 抖音Top1 · 9月11日24时国内油价将调整  总分=84.4
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 抖音标记'爆'
+  禁区: 无
+
+【A】 微博 微博Top1 · 车主称坠楼砸车小孩家长态度转变  总分=78.1
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=60(25%) 共振分=45(20%)
+  趋势: 微博单次快照无在榜时长(按60)
+  禁区: 无
+
+
+━━━ [2.AI深度分析] ━━━
+[ai] 已生成 6 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+[ai] 自检通过：全部字段为 AI 深度内容（非爬虫原文/占位/雷同）
+
+
+━━━ [3.修补radar(注入AI字段)] ━━━
+✅ 已用 AI 深度分析修补 radar.json: 6 条注入, 0 条缺失
+
+
+━━━ [4.合成业务建议+玩梗模板] ━━━
+[gen] 从 radar.json 读取热点数: 6
+[gen] AI 分析匹配: 6/6
+[gen] 固定6席生效： 6 → 6 （保留固定席位顺序）
+[gen] 玩梗热点: 6 条
+[gen] 业务建议: 48 条
+[gen] ⚠️ dashboard.html 未匹配到内嵌块，跳过注入（请人工检查）
+[gen] 完成：事件数 6 meme 6 业务建议 48
+[gen] 输出： /root/.joyclaw/workspace/hotspot-radar-updated/public/data
+
+[门禁] 6 条热点 × 3 字段 + business 非空，热度榜 6 条有效。
+
+━━━ [5.注入dashboard] ━━━
+✅ dashboard.html 已注入 2026-09-11 数据 (radar=6 hotspots, advice=8)
+
+
+━━━ [6.模板校验] ━━━
+
+> hotspot-radar@1.0.0 validate
+> node scripts/validate-template.mjs
+
+[门禁] radar.json 6 条热点 AI 字段完整
+[门禁] business-advice.json 当日业务建议完整 (8 类)
+[门禁] meme-topics.json 6 条 meme 话题完整
+Hotspot radar template validation passed. ✅
+
+
+━━ 部署到 Netlify v2 (hotspot-radar-kaikai-v2) ━━
+
+━━━ [7.部署] ━━━
+❌ 7.部署 失败 (exit 1)
+
+ ›   JSONHTTPError: Forbidden
+
+❌ 全流程失败，未部署
+=== 开始每日更新 2026-09-14 15:00 ===
+--- 全流程(含AI深度分析+质量门禁+部署) ---
+========================================
+  热点雷达 每日全流程  2026/9/14 15:00:01
+  deploy=true  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-14 15:00
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，51 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-14/webwide-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-14/weibo-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-14/douyin-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-14/xhs-1500.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：90 个候选，0 个待语义复核（四类硬性排除）
+[analyze] 已写入 radar.json: 6 席
+======== 热点雷达 · 固定6席分级 ========  2026-09-14
+
+【S】 知微 知微Top1 · 罗永浩吐槽野人先生难吃  总分=80.8
+  榜位分=90/100(35%) 热度分=95/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 持续高位(第1名, 在榜10小时)
+  禁区: 无
+
+【A】 知微 知微Top2 · 苹果2026秋季新品发布会  总分=75.3
+  榜位分=80/100(35%) 热度分=85/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 持续高位(第2名, 在榜11小时)
+  禁区: 无
+
+【A】 知微 知微Top3 · 苹果推出首款折叠屏iPhone Duo  总分=76.8
+  榜位分=70/100(35%) 热度分=75/100(20%) 趋势分=85(25%) 共振分=80(20%)
+  趋势: 持续高位(第3名, 在榜11小时)
+  禁区: 无
+
+【B】 知微 知微Top4 · 2026年服贸会在京开幕  总分=64.3
+  榜位分=60/100(35%) 热度分=65/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 持续高位(第4名, 在榜11小时)
+  禁区: 无
+
+【S】 抖音 抖音Top1 · 英超官方承认哈兰德进球是误判  总分=84.4
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 抖音标记'爆'
+  禁区: 无
+
+【A】 微博 微博Top1 · 野人先生 冷处理  总分=78.1
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=60(25%) 共振分=45(20%)
+  趋势: 微博单次快照无在榜时长(按60)
+  禁区: 无
+
+
+━━━ [2.AI深度分析] ━━━
+[ai] 已生成 6 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+[ai] 自检通过：全部字段为 AI 深度内容（非爬虫原文/占位/雷同）
+
+
+━━━ [3.修补radar(注入AI字段)] ━━━
+✅ 已用 AI 深度分析修补 radar.json: 6 条注入, 0 条缺失
+
+
+━━━ [4.合成业务建议] ━━━
+[gen] 从 radar.json 读取热点数: 6
+[gen] AI 分析匹配: 6/6
+[gen] 固定6席生效： 6 → 6 （保留固定席位顺序）
+[gen] 业务建议(08-28风格): 8 个业务
+[gen] ⚠️ dashboard.html 未匹配到内嵌块，跳过注入（请人工检查）
+[gen] 完成：事件数 6 业务建议 8
+[gen] 输出： /root/.joyclaw/workspace/hotspot-radar-updated/public/data
+
+[门禁] 6 条热点 × 3 字段 + business 非空，热度榜 6 条有效。
+
+━━━ [5.注入dashboard] ━━━
+✅ dashboard.html 已注入 2026-09-14 数据 (radar=6 hotspots, advice=8)
+
+
+━━━ [6.模板校验] ━━━
+
+> hotspot-radar@1.0.0 validate
+> node scripts/validate-template.mjs
+
+[门禁] radar.json 6 条热点 AI 字段完整
+[门禁] business-advice.json 当日业务建议完整 (8 类)
+Hotspot radar template validation passed. ✅
+
+
+━━ 部署到 Netlify v2 (hotspot-radar-kaikai-v2) ━━
+
+━━━ [7.部署] ━━━
+❌ 7.部署 失败 (exit 1)
+
+ ›   JSONHTTPError: Forbidden
+
+❌ 全流程失败，未部署

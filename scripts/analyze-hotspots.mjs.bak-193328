@@ -1,0 +1,238 @@
+#!/usr/bin/env node
+/**
+ * 热度分级（新规 v3）
+ * 热度值 = 峰值榜位×35% + 平台公开热度×20% + 在榜时长×25% + 跨平台×20%
+ * - 除四类硬性排除外，客观达到 S/A/B 全部展示，不再以业务相关性/借势价值作门槛
+ * - 风险只影响 riskNote 与业务建议，不影响 S/A/B 等级
+ * - 评分完全依据客观传播数据，不加入业务相关性/适合借势程度/创意性
+ *
+ * 新规要点：
+ *  1. 多平台合并：榜位/热度采用「最高平台标准分×70% + 各平台标准分均值×30%」
+ *  2. 时长缺失 → duration_unknown 标记，不按0处理
+ *  3. 维度缺失 → 最终热度值按其他有效维度权重重新归一化 + 输出数据完整度
+ *  4. 分级：S≥85 / A=70-84.9 / B=55-69.9 / <55 删除（不进watchlist）
+ *  5. S 级去掉名额上限，完全按分数（≥85 即 S）
+ *  6. S 级附加条件为必要条件（多平台高位 / 单平台TOP3且前5% / 可核验持续高位）
+ *  7. radar.json 保留所有 S/A/B，dashboard 只渲染前6张卡片
+ */
+import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
+const input = JSON.parse(await readFile(join(ROOT, "data/processed/candidates.json"), "utf8"));
+
+// 与 config/hotspot-rules.json 一致的四类硬性排除语义复核（此处为分析层二次复核）
+const RISK_KEYWORDS = /死亡|遇难|伤亡|坠亡|自杀|杀人|强奸|猥亵|诈骗|被捕|刑拘|被查|违法|事故|爆炸|火灾|地震|洪水|灾情|塌方|泥石流|救援|失联|溺水|战争|军事冲突|围剿|网暴|仇富|地域歧视|两性对立|民粹|虐待|虐狗|爱狗|中美|台湾|领导人|国家主席|敏感/;
+
+const clamp = (value, min = 0, max = 100) => Math.max(min, Math.min(max, value));
+const round = (value) => Math.round(value * 10) / 10;
+
+// 同平台热度标准化：微博、抖音、小红书各自归一化到 0-100，不做跨平台横向相加
+function normalizeHot(platform, hot) {
+  if (hot == null) return null;
+  const n = Number(hot);
+  // 微博热搜热度通常 50~500 万；抖音热榜通常 10~10000；小红书热度差异较大
+  const cap = { weibo: 2000000, douyin: 20000, xhs: 200000, xiaohongshu: 200000 }[platform] || 2000000;
+  return clamp((n / cap) * 100);
+}
+
+// 峰值榜位得分：榜位越小得分越高
+function rankScore(bestRank) {
+  if (!bestRank) return null; // 缺失
+  if (bestRank <= 3) return 100;
+  if (bestRank <= 5) return 92;
+  if (bestRank <= 10) return 80;
+  if (bestRank <= 20) return 64;
+  if (bestRank <= 30) return 50;
+  return 40;
+}
+
+// 在榜时长得分：优先时光热搜；无可靠时长→缺失（不按0处理）
+function durationScore(durationMin) {
+  if (durationMin == null) return null; // 标记缺失
+  const d = Number(durationMin);
+  if (d >= 180) return 100;
+  if (d >= 120) return 90;
+  if (d >= 60) return 80;
+  if (d >= 30) return 65;
+  if (d >= 10) return 50;
+  return 30;
+}
+
+// 跨平台得分：同平台多个话题只算一个平台
+function crossPlatformScore(platformCount) {
+  if (platformCount >= 3) return 100;
+  if (platformCount === 2) return 75;
+  if (platformCount === 1) return 45;
+  return 0;
+}
+
+// ---- S 级附加条件（必要条件）判定 ----
+// 满足以下之一即达标：
+//  ① 多平台高位：>=2 平台且各平台排名均 <=10
+//  ② 单平台 TOP3 且热度位于平台前5%（该平台 hot 标准分 >=95）
+//  ③ 可核验持续高位：bestDurationMin>=120 且 rank<=10
+function sQualified(candidate, bestRank, platformCount, hotScores, duration) {
+  const ranks = candidate.platforms.map((p) => p.rank || 99);
+  // 条件1：多平台高位
+  if (platformCount >= 2 && ranks.every((r) => r <= 10)) return true;
+  // 条件2：单平台 TOP3 且热度位于平台前5%
+  const topPlatform = candidate.platforms.find((p) => (p.rank || 99) <= 3);
+  if (topPlatform) {
+    const hs = normalizeHot(topPlatform.platform, topPlatform.hot);
+    if (hs != null && hs >= 95) return true; // 前5%
+  }
+  // 条件3：可核验持续高位（在榜时长可核验且较长，且排名靠前）
+  const dur = Number(duration);
+  if (!Number.isNaN(dur) && durationScore(dur) != null && dur >= 120 && bestRank <= 10) return true;
+  return false;
+}
+
+function assess(candidate) {
+  const platforms = candidate.platforms || [];
+  const platformCount = new Set(platforms.map((p) => p.platform)).size;
+
+  // 各平台标准化热度分
+  const hotScores = platforms.map((p) => normalizeHot(p.platform, p.hot)).filter((v) => v != null);
+
+  // ---- 多平台合并：最高分×70% + 均值×30%（若仅单平台，则用该平台分）----
+  // 榜位
+  const rankVals = platforms.map((p) => rankScore(p.rank)).filter((v) => v != null);
+  const rankBest = rankVals.length ? Math.max(...rankVals) : null;
+  const rankMean = rankVals.length ? rankVals.reduce((s, v) => s + v, 0) / rankVals.length : null;
+  const sRank = rankBest != null && rankMean != null ? rankBest * 0.7 + rankMean * 0.3 : rankBest ?? rankMean;
+
+  // 热度
+  const hotBest = hotScores.length ? Math.max(...hotScores) : null;
+  const hotMean = hotScores.length ? hotScores.reduce((s, v) => s + v, 0) / hotScores.length : null;
+  const sHot = hotBest != null && hotMean != null ? hotBest * 0.7 + hotMean * 0.3 : hotBest ?? hotMean;
+
+  // 在榜时长
+  const duration = candidate.bestDurationMin ?? candidate.durationMin ?? null;
+  const sDur = durationScore(duration); // null = 缺失
+
+  // 跨平台
+  const sCross = crossPlatformScore(platformCount);
+
+  // 数据完整度：参与评分且有效的维度数 / 4
+  const presentDims = [sRank, sHot, sDur, sCross].filter((v) => v != null).length;
+  const completeness = round(presentDims / 4 * 100);
+
+  // ---- 维度缺失 → 按有效维度权重重新归一化 ----
+  // 基准权重：rank 35 / hot 20 / duration 25 / cross 20
+  const W = { rank: 0.35, hot: 0.20, duration: 0.25, cross: 0.20 };
+  const dims = [
+    { v: sRank, w: W.rank },
+    { v: sHot, w: W.hot },
+    { v: sDur, w: W.duration },
+    { v: sCross, w: W.cross }
+  ];
+  const valid = dims.filter((d) => d.v != null);
+  const sumW = valid.reduce((s, d) => s + d.w, 0);
+  const totalScore = sumW > 0 ? round(valid.reduce((s, d) => s + d.v * d.w, 0) / sumW) : 0;
+  // 归一化到 0-100
+  const normalizedScore = sumW > 0 ? clamp(round(totalScore)) : 0;
+
+  // 峰值榜位（用于展示）
+  const bestRank = Math.min(...platforms.map((p) => p.rank || 99));
+
+  // 基础分级（完全按分数）
+  const baseLevel = normalizedScore >= 85 ? "S" : normalizedScore >= 70 ? "A" : normalizedScore >= 55 ? "B" : "PREVIEW";
+
+  // ---- S 级附加条件（必要条件）：不满足则降级 ----
+  let level = baseLevel;
+  if (baseLevel === "S") {
+    const sQual = sQualified(candidate, bestRank, platformCount, hotScores, duration);
+    if (!sQual) {
+      level = normalizedScore >= 70 ? "A" : normalizedScore >= 55 ? "B" : "D";
+      // 记录降级原因
+    }
+  }
+
+  // 是否被降级（S→A/B）
+  const sDowngraded = baseLevel === "S" && level !== "S";
+  const sDowngradeNote = sDowngraded
+    ? `分数≥85但未满足S级必要条件（多平台高位/单平台TOP3前5%/可核验持续高位），降为${level}`
+    : undefined;
+
+  // 时长缺失标记
+  const durationUnknown = duration == null;
+
+  // 风险与业务相关性：只影响 riskNote，不改等级
+  const isPublicService = /台风|暴雨|高温|降温|寒潮|大风|天气|预警/.test(candidate.title);
+  const riskLevel = isPublicService ? "medium" : "low";
+  const riskNote = isPublicService
+    ? "公共信息服务事件：只允许权威信息、履约调整与民生保障提醒，不做娱乐化表达。"
+    : "低风险，发布前复核事实、版权与品牌语境。";
+
+  return {
+    ...candidate,
+    peakRank: bestRank,
+    platformCount,
+    subScores: {
+      rank: sRank != null ? round(sRank) : null,
+      hot: sHot != null ? round(sHot) : null,
+      duration: sDur != null ? sDur : null,
+      cross: sCross
+    },
+    dataCompleteness: completeness,
+    totalScore: normalizedScore,
+    level,
+    ...(sDowngradeNote ? { levelNote: sDowngradeNote } : {}),
+    durationUnknown,
+    riskLevel,
+    riskNote,
+    eventSummary: candidate.title,
+    propagation: candidate.propagation || (durationUnknown ? "当前数据源暂不可用（时长缺失）" : "当前数据源暂不可用"),
+    businessNote: isPublicService
+      ? "仅做权威信息服务与履约保障，不商业化表达。"
+      : "是否生成业务建议由 AI 层依据真实连接点判断。"
+  };
+}
+
+const decisions = input.candidates.map(assess).sort((a, b) => b.totalScore - a.totalScore);
+
+// ---- 分级最终判定 ----
+for (const d of decisions) {
+  // 已在 assess 中计算 level，此处只做最终确认（S 附加条件已处理）
+  d.level = d.totalScore >= 85
+    ? "S"
+    : d.totalScore >= 70 ? "A" : d.totalScore >= 55 ? "B" : "D";
+  // 处理 D 级（<55）删除：不进 watchlist，不展示
+}
+
+// 四类硬排除：直接删除，不进入正式展示
+// （RISK_KEYWORDS 匹配到则丢弃，无论分数高低）
+const excluded = decisions.filter((d) => RISK_KEYWORDS.test(d.title));
+const kept = decisions.filter((d) => !RISK_KEYWORDS.test(d.title));
+
+// 正式热点：只保留 S/A/B，<55(D级)删除
+const hotspots = kept.filter((d) => d.level === "S" || d.level === "A" || d.level === "B");
+
+// 注意：radar.json 保留所有 S/A/B，dashboard 渲染层负责只取前 6 张卡片
+
+const radar = {
+  schemaVersion: 3,
+  generatedAt: new Date().toISOString(),
+  date: input.date,
+  sourceGeneratedAt: input.sourceGeneratedAt,
+  provider: "objective-heat",
+  model: "auditable-heat-v3",
+  summary: {
+    analyzed: decisions.length,
+    excluded: excluded.length,
+    S: hotspots.filter((d) => d.level === "S").length,
+    A: hotspots.filter((d) => d.level === "A").length,
+    B: hotspots.filter((d) => d.level === "B").length,
+    hotspots: hotspots.length
+  },
+  hotspots
+};
+
+const targets = [join(ROOT, "public/data/radar.json"), join(ROOT, `public/data/history/${input.date}-radar.json`)];
+for (const target of targets) {
+  await mkdir(dirname(target), { recursive: true });
+  await writeFile(target, JSON.stringify(radar, null, 2) + "\n", "utf8");
+}
+console.log(`热度分级完成：S=${radar.summary.S} A=${radar.summary.A} B=${radar.summary.B} 展示=${radar.summary.hotspots} 排除=${radar.summary.excluded}`);

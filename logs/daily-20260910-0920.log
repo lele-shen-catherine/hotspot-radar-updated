@@ -1,0 +1,163 @@
+=== 开始每日更新 2026-09-10 09:20 ===
+--- 全流程(含AI深度分析+质量门禁+部署) ---
+========================================
+  热点雷达 每日全流程  2026/9/10 09:20:32
+  deploy=true  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-10 09:20
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，50 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/webwide-0920.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/weibo-0920.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/douyin-0920.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-10/xhs-0920.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：89 个候选，0 个待语义复核（四类硬性排除）
+[analyze] 已写入 radar.json: 6 席
+======== 热点雷达 · 固定6席分级 ========  2026-09-10
+
+【S】 知微 知微Top1 · 苹果推出首款折叠屏iPhone Duo  总分=87.8
+  榜位分=90/100(35%) 热度分=95/100(20%) 趋势分=85(25%) 共振分=80(20%)
+  趋势: 持续高位(第1名, 在榜9小时)
+  禁区: 无
+
+【A】 知微 知微Top2 · 4岁男童被指摸臀事件完整监控曝光  总分=79
+  榜位分=80/100(35%) 热度分=85/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 3→2, 在榜11小时
+  禁区: 无
+
+【A】 知微 知微Top3 · 郑钦文逆转晋级美网16强  总分=69.8
+  榜位分=70/100(35%) 热度分=75/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 持续高位(第3名, 在榜11小时)
+  禁区: 无
+
+【A】 知微 知微Top4 · 小米2026年秋季旗舰新品发布会  总分=68
+  榜位分=60/100(35%) 热度分=65/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 6→4, 在榜11小时
+  禁区: 无
+
+【S】 抖音 抖音Top1 · 郑钦文止步美网八强  总分=84.3
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 抖音标记'爆'
+  禁区: 无
+
+【S】 微博 微博Top1 · iPhone18Pro价格  总分=85.1
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=60(25%) 共振分=80(20%)
+  趋势: 微博单次快照无在榜时长(按60)
+  禁区: 无
+
+
+━━━ [2.AI深度分析] ━━━
+[ai] 已生成 6 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+[ai] 自检通过：全部字段为 AI 深度内容（非爬虫原文/占位/雷同）
+
+
+━━━ [3.修补radar(注入AI字段)] ━━━
+✅ 已用 AI 深度分析修补 radar.json: 6 条注入, 0 条缺失
+
+
+━━━ [4.合成业务建议+玩梗模板] ━━━
+[gen] 从 radar.json 读取热点数: 6
+[gen] AI 分析匹配: 6/6
+[gen] 固定6席生效： 6 → 6 （保留固定席位顺序）
+[gen] 玩梗热点: 0 条
+[gen] 业务建议: 6 条
+[gen] ✅ 已注入 businessForDash 到 dashboard.html
+[gen] 完成：事件数 6 meme 0 业务建议 6
+[gen] 输出： /root/.joyclaw/workspace/hotspot-radar-updated/public/data
+
+[门禁] 6 条热点 × 3 字段 + business 非空，热度榜 6 条有效。
+
+━━━ [5.注入dashboard] ━━━
+✅ dashboard.html 已注入 2026-09-10 数据 (radar=6 hotspots, advice=6)
+
+
+━━━ [6.模板校验] ━━━
+
+> hotspot-radar@1.0.0 validate
+> node scripts/validate-template.mjs
+
+Hotspot radar template validation passed.
+
+
+━━ 部署到 Netlify v2 (hotspot-radar-kaikai-v2) ━━
+
+━━━ [7.部署] ━━━
+​
+Netlify Build                                                 
+────────────────────────────────────────────────────────────────
+​
+❯ Version
+  @netlify/build 36.4.8
+​
+❯ Flags
+  accountId: 6a4ce7c89457a75fa84581f0
+  deployId: 6aa205ef98bd24a39f875a0c
+​
+❯ Current directory
+  /root/.joyclaw/workspace/hotspot-radar-updated
+​
+❯ Config file
+  /root/.joyclaw/workspace/hotspot-radar-updated/netlify.toml
+​
+❯ Context
+  production
+
+Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+[32mDeploy path: [39m       /root/.joyclaw/workspace/hotspot-radar-updated/public
+[32mConfiguration path: [39m/root/.joyclaw/workspace/hotspot-radar-updated/netlify.toml
+
+​
+Netlify Build Complete                                        
+────────────────────────────────────────────────────────────────
+​
+(Netlify Build completed in 6s)
+
+🚀 Deploy complete
+────────────────────────────────────────────────────────────────
+
+Production URL: <https://hotspot-radar-kaikai-v2.netlify.app>
+Unique deploy URL: <https://6aa205ef98bd24a39f875a0c--hotspot-radar-kaikai-v2.netlify.app>
+
+Build logs: <https://app.netlify.com/projects/hotspot-radar-kaikai-v2/deploys/6aa205ef98bd24a39f875a0c>
+Function logs: <https://app.netlify.com/projects/hotspot-radar-kaikai-v2/logs/functions>
+Edge function logs: <https://app.netlify.com/projects/hotspot-radar-kaikai-v2/logs/edge-functions>
+
+
+✅ 每日全流程完成。
+产物:
+  radar.json        → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/radar.json
+  ai-analysis.json  → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+  dashboard.html    → /root/.joyclaw/workspace/hotspot-radar-updated/public/dashboard.html
+
+=== ✅ 每日更新完成 2026-09-10 09:20 ===
+正式站点: https://hotspot-radar-kaikai-v2.netlify.app

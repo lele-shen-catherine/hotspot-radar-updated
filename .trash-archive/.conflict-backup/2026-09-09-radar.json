@@ -1,0 +1,1239 @@
+{
+  "schemaVersion": 3,
+  "generatedAt": "2026-09-09T07:00:03.155Z",
+  "date": "2026-09-09",
+  "sourceGeneratedAt": "2026-09-09T15:00:02.186Z",
+  "provider": "objective-heat",
+  "model": "auditable-heat-v3",
+  "summary": {
+    "analyzed": 77,
+    "excluded": 1,
+    "S": 3,
+    "A": 8,
+    "B": 26,
+    "hotspots": 37
+  },
+  "hotspots": [
+    {
+      "id": "douyin-1-皇马21击败国米",
+      "title": "皇马2:1击败国米",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 1,
+          "hot": 12124669,
+          "url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC2%3A1%E5%87%BB%E8%B4%A5%E5%9B%BD%E7%B1%B3",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 1,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 100,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 85.3,
+      "level": "S",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "皇马2:1击败国米",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-1-梅姨在广州摆摊卖切块芒果",
+      "title": "梅姨在广州摆摊卖切块芒果",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 1,
+          "hot": 1308228,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%9C%A8%E5%B9%BF%E5%B7%9E%E6%91%86%E6%91%8A%E5%8D%96%E5%88%87%E5%9D%97%E8%8A%92%E6%9E%9C%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 1,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 100,
+        "hot": 65.4,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 76.1,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "梅姨在广州摆摊卖切块芒果",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-2-燕麦系秋天的神",
+      "title": "燕麦系秋天的神",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 2,
+          "hot": 12050170,
+          "url": "https://www.douyin.com/search/%E7%87%95%E9%BA%A6%E7%B3%BB%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%A5%9E",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 2,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 100,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 85.3,
+      "level": "S",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "燕麦系秋天的神",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-2-iphoneduo售价",
+      "title": "iPhone Duo售价",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 2,
+          "hot": 1042738,
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%20Duo%E5%94%AE%E4%BB%B7%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 2,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 100,
+        "hot": 52.1,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 72.6,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "iPhone Duo售价",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-3-青春华章",
+      "title": "青春华章",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 3,
+          "hot": 11510678,
+          "url": "https://www.douyin.com/search/%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 3,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 100,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 85.3,
+      "level": "S",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "青春华章",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-11-ig30战胜lgd",
+      "title": "IG 3:0战胜LGD",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 11,
+          "hot": 8648207,
+          "url": "https://www.douyin.com/search/IG%203%3A0%E6%88%98%E8%83%9CLGD",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 11,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "IG 3:0战胜LGD",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-3-服贸会今日开幕",
+      "title": "服贸会今日开幕",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 3,
+          "hot": 718606,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 3,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 100,
+        "hot": 35.9,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.2,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "服贸会今日开幕",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-4-写给老师的教师节贺卡",
+      "title": "写给老师的教师节贺卡",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 4,
+          "hot": 11127129,
+          "url": "https://www.douyin.com/search/%E5%86%99%E7%BB%99%E8%80%81%E5%B8%88%E7%9A%84%E6%95%99%E5%B8%88%E8%8A%82%E8%B4%BA%E5%8D%A1",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 4,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 92,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 81.6,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "写给老师的教师节贺卡",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-8-毛泽东逝世50周年",
+      "title": "毛泽东逝世50周年",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 8,
+          "hot": 9130180,
+          "url": "https://www.douyin.com/search/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%9D%E4%B8%9650%E5%91%A8%E5%B9%B4",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 8,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 76,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "毛泽东逝世50周年",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-9-今日人设是可可美人",
+      "title": "今日人设是可可美人",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 9,
+          "hot": 9118457,
+          "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E4%BA%BA%E8%AE%BE%E6%98%AF%E5%8F%AF%E5%8F%AF%E7%BE%8E%E4%BA%BA",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 9,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 76,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "今日人设是可可美人",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-4-科颜氏蔡徐坤",
+      "title": "科颜氏蔡徐坤",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 4,
+          "hot": 711197,
+          "url": "",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 4,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 92,
+        "hot": 35.6,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 64.4,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "科颜氏蔡徐坤",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-5-司美格鲁肽背后的女人",
+      "title": "司美格鲁肽背后的女人",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 5,
+          "hot": 695451,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E8%83%8C%E5%90%8E%E7%9A%84%E5%A5%B3%E4%BA%BA%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 5,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 92,
+        "hot": 34.8,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 64.2,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "司美格鲁肽背后的女人",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-6-金球奖30人候选名单公布",
+      "title": "金球奖30人候选名单公布",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 6,
+          "hot": 10529158,
+          "url": "https://www.douyin.com/search/%E9%87%91%E7%90%83%E5%A5%9630%E4%BA%BA%E5%80%99%E9%80%89%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 6,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 76,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "金球奖30人候选名单公布",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-10-郑钦文今晚对阵莱巴金娜",
+      "title": "郑钦文今晚对阵莱巴金娜",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 10,
+          "hot": 9093041,
+          "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8A%E6%99%9A%E5%AF%B9%E9%98%B5%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 10,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 76,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "郑钦文今晚对阵莱巴金娜",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-6-早春晴朗大结局",
+      "title": "早春晴朗大结局",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 6,
+          "hot": 633275,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%A4%A7%E7%BB%93%E5%B1%80%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 6,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 31.7,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 57.8,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "早春晴朗大结局",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-7-龙版传媒停牌核查",
+      "title": "龙版传媒停牌核查",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 7,
+          "hot": 9309301,
+          "url": "https://www.douyin.com/search/%E9%BE%99%E7%89%88%E4%BC%A0%E5%AA%92%E5%81%9C%E7%89%8C%E6%A0%B8%E6%9F%A5",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 7,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 76,
+      "level": "A",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "龙版传媒停牌核查",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-7-iphoneduo",
+      "title": "iPhone Duo",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 7,
+          "hot": 616545,
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%20Duo%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 7,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 30.8,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 57.6,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "iPhone Duo",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-8-张靓颖被网友当工具人",
+      "title": "张靓颖被网友当工具人",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 8,
+          "hot": 609438,
+          "url": "",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 8,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 30.5,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 57.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "张靓颖被网友当工具人",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-14-我的世界出现一位姑娘",
+      "title": "我的世界出现一位姑娘",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 14,
+          "hot": 8177501,
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%87%BA%E7%8E%B0%E4%B8%80%E4%BD%8D%E5%A7%91%E5%A8%98",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 14,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "我的世界出现一位姑娘",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-9-苹果折叠屏iphoneduo",
+      "title": "苹果折叠屏 iPhone Duo",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 9,
+          "hot": 606535,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%20iPhone%20Duo%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 9,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 30.3,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 57.4,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "苹果折叠屏 iPhone Duo",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "weibo-10-女孩去邻居家吃饭惨遭夫妻分尸",
+      "title": "女孩去邻居家吃饭惨遭夫妻分尸",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 10,
+          "hot": 535672,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8E%BB%E9%82%BB%E5%B1%85%E5%AE%B6%E5%90%83%E9%A5%AD%E6%83%A8%E9%81%AD%E5%A4%AB%E5%A6%BB%E5%88%86%E5%B0%B8%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 10,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 80,
+        "hot": 26.8,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 56.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "女孩去邻居家吃饭惨遭夫妻分尸",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-15-兰香如故所有人都在尽全力活着",
+      "title": "兰香如故所有人都在尽全力活着",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 15,
+          "hot": 7945937,
+          "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E5%B0%BD%E5%85%A8%E5%8A%9B%E6%B4%BB%E7%9D%80",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 15,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "兰香如故所有人都在尽全力活着",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-16-觉醒吧我的厨艺天赋",
+      "title": "觉醒吧我的厨艺天赋",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 16,
+          "hot": 7943904,
+          "url": "https://www.douyin.com/search/%E8%A7%89%E9%86%92%E5%90%A7%E6%88%91%E7%9A%84%E5%8E%A8%E8%89%BA%E5%A4%A9%E8%B5%8B",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 16,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "觉醒吧我的厨艺天赋",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-19-国足公布新一期集训名单",
+      "title": "国足公布新一期集训名单",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 19,
+          "hot": 7751640,
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%85%AC%E5%B8%83%E6%96%B0%E4%B8%80%E6%9C%9F%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 19,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "国足公布新一期集训名单",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-28-人类幼崽版格格有多可爱",
+      "title": "人类幼崽版格格有多可爱",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 28,
+          "hot": 7664470,
+          "url": "https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%89%88%E6%A0%BC%E6%A0%BC%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 28,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "人类幼崽版格格有多可爱",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-18-妙鼻生花好浪漫",
+      "title": "妙鼻生花好浪漫",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 18,
+          "hot": 7755496,
+          "url": "https://www.douyin.com/search/%E5%A6%99%E9%BC%BB%E7%94%9F%E8%8A%B1%E5%A5%BD%E6%B5%AA%E6%BC%AB",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 18,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "妙鼻生花好浪漫",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-26-陈赫澄清腰伤不影响工作",
+      "title": "陈赫澄清腰伤不影响工作",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 26,
+          "hot": 7673225,
+          "url": "https://www.douyin.com/search/%E9%99%88%E8%B5%AB%E6%BE%84%E6%B8%85%E8%85%B0%E4%BC%A4%E4%B8%8D%E5%BD%B1%E5%93%8D%E5%B7%A5%E4%BD%9C",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 26,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "陈赫澄清腰伤不影响工作",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-30-专家解读韬定律逻辑折叠芯片",
+      "title": "专家解读韬定律逻辑折叠芯片",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 30,
+          "hot": 7661605,
+          "url": "https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E9%9F%AC%E5%AE%9A%E5%BE%8B%E9%80%BB%E8%BE%91%E6%8A%98%E5%8F%A0%E8%8A%AF%E7%89%87",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 30,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "专家解读韬定律逻辑折叠芯片",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-17-被自己的戏曲扮相惊艳到了",
+      "title": "被自己的戏曲扮相惊艳到了",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 17,
+          "hot": 7827942,
+          "url": "https://www.douyin.com/search/%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E6%88%8F%E6%9B%B2%E6%89%AE%E7%9B%B8%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 17,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "被自己的戏曲扮相惊艳到了",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-20-鼎叔魔性化妆模仿挑战",
+      "title": "鼎叔魔性化妆模仿挑战",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 20,
+          "hot": 7744182,
+          "url": "https://www.douyin.com/search/%E9%BC%8E%E5%8F%94%E9%AD%94%E6%80%A7%E5%8C%96%E5%A6%86%E6%A8%A1%E4%BB%BF%E6%8C%91%E6%88%98",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 20,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 64,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 68.5,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "鼎叔魔性化妆模仿挑战",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-23-人在异乡胃在故乡",
+      "title": "人在异乡胃在故乡",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 23,
+          "hot": 7686380,
+          "url": "https://www.douyin.com/search/%E4%BA%BA%E5%9C%A8%E5%BC%82%E4%B9%A1%E8%83%83%E5%9C%A8%E6%95%85%E4%B9%A1",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 23,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "人在异乡胃在故乡",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-24-交锋女大学生掉入间谍骗局",
+      "title": "交锋女大学生掉入间谍骗局",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 24,
+          "hot": 7679495,
+          "url": "https://www.douyin.com/search/%E4%BA%A4%E9%94%8B%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8E%89%E5%85%A5%E9%97%B4%E8%B0%8D%E9%AA%97%E5%B1%80",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 24,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "交锋女大学生掉入间谍骗局",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-25-白鹿穿燕麦系小跳一下",
+      "title": "白鹿穿燕麦系小跳一下",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 25,
+          "hot": 7678294,
+          "url": "https://www.douyin.com/search/%E7%99%BD%E9%B9%BF%E7%A9%BF%E7%87%95%E9%BA%A6%E7%B3%BB%E5%B0%8F%E8%B7%B3%E4%B8%80%E4%B8%8B",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 25,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "白鹿穿燕麦系小跳一下",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-27-官俊臣重庆大学开学报到",
+      "title": "官俊臣重庆大学开学报到",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 27,
+          "hot": 7669931,
+          "url": "https://www.douyin.com/search/%E5%AE%98%E4%BF%8A%E8%87%A3%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%AD%A6%E6%8A%A5%E5%88%B0",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 27,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "官俊臣重庆大学开学报到",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-29-张元富获食神百厨大战总冠军",
+      "title": "张元富获食神百厨大战总冠军",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 29,
+          "hot": 7664093,
+          "url": "https://www.douyin.com/search/%E5%BC%A0%E5%85%83%E5%AF%8C%E8%8E%B7%E9%A3%9F%E7%A5%9E%E7%99%BE%E5%8E%A8%E5%A4%A7%E6%88%98%E6%80%BB%E5%86%A0%E5%86%9B",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 29,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "张元富获食神百厨大战总冠军",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-22-华屋村的十七棵松与长征精神",
+      "title": "华屋村的十七棵松与长征精神",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 22,
+          "hot": 7698348,
+          "url": "https://www.douyin.com/search/%E5%8D%8E%E5%B1%8B%E6%9D%91%E7%9A%84%E5%8D%81%E4%B8%83%E6%A3%B5%E6%9D%BE%E4%B8%8E%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 22,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "华屋村的十七棵松与长征精神",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    },
+    {
+      "id": "douyin-21-解析苹果华为小米折叠屏三国杀",
+      "title": "解析苹果华为小米折叠屏三国杀",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 21,
+          "hot": 7712548,
+          "url": "https://www.douyin.com/search/%E8%A7%A3%E6%9E%90%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%B8%89%E5%9B%BD%E6%9D%80",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ],
+      "peakRank": 21,
+      "platformCount": 1,
+      "subScores": {
+        "rank": 50,
+        "hot": 100,
+        "duration": null,
+        "cross": 45
+      },
+      "dataCompleteness": 75,
+      "totalScore": 62,
+      "level": "B",
+      "durationUnknown": true,
+      "riskLevel": "low",
+      "riskNote": "低风险，发布前复核事实、版权与品牌语境。",
+      "eventSummary": "解析苹果华为小米折叠屏三国杀",
+      "propagation": "当前数据源暂不可用（时长缺失）",
+      "businessNote": "是否生成业务建议由 AI 层依据真实连接点判断。"
+    }
+  ]
+}
