@@ -74,7 +74,7 @@ const WHY_LIB = [
   { keys:[/跳楼|坠楼|自杀|轻生|身亡|悲剧|伤亡|遇难|调查/i], txt:'<b>突发悲剧引发公共关切与对事件真相的追问</b>；警方/官方介入调查后，公众对"起因与责任"的讨论与对当事人的关切构成热度主体，情绪黏性高。' },
 ];
 function whyHot(title){
-  for(const kw of WHY_LIB){ if (kw.keys.some(re=>re.test(title))) return kw.txt; }
+  for(const kw of WHY_LIB){ if (kw.keys.some(re=>re.test(title))) return kw.txt.replace(/<\/?b>/g,''); }
   // 兜底：避免"因高关注度/高时效"套话，给出按标题主体的传播动力叙事
   const n = (title.trim()||'该事件').replace(/<[^>]+>/g,'').slice(0, 40);
   return `<b>「${n}」进入平台热榜后，其话题自带的事件性/情绪性/实用性引发用户讨论与二次传播，推动热度持续。</b>；需结合后续进展动态观察热度走向。`;
@@ -100,16 +100,17 @@ function explanation(title, p0){
   else if(/香山论坛|论坛|启幕/.test(title)) body = `论坛于9月15日开幕，多国代表围绕国际安全议题展开对话交流。`;
   else if(/赵家驹|巨人|夺冠|破纪录/.test(title)) body = `越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。`;
   else body = `${title} 事件最新进展受到全网关注，各方就事件经过与影响持续讨论。`;
-  return `${title}：${body}`;
+  // 规则2：事件解释不复制标题，只输出纯叙事的前因后果（谁干了什么→为什么→怎么样了）
+  return body;
 }
 
 // ---------- 本地生活业务建议：按热点领域生成真实连接点 ----------
 // ---------- 本地生活业务建议：以业务为核心，按热点话题给各业务真实连接点 ----------
 function businessFor(title, hotspot){
   const B = {
-    // 某业务可借势的连接点
-    mk: (name, connection, action, risk='中低风险', evidence='小范围测试后放量') => ({ business:name, connection, action, evidence, risk }),
-    skip: (name, why) => ({ business:name, connection:why, action:'仅观察不借势', evidence:'仅观察', risk:'高风险' }),
+    // 规则3：connection 先写明"借哪个热点"，再给借势逻辑（借「{title}」→具体连接点）
+    mk: (name, connection, action, risk='中低风险', evidence='小范围测试后放量') => ({ business:name, connection:`借「${title}」：${connection}`, action, evidence, risk }),
+    skip: (name, why) => ({ business:name, connection:`「${title}」${why}`, action:'仅观察不借势', evidence:'仅观察', risk:'高风险' }),
   };
 
   // 苹果折叠屏 / 发布会 —— 科技消费新品，多业务有借势点
@@ -282,10 +283,10 @@ function bizTag(title){
   return Object.keys(T).filter(k => T[k].test(title));
 }
 function buildBusinessAdvice(hotspots){
-  // 汇总当日热点主题标签（去重）
-  const tags = new Set();
-  for (const h of hotspots){ bizTag(h.title).forEach(t => tags.add(t)); }
-  const T = [...tags];
+  // 当日热点标题（用于「先写明借哪个热点」的引用，去重保序）
+  const titles = [];
+  for (const h of hotspots){ if(!titles.includes(h.title)) titles.push(h.title); }
+  const T = titles;
 
   // 从热点标题提炼「季节/节点/情绪信号」
   const seasonText = [];
@@ -305,11 +306,11 @@ function buildBusinessAdvice(hotspots){
     '京东外卖': {
       action: mealHot
         ? `围绕「${mealHot.title}」的强关联餐饮场景，搭建可履约的外卖聚合页，展示真实商家、套餐价格与预计送达时间；${sportHot ? '结合观赛话题做庆祝餐/夜宵组合；' : ''}${weatherHot ? '台风/暴雨影响地区按安全条件动态调整配送范围并实时更新。' : '基于当日消费情绪设计轻量尝鲜主题。'}`
-        : `围绕当日热点（${T.length?T.slice(0,3).join('、'):'多话题'}）设计可履约的外卖场景，突出真实商家、价格与送达时效，${weatherHot?'台风影响地区按安全条件调整配送范围。':''}`,
+        : `围绕当日可借热点（${T.length?T.slice(0,3).map(t=>`借「${t}」`).join('、'):'多话题'}）设计可履约的外卖场景，突出真实商家、价格与送达时效，${weatherHot?'台风影响地区按安全条件调整配送范围。':''}`,
       comms: `用"想吃就点""赢球一起庆祝一下""入秋第一顿"连接真实餐饮场景，优惠、库存与配送承诺必须可兑现，不擅自使用赛事标识或公众人物形象。${tributeHot?'对逝者类事件不做任何借势营销。':''}`,
     },
     '京东秒送（即时零售）': {
-      action: `${seasonText.join('、')||'即时生活'}场景下，承接零食饮料、家庭庆祝用品及应急物资的即时需求；${weatherHot?'台风影响地区优先提供饮用水、防雨用品、应急照明等必要物资，并实时更新可售库存与送达时间。':'突出"即买即送"的极速履约动线。'}`,
+      action: `借「${T.length?T.slice(0,3).join('、'):'当日热点'}」${seasonText.join('、')||'即时生活'}场景，承接零食饮料、家庭庆祝用品及应急物资的即时需求；${weatherHot?'台风影响地区优先提供饮用水、防雨用品、应急照明等必要物资，并实时更新可售库存与送达时间。':'突出"即买即送"的极速履约动线。'}`,
       comms: `日常场景用"有事没事犒劳一下"展示真实到家组合；${weatherHot?'天气内容只发布权威预警、服务范围与履约变化，不用灾情制造消费焦虑。':'不夸大送达时效、不做虚假承诺。'}${tributeHot?'对逝者事件不做营销。':''}`,
     },
     '京东家政': {
@@ -317,15 +318,15 @@ function buildBusinessAdvice(hotspots){
       comms: `以"给生活做一次整理""干干净净过季"为主题展示标准流程、人员资质与价格边界；公共安全事件中只做服务通知，不做抢热点营销。`,
     },
     '七鲜小厨': {
-      action: mealHot? `围绕「${mealHot.title}」设计可落地餐品组合（双人餐/家庭餐/限时加菜），明确门店、菜品、价格、适用人数与库存；${sportHot?'结合观赛配餐做"看球夜宵"场景。':''}` : `结合当日${T.join('、')}场景设计真餐品，明确门店、菜品、价格与可用时段。`,
+      action: mealHot? `围绕「${mealHot.title}」设计可落地餐品组合（双人餐/家庭餐/限时加菜），明确门店、菜品、价格、适用人数与库存；${sportHot?'结合观赛配餐做"看球夜宵"场景。':''}` : `结合当日可借热点（${T.length?T.slice(0,3).map(t=>`借「${t}」`).join('、'):'多话题'}）场景设计真餐品，明确门店、菜品、价格与可用时段。`,
       comms: `用"今天值得好好吃一顿"记录真实出餐与分享场景；不使用受保护的赛事素材，重点呈现菜品分量、口味与可用时段。`,
     },
     '七鲜咖啡': {
-      action: sportHot? `围绕观赛夜做"熬夜提神咖啡"轻量场景，用真实门店优惠或新品试饮承接；无可兑现活动时保持常规运营。` : `今日若无咖啡直接相关热点，可将轻量仪式感用于已有门店优惠或真实新品试饮；无可兑现活动时保持常规运营。`,
+      action: sportHot? `借「${sportHot.title}」做观赛/熬夜提神咖啡轻量场景，用真实门店优惠或新品试饮承接；无可兑现活动时保持常规运营。` : `今日若无咖啡直接相关热点，可借「${T.length?T.slice(0,3).join('、'):'当日热点'}」的轻量仪式感用于已有门店优惠或真实新品试饮；无可兑现活动时保持常规运营。`,
       comms: `传播只说真实门店活动、产品风味与可用时段，用日常小事表达轻量仪式感；不强行关联赛事权益或公共安全话题。`,
     },
     '京东旅行': {
-      action: weatherHot? `台风影响区域优先展示航班、铁路、景区开放与退改政策，必要时暂停相关目的地促销；非受影响区域可承接${seasonText.includes('暑假收尾')?'暑假收尾':'换季'}的短途出行需求。`: `承接当日出行需求，明确真实余位与退改条件。`,
+      action: weatherHot? `台风影响区域优先展示航班、铁路、景区开放与退改政策，必要时暂停相关目的地促销；非受影响区域可承接${seasonText.includes('暑假收尾')?'暑假收尾':'换季'}的短途出行需求。`: `借「${T.length?T.slice(0,3).join('、'):'当日热点'}」带动的生活出行需求，明确真实余位与退改条件。`,
       comms: `传播重点是"安心调整行程"和权威信息入口，天气/交通结论链接官方来源；不制造"最后机会"焦虑。`,
     },
     '七鲜美食MALL': {
@@ -333,7 +334,7 @@ function buildBusinessAdvice(hotspots){
       comms: `用"来 MALL 好好吃一顿"呈现真实餐饮路线与用户聚会体验；不使用未授权赛事素材，所有活动时间、商户和权益以现场可兑现为准。`,
     },
     '京东本地生活（整体）': {
-      action: tributeHot? `围绕纪念/致敬类热点做中性正向的服务通知与人文关怀内容，不消费逝者、不渲染悲情。` : `围绕当日热点做「品质生活」整合主题（如换季餐饮+即时零售+家政联动），突出京东本地生活一站式服务能力。`,
+      action: tributeHot? `围绕纪念/致敬类热点做中性正向的服务通知与人文关怀内容，不消费逝者、不渲染悲情。` : `借「${T.length?T.slice(0,3).join('、'):'当日热点'}」做「品质生活」整合主题（如换季餐饮+即时零售+家政联动），突出京东本地生活一站式服务能力。`,
       comms: `以正向价值内容为主，不硬蹭、不消费负面；公共事件只做服务提醒与权威信息引导。`,
     },
   };
