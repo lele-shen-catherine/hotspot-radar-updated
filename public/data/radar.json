@@ -1,40 +1,42 @@
 {
-  "generatedAt": "2026-09-16T15:00:01.133Z",
+  "generatedAt": "2026-09-16T15:14:09.874Z",
   "date": "2026-09-16",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
       "seat": "知微Top1",
-      "title": "传“黑人”陈建州突发心梗接受手术",
-      "topic": "传“黑人”陈建州突发心梗接受手术",
-      "eventName": "传“黑人”陈建州突发心梗接受手术",
+      "title": "罗永浩吐槽野人先生难吃",
+      "topic": "罗永浩吐槽野人先生难吃",
+      "eventName": "罗永浩吐槽野人先生难吃",
       "platform": "知微",
       "rank": 1,
-      "hot": 6012,
-      "hotValue": 6012,
-      "url": "https://ef.zhiweidata.com/eventRk/3a1be201788a8ce610180099/profil",
+      "hot": 4793,
+      "hotValue": 4793,
+      "url": "https://ef.zhiweidata.com/eventRk/3d33646591e0edbd10180073/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 6012
+          "hot": 4793
         }
       ],
       "totalScore": 84.5,
       "posScore": 90,
       "hotScore": 95,
       "trendScore": 100,
-      "trendEvidence": "排名上升 2→1, 在榜11小时",
+      "trendEvidence": "排名上升 6→1, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 2→1, 在榜11小时",
-      "rankChange": "排名上升 2→1, 在榜11小时",
+      "duration": "排名上升 6→1, 在榜11小时",
+      "rankChange": "排名上升 6→1, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-16T15:00:01.133Z",
-      "eventSummary": "当事人突发健康问题，被紧急送医并接受手术/治疗，消息经网络流传引发关注。",
-      "propagation": "公众对知名人物健康的强烈共情与关切；突发健康事件自带即时性，舆论在\"关心病情-传递祝福-讨论生活方式\"间流转，情绪黏性高。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-09-16T15:14:09.874Z",
+      "eventSummary": "公众人物/网友公开吐槽某餐饮或品牌体验不佳，吐槽内容引发围观与共鸣。",
+      "propagation": "反向吐槽自带话题性与共鸣；公众人物/消费者真实体验的\"踩坑\"表达引发共情与讨论，传播轻快。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "canBorrow": "yes",
+      "borrowReason": "公众人物吐槽餐饮/品牌，话题轻快、具性价比共鸣，可轻量正向借势（注意吐槽对象若为竞品需谨慎对比措辞）"
     },
     {
       "level": "A",
@@ -44,14 +46,14 @@
       "eventName": "华为赛力斯合作模式调整",
       "platform": "知微",
       "rank": 2,
-      "hot": 5849,
-      "hotValue": 5849,
+      "hot": 3668,
+      "hotValue": 3668,
       "url": "https://ef.zhiweidata.com/eventRk/04b0cc0317d64a9010180100/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 5849
+          "hot": 3668
         }
       ],
       "totalScore": 75.3,
@@ -64,43 +66,47 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-16T15:00:01.133Z",
+      "collectedAt": "2026-09-16T15:14:09.874Z",
       "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
       "propagation": "国货品牌合作与自主创新的产业信号；国产科技自主可控议题自带议程设置，短视频拆解 + 科技大V视角带动跨平台扩散，讨论在\"期待-验证-对比\"间流转。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
+      "canBorrow": "yes",
+      "borrowReason": "国货自主创新产业信号，正向议题，可轻量借势（不做技术硬蹭）"
     },
     {
       "level": "B",
       "seat": "知微Top3",
-      "title": "苹果2026秋季新品发布会",
-      "topic": "苹果2026秋季新品发布会",
-      "eventName": "苹果2026秋季新品发布会",
+      "title": "传“黑人”陈建州突发心梗接受手术",
+      "topic": "传“黑人”陈建州突发心梗接受手术",
+      "eventName": "传“黑人”陈建州突发心梗接受手术",
       "platform": "知微",
       "rank": 3,
-      "hot": 2823,
-      "hotValue": 2823,
-      "url": "https://ef.zhiweidata.com/eventRk/317596e254e1a57d10180042/profil",
+      "hot": 3139,
+      "hotValue": 3139,
+      "url": "https://ef.zhiweidata.com/eventRk/3a1be201788a8ce610180099/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 2823
+          "hot": 3139
         }
       ],
       "totalScore": 69.8,
       "posScore": 70,
       "hotScore": 75,
       "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
+      "trendEvidence": "持续高位(第3名, 在榜9小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
+      "duration": "持续高位(第3名, 在榜9小时)",
+      "rankChange": "持续高位(第3名, 在榜9小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-16T15:00:01.133Z",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "propagation": "头部品牌新品发布自带\"即时体验\"冲动；首发与价格公布制造悬念，KOL 开箱 + 评论区\"值不值\"讨论带动跨平台扩散，传播窗口短而集中。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
+      "collectedAt": "2026-09-16T15:14:09.874Z",
+      "eventSummary": "当事人突发健康问题，被紧急送医并接受手术/治疗，消息经网络流传引发关注。",
+      "propagation": "公众对知名人物健康的强烈共情与关切；突发健康事件自带即时性，舆论在\"关心病情-传递祝福-讨论生活方式\"间流转，情绪黏性高。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "canBorrow": "yes",
+      "borrowReason": "健康敏感事件，仅可做'关爱健康/生活方式'正向内容，不消费病情"
     },
     {
       "level": "B",
@@ -110,30 +116,32 @@
       "eventName": "第十三届北京香山论坛于9月15日启幕",
       "platform": "知微",
       "rank": 4,
-      "hot": 1661,
-      "hotValue": 1661,
+      "hot": 1983,
+      "hotValue": 1983,
       "url": "https://ef.zhiweidata.com/eventRk/2625084eb5cb755110180085/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 1661
+          "hot": 1983
         }
       ],
       "totalScore": 64.3,
       "posScore": 60,
       "hotScore": 65,
       "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜11小时)",
+      "trendEvidence": "持续高位(第4名, 在榜10小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第4名, 在榜11小时)",
-      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "duration": "持续高位(第4名, 在榜10小时)",
+      "rankChange": "持续高位(第4名, 在榜10小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-16T15:00:01.133Z",
+      "collectedAt": "2026-09-16T15:14:09.874Z",
       "eventSummary": "论坛于9月15日开幕，多国代表围绕国际安全议题展开对话交流。",
       "propagation": "国家级展会/政策窗口自带议程设置；作为对外开放与产业风向标，媒体集中报道 + 行业关注叠加，属长线但短期亦有讨论高峰。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "canBorrow": "yes",
+      "borrowReason": "国家级展会/会务窗口，正向事件，可借城市会务/会展场景"
     },
     {
       "level": "A",
@@ -143,14 +151,14 @@
       "eventName": "赵家驹巨人之旅破纪录夺冠",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11863452,
-      "hotValue": 11863452,
+      "hot": 11826431,
+      "hotValue": 11826431,
       "url": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11863452
+          "hot": 11826431
         }
       ],
       "totalScore": 84.3,
@@ -163,10 +171,12 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-09-16T15:00:01.133Z",
+      "collectedAt": "2026-09-16T15:14:09.874Z",
       "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
       "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "canBorrow": "yes",
+      "borrowReason": "竞技体育正向事件，观赛情绪强，可借观赛/犒劳自己场景"
     },
     {
       "level": "A",
@@ -176,14 +186,14 @@
       "eventName": "南方医科大学学生发声",
       "platform": "微博",
       "rank": 1,
-      "hot": 2595351,
-      "hotValue": 2595351,
+      "hot": 2729594,
+      "hotValue": 2729594,
       "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 2595351
+          "hot": 2729594
         }
       ],
       "totalScore": 78.1,
@@ -196,10 +206,12 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-09-16T15:00:01.133Z",
-      "eventSummary": "南方医科大学学生发声 事件最新进展受到全网关注，各方就事件经过与影响持续讨论。",
-      "propagation": "<b>「南方医科大学学生发声」进入平台热榜后，其话题自带的事件性/情绪性/实用性引发用户讨论与二次传播，推动热度持续。</b>；需结合后续进展动态观察热度走向。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-09-16T15:14:09.874Z",
+      "eventSummary": "9月15日，一名南方医科大学学生被发现在校内坠亡，网传其坠亡原因与导师批假有关，随后校方成立专项工作组、辖区警方介入调查，同门同学发文悼念并呼吁等待警方公布结果。",
+      "propagation": "突发校园悲剧引发公众对个体生命与教育处境的强共情与关切；事件涉及导师批假等具体争议点，舆论在'追问真相-关切逝者-反思成因'间流转，情绪浓度高、黏性强。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "canBorrow": "no",
+      "borrowReason": "悲剧伤亡事件，涉及当事人与逝者，高风险不可借势营销"
     }
   ]
 }
