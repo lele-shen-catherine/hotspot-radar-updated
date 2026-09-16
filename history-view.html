@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>热点雷达 · 历史数据</title>
+  <style>
+    *{box-sizing:border-box}html,body{height:100%;margin:0;background:#fcf0d8;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif;color:#102060}
+    body{display:grid;grid-template-rows:58px 1fr}.toolbar{display:flex;align-items:center;justify-content:center;gap:12px;padding:8px 16px;border-bottom:1px solid #dfcdb4;background:#fffaf0;box-shadow:0 3px 14px rgba(16,32,96,.08);z-index:2}
+    .toolbar b{font-size:14px}.toolbar select{appearance:none;min-width:164px;padding:9px 32px 9px 12px;border:1px solid #d4a06c;border-radius:10px;color:#102060;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 4.5 6 7.5l3-3' fill='none' stroke='%235990c0' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat right 10px center;font:inherit;cursor:pointer}
+    .toolbar a{color:#315f86;font-size:13px;text-decoration:none}.toolbar a:hover{text-decoration:underline}iframe{width:100%;height:100%;border:0;background:#fcf0d8}
+  </style>
+</head>
+<body>
+  <div class="toolbar"><b>历史热点</b><select id="date" aria-label="选择热点日期"><option>正在读取…</option></select><a href="/">返回最新</a></div>
+  <iframe id="page" title="历史热点雷达"></iframe>
+  <script>
+    (function(){
+      var picker=document.getElementById('date');var frame=document.getElementById('page');
+      var requested=new URLSearchParams(location.search).get('date');
+      fetch('/history/manifest.json').then(function(r){return r.json()}).then(function(data){
+        var entries=Array.isArray(data.entries)?data.entries:[];picker.innerHTML='';
+        var chosen=entries.some(function(e){return e.date===requested})?requested:(entries[0]&&entries[0].date);
+        entries.forEach(function(entry,index){var o=document.createElement('option');o.value=entry.date;o.textContent=entry.date+(index===0?'（最新）':'');o.selected=entry.date===chosen;picker.appendChild(o)});
+        if(chosen)frame.src='/history/'+chosen+'.html';else picker.innerHTML='<option>暂无历史数据</option>';
+      }).catch(function(){picker.innerHTML='<option>历史数据暂不可用</option>'});
+      picker.addEventListener('change',function(){var date=picker.value;if(!date)return;history.replaceState(null,'','?date='+encodeURIComponent(date));frame.src='/history/'+date+'.html'});
+    })();
+  </script>
+</body>
+</html>
