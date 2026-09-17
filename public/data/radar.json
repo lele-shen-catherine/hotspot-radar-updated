@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:30:59.540Z",
+  "generatedAt": "2026-09-17T14:30:07.838Z",
   "date": "2026-09-17",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 热度值仅用于S/A/B分级",
   "hotspots": [
@@ -11,14 +11,14 @@
       "eventName": "美联储时隔三年多宣布加息25个基点",
       "platform": "知微",
       "rank": 1,
-      "hot": 9448,
-      "hotValue": 9448,
+      "hot": 7116,
+      "hotValue": 7116,
       "url": "https://ef.zhiweidata.com/eventRk/0861278071bde36d10180112/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 9448
+          "hot": 7116
         }
       ],
       "totalScore": 80.8,
@@ -31,7 +31,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T13:30:59.540Z",
+      "collectedAt": "2026-09-17T14:30:07.838Z",
       "eventSummary": "美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。",
       "propagation": "宏观政策信号牵动大众的钱包预期；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对\"物价/利息/储蓄\"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -39,100 +39,100 @@
     {
       "level": "A",
       "seat": "知微Top2",
-      "title": "苹果推出首款折叠屏iPhone Duo",
-      "topic": "苹果推出首款折叠屏iPhone Duo",
-      "eventName": "苹果推出首款折叠屏iPhone Duo",
+      "title": "国乒落地名古屋机场遭遇长时间滞留",
+      "topic": "国乒落地名古屋机场遭遇长时间滞留",
+      "eventName": "国乒落地名古屋机场遭遇长时间滞留",
       "platform": "知微",
       "rank": 2,
-      "hot": 5193,
-      "hotValue": 5193,
-      "url": "https://ef.zhiweidata.com/eventRk/e2a68ed6cd321c5710180038/profil",
+      "hot": 1992,
+      "hotValue": 1992,
+      "url": "https://ef.zhiweidata.com/eventRk/a248c0172d55cb2510180114/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 5193
+          "hot": 1992
         }
       ],
-      "totalScore": 82.3,
+      "totalScore": 79,
       "posScore": 80,
       "hotScore": 85,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第2名, 在榜5小时)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: iPhone 18 Pro深度测评、iPhoneDuo真机上手体验)",
-      "duration": "持续高位(第2名, 在榜5小时)",
-      "rankChange": "持续高位(第2名, 在榜5小时)",
+      "trendScore": 100,
+      "trendEvidence": "排名上升 5→2, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 5→2, 在榜11小时",
+      "rankChange": "排名上升 5→2, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T13:30:59.540Z",
-      "eventSummary": "围绕「苹果推出首款折叠屏iPhone Duo」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "头部品牌新品发布自带\"即时体验\"冲动；首发与价格公布制造悬念，KOL 开箱 + 评论区\"值不值\"讨论带动跨平台扩散，传播窗口短而集中。",
+      "collectedAt": "2026-09-17T14:30:07.838Z",
+      "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
+      "propagation": "知名团队遭遇意外状况自带共情与围观；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对\"不可控的出行意外\"产生代入感，救援/解决的进展持续牵动关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "level": "B",
+      "level": "A",
       "seat": "知微Top3",
-      "title": "苹果2026秋季新品发布会",
-      "topic": "苹果2026秋季新品发布会",
-      "eventName": "苹果2026秋季新品发布会",
-      "platform": "知微",
-      "rank": 3,
-      "hot": 5005,
-      "hotValue": 5005,
-      "url": "https://ef.zhiweidata.com/eventRk/317596e254e1a57d10180042/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 5005
-        }
-      ],
-      "totalScore": 69.8,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-17T13:30:59.540Z",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "propagation": "头部品牌新品发布自带\"即时体验\"冲动；首发与价格公布制造悬念，KOL 开箱 + 评论区\"值不值\"讨论带动跨平台扩散，传播窗口短而集中。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
-    },
-    {
-      "level": "B",
-      "seat": "知微Top4",
       "title": "警方调查南方医科大学跳楼事件",
       "topic": "警方调查南方医科大学跳楼事件",
       "eventName": "警方调查南方医科大学跳楼事件",
       "platform": "知微",
-      "rank": 4,
-      "hot": 3364,
-      "hotValue": 3364,
+      "rank": 3,
+      "hot": 1873,
+      "hotValue": 1873,
       "url": "https://ef.zhiweidata.com/eventRk/20171dd475958a6910180106/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 4,
-          "hot": 3364
+          "rank": 3,
+          "hot": 1873
         }
       ],
-      "totalScore": 64.3,
-      "posScore": 60,
-      "hotScore": 65,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜11小时)",
+      "totalScore": 73.5,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 4→3, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第4名, 在榜11小时)",
-      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "duration": "排名上升 4→3, 在榜11小时",
+      "rankChange": "排名上升 4→3, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T13:30:59.540Z",
+      "collectedAt": "2026-09-17T14:30:07.838Z",
       "eventSummary": "某高校发生人员坠楼事件，警方已介入调查，事件起因与后续处理受到外界关注。",
       "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "知微Top4",
+      "title": "一点点门店被曝威胁员工",
+      "topic": "一点点门店被曝威胁员工",
+      "eventName": "一点点门店被曝威胁员工",
+      "platform": "知微",
+      "rank": 4,
+      "hot": 1794,
+      "hotValue": 1794,
+      "url": "https://ef.zhiweidata.com/eventRk/aea8e108c2dad2a510180113/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 1794
+        }
+      ],
+      "totalScore": 68,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 7→4, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 7→4, 在榜11小时",
+      "rankChange": "排名上升 7→4, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-09-17T14:30:07.838Z",
+      "eventSummary": "围绕「一点点门店被曝威胁员工」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「一点点门店被曝威胁员工」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -143,14 +143,14 @@
       "eventName": "美联储宣布加息25个基点",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11357407,
-      "hotValue": 11357407,
+      "hot": 11298112,
+      "hotValue": 11298112,
       "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11357407
+          "hot": 11298112
         }
       ],
       "totalScore": 84.4,
@@ -163,7 +163,7 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T13:30:59.540Z",
+      "collectedAt": "2026-09-17T14:30:07.838Z",
       "eventSummary": "美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。",
       "propagation": "宏观政策信号牵动大众的钱包预期；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对\"物价/利息/储蓄\"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -176,18 +176,18 @@
       "eventName": "举手式睡姿是身体在求救",
       "platform": "微博",
       "rank": 1,
-      "hot": 2161195,
-      "hotValue": 2161195,
+      "hot": 1869348,
+      "hotValue": 1869348,
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%89%8B%E5%BC%8F%E7%9D%A1%E5%A7%BF%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E6%B1%82%E6%95%91%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 2161195
+          "hot": 1869348
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98,
+      "posScore": 98.1,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -196,7 +196,7 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T13:30:59.540Z",
+      "collectedAt": "2026-09-17T14:30:07.838Z",
       "eventSummary": "有科普内容指出某种常见睡姿其实是身体发出的健康信号，提醒人们留意身体状态，内容贴近日常引发对照与讨论。",
       "propagation": "健康科普自带强实用价值与转发欲；\"某种日常习惯其实是身体信号\"这类反直觉科普贴近生活，公众既有\"自我对照\"的代入感，又有转发给亲友的分享欲，实用内容扩散快。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
