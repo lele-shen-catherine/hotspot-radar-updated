@@ -219,18 +219,68 @@ const hotspots = fixed.map(it => {
   };
 });
 
-// 保留原始排序（固定席位顺序：知微4 + 抖音 + 微博）
+// ---------- 跨平台语义去重（同一事件只保留一条，取 totalScore 最高者） ----------
+// 知微Top1「美联储加息25个基点」与微博Top1「美联储宣布加息25个基点」是同一事件，
+// 若不去重会重复进固定6席，页面出现两张同事件卡片。
+// 去重策略：标题归一化后，两条标题若共享足够长的公共内容（≥ 5 个连续字符的实义片段），
+// 判定为同一事件，保留 totalScore 更高的一条。
+const normTitle = t => String(t || "").replace(/[：:，,。.!！?？\s"'"（）()【】\[\]\u200c]/g, "");
+function sharedCore(a, b) {
+  const na = normTitle(a), nb = normTitle(b);
+  // 找最长公共子串长度（朴素实现，标题都很短，性能足够）
+  const s1 = na, s2 = nb;
+  const m = s1.length, n = s2.length;
+  let best = 0;
+  const dp = Array.from({ length: m + 1 }, () => new Array(n + 1).fill(0));
+  for (let i = 1; i <= m; i++) {
+    for (let j = 1; j <= n; j++) {
+      if (s1[i - 1] === s2[j - 1]) {
+        dp[i][j] = dp[i - 1][j - 1] + 1;
+        if (dp[i][j] > best) best = dp[i][j];
+      } else {
+        dp[i][j] = 0;
+      }
+    }
+  }
+  return best;
+}
+function dedupeByTitle(list) {
+  const groups = new Map();
+  list.forEach(h => {
+    const key = normTitle(h.title);
+    let merged = false;
+    for (const existing of groups.values()) {
+      if (sharedCore(h.title, existing.title) >= 4) {
+        // 同一事件：保留 totalScore 更高的
+        if ((h.totalScore || 0) > (existing.totalScore || 0)) {
+          groups.delete(normTitle(existing.title));
+          groups.set(key, h);
+        }
+        merged = true;
+        break;
+      }
+    }
+    if (!merged && !groups.has(key)) groups.set(key, h);
+  });
+  return Array.from(groups.values());
+}
+const deduped = dedupeByTitle(hotspots);
+// 去重后按 totalScore 降序重排 rank（页面事件详情按热度值降序是硬性要求）
+deduped.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
+deduped.forEach((h, i) => { h.rank = i + 1; h.seat = "总榜Top" + (i + 1); });
+
+// 保留原始排序（固定席位顺序：知微4 + 抖音 + 微博；前端按 totalScore 降序渲染）
 const radarData = {
   generatedAt: latest.generatedAt || new Date().toISOString(),
   date: date,
-  note: "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 热度值仅用于S/A/B分级",
-  hotspots: hotspots,
+  note: "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
+  hotspots: deduped,
 };
 
 // ---------- 写入 radar.json ----------
 try {
   fs.writeFileSync(OUT, JSON.stringify(radarData, null, 2));
-  console.log(`[analyze] 已写入 radar.json: ${hotspots.length} 席`);
+  console.log(`[analyze] 已写入 radar.json: ${deduped.length} 席`);
 } catch (e) {
   console.error("[❌] 写入 radar.json 失败:", e.message);
   process.exit(1);
@@ -238,7 +288,7 @@ try {
 
 // ---------- 打印 ----------
 console.log("======== 热点雷达 · 固定6席分级 ========  " + date);
-hotspots.forEach(h => {
+deduped.forEach(h => {
   console.log(`\n【${h.level}】 ${h.platform} ${h.seat} · ${h.title}  总分=${h.totalScore}`);
   console.log(`  榜位分=${h.posScore}/100(35%) 热度分=${h.hotScore}/100(20%) 趋势分=${h.trendScore}(25%) 共振分=${h.resonanceScore}(20%)`);
   console.log(`  趋势: ${h.trendEvidence}`);

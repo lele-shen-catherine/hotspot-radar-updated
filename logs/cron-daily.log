@@ -851,3 +851,114 @@ To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
 === ✅ 每日更新完成 2026-09-16 15:00 ===
 线上访问: https://lele-shen-catherine.github.io/hotspot-radar-updated/
 Dashboard: https://lele-shen-catherine.github.io/hotspot-radar-updated/dashboard.html
+=== 开始每日更新 2026-09-17 15:00 ===
+--- 全流程(含AI深度分析+质量门禁+注入dashboard) ---
+========================================
+  热点雷达 每日全流程  2026/9/17 15:00:01
+  deploy=false  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-17 15:00
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，52 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-17/webwide-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-17/weibo-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-17/douyin-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-17/xhs-1500.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：90 个候选，0 个待语义复核（四类硬性排除）
+[analyze] 已写入 radar.json: 5 席
+======== 热点雷达 · 固定6席分级 ========  2026-09-17
+
+【A】 抖音 总榜Top1 · 美联储宣布加息25个基点  总分=84.4
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 抖音标记'爆'
+  禁区: 无
+
+【A】 知微 总榜Top2 · 警方调查南方医科大学跳楼事件  总分=79
+  榜位分=80/100(35%) 热度分=85/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 4→2, 在榜11小时
+  禁区: 无
+
+【A】 微博 总榜Top3 · 举手式睡姿是身体在求救  总分=78.1
+  榜位分=98.1/100(35%) 热度分=99/100(20%) 趋势分=60(25%) 共振分=45(20%)
+  趋势: 微博单次快照无在榜时长(按60)
+  禁区: 无
+
+【A】 知微 总榜Top4 · 国乒落地名古屋机场遭遇长时间滞留  总分=73.5
+  榜位分=70/100(35%) 热度分=75/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 5→3, 在榜11小时
+  禁区: 无
+
+【B】 知微 总榜Top5 · 一点点门店被曝威胁员工  总分=68
+  榜位分=60/100(35%) 热度分=65/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 7→4, 在榜11小时
+  禁区: 无
+
+
+━━━ [2.AI深度分析] ━━━
+[ai] 已生成 5 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+[ai] 自检通过：全部字段为 AI 深度内容（非爬虫原文/占位/雷同）
+
+
+━━━ [3.修补radar(注入AI字段)] ━━━
+✅ 已用 AI 深度分析修补 radar.json: 5 条注入, 0 条缺失
+
+
+━━━ [4.合成业务建议] ━━━
+[gen] 从 radar.json 读取热点数: 5
+[gen] AI 分析匹配: 5/5
+[gen] 固定6席生效： 5 → 5 （保留固定席位顺序）
+[gen] 业务建议(08-28风格): 8 个业务
+[gen] ⚠️ dashboard.html 未匹配到内嵌块，跳过注入（请人工检查）
+[gen] 完成：事件数 5 业务建议 8
+[gen] 输出： /root/.joyclaw/workspace/hotspot-radar-updated/public/data
+
+[门禁] 5 条热点 × 3 字段 + business 非空，热度榜 5 条有效。
+
+━━━ [5.注入dashboard] ━━━
+✅ dashboard.html 已注入 2026-09-17 数据 (radar=5 hotspots, advice=8)
+
+
+━━━ [6.模板校验] ━━━
+
+> hotspot-radar@1.0.0 validate
+> node scripts/validate-template.mjs
+
+[门禁] radar.json 5 条热点 AI 字段完整
+[门禁] business-advice.json 当日业务建议完整 (8 类)
+Hotspot radar template validation passed. ✅
+
+
+✅ 每日全流程完成。
+产物:
+  radar.json        → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/radar.json
+  ai-analysis.json  → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+  dashboard.html    → /root/.joyclaw/workspace/hotspot-radar-updated/public/dashboard.html
+--- 推送 GitHub（触发 gh-pages 自动部署） ---
