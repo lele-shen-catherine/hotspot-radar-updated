@@ -13,7 +13,7 @@
  *
  * 输出：public/data/ai-analysis.json  → gen-daily-content.mjs / patch-radar-with-ai.mjs 消费
  */
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -29,7 +29,44 @@ function load(path){ try{ return JSON.parse(readFileSync(path,'utf8')); }catch(e
 
 const radar = load(radarPath);
 const hotspots = radar.hotspots || [];
-if (!hotspots.length) { console.error('[ai] radar.json 无 hotspots，跳过'); process.exit(1); }
+if (!hotspots.length) { console.warn('[ai] radar.json 无 hotspots，跳过'); process.exit(1); }
+
+// ---------- 各榜单 top5 标题池（借势候选：S/A/B核心 + 抖音/微博/知微 top5，小红书忽略） ----------
+function loadTop5Titles(){
+  const titles = [];
+  const rawDir = join(ROOT, 'data/raw', today);
+  const pickLatest = (pat) => {
+    let fsArr = [];
+    try { fsArr = readdirSync(rawDir).filter(f=>f.startsWith(pat)); } catch(e){ return []; }
+    if(!fsArr.length) return [];
+    fsArr.sort(); // -1016 > -0939 > -0916
+    return fsArr;
+  };
+  // 抖音 top5
+  for (const f of pickLatest('douyin-')){
+    const dd = load(join(rawDir,f));
+    const wl = dd.word_list || (dd.data&&dd.data.word_list) || [];
+    wl.slice(0,5).forEach((x,i)=>{ if(x&&x.word) titles.push({title:x.word, platform:'抖音', rank:i+1, heat:x.hot_value||0}); });
+    break;
+  }
+  // 微博 top5 (realtime)
+  for (const f of pickLatest('weibo-')){
+    const wb = load(join(rawDir,f));
+    const rt = wb.data&&wb.data.realtime || [];
+    rt.slice(0,5).forEach((x,i)=>{ if(x&&x.word) titles.push({title:x.word, platform:'微博', rank:i+1, heat:x.num||0}); });
+    break;
+  }
+  // 知微 top5 (rankDay info)
+  for (const f of pickLatest('webwide-')){
+    const ww = load(join(rawDir,f));
+    const info = ww.data&&ww.data.rankDay&&ww.data.rankDay[0]&&ww.data.rankDay[0].info || [];
+    info.slice(0,5).forEach((x,i)=>{ if(x&&x.name) titles.push({title:x.name, platform:'知微', rank:i+1, heat:x.pointPro||0}); });
+    break;
+  }
+  return titles;
+}
+const top5Pool = await loadTop5Titles();
+console.error('[ai] 榜单top5借势候选池:', top5Pool.map(t=>t.title).join(' | '));
 
 // ---------- 平台中文名 ----------
 const platNames = { weibo:'微博', douyin:'抖音', xhs:'小红书' };
@@ -70,6 +107,11 @@ const WHY_LIB = [
   { keys:[/剧集|电视剧|爆款|谭松韵|影视/i], txt:'<b>爆款剧集自带"追剧沉浸感"与社交话题</b>；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。' },
   { keys:[/辣门|零食|大赛|吃辣/i], txt:'<b>低门槛、强参与感的赛制化内容</b>；"挑战/大赛"自带玩家规则与胜负悬念，全民参与感与晒图/晒成绩推动扩散。' },
   { keys:[/装箱|出游|十一|假期|旅行/i], txt:'<b>节点刚需 + 清单化实用内容</b>；出行/假期前后"备货清单/应急攻略"是强实用需求，攻略式内容高转发与收藏。' },
+  { keys:[/美联储|加息|降息|利率|货币政策|央行/i], txt:'<b>宏观政策信号牵动大众的钱包预期</b>；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对"物价/利息/储蓄"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。' },
+  { keys:[/国乒|机场|滞留|被困|出行受阻|名古屋/i], txt:'<b>知名团队遭遇意外状况自带共情与围观</b>；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对"不可控的出行意外"产生代入感，救援/解决的进展持续牵动关注。' },
+  { keys:[/睡姿|睡觉|身体|健康|求救|信号|科普/i], txt:'<b>健康科普自带强实用价值与转发欲</b>；"某种日常习惯其实是身体信号"这类反直觉科普贴近生活，公众既有"自我对照"的代入感，又有转发给亲友的分享欲，实用内容扩散快。' },
+  { keys:[/秋季|赏味|时令|尝鲜|入秋|贴秋膘/i], txt:'<b>时令节点 + 生活仪式感</b>；入秋后"吃什么/去哪吃"是全民刚需话题，时令食材与赏味场景自带烟火气，攻略与打卡内容高转发、高收藏，传播稳健。' },
+  { keys:[/钟薛高|雪糕|网红|零食|品牌回归/i], txt:'<b>熟悉品牌"归来"自带怀旧与话题性</b>；曾全民讨论的网红品牌重新出现，公众好奇"还认不认这个味"，情怀 + 新鲜感叠加引发围观与实测讨论。' },
   // 悲剧/伤亡/跳楼：可进入 S/A/B 展示热点信息（动因叙事讲"事件性/公共关切"），但业务建议侧一律"不建议借势"
   { keys:[/跳楼|坠楼|自杀|轻生|身亡|悲剧|伤亡|遇难|调查/i], txt:'<b>突发悲剧引发公共关切与对事件真相的追问</b>；警方/官方介入调查后，公众对"起因与责任"的讨论与对当事人的关切构成热度主体，情绪黏性高。' },
 ];
@@ -77,7 +119,7 @@ function whyHot(title){
   for(const kw of WHY_LIB){ if (kw.keys.some(re=>re.test(title))) return kw.txt.replace(/<\/?b>/g,''); }
   // 兜底：避免"因高关注度/高时效"套话，给出按标题主体的传播动力叙事
   const n = (title.trim()||'该事件').replace(/<[^>]+>/g,'').slice(0, 40);
-  return `<b>「${n}」进入平台热榜后，其话题自带的事件性/情绪性/实用性引发用户讨论与二次传播，推动热度持续。</b>；需结合后续进展动态观察热度走向。`;
+  return `围绕「${n}」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。`;
 }
 
 // ---------- 事件解释：纯叙事逻辑（发生了什么 / 谁干了啥 / 结果如何），精简，不带平台热榜模板 ----------
@@ -99,7 +141,11 @@ function explanation(title, p0){
   else if(/华为|赛力斯|合作模式|调整|车/.test(title)) body = `华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。`;
   else if(/香山论坛|论坛|启幕/.test(title)) body = `论坛于9月15日开幕，多国代表围绕国际安全议题展开对话交流。`;
   else if(/赵家驹|巨人|夺冠|破纪录/.test(title)) body = `越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。`;
-  else body = `${title} 事件最新进展受到全网关注，各方就事件经过与影响持续讨论。`;
+  else if(/美联储|加息|降息|利率|货币政策|央行/.test(title)) body = `美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。`;
+  else if(/国乒|机场|滞留|被困|名古屋/.test(title)) body = `国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。`;
+  else if(/睡姿|睡觉|身体|求救|健康/.test(title)) body = `有科普内容指出某种常见睡姿其实是身体发出的健康信号，提醒人们留意身体状态，内容贴近日常引发对照与讨论。`;
+  else if(/钟薛高|雪糕|品牌回归/.test(title)) body = `曾引发全民讨论的网红雪糕品牌钟薛高重新出现在市场，公众对"还认不认这个味"产生好奇与实测讨论。`;
+  else body = `围绕「${title}」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。`;
   // 规则2：事件解释不复制标题，只输出纯叙事的前因后果（谁干了什么→为什么→怎么样了）
   return body;
 }
@@ -285,30 +331,34 @@ function bizTag(title){
 function buildBusinessAdvice(hotspots){
   // 当日热点标题（用于「先写明借哪个热点」的引用，去重保序）
   // ⚠️ 硬性规则：悲剧/伤亡/高敏感热点（跳楼/坠楼/自杀/身亡/悲剧/伤亡/遇难/调查/火灾/事故等）不可作为「可借势热点」，
-  // 业务建议一律「不建议借势」→ 从可借势标题列表 T 中剔除，避免 T.slice(0,3) 混入悲剧热点。
-  const NON_BORROWABLE = /跳楼|坠楼|自杀|轻生|身亡|遇难|悲剧|伤亡|火灾|事故|爆炸|坍塌|车祸|失联|调查|坠亡|死亡/;
+  // 业务建议一律「不建议借势」→ 从可借势标题列表 T 中剔除，避免混入悲剧热点。
+  const NON_BORROWABLE = /跳楼|坠楼|自杀|轻生|身亡|遇难|悲剧|伤亡|火灾|事故|爆炸|坍塌|车祸|失联|调查|坠亡|死亡|羞辱|网暴|隐私|未成年|孩子|学生|基因|亲子|鉴定|伦理/;
+  // 借势候选池 = 核心S/A/B热点 + 各榜单top5（抖音/微博/知微，小红书忽略）
+  const candidatePool = [...hotspots, ...top5Pool].filter(h => h && h.title);
   const titles = [];
-  for (const h of hotspots){
-    if (NON_BORROWABLE.test(h.title)) continue; // 悲剧/不可借势：不进可借势标题列表
-    if(!titles.includes(h.title)) titles.push(h.title);
+  for (const h of candidatePool){
+    const t = (h.title||'').replace(/\u200c/g,'');
+    if (NON_BORROWABLE.test(t)) continue; // 悲剧/敏感/不可借势：不进可借势标题列表
+    if(!titles.includes(t)) titles.push(t);
   }
   const T = titles;
   // 单热点原则：fallback 只用当日排名最靠前的「单一可借势热点」，禁止多热点混合进同一条建议
   const BORROW_TOP = T[0] || '当日热点';
 
-  // 从热点标题提炼「季节/节点/情绪信号」
+  // 从可借势热点标题提炼「季节/节点/情绪信号」
   const seasonText = [];
-  if (hotspots.some(h => /入秋|秋|入冬|降温|换季/.test(h.title))) seasonText.push('入秋/入冬换季');
-  if (hotspots.some(h => /开学|暑假收尾/.test(h.title))) seasonText.push('开学前/暑假收尾');
-  if (hotspots.some(h => /台风|暴雨|洪水/.test(h.title))) seasonText.push('台风/暴雨天气');
-  if (hotspots.some(h => /春节|中秋|国庆|节日|纪念日/.test(h.title))) seasonText.push('节日节点');
+  if (titles.some(t => /入秋|秋季赏味|赏味|时令|换季|入冬|降温|贴秋膘|秋膘|秋季/.test(t))) seasonText.push('秋季赏味/入冬换季');
+  if (titles.some(t => /开学|暑假收尾/.test(t))) seasonText.push('开学前/暑假收尾');
+  if (titles.some(t => /台风|暴雨|洪水/.test(t))) seasonText.push('台风/暴雨天气');
+  if (titles.some(t => /春节|中秋|国庆|节日|纪念日/.test(t))) seasonText.push('节日节点');
 
-  // 识别当日「强相关」热点标题（供深度整合引用）
-  const mealHot = hotspots.find(h => /大骨|酱骨|铁锅|炖|砂锅|火锅|夜宵|烧烤|甜品|面/.test(h.title));
-  const sportHot = hotspots.find(h => /网球|比赛|对战|赛事|夺冠|逆转|晋级|美网|足球|篮球/.test(h.title));
-  const weatherHot = hotspots.find(h => /台风|暴雨|洪水|降温/.test(h.title));
-  const tributeHot = hotspots.find(h => /逝世|离世|悼念|致敬/.test(h.title));
-  const fairHot = hotspots.find(h => /服贸会|博览会|展会|开幕/.test(h.title));
+  // 识别当日「强相关」热点标题（供深度整合引用）—— 从可借势候选池（核心+各榜单top5）中找，排除悲剧/敏感
+  const poolSafe = candidatePool.filter(h => !NON_BORROWABLE.test((h.title||'').replace(/\u200c/g,'')));
+  const mealHot = poolSafe.find(h => /大骨|酱骨|铁锅|炖|砂锅|火锅|夜宵|烧烤|甜品|面|赏味|时令|尝鲜|入秋|美食|小吃|特产|瓜果|贴秋膘/.test(h.title));
+  const sportHot = poolSafe.find(h => /网球|比赛|对战|赛事|夺冠|逆转|晋级|美网|足球|篮球/.test(h.title));
+  const weatherHot = poolSafe.find(h => /台风|暴雨|洪水|降温/.test(h.title));
+  const tributeHot = poolSafe.find(h => /逝世|离世|悼念|致敬/.test(h.title));
+  const fairHot = poolSafe.find(h => /服贸会|博览会|展会|开幕/.test(h.title));
 
   const S = {
     '京东外卖': {
