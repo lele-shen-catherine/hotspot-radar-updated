@@ -22,6 +22,7 @@ In particular:
 - Preserve the accepted UI exactly unless the user explicitly requests a redesign.
 - Keep the fixed sources: Zhiwei event ranking, official Weibo hot search, official Douyin hot-word ranking, and verifiable Xiaohongshu Diandian answers.
 - Expand no more than four commercially usable events that are inside the current platform TOP10; fewer is preferable to padding.
+- For local-life business advice, borrowable-hotspot candidates must cover the core S/A/B events **plus each ranking's top5 (Douyin / Weibo / Zhiwei; ignore Xiaohongshu)**. A chosen hotspot must genuinely connect to that business's real scenario; never force an unrelated hotspot onto a business (e.g. a finance topic like the Fed rate hike has no connection to housekeeping/food-mall — that is fabrication). When a business has no genuinely combinable hotspot, fall back to that business's normal operations rather than force-fitting.
 - Independently reason about why each event is hot, why it qualifies, and how each JD local-life business can or cannot act on it.
 - Generate event explanation, why-hot analysis, selection reason, local-life fit, and risk boundary through AI reasoning. Interactive runs may use the current agent; unattended workflows must call a configured model API. Deterministic keyword rules may pre-filter candidates but must never author these final fields.
 - Research real user videos and discussions before calling something a meme; hide the entire meme module when evidence is insufficient.
