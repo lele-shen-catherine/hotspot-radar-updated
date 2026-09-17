@@ -1,24 +1,57 @@
 {
-  "generatedAt": "2026-09-17T15:00:02.003Z",
+  "generatedAt": "2026-09-17T19:59:22.117Z",
   "date": "2026-09-17",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
       "seat": "总榜Top1",
-      "title": "美联储宣布加息25个基点",
-      "topic": "美联储宣布加息25个基点",
-      "eventName": "美联储宣布加息25个基点",
-      "platform": "抖音",
+      "title": "华为赛力斯合作模式调整",
+      "topic": "华为赛力斯合作模式调整",
+      "eventName": "华为赛力斯合作模式调整",
+      "platform": "知微",
       "rank": 1,
-      "hot": 11361930,
-      "hotValue": 11361930,
-      "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9",
+      "hot": 8561,
+      "hotValue": 8561,
+      "url": "https://ef.zhiweidata.com/eventRk/04b0cc0317d64a9010180100/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 8561
+        }
+      ],
+      "totalScore": 84.5,
+      "posScore": 90,
+      "hotScore": 95,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 2→1, 在榜9小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 2→1, 在榜9小时",
+      "rankChange": "排名上升 2→1, 在榜9小时",
+      "excludeCat": null,
+      "collectedAt": "2026-09-17T19:59:22.117Z",
+      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
+      "propagation": "国货品牌合作与自主创新的产业信号；国产科技自主可控议题自带议程设置，短视频拆解 + 科技大V视角带动跨平台扩散，讨论在\"期待-验证-对比\"间流转。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top2",
+      "title": "中国男篮半决赛将对阵日本男篮",
+      "topic": "中国男篮半决赛将对阵日本男篮",
+      "eventName": "中国男篮半决赛将对阵日本男篮",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 11392856,
+      "hotValue": 11392856,
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%B0%86%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11361930
+          "hot": 11392856
         }
       ],
       "totalScore": 84.4,
@@ -31,27 +64,27 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T15:00:02.003Z",
-      "eventSummary": "美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。",
-      "propagation": "宏观政策信号牵动大众的钱包预期；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对\"物价/利息/储蓄\"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-09-17T19:59:22.117Z",
+      "eventSummary": "焦点赛事结束，比分已出，胜负结果与比赛过程成为讨论焦点。",
+      "propagation": "围绕「中国男篮半决赛将对阵日本男篮」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
-      "seat": "总榜Top2",
-      "title": "警方调查南方医科大学跳楼事件",
-      "topic": "警方调查南方医科大学跳楼事件",
-      "eventName": "警方调查南方医科大学跳楼事件",
+      "seat": "总榜Top3",
+      "title": "美联储时隔三年多宣布加息25个基点",
+      "topic": "美联储时隔三年多宣布加息25个基点",
+      "eventName": "美联储时隔三年多宣布加息25个基点",
       "platform": "知微",
-      "rank": 2,
-      "hot": 2248,
-      "hotValue": 2248,
-      "url": "https://ef.zhiweidata.com/eventRk/20171dd475958a6910180106/profil",
+      "rank": 3,
+      "hot": 6233,
+      "hotValue": 6233,
+      "url": "https://ef.zhiweidata.com/eventRk/0861278071bde36d10180112/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 2248
+          "hot": 6233
         }
       ],
       "totalScore": 79,
@@ -64,31 +97,31 @@
       "duration": "排名上升 4→2, 在榜11小时",
       "rankChange": "排名上升 4→2, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T15:00:02.003Z",
-      "eventSummary": "某高校发生人员坠楼事件，警方已介入调查，事件起因与后续处理受到外界关注。",
-      "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
+      "collectedAt": "2026-09-17T19:59:22.117Z",
+      "eventSummary": "美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。",
+      "propagation": "宏观政策信号牵动大众的钱包预期；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对\"物价/利息/储蓄\"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top3",
-      "title": "举手式睡姿是身体在求救",
-      "topic": "举手式睡姿是身体在求救",
-      "eventName": "举手式睡姿是身体在求救",
+      "seat": "总榜Top4",
+      "title": "如果你出生于1992年至2003年之间",
+      "topic": "如果你出生于1992年至2003年之间",
+      "eventName": "如果你出生于1992年至2003年之间",
       "platform": "微博",
-      "rank": 3,
-      "hot": 1349392,
-      "hotValue": 1349392,
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%89%8B%E5%BC%8F%E7%9D%A1%E5%A7%BF%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E6%B1%82%E6%95%91%23",
+      "rank": 4,
+      "hot": 1120155,
+      "hotValue": 1120155,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%BD%A0%E5%87%BA%E7%94%9F%E4%BA%8E1992%E5%B9%B4%E8%87%B32003%E5%B9%B4%E4%B9%8B%E9%97%B4%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1349392
+          "hot": 1120155
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98.1,
+      "posScore": 98,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -97,76 +130,76 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T15:00:02.003Z",
-      "eventSummary": "有科普内容指出某种常见睡姿其实是身体发出的健康信号，提醒人们留意身体状态，内容贴近日常引发对照与讨论。",
-      "propagation": "健康科普自带强实用价值与转发欲；\"某种日常习惯其实是身体信号\"这类反直觉科普贴近生活，公众既有\"自我对照\"的代入感，又有转发给亲友的分享欲，实用内容扩散快。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
-      "title": "国乒落地名古屋机场遭遇长时间滞留",
-      "topic": "国乒落地名古屋机场遭遇长时间滞留",
-      "eventName": "国乒落地名古屋机场遭遇长时间滞留",
-      "platform": "知微",
-      "rank": 4,
-      "hot": 2207,
-      "hotValue": 2207,
-      "url": "https://ef.zhiweidata.com/eventRk/a248c0172d55cb2510180114/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 2207
-        }
-      ],
-      "totalScore": 73.5,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 5→3, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 5→3, 在榜11小时",
-      "rankChange": "排名上升 5→3, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-09-17T15:00:02.003Z",
-      "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
-      "propagation": "知名团队遭遇意外状况自带共情与围观；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对\"不可控的出行意外\"产生代入感，救援/解决的进展持续牵动关注。",
+      "collectedAt": "2026-09-17T19:59:22.117Z",
+      "eventSummary": "围绕「如果你出生于1992年至2003年之间」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「如果你出生于1992年至2003年之间」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top5",
-      "title": "一点点门店被曝威胁员工",
-      "topic": "一点点门店被曝威胁员工",
-      "eventName": "一点点门店被曝威胁员工",
+      "title": "女生称同济大学痛经请假需脱裤检查",
+      "topic": "女生称同济大学痛经请假需脱裤检查",
+      "eventName": "女生称同济大学痛经请假需脱裤检查",
       "platform": "知微",
       "rank": 5,
-      "hot": 1864,
-      "hotValue": 1864,
-      "url": "https://ef.zhiweidata.com/eventRk/aea8e108c2dad2a510180113/profil",
+      "hot": 5398,
+      "hotValue": 5398,
+      "url": "https://ef.zhiweidata.com/eventRk/e69c35d200219a2510180120/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 1864
+          "hot": 5398
         }
       ],
       "totalScore": 68,
       "posScore": 60,
       "hotScore": 65,
       "trendScore": 100,
-      "trendEvidence": "排名上升 7→4, 在榜11小时",
+      "trendEvidence": "排名上升 6→4, 在榜1小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 7→4, 在榜11小时",
-      "rankChange": "排名上升 7→4, 在榜11小时",
+      "duration": "排名上升 6→4, 在榜1小时",
+      "rankChange": "排名上升 6→4, 在榜1小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-17T15:00:02.003Z",
-      "eventSummary": "围绕「一点点门店被曝威胁员工」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「一点点门店被曝威胁员工」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-09-17T19:59:22.117Z",
+      "eventSummary": "围绕「女生称同济大学痛经请假需脱裤检查」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「女生称同济大学痛经请假需脱裤检查」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top6",
+      "title": "问界将正式撤出鸿蒙智行和华为专卖店",
+      "topic": "问界将正式撤出鸿蒙智行和华为专卖店",
+      "eventName": "问界将正式撤出鸿蒙智行和华为专卖店",
+      "platform": "知微",
+      "rank": 6,
+      "hot": 5675,
+      "hotValue": 5675,
+      "url": "https://ef.zhiweidata.com/eventRk/457cc3d903bed45b10180115/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 5675
+        }
+      ],
+      "totalScore": 66,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 70,
+      "trendEvidence": "平稳(第3名, 在榜3小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "平稳(第3名, 在榜3小时)",
+      "rankChange": "平稳(第3名, 在榜3小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-17T19:59:22.117Z",
+      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
+      "propagation": "国货品牌合作与自主创新的产业信号；国产科技自主可控议题自带议程设置，短视频拆解 + 科技大V视角带动跨平台扩散，讨论在\"期待-验证-对比\"间流转。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
     }
   ]
 }

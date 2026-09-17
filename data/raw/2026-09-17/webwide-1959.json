@@ -1,0 +1,3127 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 1177938,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-09-10",
+        "sumH": 2161131,
+        "info": [
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 32.66,
+            "hE": 705806,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 0,
+            "pro": 21.54,
+            "hE": 465463,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "006017b61dd0350310180045",
+            "img": "2.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "上海市体育局通报刘翔安置问题",
+            "startTime": 1788969600000,
+            "oldPoint": 0,
+            "pro": 10.52,
+            "hE": 227412,
+            "tags": [
+              "刘翔",
+              "上海市体育局",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "30170cbe5e4ad75b10180046",
+            "img": "3.png",
+            "pointPro": 99.95,
+            "firstType": "灾难",
+            "name": "青岛货轮火灾造成重大人员伤亡",
+            "startTime": 1788969600000,
+            "oldPoint": 0,
+            "pro": 5.5,
+            "hE": 118966,
+            "tags": [
+              "货轮",
+              "青岛",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 4.21,
+            "hE": 91056,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "87c40077dcb4425010180039",
+            "img": "33.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "日本暴发梅毒疫情",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 3.46,
+            "hE": 74701,
+            "tags": [
+              "疫情",
+              "梅毒",
+              "日本"
+            ]
+          },
+          {
+            "eventId": "193190aa4ba0629710180027",
+            "img": "3.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "云南嘉华被曝实习生向鲜花饼吐痰",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 2.71,
+            "hE": 58662,
+            "tags": [
+              "鲜花饼",
+              "云南",
+              "吐痰",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 2.7,
+            "hE": 58387,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 0,
+            "pro": 2.1,
+            "hE": 45452,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "b5a9e2b3800ea33710180056",
+            "img": "55.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "资助女生遭威胁：不打钱就曝光",
+            "startTime": 1788969600000,
+            "oldPoint": 0,
+            "pro": 1.86,
+            "hE": 40110,
+            "tags": [
+              "资助",
+              "道德绑架"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 275116
+          }
+        ]
+      },
+      {
+        "time": "2026-09-11",
+        "sumH": 960148,
+        "info": [
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 20.05,
+            "hE": 192497,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 1,
+            "pro": 11.86,
+            "hE": 113898,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 11.01,
+            "hE": 105691,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "98be063cd9ce0e7a10180063",
+            "img": "3.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "警方通报江西台记者采访被打",
+            "startTime": 1789056000000,
+            "oldPoint": 36,
+            "pro": 8.38,
+            "hE": 80495,
+            "tags": [
+              "记者",
+              "江西",
+              "殴打"
+            ]
+          },
+          {
+            "eventId": "e3a3d2d44052d00910180058",
+            "img": "2.jpg",
+            "pointPro": 99.95,
+            "firstType": "违法犯罪",
+            "name": "打假网红“铁头”一审获刑8年",
+            "startTime": 1789056000000,
+            "oldPoint": 66,
+            "pro": 5.87,
+            "hE": 56402,
+            "tags": [
+              "网红",
+              "违法"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 8,
+            "pro": 4.86,
+            "hE": 46638,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "006017b61dd0350310180045",
+            "img": "2.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "上海市体育局通报刘翔安置问题",
+            "startTime": 1788969600000,
+            "oldPoint": 2,
+            "pro": 3.77,
+            "hE": 36180,
+            "tags": [
+              "刘翔",
+              "上海市体育局",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "1c7ec2bd3243522110180015",
+            "img": "4.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "4岁男童被指摸臀事件完整监控曝光",
+            "startTime": 1788710400000,
+            "oldPoint": 7,
+            "pro": 3.68,
+            "hE": 35377,
+            "tags": [
+              "男童",
+              "湖南",
+              "民事纠纷"
+            ]
+          },
+          {
+            "eventId": "04997dda22a5a2a410180054",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "瑞浦兰钧回应“员工在车间裸奔”",
+            "startTime": 1788969600000,
+            "oldPoint": 11,
+            "pro": 3.09,
+            "hE": 29669,
+            "tags": [
+              "瑞浦兰钧",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0abb764801db2cb610180062",
+            "img": "6.jpg",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "雷宇扬去世",
+            "startTime": 1789056000000,
+            "oldPoint": 69,
+            "pro": 2.93,
+            "hE": 28127,
+            "tags": [
+              "雷宇扬",
+              "娱乐明星",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 235174
+          }
+        ]
+      },
+      {
+        "time": "2026-09-12",
+        "sumH": 635746,
+        "info": [
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 16.28,
+            "hE": 103478,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "e87e0984890154e210180082",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "支付宝回应网传假App伪造转账截图",
+            "startTime": 1789142400000,
+            "oldPoint": 80,
+            "pro": 12.53,
+            "hE": 79676,
+            "tags": [
+              "支付宝",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 1,
+            "pro": 12,
+            "hE": 76318,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 10.47,
+            "hE": 66553,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 19,
+            "pro": 8.61,
+            "hE": 54709,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 5,
+            "pro": 7.33,
+            "hE": 46575,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "bae362601bd057be10180067",
+            "img": "22.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "中国将于2027年接任金砖主席国",
+            "startTime": 1789142400000,
+            "oldPoint": 56,
+            "pro": 6.56,
+            "hE": 41728,
+            "tags": [
+              "金砖国家"
+            ]
+          },
+          {
+            "eventId": "e3a3d2d44052d00910180058",
+            "img": "2.jpg",
+            "pointPro": 99.91,
+            "firstType": "违法犯罪",
+            "name": "打假网红“铁头”一审获刑8年",
+            "startTime": 1789056000000,
+            "oldPoint": 4,
+            "pro": 6.09,
+            "hE": 38733,
+            "tags": [
+              "网红",
+              "违法"
+            ]
+          },
+          {
+            "eventId": "41c9c5ab439c514410180068",
+            "img": "33.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "男子骑车开视频会议撞车",
+            "startTime": 1789056000000,
+            "oldPoint": 27,
+            "pro": 2.49,
+            "hE": 15816,
+            "tags": [
+              "视频会议",
+              "意外事故"
+            ]
+          },
+          {
+            "eventId": "d6edaaa77470c1be10180089",
+            "img": "1.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "女婴月子中心身亡多部门介入调查",
+            "startTime": 1789142400000,
+            "oldPoint": 81,
+            "pro": 1.72,
+            "hE": 10912,
+            "tags": [
+              "月子中心",
+              "婴儿",
+              "广州",
+              "死亡"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 101248
+          }
+        ]
+      },
+      {
+        "time": "2026-09-13",
+        "sumH": 605194,
+        "info": [
+          {
+            "eventId": "de9c37602bd16e7410180066",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "知名主持人敬一丹离世",
+            "startTime": 1789228800000,
+            "oldPoint": 77,
+            "pro": 47.4,
+            "hE": 286835,
+            "tags": [
+              "敬一丹"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 3,
+            "pro": 8.8,
+            "hE": 53262,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 5.5,
+            "hE": 33301,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "63437d27a9404c8b10180074",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "Hyrox回应选手失禁完赛",
+            "startTime": 1789228800000,
+            "oldPoint": 44,
+            "pro": 5.45,
+            "hE": 33011,
+            "tags": [
+              "Hyrox",
+              "回应",
+              "失禁"
+            ]
+          },
+          {
+            "eventId": "3d33646591e0edbd10180073",
+            "img": "3d33646591e0edbd10180073.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "罗永浩吐槽野人先生难吃",
+            "startTime": 1789142400000,
+            "oldPoint": 21,
+            "pro": 3.55,
+            "hE": 21477,
+            "tags": [
+              "罗永浩",
+              "野人先生",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "bae362601bd057be10180067",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "国际",
+            "name": "中国将于2027年接任金砖主席国",
+            "startTime": 1789142400000,
+            "oldPoint": 6,
+            "pro": 3.54,
+            "hE": 21408,
+            "tags": [
+              "金砖国家"
+            ]
+          },
+          {
+            "eventId": "9eb49ce1b2aae98910180011",
+            "img": "1788845892518.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "小米‌2026年秋季旗舰新品发布会‌",
+            "startTime": 1788710400000,
+            "oldPoint": 5,
+            "pro": 2.86,
+            "hE": 17328,
+            "tags": [
+              "小米",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 2,
+            "pro": 2.64,
+            "hE": 15973,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "2e32a4cb70c9ab7910180075",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "违法犯罪",
+            "name": "警方通报黄牛倒卖付航脱口秀门票",
+            "startTime": 1789228800000,
+            "oldPoint": 29,
+            "pro": 2.63,
+            "hE": 15925,
+            "tags": [
+              "付航",
+              "黄牛",
+              "倒卖"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 2.36,
+            "hE": 14308,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 92366
+          }
+        ]
+      },
+      {
+        "time": "2026-09-14",
+        "sumH": 654699,
+        "info": [
+          {
+            "eventId": "3d33646591e0edbd10180073",
+            "img": "3d33646591e0edbd10180073.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "罗永浩吐槽野人先生难吃",
+            "startTime": 1789142400000,
+            "oldPoint": 4,
+            "pro": 17.48,
+            "hE": 114474,
+            "tags": [
+              "罗永浩",
+              "野人先生",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 13.75,
+            "hE": 90021,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "63437d27a9404c8b10180074",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "Hyrox回应选手失禁完赛",
+            "startTime": 1789228800000,
+            "oldPoint": 3,
+            "pro": 11.72,
+            "hE": 76719,
+            "tags": [
+              "Hyrox",
+              "回应",
+              "失禁"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 8.67,
+            "hE": 56789,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "80849599d95d010110180088",
+            "img": "1789438322279.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "赵雷鸟巢演唱会情侣求婚被喊坐下",
+            "startTime": 1789142400000,
+            "oldPoint": 20,
+            "pro": 7.92,
+            "hE": 51852,
+            "tags": [
+              "演唱会",
+              "求婚"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 7,
+            "pro": 7.6,
+            "hE": 49725,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "de0aa7e38557c28510180078",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "卫龙162吨进口魔芋粉因二氧化硫超标被海关拦截退回",
+            "startTime": 1789142400000,
+            "oldPoint": 13,
+            "pro": 4.66,
+            "hE": 30507,
+            "tags": [
+              "卫龙",
+              "魔芋粉",
+              "二氧化硫",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "dd6cad79a362990d10180095",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "违法犯罪",
+            "name": "广州大学城商业区发生持刀伤人案",
+            "startTime": 1789315200000,
+            "oldPoint": 83,
+            "pro": 3.22,
+            "hE": 21068,
+            "tags": [
+              "广州",
+              "持刀伤人"
+            ]
+          },
+          {
+            "eventId": "de9c37602bd16e7410180066",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "知名主持人敬一丹离世",
+            "startTime": 1789228800000,
+            "oldPoint": 0,
+            "pro": 3.13,
+            "hE": 20508,
+            "tags": [
+              "敬一丹"
+            ]
+          },
+          {
+            "eventId": "222d5848e009dec410180077",
+            "img": "4.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "店员跟顾客闹矛盾弄头屑在比萨上",
+            "startTime": 1789315200000,
+            "oldPoint": 48,
+            "pro": 2.51,
+            "hE": 16448,
+            "tags": [
+              "尊宝比萨",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 126588
+          }
+        ]
+      },
+      {
+        "time": "2026-09-15",
+        "sumH": 760695,
+        "info": [
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 43,
+            "pro": 26.63,
+            "hE": 202579,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "80849599d95d010110180088",
+            "img": "1789438322279.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "赵雷鸟巢演唱会情侣求婚被喊坐下",
+            "startTime": 1789142400000,
+            "oldPoint": 4,
+            "pro": 13.03,
+            "hE": 99112,
+            "tags": [
+              "演唱会",
+              "求婚"
+            ]
+          },
+          {
+            "eventId": "3d33646591e0edbd10180073",
+            "img": "3d33646591e0edbd10180073.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "罗永浩吐槽野人先生难吃",
+            "startTime": 1789142400000,
+            "oldPoint": 0,
+            "pro": 7.29,
+            "hE": 55420,
+            "tags": [
+              "罗永浩",
+              "野人先生",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d6edaaa77470c1be10180089",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "女婴月子中心身亡多部门介入调查",
+            "startTime": 1789142400000,
+            "oldPoint": 17,
+            "pro": 6.48,
+            "hE": 49294,
+            "tags": [
+              "月子中心",
+              "婴儿",
+              "广州",
+              "死亡"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 6.38,
+            "hE": 48529,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "43ba511de71dae3e10180090",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "财经",
+            "name": "朱雀二号改遥七运载火箭发射成功",
+            "startTime": 1789401600000,
+            "oldPoint": 83,
+            "pro": 3.65,
+            "hE": 27785,
+            "tags": [
+              "朱雀二号",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 5,
+            "pro": 3.1,
+            "hE": 23584,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "4dd4b8c2ba2c543710180103",
+            "img": "1.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "钟薛高复活了",
+            "startTime": 1789142400000,
+            "oldPoint": 24,
+            "pro": 3.04,
+            "hE": 23119,
+            "tags": [
+              "钟薛高",
+              "复活"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 46,
+            "pro": 2.98,
+            "hE": 22684,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "2625084eb5cb755110180085",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "第十三届北京香山论坛于9月15日启幕",
+            "startTime": 1789401600000,
+            "oldPoint": 62,
+            "pro": 2.98,
+            "hE": 22656,
+            "tags": [
+              "北京香山论坛"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 185933
+          }
+        ]
+      },
+      {
+        "time": "2026-09-16",
+        "sumH": 1129776,
+        "info": [
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 56,
+            "pro": 19.63,
+            "hE": 221800,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.99,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 27,
+            "pro": 7.92,
+            "hE": 89524,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 0,
+            "pro": 7.69,
+            "hE": 86867,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3a1be201788a8ce610180099",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "传“黑人”陈建州突发心梗接受手术",
+            "startTime": 1789401600000,
+            "oldPoint": 24,
+            "pro": 6.64,
+            "hE": 75021,
+            "tags": [
+              "陈建州",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "4dd4b8c2ba2c543710180103",
+            "img": "1.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "钟薛高复活了",
+            "startTime": 1789142400000,
+            "oldPoint": 7,
+            "pro": 5.65,
+            "hE": 63840,
+            "tags": [
+              "钟薛高",
+              "复活"
+            ]
+          },
+          {
+            "eventId": "7d0ca3b27d2cabdc10180104",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "违法犯罪",
+            "name": "南博受赠文物事件处理结果公布",
+            "startTime": 1789488000000,
+            "oldPoint": 73,
+            "pro": 4.77,
+            "hE": 53946,
+            "tags": [
+              "南京博物馆",
+              "违法",
+              "通报",
+              "受贿"
+            ]
+          },
+          {
+            "eventId": "6e0ba1c1a2ab71a810180111",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "王鹤棣工作室针对网络造谣事件报警",
+            "startTime": 1789488000000,
+            "oldPoint": 71,
+            "pro": 4.5,
+            "hE": 50848,
+            "tags": [
+              "王鹤棣",
+              "辟谣",
+              "报警"
+            ]
+          },
+          {
+            "eventId": "3d33646591e0edbd10180073",
+            "img": "3d33646591e0edbd10180073.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "罗永浩吐槽野人先生难吃",
+            "startTime": 1789142400000,
+            "oldPoint": 2,
+            "pro": 4.4,
+            "hE": 49716,
+            "tags": [
+              "罗永浩",
+              "野人先生",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "404313ecab346ca410180107",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "尸皮针计划进军中国市场",
+            "startTime": 1789315200000,
+            "oldPoint": 28,
+            "pro": 4.02,
+            "hE": 45427,
+            "tags": [
+              "爱恩斯生物",
+              "医美",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 8,
+            "pro": 3.88,
+            "hE": 43842,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 348945
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-09-17 07",
+        "sumH": 73759,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 50.97,
+            "hE": 37598,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 6.79,
+            "hE": 5008,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 5.93,
+            "hE": 4371,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.93,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 5.87,
+            "hE": 4327,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 5.7,
+            "hE": 4206,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 0,
+            "pro": 5.43,
+            "hE": 4008,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 0,
+            "pro": 2.9,
+            "hE": 2142,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "9eba39a181b9313b10180108",
+            "img": "6.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "张一鸣成亚洲首富",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 2.57,
+            "hE": 1896,
+            "tags": [
+              "张一鸣",
+              "首富",
+              "亚洲"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 1.96,
+            "hE": 1444,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "7d0ca3b27d2cabdc10180104",
+            "img": "2.jpg",
+            "pointPro": 99.8,
+            "firstType": "违法犯罪",
+            "name": "南博受赠文物事件处理结果公布",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 1.8,
+            "hE": 1331,
+            "tags": [
+              "南京博物馆",
+              "违法",
+              "通报",
+              "受贿"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 7428
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 08",
+        "sumH": 97400,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 52.18,
+            "hE": 50820,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 7.4,
+            "hE": 7208,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 7.08,
+            "hE": 6893,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 6.43,
+            "hE": 6263,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 8,
+            "pro": 4.48,
+            "hE": 4365,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 3.58,
+            "hE": 3492,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 5,
+            "pro": 2.63,
+            "hE": 2557,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "6e0ba1c1a2ab71a810180111",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "王鹤棣工作室针对网络造谣事件报警",
+            "startTime": 1789488000000,
+            "oldPoint": 11,
+            "pro": 1.97,
+            "hE": 1914,
+            "tags": [
+              "王鹤棣",
+              "辟谣",
+              "报警"
+            ]
+          },
+          {
+            "eventId": "9eba39a181b9313b10180108",
+            "img": "6.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "张一鸣成亚洲首富",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 1.89,
+            "hE": 1842,
+            "tags": [
+              "张一鸣",
+              "首富",
+              "亚洲"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 6,
+            "pro": 1.66,
+            "hE": 1619,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 10427
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 09",
+        "sumH": 98255,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 38.86,
+            "hE": 38180,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 5,
+            "pro": 9.23,
+            "hE": 9069,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 7.79,
+            "hE": 7652,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.93,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 7.62,
+            "hE": 7488,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 7.08,
+            "hE": 6953,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 9,
+            "pro": 4.21,
+            "hE": 4141,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 3.93,
+            "hE": 3859,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "6e0ba1c1a2ab71a810180111",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "王鹤棣工作室针对网络造谣事件报警",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 2.33,
+            "hE": 2290,
+            "tags": [
+              "王鹤棣",
+              "辟谣",
+              "报警"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 6,
+            "pro": 2.31,
+            "hE": 2272,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 11,
+            "pro": 1.84,
+            "hE": 1805,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 14546
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 10",
+        "sumH": 92557,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 25.35,
+            "hE": 23460,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 10.36,
+            "hE": 9585,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 10.05,
+            "hE": 9302,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 9.76,
+            "hE": 9037,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 5,
+            "pro": 8.33,
+            "hE": 7707,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 7.72,
+            "hE": 7149,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 3.37,
+            "hE": 3116,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 9,
+            "pro": 3.33,
+            "hE": 3079,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4dd4b8c2ba2c543710180103",
+            "img": "1.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "钟薛高复活了",
+            "startTime": 1789142400000,
+            "oldPoint": 10,
+            "pro": 2.91,
+            "hE": 2690,
+            "tags": [
+              "钟薛高",
+              "复活"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 8,
+            "pro": 2.49,
+            "hE": 2302,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 15130
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 11",
+        "sumH": 80067,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 21.19,
+            "hE": 16968,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 4,
+            "pro": 14.25,
+            "hE": 11412,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 12,
+            "hE": 9608,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 7.54,
+            "hE": 6041,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.93,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 6.01,
+            "hE": 4813,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 5.83,
+            "hE": 4666,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 3.66,
+            "hE": 2927,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "aea8e108c2dad2a510180113",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "一点点门店被曝威胁员工",
+            "startTime": 1789488000000,
+            "oldPoint": 24,
+            "pro": 3.05,
+            "hE": 2444,
+            "tags": [
+              "一点点",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a4d7ecca9a9abc0c10180117",
+            "img": "3.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "初代网红“晚晚”做女装月销额破千万",
+            "startTime": 1789488000000,
+            "oldPoint": 21,
+            "pro": 2.97,
+            "hE": 2377,
+            "tags": [
+              "泡泡玛特",
+              "木睦艺术",
+              "女装"
+            ]
+          },
+          {
+            "eventId": "4dd4b8c2ba2c543710180103",
+            "img": "1.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "钟薛高复活了",
+            "startTime": 1789142400000,
+            "oldPoint": 8,
+            "pro": 2.82,
+            "hE": 2262,
+            "tags": [
+              "钟薛高",
+              "复活"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 16549
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 12",
+        "sumH": 44454,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 22.43,
+            "hE": 9972,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 1,
+            "pro": 11.68,
+            "hE": 5193,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 2,
+            "pro": 11.26,
+            "hE": 5005,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 7.93,
+            "hE": 3526,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 6.82,
+            "hE": 3032,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 5.88,
+            "hE": 2614,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 5.31,
+            "hE": 2360,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 10,
+            "pro": 4.09,
+            "hE": 1817,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "aea8e108c2dad2a510180113",
+            "img": "33.png",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "一点点门店被曝威胁员工",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 3.49,
+            "hE": 1552,
+            "tags": [
+              "一点点",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 12,
+            "pro": 3.01,
+            "hE": 1340,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 8043
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 13",
+        "sumH": 35872,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 34.26,
+            "hE": 12291,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 11.97,
+            "hE": 4295,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 6.74,
+            "hE": 2419,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 6.37,
+            "hE": 2287,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 6.15,
+            "hE": 2207,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "aea8e108c2dad2a510180113",
+            "img": "33.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "一点点门店被曝威胁员工",
+            "startTime": 1789488000000,
+            "oldPoint": 8,
+            "pro": 5.2,
+            "hE": 1864,
+            "tags": [
+              "一点点",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a4d7ecca9a9abc0c10180117",
+            "img": "3.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "初代网红“晚晚”做女装月销额破千万",
+            "startTime": 1789488000000,
+            "oldPoint": 16,
+            "pro": 5.19,
+            "hE": 1860,
+            "tags": [
+              "泡泡玛特",
+              "木睦艺术",
+              "女装"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 9,
+            "pro": 4.55,
+            "hE": 1632,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 7,
+            "pro": 3.67,
+            "hE": 1318,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "2625084eb5cb755110180085",
+            "img": "44.png",
+            "pointPro": 99.74,
+            "firstType": "国际",
+            "name": "第十三届北京香山论坛于9月15日启幕",
+            "startTime": 1789401600000,
+            "oldPoint": 13,
+            "pro": 2.61,
+            "hE": 935,
+            "tags": [
+              "北京香山论坛"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4764
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 14",
+        "sumH": 50011,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 23.62,
+            "hE": 11810,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 13.79,
+            "hE": 6897,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 11.5,
+            "hE": 5753,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 9.73,
+            "hE": 4865,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 8.36,
+            "hE": 4182,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "a4d7ecca9a9abc0c10180117",
+            "img": "3.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "初代网红“晚晚”做女装月销额破千万",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 6.44,
+            "hE": 3222,
+            "tags": [
+              "泡泡玛特",
+              "木睦艺术",
+              "女装"
+            ]
+          },
+          {
+            "eventId": "aea8e108c2dad2a510180113",
+            "img": "33.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "一点点门店被曝威胁员工",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 4.4,
+            "hE": 2199,
+            "tags": [
+              "一点点",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4dd4b8c2ba2c543710180103",
+            "img": "1.png",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "钟薛高复活了",
+            "startTime": 1789142400000,
+            "oldPoint": 11,
+            "pro": 3.18,
+            "hE": 1591,
+            "tags": [
+              "钟薛高",
+              "复活"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 8,
+            "pro": 3.09,
+            "hE": 1546,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "2625084eb5cb755110180085",
+            "img": "44.png",
+            "pointPro": 99.74,
+            "firstType": "国际",
+            "name": "第十三届北京香山论坛于9月15日启幕",
+            "startTime": 1789401600000,
+            "oldPoint": 9,
+            "pro": 2.57,
+            "hE": 1288,
+            "tags": [
+              "北京香山论坛"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6658
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 15",
+        "sumH": 70135,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 17.56,
+            "hE": 12313,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 10,
+            "pro": 14.16,
+            "hE": 9930,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 12.58,
+            "hE": 8823,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "457cc3d903bed45b10180115",
+            "img": "1.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "问界将正式撤出鸿蒙智行和华为专卖店",
+            "startTime": 1789574400000,
+            "oldPoint": 41,
+            "pro": 12.34,
+            "hE": 8655,
+            "tags": [
+              "华为",
+              "问界",
+              "鸿蒙智行"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 7.6,
+            "hE": 5333,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "a4d7ecca9a9abc0c10180117",
+            "img": "3.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "初代网红“晚晚”做女装月销额破千万",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 7.53,
+            "hE": 5283,
+            "tags": [
+              "泡泡玛特",
+              "木睦艺术",
+              "女装"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 6.15,
+            "hE": 4313,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 3.88,
+            "hE": 2721,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 8,
+            "pro": 3.85,
+            "hE": 2699,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "3a1be201788a8ce610180099",
+            "img": "44.png",
+            "pointPro": 99.73,
+            "firstType": "娱乐",
+            "name": "传“黑人”陈建州突发心梗接受手术",
+            "startTime": 1789401600000,
+            "oldPoint": 11,
+            "pro": 2.65,
+            "hE": 1860,
+            "tags": [
+              "陈建州",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 8205
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 16",
+        "sumH": 59406,
+        "info": [
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 1,
+            "pro": 17.22,
+            "hE": 10232,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "457cc3d903bed45b10180115",
+            "img": "1.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "问界将正式撤出鸿蒙智行和华为专卖店",
+            "startTime": 1789574400000,
+            "oldPoint": 3,
+            "pro": 15.17,
+            "hE": 9012,
+            "tags": [
+              "华为",
+              "问界",
+              "鸿蒙智行"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 14.53,
+            "hE": 8630,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 9.78,
+            "hE": 5809,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 9.67,
+            "hE": 5746,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "3a1be201788a8ce610180099",
+            "img": "44.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "传“黑人”陈建州突发心梗接受手术",
+            "startTime": 1789401600000,
+            "oldPoint": 9,
+            "pro": 6.94,
+            "hE": 4121,
+            "tags": [
+              "陈建州",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 6.36,
+            "hE": 3776,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.81,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 3.97,
+            "hE": 2357,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "2625084eb5cb755110180085",
+            "img": "44.png",
+            "pointPro": 99.78,
+            "firstType": "国际",
+            "name": "第十三届北京香山论坛于9月15日启幕",
+            "startTime": 1789401600000,
+            "oldPoint": 13,
+            "pro": 2.54,
+            "hE": 1508,
+            "tags": [
+              "北京香山论坛"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 8,
+            "pro": 2.18,
+            "hE": 1297,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6918
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 17",
+        "sumH": 80376,
+        "info": [
+          {
+            "eventId": "5b144ccb884bab3410180118",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "辽宁省政协原副主席戴玉林被查",
+            "startTime": 1789574400000,
+            "oldPoint": 18,
+            "pro": 22.07,
+            "hE": 17737,
+            "tags": [
+              "戴玉林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 0,
+            "pro": 14.81,
+            "hE": 11901,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "457cc3d903bed45b10180115",
+            "img": "1.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "问界将正式撤出鸿蒙智行和华为专卖店",
+            "startTime": 1789574400000,
+            "oldPoint": 1,
+            "pro": 12.94,
+            "hE": 10403,
+            "tags": [
+              "华为",
+              "问界",
+              "鸿蒙智行"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 12.8,
+            "hE": 10284,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.9,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 6.84,
+            "hE": 5498,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "e69c35d200219a2510180120",
+            "img": "6.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "女生称同济大学痛经请假需脱裤检查",
+            "startTime": 1789574400000,
+            "oldPoint": 11,
+            "pro": 6.17,
+            "hE": 4960,
+            "tags": [
+              "同济大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "3a1be201788a8ce610180099",
+            "img": "44.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "传“黑人”陈建州突发心梗接受手术",
+            "startTime": 1789401600000,
+            "oldPoint": 5,
+            "pro": 3.83,
+            "hE": 3078,
+            "tags": [
+              "陈建州",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 3.82,
+            "hE": 3073,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 2.79,
+            "hE": 2239,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.77,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 2.37,
+            "hE": 1906,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 9297
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17 18",
+        "sumH": 49050,
+        "info": [
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 1,
+            "pro": 17.45,
+            "hE": 8561,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 12.71,
+            "hE": 6233,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "457cc3d903bed45b10180115",
+            "img": "1.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "问界将正式撤出鸿蒙智行和华为专卖店",
+            "startTime": 1789574400000,
+            "oldPoint": 2,
+            "pro": 11.57,
+            "hE": 5675,
+            "tags": [
+              "华为",
+              "问界",
+              "鸿蒙智行"
+            ]
+          },
+          {
+            "eventId": "e69c35d200219a2510180120",
+            "img": "6.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "女生称同济大学痛经请假需脱裤检查",
+            "startTime": 1789574400000,
+            "oldPoint": 5,
+            "pro": 11,
+            "hE": 5398,
+            "tags": [
+              "同济大学",
+              "回应"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 8,
+            "pro": 7.26,
+            "hE": 3560,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "1b719c525037241e10180119",
+            "img": "5.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "中国运动员在日本机场干等6小时",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 6.24,
+            "hE": 3059,
+            "tags": [
+              "机场",
+              "亚运会",
+              "运动员",
+              "被困"
+            ]
+          },
+          {
+            "eventId": "3a1be201788a8ce610180099",
+            "img": "44.png",
+            "pointPro": 99.84,
+            "firstType": "娱乐",
+            "name": "传“黑人”陈建州突发心梗接受手术",
+            "startTime": 1789401600000,
+            "oldPoint": 6,
+            "pro": 5.66,
+            "hE": 2775,
+            "tags": [
+              "陈建州",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "5b144ccb884bab3410180118",
+            "img": "4.jpg",
+            "pointPro": 99.81,
+            "firstType": "政务",
+            "name": "辽宁省政协原副主席戴玉林被查",
+            "startTime": 1789574400000,
+            "oldPoint": 0,
+            "pro": 5.53,
+            "hE": 2711,
+            "tags": [
+              "戴玉林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 13,
+            "pro": 3.34,
+            "hE": 1638,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 3.27,
+            "hE": 1606,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 7834
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
