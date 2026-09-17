@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-17T01:39:14.869Z",
-  "sourceGeneratedAt": "2026-09-17T09:39:09.694Z",
+  "generatedAt": "2026-09-17T02:16:30.199Z",
+  "sourceGeneratedAt": "2026-09-17T10:16:26.970Z",
   "date": "2026-09-17",
   "rulesSummary": {
     "maxRankPerPlatform": 30,
@@ -10,14 +10,14 @@
   },
   "candidates": [
     {
-      "id": "weibo-2-美联储宣布加息25个基点",
+      "id": "weibo-15-美联储宣布加息25个基点",
       "title": "美联储宣布加息25个基点",
       "crossPlatform": true,
       "platforms": [
         {
           "platform": "weibo",
-          "rank": 2,
-          "hot": 1149347,
+          "rank": 15,
+          "hot": 296215,
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
@@ -26,7 +26,7 @@
         {
           "platform": "douyin",
           "rank": 1,
-          "hot": 11341482,
+          "hot": 11457094,
           "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -42,7 +42,7 @@
         {
           "platform": "webwide",
           "rank": 1,
-          "hot": 48758,
+          "hot": 28263,
           "url": "https://ef.zhiweidata.com/eventRk/0861278071bde36d10180112/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
@@ -58,7 +58,7 @@
         {
           "platform": "weibo",
           "rank": 1,
-          "hot": 3462272,
+          "hot": 2523193,
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%89%8B%E5%BC%8F%E7%9D%A1%E5%A7%BF%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E6%B1%82%E6%95%91%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
@@ -77,21 +77,21 @@
           "hot": "947.5w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E4%B8%87%E8%83%BD%E6%97%85%E8%A1%8C%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-2-国乒落地名古屋机场遭遇长时间滞留",
-      "title": "国乒落地名古屋机场遭遇长时间滞留",
+      "id": "webwide-2-苹果2026秋季新品发布会",
+      "title": "苹果2026秋季新品发布会",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 2,
-          "hot": 6506,
-          "url": "https://ef.zhiweidata.com/eventRk/a248c0172d55cb2510180114/profil",
+          "hot": 8982,
+          "url": "https://ef.zhiweidata.com/eventRk/317596e254e1a57d10180042/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -99,15 +99,31 @@
       ]
     },
     {
-      "id": "douyin-2-u23国足21战胜朝鲜u23",
-      "title": "U23国足2:1战胜朝鲜U23",
+      "id": "weibo-2-芒果一口气推出89部大剧",
+      "title": "芒果一口气推出89部大剧",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 2,
+          "hot": 1012456,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E4%B8%80%E5%8F%A3%E6%B0%94%E6%8E%A8%E5%87%BA89%E9%83%A8%E5%A4%A7%E5%89%A7%23",
+          "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ]
+    },
+    {
+      "id": "douyin-2-各地已进入秋季最佳赏味期",
+      "title": "各地已进入秋季最佳赏味期",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 2,
-          "hot": 11314178,
-          "url": "https://www.douyin.com/search/U23%E5%9B%BD%E8%B6%B32%3A1%E6%88%98%E8%83%9C%E6%9C%9D%E9%B2%9CU23",
+          "hot": 11454506,
+          "url": "https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E5%B7%B2%E8%BF%9B%E5%85%A5%E7%A7%8B%E5%AD%A3%E6%9C%80%E4%BD%B3%E8%B5%8F%E5%91%B3%E6%9C%9F",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -125,21 +141,21 @@
           "hot": "934.8w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%97%E6%97%B6%E4%B8%89%E5%B9%B4%E6%8B%8D%E4%B8%8B%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-3-警方调查南方医科大学跳楼事件",
-      "title": "警方调查南方医科大学跳楼事件",
+      "id": "webwide-3-国乒落地名古屋机场遭遇长时间滞留",
+      "title": "国乒落地名古屋机场遭遇长时间滞留",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 3,
-          "hot": 6213,
-          "url": "https://ef.zhiweidata.com/eventRk/20171dd475958a6910180106/profil",
+          "hot": 5190,
+          "url": "https://ef.zhiweidata.com/eventRk/a248c0172d55cb2510180114/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -147,15 +163,15 @@
       ]
     },
     {
-      "id": "weibo-3-数说国民经济8月成绩单",
-      "title": "数说国民经济8月成绩单",
+      "id": "weibo-3-多举措发力推动经济持续向好",
+      "title": "多举措发力推动经济持续向好",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 3,
-          "hot": 929560,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E8%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23",
+          "hot": 940084,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%BE%E6%8E%AA%E5%8F%91%E5%8A%9B%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -163,15 +179,15 @@
       ]
     },
     {
-      "id": "douyin-3-全国铁路完成固定资产投资5118亿",
-      "title": "全国铁路完成固定资产投资5118亿",
+      "id": "douyin-3-平陆运河究竟有多夯",
+      "title": "平陆运河究竟有多“夯”",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 3,
-          "hot": 11253219,
-          "url": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E5%AE%8C%E6%88%90%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7%E6%8A%95%E8%B5%845118%E4%BA%BF",
+          "hot": 11433531,
+          "url": "https://www.douyin.com/search/%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E2%80%9C%E5%A4%AF%E2%80%9D",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -189,21 +205,21 @@
           "hot": "903.2w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B5%B7%E9%B8%A5%E9%9B%A8&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-4-苹果2026秋季新品发布会",
-      "title": "苹果2026秋季新品发布会",
+      "id": "webwide-4-警方调查南方医科大学跳楼事件",
+      "title": "警方调查南方医科大学跳楼事件",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 4,
-          "hot": 3318,
-          "url": "https://ef.zhiweidata.com/eventRk/317596e254e1a57d10180042/profil",
+          "hot": 5162,
+          "url": "https://ef.zhiweidata.com/eventRk/20171dd475958a6910180106/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -211,14 +227,14 @@
       ]
     },
     {
-      "id": "weibo-4-小鹏g9l今晚上市",
-      "title": "小鹏G9L今晚上市",
+      "id": "weibo-4-oppo系统coloros17发布",
+      "title": "OPPO系统ColorOS17发布",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 4,
-          "hot": 908624,
+          "hot": 931397,
           "url": "",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
@@ -227,15 +243,15 @@
       ]
     },
     {
-      "id": "douyin-4-各地已进入秋季最佳赏味期",
-      "title": "各地已进入秋季最佳赏味期",
+      "id": "douyin-4-原相机的风吹到了创大",
+      "title": "原相机的风吹到了创大",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 4,
-          "hot": 11189897,
-          "url": "https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E5%B7%B2%E8%BF%9B%E5%85%A5%E7%A7%8B%E5%AD%A3%E6%9C%80%E4%BD%B3%E8%B5%8F%E5%91%B3%E6%9C%9F",
+          "hot": 11377306,
+          "url": "https://www.douyin.com/search/%E5%8E%9F%E7%9B%B8%E6%9C%BA%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%88%9B%E5%A4%A7",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -253,21 +269,21 @@
           "hot": "886w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E6%97%A5%E5%B8%B8%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B%E9%80%9F%E6%9D%A5get&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-5-两次亲子鉴定确认孙子非亡父亲生",
-      "title": "两次亲子鉴定确认孙子非亡父亲生",
+      "id": "webwide-5-苹果推出首款折叠屏iphoneduo",
+      "title": "苹果推出首款折叠屏iPhone Duo",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 5,
-          "hot": 2557,
-          "url": "https://ef.zhiweidata.com/eventRk/837c742b425e65c910180098/profil",
+          "hot": 3962,
+          "url": "https://ef.zhiweidata.com/eventRk/e2a68ed6cd321c5710180038/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -275,15 +291,15 @@
       ]
     },
     {
-      "id": "weibo-5-谭松韵打破了女主遇事硬扛的套路",
-      "title": "谭松韵打破了女主遇事硬扛的套路",
+      "id": "weibo-5-vogue肖战十月刊封面",
+      "title": "VOGUE肖战十月刊封面",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 5,
-          "hot": 739228,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%89%93%E7%A0%B4%E4%BA%86%E5%A5%B3%E4%B8%BB%E9%81%87%E4%BA%8B%E7%A1%AC%E6%89%9B%E7%9A%84%E5%A5%97%E8%B7%AF%23",
+          "hot": 916605,
+          "url": "https://s.weibo.com/weibo?q=%23VOGUE%E8%82%96%E6%88%98%E5%8D%81%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -291,15 +307,15 @@
       ]
     },
     {
-      "id": "douyin-5-原相机的风吹到了创大",
-      "title": "原相机的风吹到了创大",
+      "id": "douyin-5-u23国足21战胜朝鲜u23",
+      "title": "U23国足2:1战胜朝鲜U23",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 5,
-          "hot": 10617916,
-          "url": "https://www.douyin.com/search/%E5%8E%9F%E7%9B%B8%E6%9C%BA%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%88%9B%E5%A4%A7",
+          "hot": 10666781,
+          "url": "https://www.douyin.com/search/U23%E5%9B%BD%E8%B6%B32%3A1%E6%88%98%E8%83%9C%E6%9C%9D%E9%B2%9CU23",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -317,21 +333,21 @@
           "hot": "871.1w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%9A%E6%A0%BC%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-6-王鹤棣工作室针对网络造谣事件报警",
-      "title": "王鹤棣工作室针对网络造谣事件报警",
+      "id": "webwide-6-两次亲子鉴定确认孙子非亡父亲生",
+      "title": "两次亲子鉴定确认孙子非亡父亲生",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 6,
-          "hot": 1914,
-          "url": "https://ef.zhiweidata.com/eventRk/6e0ba1c1a2ab71a810180111/profil",
+          "hot": 2271,
+          "url": "https://ef.zhiweidata.com/eventRk/837c742b425e65c910180098/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -339,15 +355,15 @@
       ]
     },
     {
-      "id": "weibo-6-黄金",
-      "title": "黄金",
+      "id": "weibo-6-孙颖莎被困机场期间锻炼身体",
+      "title": "孙颖莎被困机场期间锻炼身体",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 6,
-          "hot": 737300,
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23",
+          "hot": 661250,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA%E6%9C%9F%E9%97%B4%E9%94%BB%E7%82%BC%E8%BA%AB%E4%BD%93%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -362,7 +378,7 @@
         {
           "platform": "douyin",
           "rank": 6,
-          "hot": 10340261,
+          "hot": 10550774,
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%B0%86%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -381,21 +397,21 @@
           "hot": "783.1w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E7%9A%84%E7%BE%8E%E6%99%AF&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-7-张一鸣成亚洲首富",
-      "title": "张一鸣成亚洲首富",
+      "id": "webwide-7-王鹤棣工作室针对网络造谣事件报警",
+      "title": "王鹤棣工作室针对网络造谣事件报警",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 7,
-          "hot": 1673,
-          "url": "https://ef.zhiweidata.com/eventRk/9eba39a181b9313b10180108/profil",
+          "hot": 2210,
+          "url": "https://ef.zhiweidata.com/eventRk/6e0ba1c1a2ab71a810180111/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -403,15 +419,15 @@
       ]
     },
     {
-      "id": "weibo-7-南医大坠亡事件导师学生聊天记录",
-      "title": "南医大坠亡事件导师学生聊天记录",
+      "id": "weibo-7-侵华日军暴行视频证据",
+      "title": "侵华日军暴行视频证据",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 7,
-          "hot": 725185,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E5%AF%BC%E5%B8%88%E5%AD%A6%E7%94%9F%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23",
+          "hot": 507320,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E6%9A%B4%E8%A1%8C%E8%A7%86%E9%A2%91%E8%AF%81%E6%8D%AE%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -419,15 +435,15 @@
       ]
     },
     {
-      "id": "douyin-7-非遗花好月圆灯的浪漫",
-      "title": "非遗花好月圆灯的浪漫",
+      "id": "douyin-7-现场见证亚运男足首秀逆转",
+      "title": "现场见证亚运男足首秀逆转",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 7,
-          "hot": 9000051,
-          "url": "https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%86%E7%81%AF%E7%9A%84%E6%B5%AA%E6%BC%AB",
+          "hot": 9271790,
+          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%E9%A6%96%E7%A7%80%E9%80%86%E8%BD%AC",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -445,21 +461,21 @@
           "hot": "749.8w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B8%8A%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%9C%E7%94%BB%E4%BA%86&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-8-苹果推出首款折叠屏iphoneduo",
-      "title": "苹果推出首款折叠屏iPhone Duo",
+      "id": "webwide-8-华为赛力斯合作模式调整",
+      "title": "华为赛力斯合作模式调整",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 8,
-          "hot": 1551,
-          "url": "https://ef.zhiweidata.com/eventRk/e2a68ed6cd321c5710180038/profil",
+          "hot": 1289,
+          "url": "https://ef.zhiweidata.com/eventRk/04b0cc0317d64a9010180100/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -467,15 +483,15 @@
       ]
     },
     {
-      "id": "weibo-8-北海辟谣地角渔港禁止木船卖鱼",
-      "title": "北海辟谣地角渔港禁止木船卖鱼",
+      "id": "weibo-8-南医大坠亡事件导师学生聊天记录",
+      "title": "南医大坠亡事件导师学生聊天记录",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 8,
-          "hot": 709603,
-          "url": "",
+          "hot": 499133,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E5%AF%BC%E5%B8%88%E5%AD%A6%E7%94%9F%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -483,15 +499,15 @@
       ]
     },
     {
-      "id": "douyin-8-新手化妆步骤极简版来了",
-      "title": "新手化妆步骤极简版来了",
+      "id": "douyin-8-非遗花好月圆灯的浪漫",
+      "title": "非遗花好月圆灯的浪漫",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 8,
-          "hot": 8933352,
-          "url": "https://www.douyin.com/search/%E6%96%B0%E6%89%8B%E5%8C%96%E5%A6%86%E6%AD%A5%E9%AA%A4%E6%9E%81%E7%AE%80%E7%89%88%E6%9D%A5%E4%BA%86",
+          "hot": 9083846,
+          "url": "https://www.douyin.com/search/%E9%9D%9E%E9%81%97%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%86%E7%81%AF%E7%9A%84%E6%B5%AA%E6%BC%AB",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -509,7 +525,7 @@
           "hot": "737.1w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%97%85%E8%A1%8C%E6%9B%B4%E5%83%8F%E6%98%AF%E6%89%93%E5%89%AF%E6%9C%AC&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
@@ -522,7 +538,7 @@
         {
           "platform": "webwide",
           "rank": 9,
-          "hot": 1477,
+          "hot": 1251,
           "url": "https://ef.zhiweidata.com/eventRk/aea8e108c2dad2a510180113/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
@@ -531,15 +547,15 @@
       ]
     },
     {
-      "id": "weibo-9-iphoneduo微信登录争议",
-      "title": "iPhone Duo微信登录争议",
+      "id": "weibo-9-谭松韵打破了女主遇事硬扛的套路",
+      "title": "谭松韵打破了女主遇事硬扛的套路",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 9,
-          "hot": 702602,
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%20Duo%E5%BE%AE%E4%BF%A1%E7%99%BB%E5%BD%95%E4%BA%89%E8%AE%AE%23",
+          "hot": 408199,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%89%93%E7%A0%B4%E4%BA%86%E5%A5%B3%E4%B8%BB%E9%81%87%E4%BA%8B%E7%A1%AC%E6%89%9B%E7%9A%84%E5%A5%97%E8%B7%AF%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -547,15 +563,15 @@
       ]
     },
     {
-      "id": "douyin-9-首届剥石榴大赛来了",
-      "title": "首届剥石榴大赛来了",
+      "id": "douyin-9-新手化妆步骤极简版来了",
+      "title": "新手化妆步骤极简版来了",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 9,
-          "hot": 8786353,
-          "url": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E5%89%A5%E7%9F%B3%E6%A6%B4%E5%A4%A7%E8%B5%9B%E6%9D%A5%E4%BA%86",
+          "hot": 9066830,
+          "url": "https://www.douyin.com/search/%E6%96%B0%E6%89%8B%E5%8C%96%E5%A6%86%E6%AD%A5%E9%AA%A4%E6%9E%81%E7%AE%80%E7%89%88%E6%9D%A5%E4%BA%86",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -573,21 +589,21 @@
           "hot": "727.8w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "webwide-10-华为赛力斯合作模式调整",
-      "title": "华为赛力斯合作模式调整",
+      "id": "webwide-10-张一鸣成亚洲首富",
+      "title": "张一鸣成亚洲首富",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "webwide",
           "rank": 10,
-          "hot": 1460,
-          "url": "https://ef.zhiweidata.com/eventRk/04b0cc0317d64a9010180100/profil",
+          "hot": 1148,
+          "url": "https://ef.zhiweidata.com/eventRk/9eba39a181b9313b10180108/profil",
           "sourceName": "webwide",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -595,15 +611,15 @@
       ]
     },
     {
-      "id": "weibo-10-连休13天大学汇总",
-      "title": "连休13天大学汇总",
+      "id": "weibo-10-何不同舟渡",
+      "title": "何不同舟渡",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 10,
-          "hot": 457569,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BC%9113%E5%A4%A9%E5%A4%A7%E5%AD%A6%E6%B1%87%E6%80%BB%23",
+          "hot": 334276,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -618,7 +634,7 @@
         {
           "platform": "douyin",
           "rank": 10,
-          "hot": 8646203,
+          "hot": 9040203,
           "url": "https://www.douyin.com/search/%E4%B8%8D%E7%AE%A1%E4%BA%86%E6%88%91%E5%85%88%E5%8A%A0%E5%85%A5%E5%8F%AF%E5%8F%AF%E7%B3%BB",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -637,21 +653,21 @@
           "hot": "716.2w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-11-曝国乒落地名古屋被困机场",
-      "title": "曝国乒落地名古屋被困机场",
+      "id": "weibo-11-tim吐槽iphoneduo录视频发",
+      "title": "tim吐槽iPhoneDuo录视频发热严重",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 11,
-          "hot": 433051,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%9B%BD%E4%B9%92%E8%90%BD%E5%9C%B0%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA%23",
+          "hot": 306298,
+          "url": "https://s.weibo.com/weibo?q=%23tim%E5%90%90%E6%A7%BDiPhoneDuo%E5%BD%95%E8%A7%86%E9%A2%91%E5%8F%91%E7%83%AD%E4%B8%A5%E9%87%8D%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -659,15 +675,15 @@
       ]
     },
     {
-      "id": "douyin-11-蜜薯正式进入四拼口味时代",
-      "title": "蜜薯正式进入四拼口味时代",
+      "id": "douyin-11-首届剥石榴大赛来了",
+      "title": "首届剥石榴大赛来了",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 11,
-          "hot": 8626265,
-          "url": "https://www.douyin.com/search/%E8%9C%9C%E8%96%AF%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E5%9B%9B%E6%8B%BC%E5%8F%A3%E5%91%B3%E6%97%B6%E4%BB%A3",
+          "hot": 8964601,
+          "url": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E5%89%A5%E7%9F%B3%E6%A6%B4%E5%A4%A7%E8%B5%9B%E6%9D%A5%E4%BA%86",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -685,21 +701,21 @@
           "hot": "703w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B1%9F%E8%A5%BF%E6%9C%80%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%B8%80%E5%BA%A7%E5%B1%B1&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-12-侵华日军暴行视频证据",
-      "title": "侵华日军暴行视频证据",
+      "id": "weibo-12-井柏然第一次收官发女主",
+      "title": "井柏然第一次收官发女主",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 12,
-          "hot": 302578,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E6%9A%B4%E8%A1%8C%E8%A7%86%E9%A2%91%E8%AF%81%E6%8D%AE%23",
+          "hot": 303509,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%94%B6%E5%AE%98%E5%8F%91%E5%A5%B3%E4%B8%BB%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -714,7 +730,7 @@
         {
           "platform": "douyin",
           "rank": 12,
-          "hot": 8026344,
+          "hot": 8917826,
           "url": "https://www.douyin.com/search/%E6%9B%BC%E8%81%942%3A3%E5%B8%83%E8%8E%B1%E9%A1%BF",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -733,21 +749,21 @@
           "hot": "689.4w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B5%B7%E8%BE%B9%E6%97%A5%E8%90%BD%E8%B5%B4%E4%B8%80%E5%9C%BA%E6%B8%A9%E6%9F%94%E7%BA%A6%E4%BC%9A&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-13-井柏然第一次收官发女主",
-      "title": "井柏然第一次收官发女主",
+      "id": "weibo-13-亚运会邮轮房间好小",
+      "title": "亚运会邮轮房间好小",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 13,
-          "hot": 302450,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%94%B6%E5%AE%98%E5%8F%91%E5%A5%B3%E4%B8%BB%23",
+          "hot": 298835,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%82%AE%E8%BD%AE%E6%88%BF%E9%97%B4%E5%A5%BD%E5%B0%8F%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -762,7 +778,7 @@
         {
           "platform": "douyin",
           "rank": 13,
-          "hot": 7964269,
+          "hot": 8184790,
           "url": "https://www.douyin.com/search/%E2%80%9C%E5%9B%BD%E7%9B%9B%E6%B0%91%E5%AE%89%E2%80%9D%E5%85%BB%E8%80%81%E8%A1%A5%E8%B4%B4%E7%B3%BB%E8%AF%88%E9%AA%97",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -781,21 +797,21 @@
           "hot": "241.7w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B9%9F%E8%83%BD%E5%BD%93%E7%81%AB%E6%BC%86%E5%8D%B0%E7%AB%A0%E7%8E%A9&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-14-王鹤棣被造谣维权难度",
-      "title": "王鹤棣被造谣维权难度",
+      "id": "weibo-14-张百乔小雪力破离婚传言",
+      "title": "张百乔小雪力破离婚传言",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 14,
-          "hot": 293926,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A2%AB%E9%80%A0%E8%B0%A3%E7%BB%B4%E6%9D%83%E9%9A%BE%E5%BA%A6%23",
+          "hot": 298760,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%99%BE%E4%B9%94%E5%B0%8F%E9%9B%AA%E5%8A%9B%E7%A0%B4%E7%A6%BB%E5%A9%9A%E4%BC%A0%E8%A8%80%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -803,15 +819,15 @@
       ]
     },
     {
-      "id": "douyin-14-赵露思新剧告别信正式官宣",
-      "title": "赵露思新剧告别信正式官宣",
+      "id": "douyin-14-蜜薯正式进入四拼口味时代",
+      "title": "蜜薯正式进入四拼口味时代",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 14,
-          "hot": 7822393,
-          "url": "https://www.douyin.com/search/%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%96%B0%E5%89%A7%E5%91%8A%E5%88%AB%E4%BF%A1%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3",
+          "hot": 7887300,
+          "url": "https://www.douyin.com/search/%E8%9C%9C%E8%96%AF%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E5%9B%9B%E6%8B%BC%E5%8F%A3%E5%91%B3%E6%97%B6%E4%BB%A3",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -829,22 +845,22 @@
           "hot": "231.8w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E5%88%9B%E9%80%A0%E4%BA%86%E6%96%B0%E5%9E%8B%E9%81%9B%E7%8B%97%E6%B3%95&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-15-男生坠亡前发生了什么",
-      "title": "男生坠亡前发生了什么",
+      "id": "douyin-15-中秋diy花灯我先做了",
+      "title": "中秋DIY花灯我先做了",
       "crossPlatform": false,
       "platforms": [
         {
-          "platform": "weibo",
+          "platform": "douyin",
           "rank": 15,
-          "hot": 285627,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%9D%A0%E4%BA%A1%E5%89%8D%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%23",
-          "sourceName": "weibo",
+          "hot": 7829465,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8BDIY%E8%8A%B1%E7%81%AF%E6%88%91%E5%85%88%E5%81%9A%E4%BA%86",
+          "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
         }
@@ -861,21 +877,21 @@
           "hot": "222.8w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E9%95%9C%E5%A4%B4%E6%8D%95%E6%8D%89%E5%9B%9B%E5%AD%A3%E5%A6%82%E7%94%BB&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-16-张百乔小雪力破离婚传言",
-      "title": "张百乔小雪力破离婚传言",
+      "id": "weibo-16-范玮琪说不然就会像大s",
+      "title": "范玮琪说不然就会像大S",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 16,
-          "hot": 279332,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%99%BE%E4%B9%94%E5%B0%8F%E9%9B%AA%E5%8A%9B%E7%A0%B4%E7%A6%BB%E5%A9%9A%E4%BC%A0%E8%A8%80%23",
+          "hot": 293991,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E8%AF%B4%E4%B8%8D%E7%84%B6%E5%B0%B1%E4%BC%9A%E5%83%8F%E5%A4%A7S%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -890,7 +906,7 @@
         {
           "platform": "douyin",
           "rank": 16,
-          "hot": 7787087,
+          "hot": 7796410,
           "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E7%BE%8E%E8%81%94%E5%82%A8%E8%B5%B6%E7%B4%A7%E9%99%8D%E6%81%AF",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -909,21 +925,21 @@
           "hot": "213.5w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%AC%94%E5%A2%A8%E9%87%8D%E7%8E%B0%E8%AF%BE%E6%9C%AC%E8%AF%97%E6%84%8F&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-17-周鸿祎后悔投资哪吒汽车",
-      "title": "周鸿祎后悔投资哪吒汽车",
+      "id": "weibo-17-浙大老师飞起来了",
+      "title": "浙大老师飞起来了",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 17,
-          "hot": 276434,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%90%8E%E6%82%94%E6%8A%95%E8%B5%84%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%23",
+          "hot": 287987,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E8%80%81%E5%B8%88%E9%A3%9E%E8%B5%B7%E6%9D%A5%E4%BA%86%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -938,7 +954,7 @@
         {
           "platform": "douyin",
           "rank": 17,
-          "hot": 7783150,
+          "hot": 7789874,
           "url": "https://www.douyin.com/search/iPhone%2018%20Pro%E6%B7%B1%E5%BA%A6%E6%B5%8B%E8%AF%84",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -957,21 +973,21 @@
           "hot": "203.3w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B4%B1%E6%B5%B7%E7%9A%84%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-18-孙千发文告别尚之桃",
-      "title": "孙千发文告别尚之桃",
+      "id": "weibo-18-连休13天大学汇总",
+      "title": "连休13天大学汇总",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 18,
-          "hot": 257837,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%B0%9A%E4%B9%8B%E6%A1%83%23",
+          "hot": 272127,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BC%9113%E5%A4%A9%E5%A4%A7%E5%AD%A6%E6%B1%87%E6%80%BB%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -979,15 +995,15 @@
       ]
     },
     {
-      "id": "douyin-18-一口气带你了解平陆运河",
-      "title": "一口气带你了解平陆运河",
+      "id": "douyin-18-不要吝啬对孩子说我爱你",
+      "title": "不要吝啬对孩子说我爱你",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 18,
-          "hot": 7773497,
-          "url": "https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3",
+          "hot": 7788824,
+          "url": "https://www.douyin.com/search/%E4%B8%8D%E8%A6%81%E5%90%9D%E5%95%AC%E5%AF%B9%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%88%91%E7%88%B1%E4%BD%A0",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1005,38 +1021,22 @@
           "hot": "193.8w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%8F%A0%E5%9C%86%E7%8E%89%E6%B6%A6%E5%A6%86%E5%AE%8C%E5%85%A8%E6%98%AF%E6%B7%A1%E9%A2%9C%E5%A4%A9%E8%8F%9C&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-19-樊振东马伊琍东儿和东儿额娘",
-      "title": "樊振东马伊琍 东儿和东儿额娘",
+      "id": "weibo-19-曝国乒落地名古屋被困机场",
+      "title": "曝国乒落地名古屋被困机场",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 19,
-          "hot": 233763,
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E4%BC%8A%E7%90%8D%20%E4%B8%9C%E5%84%BF%E5%92%8C%E4%B8%9C%E5%84%BF%E9%A2%9D%E5%A8%98%23",
+          "hot": 260500,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%9B%BD%E4%B9%92%E8%90%BD%E5%9C%B0%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA%23",
           "sourceName": "weibo",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ]
-    },
-    {
-      "id": "douyin-19-不要吝啬对孩子说我爱你",
-      "title": "不要吝啬对孩子说我爱你",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 19,
-          "hot": 7771946,
-          "url": "https://www.douyin.com/search/%E4%B8%8D%E8%A6%81%E5%90%9D%E5%95%AC%E5%AF%B9%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%88%91%E7%88%B1%E4%BD%A0",
-          "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
         }
@@ -1053,22 +1053,38 @@
           "hot": "184.5w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%A2%8E%E9%92%BB%E7%BE%8E%E7%94%B2%E6%8C%87%E5%B0%96%E8%97%8F%E7%9D%80%E7%BB%86%E7%A2%8E%E6%98%9F%E5%85%89&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-20-孙子非亲生案女方提交聊天截图证据",
-      "title": "孙子非亲生案女方提交聊天截图证据",
+      "id": "weibo-20-周鸿祎后悔投资哪吒汽车",
+      "title": "周鸿祎后悔投资哪吒汽车",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 20,
-          "hot": 225885,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E6%8F%90%E4%BA%A4%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE%E8%AF%81%E6%8D%AE%23",
+          "hot": 256612,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%90%8E%E6%82%94%E6%8A%95%E8%B5%84%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%23",
           "sourceName": "weibo",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ]
+    },
+    {
+      "id": "douyin-20-展示我新学的闪身步",
+      "title": "展示我新学的闪身步",
+      "crossPlatform": false,
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 20,
+          "hot": 7772695,
+          "url": "https://www.douyin.com/search/%E5%B1%95%E7%A4%BA%E6%88%91%E6%96%B0%E5%AD%A6%E7%9A%84%E9%97%AA%E8%BA%AB%E6%AD%A5",
+          "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
         }
@@ -1085,21 +1101,21 @@
           "hot": "175.7w",
           "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%9D%A5%E5%BD%93%E6%97%85%E8%A1%8C%E4%B8%AD%E7%9A%84%E9%A2%9C%E8%89%B2%E7%8C%8E%E6%89%8B&type=51",
           "sourceName": "xhs",
-          "sourceUpdatedAt": "2026-09-17T01:11:42.809Z",
+          "sourceUpdatedAt": "2026-09-17T01:56:49.672Z",
           "collectedAt": null
         }
       ]
     },
     {
-      "id": "weibo-21-何不同舟渡",
-      "title": "何不同舟渡",
+      "id": "weibo-21-生逢其时编剧",
+      "title": "生逢其时编剧",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 21,
-          "hot": 224803,
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1%23",
+          "hot": 249103,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6%E7%BC%96%E5%89%A7%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1107,31 +1123,15 @@
       ]
     },
     {
-      "id": "douyin-21-展示我新学的闪身步",
-      "title": "展示我新学的闪身步",
-      "crossPlatform": false,
-      "platforms": [
-        {
-          "platform": "douyin",
-          "rank": 21,
-          "hot": 7765766,
-          "url": "https://www.douyin.com/search/%E5%B1%95%E7%A4%BA%E6%88%91%E6%96%B0%E5%AD%A6%E7%9A%84%E9%97%AA%E8%BA%AB%E6%AD%A5",
-          "sourceName": "douyin",
-          "sourceUpdatedAt": null,
-          "collectedAt": null
-        }
-      ]
-    },
-    {
-      "id": "weibo-22-南医大事件涉事导师门诊已约满",
-      "title": "南医大事件涉事导师门诊已约满",
+      "id": "weibo-22-坠亡医学生母亲手臂脱臼",
+      "title": "坠亡医学生母亲手臂脱臼",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 22,
-          "hot": 224756,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%BB%E5%A4%A7%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%AF%BC%E5%B8%88%E9%97%A8%E8%AF%8A%E5%B7%B2%E7%BA%A6%E6%BB%A1%23",
+          "hot": 248532,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%8C%BB%E5%AD%A6%E7%94%9F%E6%AF%8D%E4%BA%B2%E6%89%8B%E8%87%82%E8%84%B1%E8%87%BC%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1139,15 +1139,15 @@
       ]
     },
     {
-      "id": "douyin-22-多国代表出席香山论坛开幕式",
-      "title": "多国代表出席香山论坛开幕式",
+      "id": "douyin-22-赵家驹赛中补给吃了啥",
+      "title": "赵家驹赛中补给吃了啥",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 22,
-          "hot": 7759655,
-          "url": "https://www.douyin.com/search/%E5%A4%9A%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E5%BC%80%E5%B9%95%E5%BC%8F",
+          "hot": 7771544,
+          "url": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E8%B5%9B%E4%B8%AD%E8%A1%A5%E7%BB%99%E5%90%83%E4%BA%86%E5%95%A5",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1155,15 +1155,15 @@
       ]
     },
     {
-      "id": "weibo-23-坠亡医学生绩点排第21名",
-      "title": "坠亡医学生绩点排第21名",
+      "id": "weibo-23-iphoneduo微信登录争议",
+      "title": "iPhone Duo微信登录争议",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 23,
-          "hot": 224657,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%BB%A9%E7%82%B9%E6%8E%92%E7%AC%AC21%E5%90%8D%23",
+          "hot": 248087,
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%20Duo%E5%BE%AE%E4%BF%A1%E7%99%BB%E5%BD%95%E4%BA%89%E8%AE%AE%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1171,15 +1171,15 @@
       ]
     },
     {
-      "id": "douyin-23-现场见证亚运男足首秀逆转",
-      "title": "现场见证亚运男足首秀逆转",
+      "id": "douyin-23-赵露思新剧告别信正式官宣",
+      "title": "赵露思新剧告别信正式官宣",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 23,
-          "hot": 7743888,
-          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%E9%A6%96%E7%A7%80%E9%80%86%E8%BD%AC",
+          "hot": 7769204,
+          "url": "https://www.douyin.com/search/%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%96%B0%E5%89%A7%E5%91%8A%E5%88%AB%E4%BF%A1%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1187,15 +1187,15 @@
       ]
     },
     {
-      "id": "weibo-24-六小龄童演张一山师父太合适了",
-      "title": "六小龄童演张一山师父太合适了",
+      "id": "weibo-24-c罗或无缘1000球纪录",
+      "title": "C罗或无缘1000球纪录",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 24,
-          "hot": 223383,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%E6%BC%94%E5%BC%A0%E4%B8%80%E5%B1%B1%E5%B8%88%E7%88%B6%E5%A4%AA%E5%90%88%E9%80%82%E4%BA%86%23",
+          "hot": 244268,
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%88%96%E6%97%A0%E7%BC%981000%E7%90%83%E7%BA%AA%E5%BD%95%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1210,7 +1210,7 @@
         {
           "platform": "douyin",
           "rank": 24,
-          "hot": 7741256,
+          "hot": 7768375,
           "url": "https://www.douyin.com/search/%E5%90%91%E5%92%AA%E8%AE%B8%E6%84%BF%E4%B8%80%E4%B8%AAiPhone%2018",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -1219,15 +1219,15 @@
       ]
     },
     {
-      "id": "weibo-25-特朗普称利率应降至1%或更低",
-      "title": "特朗普称利率应降至1%或更低",
+      "id": "weibo-25-让身体炎症全部消失的方法",
+      "title": "让身体炎症全部消失的方法",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 25,
-          "hot": 223278,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%88%A9%E7%8E%87%E5%BA%94%E9%99%8D%E8%87%B31%25%E6%88%96%E6%9B%B4%E4%BD%8E%23",
+          "hot": 238334,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E8%BA%AB%E4%BD%93%E7%82%8E%E7%97%87%E5%85%A8%E9%83%A8%E6%B6%88%E5%A4%B1%E7%9A%84%E6%96%B9%E6%B3%95%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1235,15 +1235,15 @@
       ]
     },
     {
-      "id": "douyin-25-北京香山论坛为啥能香20年",
-      "title": "北京香山论坛为啥能“香”20年",
+      "id": "douyin-25-平陆运河对沿线的人意味着什么",
+      "title": "平陆运河对沿线的人意味着什么",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 25,
-          "hot": 7738243,
-          "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%B8%BA%E5%95%A5%E8%83%BD%E2%80%9C%E9%A6%99%E2%80%9D20%E5%B9%B4",
+          "hot": 7767722,
+          "url": "https://www.douyin.com/search/%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%AF%B9%E6%B2%BF%E7%BA%BF%E7%9A%84%E4%BA%BA%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1251,15 +1251,15 @@
       ]
     },
     {
-      "id": "weibo-26-孙颖莎被困机场期间锻炼身体",
-      "title": "孙颖莎被困机场期间锻炼身体",
+      "id": "weibo-26-孙千发文告别尚之桃",
+      "title": "孙千发文告别尚之桃",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 26,
-          "hot": 223245,
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA%E6%9C%9F%E9%97%B4%E9%94%BB%E7%82%BC%E8%BA%AB%E4%BD%93%23",
+          "hot": 223038,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%B0%9A%E4%B9%8B%E6%A1%83%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1274,7 +1274,7 @@
         {
           "platform": "douyin",
           "rank": 26,
-          "hot": 7718199,
+          "hot": 7748407,
           "url": "https://www.douyin.com/search/%E9%BB%84%E6%99%AF%E7%91%9C%E6%9B%B4%E6%96%B0%E8%B5%B7%E6%9D%A5%E5%8F%91%E4%BA%86%E7%8B%A0%E5%BF%98%E4%BA%86%E6%83%85",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -1283,15 +1283,15 @@
       ]
     },
     {
-      "id": "weibo-27-蔡少芬汪苏泷关晓彤同一天生日",
-      "title": "蔡少芬汪苏泷关晓彤同一天生日",
+      "id": "weibo-27-猫你啃我妙脆角了",
+      "title": "猫 你啃我妙脆角了",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 27,
-          "hot": 223002,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8C%E4%B8%80%E5%A4%A9%E7%94%9F%E6%97%A5%23",
+          "hot": 216385,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%20%E4%BD%A0%E5%95%83%E6%88%91%E5%A6%99%E8%84%86%E8%A7%92%E4%BA%86%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1299,15 +1299,15 @@
       ]
     },
     {
-      "id": "douyin-27-赵家驹赛中补给吃了啥",
-      "title": "赵家驹赛中补给吃了啥",
+      "id": "douyin-27-北京香山论坛为啥能香20年",
+      "title": "北京香山论坛为啥能“香”20年",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 27,
-          "hot": 7717063,
-          "url": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E8%B5%9B%E4%B8%AD%E8%A1%A5%E7%BB%99%E5%90%83%E4%BA%86%E5%95%A5",
+          "hot": 7740519,
+          "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%B8%BA%E5%95%A5%E8%83%BD%E2%80%9C%E9%A6%99%E2%80%9D20%E5%B9%B4",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1315,15 +1315,15 @@
       ]
     },
     {
-      "id": "weibo-28-让身体炎症全部消失的方法",
-      "title": "让身体炎症全部消失的方法",
+      "id": "weibo-28-肖战vogue银十唯一男星",
+      "title": "肖战 VOGUE银十唯一男星",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 28,
-          "hot": 222883,
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E8%BA%AB%E4%BD%93%E7%82%8E%E7%97%87%E5%85%A8%E9%83%A8%E6%B6%88%E5%A4%B1%E7%9A%84%E6%96%B9%E6%B3%95%23",
+          "hot": 206391,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20VOGUE%E9%93%B6%E5%8D%81%E5%94%AF%E4%B8%80%E7%94%B7%E6%98%9F%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1331,15 +1331,15 @@
       ]
     },
     {
-      "id": "douyin-28-120秒高空俯瞰平陆运河",
-      "title": "120秒高空俯瞰平陆运河",
+      "id": "douyin-28-檀健次回应演员打破固有角色标签",
+      "title": "檀健次回应演员打破固有角色标签",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 28,
-          "hot": 7716657,
-          "url": "https://www.douyin.com/search/120%E7%A7%92%E9%AB%98%E7%A9%BA%E4%BF%AF%E7%9E%B0%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3",
+          "hot": 7736785,
+          "url": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%BC%94%E5%91%98%E6%89%93%E7%A0%B4%E5%9B%BA%E6%9C%89%E8%A7%92%E8%89%B2%E6%A0%87%E7%AD%BE",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1354,7 +1354,7 @@
         {
           "platform": "weibo",
           "rank": 29,
-          "hot": 222786,
+          "hot": 204634,
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%82%B9%E7%82%B9%20%E5%A8%81%E8%83%81%E5%91%98%E5%B7%A5%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
@@ -1363,15 +1363,15 @@
       ]
     },
     {
-      "id": "douyin-29-六小龄童教张一山扮大圣",
-      "title": "六小龄童教张一山扮大圣",
+      "id": "douyin-29-兰香如故的野心女子图鉴",
+      "title": "兰香如故的野心女子图鉴",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "douyin",
           "rank": 29,
-          "hot": 7716407,
-          "url": "https://www.douyin.com/search/%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%E6%95%99%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%89%AE%E5%A4%A7%E5%9C%A3",
+          "hot": 7733544,
+          "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%9A%84%E9%87%8E%E5%BF%83%E5%A5%B3%E5%AD%90%E5%9B%BE%E9%89%B4",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1379,15 +1379,15 @@
       ]
     },
     {
-      "id": "weibo-30-美国房贷利率突破7%",
-      "title": "美国房贷利率突破7%",
+      "id": "weibo-30-谭松韵三十秒没说一句台词",
+      "title": "谭松韵三十秒没说一句台词",
       "crossPlatform": false,
       "platforms": [
         {
           "platform": "weibo",
           "rank": 30,
-          "hot": 222739,
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E7%AA%81%E7%A0%B47%25%23",
+          "hot": 195797,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%89%E5%8D%81%E7%A7%92%E6%B2%A1%E8%AF%B4%E4%B8%80%E5%8F%A5%E5%8F%B0%E8%AF%8D%23",
           "sourceName": "weibo",
           "sourceUpdatedAt": null,
           "collectedAt": null
@@ -1402,7 +1402,7 @@
         {
           "platform": "douyin",
           "rank": 30,
-          "hot": 7708648,
+          "hot": 7730121,
           "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%88%9E%E6%9B%B2%E6%8C%91%E6%88%98",
           "sourceName": "douyin",
           "sourceUpdatedAt": null,
@@ -1413,16 +1413,16 @@
   ],
   "pendingReview": [
     {
-      "id": "douyin-15-香港公布首个五年规划",
-      "title": "香港公布首个五年规划",
+      "id": "douyin-19-国台办回应台湾艺人政治表态问题",
+      "title": "国台办回应台湾艺人政治表态问题",
       "categories": [
         "政治及高度敏感"
       ],
       "reason": "命中「政治及高度敏感」关键词"
     },
     {
-      "id": "douyin-20-国台办回应台湾艺人政治表态问题",
-      "title": "国台办回应台湾艺人政治表态问题",
+      "id": "douyin-21-香港公布首个五年规划",
+      "title": "香港公布首个五年规划",
       "categories": [
         "政治及高度敏感"
       ],
