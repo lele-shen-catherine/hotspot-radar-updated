@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T13:17:25.616Z",
+  "generatedAt": "2026-09-18T13:42:55.793Z",
   "date": "2026-09-18",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
@@ -11,14 +11,14 @@
       "eventName": "华为赛力斯合作模式调整",
       "platform": "知微",
       "rank": 1,
-      "hot": 3277,
-      "hotValue": 3277,
+      "hot": 4414,
+      "hotValue": 4414,
       "url": "https://ef.zhiweidata.com/eventRk/04b0cc0317d64a9010180100/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 3277
+          "hot": 4414
         }
       ],
       "totalScore": 84.5,
@@ -31,7 +31,7 @@
       "duration": "排名上升 4→1, 在榜11小时",
       "rankChange": "排名上升 4→1, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-18T13:17:25.616Z",
+      "collectedAt": "2026-09-18T13:42:55.793Z",
       "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
       "propagation": "国货品牌合作与自主创新的产业信号；国产科技自主可控议题自带议程设置，短视频拆解 + 科技大V视角带动跨平台扩散，讨论在\"期待-验证-对比\"间流转。",
       "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
@@ -44,14 +44,14 @@
       "eventName": "九一八事变爆发95周年",
       "platform": "抖音",
       "rank": 2,
-      "hot": 11423974,
-      "hotValue": 11423974,
+      "hot": 11178790,
+      "hotValue": 11178790,
       "url": "https://www.douyin.com/search/%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E7%88%86%E5%8F%9195%E5%91%A8%E5%B9%B4",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11423974
+          "hot": 11178790
         }
       ],
       "totalScore": 84.3,
@@ -64,7 +64,7 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-09-18T13:17:25.616Z",
+      "collectedAt": "2026-09-18T13:42:55.793Z",
       "eventSummary": "围绕「九一八事变爆发95周年」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「九一八事变爆发95周年」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -72,19 +72,52 @@
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "原来百家讲坛是真的在教东西",
-      "topic": "原来百家讲坛是真的在教东西",
-      "eventName": "原来百家讲坛是真的在教东西",
-      "platform": "微博",
+      "title": "警方调查南方医科大学跳楼事件",
+      "topic": "警方调查南方医科大学跳楼事件",
+      "eventName": "警方调查南方医科大学跳楼事件",
+      "platform": "知微",
       "rank": 3,
-      "hot": 1529275,
-      "hotValue": 1529275,
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%99%BE%E5%AE%B6%E8%AE%B2%E5%9D%9B%E6%98%AF%E7%9C%9F%E7%9A%84%E5%9C%A8%E6%95%99%E4%B8%9C%E8%A5%BF%23",
+      "hot": 2876,
+      "hotValue": 2876,
+      "url": "https://ef.zhiweidata.com/eventRk/20171dd475958a6910180106/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 2876
+        }
+      ],
+      "totalScore": 79,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 3→2, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 3→2, 在榜11小时",
+      "rankChange": "排名上升 3→2, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-09-18T13:42:55.793Z",
+      "eventSummary": "某高校发生人员坠楼事件，警方已介入调查，事件起因与后续处理受到外界关注。",
+      "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
+      "title": "一千元班费引发的家长群大战",
+      "topic": "一千元班费引发的家长群大战",
+      "eventName": "一千元班费引发的家长群大战",
+      "platform": "微博",
+      "rank": 4,
+      "hot": 1563322,
+      "hotValue": 1563322,
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8D%83%E5%85%83%E7%8F%AD%E8%B4%B9%E5%BC%95%E5%8F%91%E7%9A%84%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%A4%A7%E6%88%98%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1529275
+          "hot": 1563322
         }
       ],
       "totalScore": 78.1,
@@ -97,60 +130,27 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-09-18T13:17:25.616Z",
-      "eventSummary": "围绕「原来百家讲坛是真的在教东西」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「原来百家讲坛是真的在教东西」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
-      "title": "美联储时隔三年多宣布加息25个基点",
-      "topic": "美联储时隔三年多宣布加息25个基点",
-      "eventName": "美联储时隔三年多宣布加息25个基点",
-      "platform": "知微",
-      "rank": 4,
-      "hot": 2263,
-      "hotValue": 2263,
-      "url": "https://ef.zhiweidata.com/eventRk/0861278071bde36d10180112/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 2263
-        }
-      ],
-      "totalScore": 75.3,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第2名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第2名, 在榜11小时)",
-      "rankChange": "持续高位(第2名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-18T13:17:25.616Z",
-      "eventSummary": "美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。",
-      "propagation": "宏观政策信号牵动大众的钱包预期；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对\"物价/利息/储蓄\"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。",
+      "collectedAt": "2026-09-18T13:42:55.793Z",
+      "eventSummary": "围绕「一千元班费引发的家长群大战」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「一千元班费引发的家长群大战」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top5",
-      "title": "警方调查南方医科大学跳楼事件",
-      "topic": "警方调查南方医科大学跳楼事件",
-      "eventName": "警方调查南方医科大学跳楼事件",
+      "title": "美联储时隔三年多宣布加息25个基点",
+      "topic": "美联储时隔三年多宣布加息25个基点",
+      "eventName": "美联储时隔三年多宣布加息25个基点",
       "platform": "知微",
       "rank": 5,
-      "hot": 2232,
-      "hotValue": 2232,
-      "url": "https://ef.zhiweidata.com/eventRk/20171dd475958a6910180106/profil",
+      "hot": 2688,
+      "hotValue": 2688,
+      "url": "https://ef.zhiweidata.com/eventRk/0861278071bde36d10180112/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 2232
+          "hot": 2688
         }
       ],
       "totalScore": 69.8,
@@ -163,9 +163,9 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-18T13:17:25.616Z",
-      "eventSummary": "某高校发生人员坠楼事件，警方已介入调查，事件起因与后续处理受到外界关注。",
-      "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
+      "collectedAt": "2026-09-18T13:42:55.793Z",
+      "eventSummary": "美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。",
+      "propagation": "宏观政策信号牵动大众的钱包预期；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对\"物价/利息/储蓄\"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -196,7 +196,7 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-18T13:17:25.616Z",
+      "collectedAt": "2026-09-18T13:42:55.793Z",
       "eventSummary": "围绕「粉笔再发公考培训小作文」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「粉笔再发公考培训小作文」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
