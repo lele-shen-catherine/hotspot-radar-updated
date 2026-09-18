@@ -118,6 +118,9 @@ if (!checkAI(ai)) {
 // 6. 注入 dashboard.html 渲染
 run('node scripts/inject-dashboard-data.mjs', '5.注入dashboard');
 
+// 6.5 历史页归档（每天成品页存进 /history/<date>.html + 重建 manifest，保留最近7天）
+run('node scripts/archive-history.mjs', '5.5历史归档(保留7天)');
+
 // 7. 模板校验
 run('npm run validate', '6.模板校验');
 
