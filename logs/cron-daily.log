@@ -1098,3 +1098,19 @@ Hotspot radar template validation passed. ✅
   ai-analysis.json  → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
   dashboard.html    → /root/.joyclaw/workspace/hotspot-radar-updated/public/dashboard.html
 --- 推送 GitHub（触发 gh-pages 自动部署） ---
+[main 69f2308] daily update 2026-09-18 1500
+ 13 files changed, 5649 insertions(+), 868 deletions(-)
+ create mode 100644 data/raw/2026-09-18/douyin-1500.json
+ create mode 100644 data/raw/2026-09-18/webwide-1500.json
+ create mode 100644 data/raw/2026-09-18/weibo-1500.json
+ create mode 100644 data/raw/2026-09-18/xhs-1500.json
+ rewrite public/data/business-advice.json (79%)
+==> 开始推送 origin main（HTTP/1.1，最多 6 次）
+--- 第 1/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+   b251ec2..69f2308  main -> main
+✅ push 成功（第 1 次）
+
+=== ✅ 每日更新完成 2026-09-18 15:00 ===
+线上访问: https://lele-shen-catherine.github.io/hotspot-radar-updated/
+Dashboard: https://lele-shen-catherine.github.io/hotspot-radar-updated/dashboard.html
