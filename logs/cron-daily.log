@@ -1114,3 +1114,130 @@ To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
 === ✅ 每日更新完成 2026-09-18 15:00 ===
 线上访问: https://lele-shen-catherine.github.io/hotspot-radar-updated/
 Dashboard: https://lele-shen-catherine.github.io/hotspot-radar-updated/dashboard.html
+=== 开始每日更新 2026-09-20 15:00 ===
+--- 全流程(含AI深度分析+质量门禁+注入dashboard) ---
+========================================
+  热点雷达 每日全流程  2026/9/20 15:00:02
+  deploy=false  check=false
+========================================
+
+━━━ [1.抓取/过滤/评分] ━━━
+
+=== 热点雷达数据抓取 ===
+CST 时间: 2026-09-20 15:00
+JustOneAPI token: 未配置（小红书将走 vvhan 兜底）
+
+[全网热点] 抓取中...
+  ↳ 尝试 zhiwei-event-rank: https://ef.zhiweidata.com/index/indexUp.do
+    成功，10 条数据
+
+[微博] 抓取中...
+  ↳ 尝试 weibo-official: https://weibo.com/ajax/side/hotSearch
+    成功，51 条数据
+
+[抖音] 抓取中...
+  ↳ 尝试 douyin-official: https://www.iesdouyin.com/web/api/v2/hotsearch/billboard/word/
+    成功，50 条数据
+
+[小红书] 抓取中...
+  ↳ 尝试 uapi-xiaohongshu: https://uapis.cn/api/v1/misc/hotboard?…
+    成功，20 条数据
+
+--- 写入原始快照 ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-20/webwide-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-20/weibo-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-20/douyin-1500.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/data/raw/2026-09-20/xhs-1500.json
+
+--- 写入 latest.json ---
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/latest.json
+  ✓ 写入 /root/.joyclaw/workspace/hotspot-radar-updated/public/data/meta.json
+
+=== 完成 (4/4 平台成功) ===
+
+规则初筛完成：90 个候选，0 个待语义复核（四类硬性排除）
+[analyze] 已写入 radar.json: 6 席
+======== 热点雷达 · 固定6席分级 ========  2026-09-20
+
+【S】 知微 总榜Top1 · 日本爱知・名古屋亚运会  总分=87.8
+  榜位分=90/100(35%) 热度分=95/100(20%) 趋势分=85(25%) 共振分=80(20%)
+  趋势: 持续高位(第1名, 在榜11小时)
+  禁区: 无
+
+【A】 抖音 总榜Top2 · 中国队2026亚运首金  总分=84.4
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 抖音标记'爆'
+  禁区: 无
+
+【A】 知微 总榜Top3 · 西贝被曝将彻底倒闭  总分=79
+  榜位分=80/100(35%) 热度分=85/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 3→2, 在榜11小时
+  禁区: 无
+
+【A】 微博 总榜Top4 · 调休为什么总能吵翻天  总分=78.1
+  榜位分=98/100(35%) 热度分=99/100(20%) 趋势分=60(25%) 共振分=45(20%)
+  趋势: 微博单次快照无在榜时长(按60)
+  禁区: 无
+
+【B】 知微 总榜Top5 · 许嵩冯禧官宣结婚  总分=69.8
+  榜位分=70/100(35%) 热度分=75/100(20%) 趋势分=85(25%) 共振分=45(20%)
+  趋势: 持续高位(第3名, 在榜11小时)
+  禁区: 无
+
+【B】 知微 总榜Top6 · 华为赛力斯合作模式调整  总分=68
+  榜位分=60/100(35%) 热度分=65/100(20%) 趋势分=100(25%) 共振分=45(20%)
+  趋势: 排名上升 6→4, 在榜11小时
+  禁区: 无
+
+
+━━━ [2.AI深度分析] ━━━
+[ai] 已生成 6 条 AI 深度分析 → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+[ai] 自检通过：全部字段为 AI 深度内容（非爬虫原文/占位/雷同）
+
+
+━━━ [3.修补radar(注入AI字段)] ━━━
+✅ 已用 AI 深度分析修补 radar.json: 6 条注入, 0 条缺失
+
+
+━━━ [4.合成业务建议] ━━━
+[gen] 从 radar.json 读取热点数: 6
+[gen] AI 分析匹配: 6/6
+[gen] 固定6席生效： 6 → 6 （保留固定席位顺序）
+[gen] 业务建议(08-28风格): 8 个业务
+[gen] ⚠️ dashboard.html 未匹配到内嵌块，跳过注入（请人工检查）
+[gen] 完成：事件数 6 业务建议 8
+[gen] 输出： /root/.joyclaw/workspace/hotspot-radar-updated/public/data
+
+[门禁] 6 条热点 × 3 字段 + business 非空，热度榜 6 条有效。
+
+━━━ [5.注入dashboard] ━━━
+✅ dashboard.html 已注入 2026-09-20 数据 (radar=6 hotspots, advice=8)
+
+
+━━━ [5.5历史归档(保留7天)] ━━━
+[archive] 今天=2026-09-20  7天窗口起点=2026-09-14
+✅ 已归档今天页面 → public/history/2026-09-20.html
+✅ manifest.json 重建：2 天
+  - 2026-09-20（当前）
+  - 2026-09-18
+✅ dashboard.html embeddedEntries 已同步（2 天兜底）
+
+[archive] 完成：已归档=是，删除过期=0，保留=2 天
+
+
+━━━ [6.模板校验] ━━━
+
+> hotspot-radar@1.0.0 validate
+> node scripts/validate-template.mjs
+
+[门禁] radar.json 6 条热点 AI 字段完整
+[门禁] business-advice.json 当日业务建议完整 (8 类)
+Hotspot radar template validation passed. ✅
+
+
+✅ 每日全流程完成。
+产物:
+  radar.json        → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/radar.json
+  ai-analysis.json  → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
+  dashboard.html    → /root/.joyclaw/workspace/hotspot-radar-updated/public/dashboard.html
+--- 推送 GitHub（触发 gh-pages 自动部署） ---
