@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T19:44:38.749Z",
-  "date": "2026-09-20",
+  "generatedAt": "2026-09-21T09:08:46.229Z",
+  "date": "2026-09-21",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
@@ -11,14 +11,14 @@
       "eventName": "日本爱知・名古屋亚运会",
       "platform": "知微",
       "rank": 1,
-      "hot": 61724,
-      "hotValue": 61724,
+      "hot": 14689,
+      "hotValue": 14689,
       "url": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 61724
+          "hot": 14689
         }
       ],
       "totalScore": 87.8,
@@ -31,7 +31,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-20T19:44:38.749Z",
+      "collectedAt": "2026-09-21T09:08:46.229Z",
       "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
       "propagation": "知名团队遭遇意外状况自带共情与围观；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对\"不可控的出行意外\"产生代入感，救援/解决的进展持续牵动关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -39,19 +39,19 @@
     {
       "level": "A",
       "seat": "总榜Top2",
-      "title": "潘展乐100米自夺冠",
-      "topic": "潘展乐100米自夺冠",
-      "eventName": "潘展乐100米自夺冠",
+      "title": "亚运男篮决赛韩国击败日本摘金",
+      "topic": "亚运男篮决赛韩国击败日本摘金",
+      "eventName": "亚运男篮决赛韩国击败日本摘金",
       "platform": "抖音",
       "rank": 2,
-      "hot": 11819823,
-      "hotValue": 11819823,
-      "url": "https://www.douyin.com/search/%E6%BD%98%E5%B1%95%E4%B9%90100%E7%B1%B3%E8%87%AA%E5%A4%BA%E5%86%A0",
+      "hot": 11924523,
+      "hotValue": 11924523,
+      "url": "https://www.douyin.com/search/%E4%BA%9A%E8%BF%90%E7%94%B7%E7%AF%AE%E5%86%B3%E8%B5%9B%E9%9F%A9%E5%9B%BD%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E6%91%98%E9%87%91",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11819823
+          "hot": 11924523
         }
       ],
       "totalScore": 84.4,
@@ -64,27 +64,60 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-09-20T19:44:38.749Z",
-      "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
+      "collectedAt": "2026-09-21T09:08:46.229Z",
+      "eventSummary": "中国队在 2026 名古屋亚运会拿下本届首枚金牌：运动员在开局阶段率先夺金，为代表团打响头炮；这一成绩迅速引发全网祝贺，\"首金\"的象征意义与团队荣誉感成为讨论核心。",
       "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "潘展乐反超夺金",
-      "topic": "潘展乐反超夺金",
-      "eventName": "潘展乐反超夺金",
-      "platform": "微博",
+      "title": "中美经贸磋商在美国纽约开始举行",
+      "topic": "中美经贸磋商在美国纽约开始举行",
+      "eventName": "中美经贸磋商在美国纽约开始举行",
+      "platform": "知微",
       "rank": 3,
-      "hot": 1706025,
-      "hotValue": 1706025,
-      "url": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E5%8F%8D%E8%B6%85%E5%A4%BA%E9%87%91%23",
+      "hot": 4227,
+      "hotValue": 4227,
+      "url": "https://ef.zhiweidata.com/eventRk/d68b7295858a90be10180149/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 4227
+        }
+      ],
+      "totalScore": 82.3,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 中美经贸磋商在美国纽约开始举行)",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-21T09:08:46.229Z",
+      "eventSummary": "围绕「中美经贸磋商在美国纽约开始举行」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「中美经贸磋商在美国纽约开始举行」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
+      "title": "闲鱼 涉黄",
+      "topic": "闲鱼 涉黄",
+      "eventName": "闲鱼 涉黄",
+      "platform": "微博",
+      "rank": 4,
+      "hot": 6178994,
+      "hotValue": 6178994,
+      "url": "https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%20%E6%B6%89%E9%BB%84%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1706025
+          "hot": 6178994
         }
       ],
       "totalScore": 78.1,
@@ -97,109 +130,76 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-09-20T19:44:38.749Z",
-      "eventSummary": "围绕「潘展乐反超夺金」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「潘展乐反超夺金」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-09-21T09:08:46.229Z",
+      "eventSummary": "围绕「闲鱼 涉黄」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「闲鱼 涉黄」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top4",
+      "seat": "总榜Top5",
       "title": "西贝被曝将彻底倒闭",
       "topic": "西贝被曝将彻底倒闭",
       "eventName": "西贝被曝将彻底倒闭",
       "platform": "知微",
-      "rank": 4,
-      "hot": 4769,
-      "hotValue": 4769,
+      "rank": 5,
+      "hot": 3471,
+      "hotValue": 3471,
       "url": "https://ef.zhiweidata.com/eventRk/bc190867e8842cac10180142/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 2,
-          "hot": 4769
+          "rank": 3,
+          "hot": 3471
         }
       ],
-      "totalScore": 75.3,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "totalScore": 73.5,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 4→3, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第2名, 在榜11小时)",
-      "rankChange": "持续高位(第2名, 在榜11小时)",
+      "duration": "排名上升 4→3, 在榜11小时",
+      "rankChange": "排名上升 4→3, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-20T19:44:38.749Z",
+      "collectedAt": "2026-09-21T09:08:46.229Z",
       "eventSummary": "连锁餐饮品牌西贝被曝或将彻底倒闭：传闻指向其经营压力与门店收缩，顾客关心的\"会员充值/储值卡是否受影响\"与行业从业者对头部品牌走向的关注交织，品牌与门店方随后回应澄清经营现状。",
       "propagation": "知名连锁餐饮\"倒闭\"传闻自带信任与行业关切；头部品牌经营状况牵动消费者\"还开不开/充值怎么办\"的实际担忧，媒体跟进 + 从业者/顾客两极讨论叠加，话题黏性与情绪张力强。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top5",
-      "title": "许嵩冯禧官宣结婚",
-      "topic": "许嵩冯禧官宣结婚",
-      "eventName": "许嵩冯禧官宣结婚",
-      "platform": "知微",
-      "rank": 5,
-      "hot": 1940,
-      "hotValue": 1940,
-      "url": "https://ef.zhiweidata.com/eventRk/b14d72bba52d18e810180136/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 1940
-        }
-      ],
-      "totalScore": 69.8,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-20T19:44:38.749Z",
-      "eventSummary": "歌手许嵩与演员冯禧公开了恋情/结婚关系：两人用公开方式官宣，粉丝与路人共同见证，\"许嵩冯禧\"相关话题迅速上榜；公众在祝福与\"考古两人过往\"之间集体参与，甜蜜氛围成为情绪主线。",
-      "propagation": "公众人物婚恋官宣自带\"CP/情感\"的高浓度围观；明星/公众人物公开关系，公众在\"祝福-八卦-考古\"间集体参与，粉丝记忆与路人好感叠加，甜蜜感与代入感驱动跨平台转发与祝福。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "B",
       "seat": "总榜Top6",
-      "title": "华为赛力斯合作模式调整",
-      "topic": "华为赛力斯合作模式调整",
-      "eventName": "华为赛力斯合作模式调整",
+      "title": "曝西贝已起诉罗永浩",
+      "topic": "曝西贝已起诉罗永浩",
+      "eventName": "曝西贝已起诉罗永浩",
       "platform": "知微",
       "rank": 6,
-      "hot": 1514,
-      "hotValue": 1514,
-      "url": "https://ef.zhiweidata.com/eventRk/04b0cc0317d64a9010180100/profil",
+      "hot": 3001,
+      "hotValue": 3001,
+      "url": "https://ef.zhiweidata.com/eventRk/2145a446cc6167c810180144/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 1514
+          "hot": 3001
         }
       ],
-      "totalScore": 64.3,
+      "totalScore": 68,
       "posScore": 60,
       "hotScore": 65,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜11小时)",
+      "trendScore": 100,
+      "trendEvidence": "排名上升 5→4, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第4名, 在榜11小时)",
-      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "duration": "排名上升 5→4, 在榜11小时",
+      "rankChange": "排名上升 5→4, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-09-20T19:44:38.749Z",
-      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
-      "propagation": "国货品牌合作与自主创新的产业信号；国产科技自主可控议题自带议程设置，短视频拆解 + 科技大V视角带动跨平台扩散，讨论在\"期待-验证-对比\"间流转。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
+      "collectedAt": "2026-09-21T09:08:46.229Z",
+      "eventSummary": "连锁餐饮品牌西贝被曝或将彻底倒闭：传闻指向其经营压力与门店收缩，顾客关心的\"会员充值/储值卡是否受影响\"与行业从业者对头部品牌走向的关注交织，品牌与门店方随后回应澄清经营现状。",
+      "propagation": "知名连锁餐饮\"倒闭\"传闻自带信任与行业关切；头部品牌经营状况牵动消费者\"还开不开/充值怎么办\"的实际担忧，媒体跟进 + 从业者/顾客两极讨论叠加，话题黏性与情绪张力强。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }

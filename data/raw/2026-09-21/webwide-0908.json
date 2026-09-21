@@ -1,0 +1,3138 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 1195725,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-09-14",
+        "sumH": 655102,
+        "info": [
+          {
+            "eventId": "3d33646591e0edbd10180073",
+            "img": "3d33646591e0edbd10180073.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "罗永浩吐槽野人先生难吃",
+            "startTime": 1789142400000,
+            "oldPoint": 0,
+            "pro": 17.47,
+            "hE": 114474,
+            "tags": [
+              "罗永浩",
+              "野人先生",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 13.74,
+            "hE": 90021,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "63437d27a9404c8b10180074",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "Hyrox回应选手失禁完赛",
+            "startTime": 1789228800000,
+            "oldPoint": 0,
+            "pro": 11.73,
+            "hE": 76823,
+            "tags": [
+              "Hyrox",
+              "回应",
+              "失禁"
+            ]
+          },
+          {
+            "eventId": "7c7b53a325cd31d110180018",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "2026年服贸会在京开幕",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 8.67,
+            "hE": 56789,
+            "tags": [
+              "服贸会",
+              "中国国际服务贸易交易会"
+            ]
+          },
+          {
+            "eventId": "80849599d95d010110180088",
+            "img": "1789438322279.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "赵雷鸟巢演唱会情侣求婚被喊坐下",
+            "startTime": 1789142400000,
+            "oldPoint": 0,
+            "pro": 7.92,
+            "hE": 51852,
+            "tags": [
+              "演唱会",
+              "求婚"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 0,
+            "pro": 7.59,
+            "hE": 49725,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "de0aa7e38557c28510180078",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "卫龙162吨进口魔芋粉因二氧化硫超标被海关拦截退回",
+            "startTime": 1789142400000,
+            "oldPoint": 0,
+            "pro": 4.67,
+            "hE": 30582,
+            "tags": [
+              "卫龙",
+              "魔芋粉",
+              "二氧化硫",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "dd6cad79a362990d10180095",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "违法犯罪",
+            "name": "广州大学城商业区发生持刀伤人案",
+            "startTime": 1789315200000,
+            "oldPoint": 0,
+            "pro": 3.23,
+            "hE": 21130,
+            "tags": [
+              "广州",
+              "持刀伤人"
+            ]
+          },
+          {
+            "eventId": "de9c37602bd16e7410180066",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "知名主持人敬一丹离世",
+            "startTime": 1789228800000,
+            "oldPoint": 0,
+            "pro": 3.13,
+            "hE": 20508,
+            "tags": [
+              "敬一丹"
+            ]
+          },
+          {
+            "eventId": "222d5848e009dec410180077",
+            "img": "4.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "店员跟顾客闹矛盾弄头屑在比萨上",
+            "startTime": 1789315200000,
+            "oldPoint": 0,
+            "pro": 2.51,
+            "hE": 16448,
+            "tags": [
+              "尊宝比萨",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 126750
+          }
+        ]
+      },
+      {
+        "time": "2026-09-15",
+        "sumH": 761767,
+        "info": [
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 43,
+            "pro": 26.63,
+            "hE": 202826,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "80849599d95d010110180088",
+            "img": "1789438322279.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "赵雷鸟巢演唱会情侣求婚被喊坐下",
+            "startTime": 1789142400000,
+            "oldPoint": 4,
+            "pro": 13.01,
+            "hE": 99113,
+            "tags": [
+              "演唱会",
+              "求婚"
+            ]
+          },
+          {
+            "eventId": "3d33646591e0edbd10180073",
+            "img": "3d33646591e0edbd10180073.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "罗永浩吐槽野人先生难吃",
+            "startTime": 1789142400000,
+            "oldPoint": 0,
+            "pro": 7.28,
+            "hE": 55420,
+            "tags": [
+              "罗永浩",
+              "野人先生",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d6edaaa77470c1be10180089",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "女婴月子中心身亡多部门介入调查",
+            "startTime": 1789142400000,
+            "oldPoint": 17,
+            "pro": 6.49,
+            "hE": 49433,
+            "tags": [
+              "月子中心",
+              "婴儿",
+              "广州",
+              "死亡"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 1,
+            "pro": 6.37,
+            "hE": 48529,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "43ba511de71dae3e10180090",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "财经",
+            "name": "朱雀二号改遥七运载火箭发射成功",
+            "startTime": 1789401600000,
+            "oldPoint": 84,
+            "pro": 3.65,
+            "hE": 27787,
+            "tags": [
+              "朱雀二号",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 5,
+            "pro": 3.1,
+            "hE": 23584,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "4dd4b8c2ba2c543710180103",
+            "img": "1.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "钟薛高复活了",
+            "startTime": 1789142400000,
+            "oldPoint": 24,
+            "pro": 3.03,
+            "hE": 23119,
+            "tags": [
+              "钟薛高",
+              "复活"
+            ]
+          },
+          {
+            "eventId": "837c742b425e65c910180098",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "两次亲子鉴定确认孙子非亡父亲生",
+            "startTime": 1789401600000,
+            "oldPoint": 46,
+            "pro": 2.98,
+            "hE": 22684,
+            "tags": [
+              "亲子鉴定"
+            ]
+          },
+          {
+            "eventId": "2625084eb5cb755110180085",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "第十三届北京香山论坛于9月15日启幕",
+            "startTime": 1789401600000,
+            "oldPoint": 62,
+            "pro": 2.97,
+            "hE": 22656,
+            "tags": [
+              "北京香山论坛"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 186616
+          }
+        ]
+      },
+      {
+        "time": "2026-09-16",
+        "sumH": 1223162,
+        "info": [
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 58,
+            "pro": 18.13,
+            "hE": 221800,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "4d026484625cc72b10180125",
+            "img": "33.png",
+            "pointPro": 99.99,
+            "firstType": "政务",
+            "name": "香港发布首个五年规划",
+            "startTime": 1789488000000,
+            "oldPoint": 56,
+            "pro": 7.41,
+            "hE": 90588,
+            "tags": [
+              "五年规划",
+              "香港"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 27,
+            "pro": 7.32,
+            "hE": 89524,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 0,
+            "pro": 7.1,
+            "hE": 86902,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3a1be201788a8ce610180099",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "传“黑人”陈建州突发心梗接受手术",
+            "startTime": 1789401600000,
+            "oldPoint": 24,
+            "pro": 6.13,
+            "hE": 75021,
+            "tags": [
+              "陈建州",
+              "意外事件"
+            ]
+          },
+          {
+            "eventId": "4dd4b8c2ba2c543710180103",
+            "img": "1.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "钟薛高复活了",
+            "startTime": 1789142400000,
+            "oldPoint": 7,
+            "pro": 5.22,
+            "hE": 63840,
+            "tags": [
+              "钟薛高",
+              "复活"
+            ]
+          },
+          {
+            "eventId": "7d0ca3b27d2cabdc10180104",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "违法犯罪",
+            "name": "南博受赠文物事件处理结果公布",
+            "startTime": 1789488000000,
+            "oldPoint": 77,
+            "pro": 4.42,
+            "hE": 54004,
+            "tags": [
+              "南京博物馆",
+              "违法",
+              "通报",
+              "受贿"
+            ]
+          },
+          {
+            "eventId": "6e0ba1c1a2ab71a810180111",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "王鹤棣工作室针对网络造谣事件报警",
+            "startTime": 1789488000000,
+            "oldPoint": 76,
+            "pro": 4.16,
+            "hE": 50848,
+            "tags": [
+              "王鹤棣",
+              "辟谣",
+              "报警"
+            ]
+          },
+          {
+            "eventId": "3d33646591e0edbd10180073",
+            "img": "3d33646591e0edbd10180073.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "罗永浩吐槽野人先生难吃",
+            "startTime": 1789142400000,
+            "oldPoint": 2,
+            "pro": 4.07,
+            "hE": 49780,
+            "tags": [
+              "罗永浩",
+              "野人先生",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "404313ecab346ca410180107",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "尸皮针计划进军中国市场",
+            "startTime": 1789315200000,
+            "oldPoint": 28,
+            "pro": 3.71,
+            "hE": 45427,
+            "tags": [
+              "爱恩斯生物",
+              "医美",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 395428
+          }
+        ]
+      },
+      {
+        "time": "2026-09-17",
+        "sumH": 1162773,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 28.68,
+            "hE": 333518,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 3,
+            "pro": 6.48,
+            "hE": 75363,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 28,
+            "pro": 5.67,
+            "hE": 65894,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 5.64,
+            "hE": 65560,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 22,
+            "pro": 5.33,
+            "hE": 61923,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "4d026484625cc72b10180125",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "政务",
+            "name": "香港发布首个五年规划",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 3.82,
+            "hE": 44445,
+            "tags": [
+              "五年规划",
+              "香港"
+            ]
+          },
+          {
+            "eventId": "317596e254e1a57d10180042",
+            "img": "1789009376331.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "苹果2026秋季新品发布会",
+            "startTime": 1788883200000,
+            "oldPoint": 12,
+            "pro": 3.73,
+            "hE": 43326,
+            "tags": [
+              "苹果",
+              "新品发布会"
+            ]
+          },
+          {
+            "eventId": "74179e1a4be3eedd10180123",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "影视飓风反掰iPhone Duo致机身闪屏",
+            "startTime": 1789574400000,
+            "oldPoint": 82,
+            "pro": 3.67,
+            "hE": 42701,
+            "tags": [
+              "苹果",
+              "影视飓风",
+              "iPhone Duo",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "457cc3d903bed45b10180115",
+            "img": "1.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "问界将正式撤出鸿蒙智行和华为专卖店",
+            "startTime": 1789574400000,
+            "oldPoint": 81,
+            "pro": 3.43,
+            "hE": 39919,
+            "tags": [
+              "华为",
+              "问界",
+              "鸿蒙智行"
+            ]
+          },
+          {
+            "eventId": "e2a68ed6cd321c5710180038",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "苹果推出首款折叠屏iPhone Duo",
+            "startTime": 1788969600000,
+            "oldPoint": 16,
+            "pro": 2.81,
+            "hE": 32705,
+            "tags": [
+              "苹果",
+              "折叠屏"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 357419
+          }
+        ]
+      },
+      {
+        "time": "2026-09-18",
+        "sumH": 656609,
+        "info": [
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 15.03,
+            "hE": 98711,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 12,
+            "pro": 11.83,
+            "hE": 77647,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 1,
+            "pro": 10.74,
+            "hE": 70522,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "39e22983417d297210180128",
+            "img": "2.jpg",
+            "pointPro": 99.95,
+            "firstType": "违法犯罪",
+            "name": "广东两地被曝“硫磺熏笋”",
+            "startTime": 1789660800000,
+            "oldPoint": 83,
+            "pro": 8.28,
+            "hE": 54358,
+            "tags": [
+              "食品安全",
+              "广东"
+            ]
+          },
+          {
+            "eventId": "086070416d7c340110180124",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "粉笔再发公考培训小作文",
+            "startTime": 1789574400000,
+            "oldPoint": 30,
+            "pro": 6.11,
+            "hE": 40114,
+            "tags": [
+              "粉笔",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b19d925da88369ac10180127",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "永和豆浆就擦边视频道歉",
+            "startTime": 1789488000000,
+            "oldPoint": 27,
+            "pro": 4.86,
+            "hE": 31940,
+            "tags": [
+              "永和豆浆",
+              "道歉",
+              "擦边营销"
+            ]
+          },
+          {
+            "eventId": "0ed64b7e0320797110180116",
+            "img": "2.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "2岁幼童从18楼坠亡事发时窗户没关",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 4.04,
+            "hE": 26541,
+            "tags": [
+              "儿童",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "20171dd475958a6910180106",
+            "img": "4.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "警方调查南方医科大学跳楼事件",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 3.33,
+            "hE": 21862,
+            "tags": [
+              "南方医科大学",
+              "跳楼"
+            ]
+          },
+          {
+            "eventId": "e97ca5001ab4175810180130",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "男子高空作业绳子被2楼老人剪断",
+            "startTime": 1789660800000,
+            "oldPoint": 87,
+            "pro": 3.17,
+            "hE": 20797,
+            "tags": [
+              "工人",
+              "广东",
+              "高空作业"
+            ]
+          },
+          {
+            "eventId": "128ac29637842bb910180129",
+            "img": "3.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "水滴筹服务费上涨至8%",
+            "startTime": 1789660800000,
+            "oldPoint": 89,
+            "pro": 3.12,
+            "hE": 20493,
+            "tags": [
+              "水滴筹",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 193624
+          }
+        ]
+      },
+      {
+        "time": "2026-09-19",
+        "sumH": 1013768,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 11,
+            "pro": 33.16,
+            "hE": 336150,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 34,
+            "pro": 18.92,
+            "hE": 191780,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b14d72bba52d18e810180136",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "许嵩冯禧官宣结婚",
+            "startTime": 1789747200000,
+            "oldPoint": 65,
+            "pro": 8.69,
+            "hE": 88107,
+            "tags": [
+              "许嵩",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "7a55177e8677477d10180148",
+            "img": "6.png",
+            "pointPro": 99.95,
+            "firstType": "灾难",
+            "name": "四川盐边县突发泥石流",
+            "startTime": 1789747200000,
+            "oldPoint": 55,
+            "pro": 6.95,
+            "hE": 70407,
+            "tags": [
+              "泥石流",
+              "四川"
+            ]
+          },
+          {
+            "eventId": "2d6d858a5664788510180138",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "12306：已拒绝出票133.1万张",
+            "startTime": 1789747200000,
+            "oldPoint": 68,
+            "pro": 5.53,
+            "hE": 56112,
+            "tags": [
+              "12306",
+              "抢票"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 16,
+            "pro": 5.28,
+            "hE": 53558,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 2,
+            "pro": 3.04,
+            "hE": 30782,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 2.47,
+            "hE": 25047,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 1.83,
+            "hE": 18582,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "2551654e286ee3a410180143",
+            "img": "1.png",
+            "pointPro": 99.86,
+            "firstType": "违法犯罪",
+            "name": "官方通报中学男教师多次骚扰女学生",
+            "startTime": 1789747200000,
+            "oldPoint": 61,
+            "pro": 1.77,
+            "hE": 17956,
+            "tags": [
+              "学生",
+              "老师",
+              "性骚扰"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 125287
+          }
+        ]
+      },
+      {
+        "time": "2026-09-20",
+        "sumH": 1263678,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 50.1,
+            "hE": 633158,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 1,
+            "pro": 9.86,
+            "hE": 124620,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 15,
+            "pro": 7.95,
+            "hE": 100422,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b14d72bba52d18e810180136",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "许嵩冯禧官宣结婚",
+            "startTime": 1789747200000,
+            "oldPoint": 2,
+            "pro": 4.69,
+            "hE": 59292,
+            "tags": [
+              "许嵩",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 41,
+            "pro": 3.93,
+            "hE": 49653,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "58151c330b72ac9510180146",
+            "img": "4.png",
+            "pointPro": 99.93,
+            "firstType": "违法犯罪",
+            "name": "央视曝光回流药黑色产业链",
+            "startTime": 1789747200000,
+            "oldPoint": 16,
+            "pro": 3.12,
+            "hE": 39385,
+            "tags": [
+              "回流药",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 6,
+            "pro": 2.74,
+            "hE": 34594,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 70,
+            "pro": 2.33,
+            "hE": 29496,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 51,
+            "pro": 1.75,
+            "hE": 22091,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "c362730387123ee110180135",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "丈夫家暴妻子致死子女出具谅解书",
+            "startTime": 1789315200000,
+            "oldPoint": 19,
+            "pro": 1.66,
+            "hE": 21026,
+            "tags": [
+              "家暴"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 149941
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-09-20 21",
+        "sumH": 47663,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 54.41,
+            "hE": 25931,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 0,
+            "pro": 9.03,
+            "hE": 4303,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 6.71,
+            "hE": 3199,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 6.67,
+            "hE": 3178,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 6.14,
+            "hE": 2926,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 2.78,
+            "hE": 1325,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 2.18,
+            "hE": 1041,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.82,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 0,
+            "pro": 1.55,
+            "hE": 739,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 1.42,
+            "hE": 678,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "58151c330b72ac9510180146",
+            "img": "4.png",
+            "pointPro": 99.76,
+            "firstType": "违法犯罪",
+            "name": "央视曝光回流药黑色产业链",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 1.06,
+            "hE": 506,
+            "tags": [
+              "回流药",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3837
+          }
+        ]
+      },
+      {
+        "time": "2026-09-20 22",
+        "sumH": 42678,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 36.12,
+            "hE": 15416,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 20.32,
+            "hE": 8672,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 4,
+            "pro": 8.5,
+            "hE": 3626,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 2,
+            "pro": 8.23,
+            "hE": 3511,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 1,
+            "pro": 7.94,
+            "hE": 3389,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.84,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 2.91,
+            "hE": 1242,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "b14d72bba52d18e810180136",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "许嵩冯禧官宣结婚",
+            "startTime": 1789747200000,
+            "oldPoint": 10,
+            "pro": 2.67,
+            "hE": 1138,
+            "tags": [
+              "许嵩",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.78,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 2.63,
+            "hE": 1123,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "86d01118c0487b7c10180150",
+            "img": "22.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "住建局回应5公里路面500个井盖",
+            "startTime": 1789833600000,
+            "oldPoint": 11,
+            "pro": 1.58,
+            "hE": 673,
+            "tags": [
+              "住建局",
+              "道路规划",
+              "广东"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.72,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 8,
+            "pro": 1.55,
+            "hE": 660,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3228
+          }
+        ]
+      },
+      {
+        "time": "2026-09-20 23",
+        "sumH": 28370,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 34.1,
+            "hE": 9674,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 1,
+            "pro": 20.02,
+            "hE": 5680,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 2,
+            "pro": 9.34,
+            "hE": 2649,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 9.25,
+            "hE": 2624,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 7,
+            "pro": 6.94,
+            "hE": 1970,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 4,
+            "pro": 5.67,
+            "hE": 1610,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.82,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 4.36,
+            "hE": 1237,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 9,
+            "pro": 1.94,
+            "hE": 551,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.76,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 19,
+            "pro": 1.39,
+            "hE": 394,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "b14d72bba52d18e810180136",
+            "img": "22.png",
+            "pointPro": 99.73,
+            "firstType": "娱乐",
+            "name": "许嵩冯禧官宣结婚",
+            "startTime": 1789747200000,
+            "oldPoint": 6,
+            "pro": 0.95,
+            "hE": 270,
+            "tags": [
+              "许嵩",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1711
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 00",
+        "sumH": 11801,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 26.97,
+            "hE": 3182,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 2,
+            "pro": 23.55,
+            "hE": 2779,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 20.6,
+            "hE": 2431,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 1,
+            "pro": 4.83,
+            "hE": 570,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 4,
+            "pro": 3.42,
+            "hE": 403,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 3.27,
+            "hE": 386,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 3.15,
+            "hE": 371,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 5,
+            "pro": 2.08,
+            "hE": 246,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.75,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 17,
+            "pro": 1.98,
+            "hE": 234,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "b14d72bba52d18e810180136",
+            "img": "22.png",
+            "pointPro": 99.72,
+            "firstType": "娱乐",
+            "name": "许嵩冯禧官宣结婚",
+            "startTime": 1789747200000,
+            "oldPoint": 9,
+            "pro": 1.51,
+            "hE": 178,
+            "tags": [
+              "许嵩",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1021
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 01",
+        "sumH": 3855,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 29.26,
+            "hE": 1128,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 2,
+            "pro": 16.87,
+            "hE": 650,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 1,
+            "pro": 12.79,
+            "hE": 493,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 4,
+            "pro": 10.05,
+            "hE": 387,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.83,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 10,
+            "pro": 7.16,
+            "hE": 276,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 7,
+            "pro": 6.3,
+            "hE": 243,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.74,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 4.76,
+            "hE": 184,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.7,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 3.71,
+            "hE": 143,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "b19d925da88369ac10180127",
+            "img": "1.jpg",
+            "pointPro": 99.65,
+            "firstType": "企业",
+            "name": "永和豆浆就擦边视频道歉",
+            "startTime": 1789488000000,
+            "oldPoint": 31,
+            "pro": 2.09,
+            "hE": 80,
+            "tags": [
+              "永和豆浆",
+              "道歉",
+              "擦边营销"
+            ]
+          },
+          {
+            "eventId": "86d01118c0487b7c10180150",
+            "img": "22.png",
+            "pointPro": 99.61,
+            "firstType": "社会",
+            "name": "住建局回应5公里路面500个井盖",
+            "startTime": 1789833600000,
+            "oldPoint": 28,
+            "pro": 2.04,
+            "hE": 79,
+            "tags": [
+              "住建局",
+              "道路规划",
+              "广东"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 192
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 02",
+        "sumH": 2075,
+        "info": [
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 1,
+            "pro": 25.13,
+            "hE": 522,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 20.89,
+            "hE": 434,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 17.95,
+            "hE": 372,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 2,
+            "pro": 16.06,
+            "hE": 333,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 5,
+            "pro": 7.86,
+            "hE": 163,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.71,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 3.95,
+            "hE": 82,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.65,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 14,
+            "pro": 3.94,
+            "hE": 82,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "7e6d028ab76325eb10180153",
+            "img": "44.png",
+            "pointPro": 99.59,
+            "firstType": "社会",
+            "name": "清华毕业生38岁上北大",
+            "startTime": 1789833600000,
+            "oldPoint": 63,
+            "pro": 2.24,
+            "hE": 46,
+            "tags": [
+              "清华大学",
+              "北京大学"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.53,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 4,
+            "pro": 1.4,
+            "hE": 29,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "39e22983417d297210180128",
+            "img": "2.jpg",
+            "pointPro": 99.47,
+            "firstType": "违法犯罪",
+            "name": "广东两地被曝“硫磺熏笋”",
+            "startTime": 1789660800000,
+            "oldPoint": 16,
+            "pro": 0.14,
+            "hE": 3,
+            "tags": [
+              "食品安全",
+              "广东"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 9
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 03",
+        "sumH": 4334,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 1,
+            "pro": 61.02,
+            "hE": 2645,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 4,
+            "pro": 11.58,
+            "hE": 502,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 9.17,
+            "hE": 397,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 4.91,
+            "hE": 213,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.83,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 3.86,
+            "hE": 167,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 3,
+            "pro": 2.18,
+            "hE": 94,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.74,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 8,
+            "pro": 2.06,
+            "hE": 89,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "b9083ddb3bb613d710180131",
+            "img": "5.jpg",
+            "pointPro": 99.7,
+            "firstType": "企业",
+            "name": "智谱ZCode偷传用户数据",
+            "startTime": 1789660800000,
+            "oldPoint": 49,
+            "pro": 1.63,
+            "hE": 71,
+            "tags": [
+              "智谱",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7e6d028ab76325eb10180153",
+            "img": "44.png",
+            "pointPro": 99.65,
+            "firstType": "社会",
+            "name": "清华毕业生38岁上北大",
+            "startTime": 1789833600000,
+            "oldPoint": 7,
+            "pro": 1.5,
+            "hE": 65,
+            "tags": [
+              "清华大学",
+              "北京大学"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.61,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 14,
+            "pro": 0.92,
+            "hE": 40,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 51
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 04",
+        "sumH": 1357,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 51.09,
+            "hE": 693,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 15.38,
+            "hE": 209,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 1,
+            "pro": 6.73,
+            "hE": 91,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.82,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 2,
+            "pro": 6.04,
+            "hE": 82,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 5,
+            "pro": 5.64,
+            "hE": 76,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.71,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 4.63,
+            "hE": 63,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "2551654e286ee3a410180143",
+            "img": "1.png",
+            "pointPro": 99.65,
+            "firstType": "违法犯罪",
+            "name": "官方通报中学男教师多次骚扰女学生",
+            "startTime": 1789747200000,
+            "oldPoint": 17,
+            "pro": 3.99,
+            "hE": 54,
+            "tags": [
+              "学生",
+              "老师",
+              "性骚扰"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.59,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 2.85,
+            "hE": 39,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.53,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 20,
+            "pro": 2.84,
+            "hE": 39,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "b9083ddb3bb613d710180131",
+            "img": "5.jpg",
+            "pointPro": 99.47,
+            "firstType": "企业",
+            "name": "智谱ZCode偷传用户数据",
+            "startTime": 1789660800000,
+            "oldPoint": 7,
+            "pro": 0.22,
+            "hE": 3,
+            "tags": [
+              "智谱",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 8
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 05",
+        "sumH": 3242,
+        "info": [
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 41,
+            "pro": 22.4,
+            "hE": 726,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 17.79,
+            "hE": 577,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 14.54,
+            "hE": 471,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 1,
+            "pro": 7.42,
+            "hE": 241,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 4,
+            "pro": 6.91,
+            "hE": 224,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.83,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 6.69,
+            "hE": 217,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.79,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 2.97,
+            "hE": 96,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 2,
+            "pro": 2.89,
+            "hE": 94,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "39e22983417d297210180128",
+            "img": "2.jpg",
+            "pointPro": 99.72,
+            "firstType": "违法犯罪",
+            "name": "广东两地被曝“硫磺熏笋”",
+            "startTime": 1789660800000,
+            "oldPoint": 11,
+            "pro": 2.78,
+            "hE": 90,
+            "tags": [
+              "食品安全",
+              "广东"
+            ]
+          },
+          {
+            "eventId": "7e6d028ab76325eb10180153",
+            "img": "44.png",
+            "pointPro": 99.69,
+            "firstType": "社会",
+            "name": "清华毕业生38岁上北大",
+            "startTime": 1789833600000,
+            "oldPoint": 62,
+            "pro": 2.59,
+            "hE": 84,
+            "tags": [
+              "清华大学",
+              "北京大学"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 422
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 06",
+        "sumH": 12858,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 1,
+            "pro": 26.15,
+            "hE": 3362,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 4,
+            "pro": 15.58,
+            "hE": 2003,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 14.76,
+            "hE": 1898,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 9.57,
+            "hE": 1230,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 6.6,
+            "hE": 848,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 4.93,
+            "hE": 634,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.84,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 4.65,
+            "hE": 598,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 7,
+            "pro": 2.89,
+            "hE": 371,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e97ca5001ab4175810180130",
+            "img": "4.jpg",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "男子高空作业绳子被2楼老人剪断",
+            "startTime": 1789660800000,
+            "oldPoint": 13,
+            "pro": 2.17,
+            "hE": 279,
+            "tags": [
+              "工人",
+              "广东",
+              "高空作业"
+            ]
+          },
+          {
+            "eventId": "2551654e286ee3a410180143",
+            "img": "1.png",
+            "pointPro": 99.76,
+            "firstType": "违法犯罪",
+            "name": "官方通报中学男教师多次骚扰女学生",
+            "startTime": 1789747200000,
+            "oldPoint": 22,
+            "pro": 2.08,
+            "hE": 267,
+            "tags": [
+              "学生",
+              "老师",
+              "性骚扰"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1368
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 07",
+        "sumH": 28862,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 31.73,
+            "hE": 9160,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 15.26,
+            "hE": 4405,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 13.1,
+            "hE": 3783,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 1,
+            "pro": 7.53,
+            "hE": 2174,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 2,
+            "pro": 6.3,
+            "hE": 1818,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.86,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 4.57,
+            "hE": 1318,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 10,
+            "pro": 3.82,
+            "hE": 1104,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "16047caccbae114210180145",
+            "img": "3.jpg",
+            "pointPro": 99.81,
+            "firstType": "政务",
+            "name": "我国成功发射一箭9星",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 2.71,
+            "hE": 782,
+            "tags": [
+              "卫星",
+              "发射"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 7,
+            "pro": 2.67,
+            "hE": 770,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b14d72bba52d18e810180136",
+            "img": "22.png",
+            "pointPro": 99.75,
+            "firstType": "娱乐",
+            "name": "许嵩冯禧官宣结婚",
+            "startTime": 1789747200000,
+            "oldPoint": 11,
+            "pro": 2.15,
+            "hE": 620,
+            "tags": [
+              "许嵩",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2928
+          }
+        ]
+      },
+      {
+        "time": "2026-09-21 08",
+        "sumH": 35794,
+        "info": [
+          {
+            "eventId": "b0b747a8306ce82110180141",
+            "img": "1789874461321.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "日本爱知・名古屋亚运会",
+            "startTime": 1789747200000,
+            "oldPoint": 0,
+            "pro": 41.04,
+            "hE": 14689,
+            "tags": [
+              "亚运会",
+              "名古屋"
+            ]
+          },
+          {
+            "eventId": "d68b7295858a90be10180149",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "中美经贸磋商在美国纽约开始举行",
+            "startTime": 1789833600000,
+            "oldPoint": 1,
+            "pro": 11.81,
+            "hE": 4227,
+            "tags": [
+              "中美经贸磋商",
+              "美国",
+              "中国"
+            ]
+          },
+          {
+            "eventId": "bc190867e8842cac10180142",
+            "img": "1789874601616.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "西贝被曝将彻底倒闭",
+            "startTime": 1789747200000,
+            "oldPoint": 3,
+            "pro": 9.7,
+            "hE": 3471,
+            "tags": [
+              " 西贝",
+              "倒闭",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2145a446cc6167c810180144",
+            "img": "2.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "曝西贝已起诉罗永浩",
+            "startTime": 1789833600000,
+            "oldPoint": 4,
+            "pro": 8.38,
+            "hE": 3001,
+            "tags": [
+              "罗永浩",
+              " 西贝",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0861278071bde36d10180112",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "美联储时隔三年多宣布加息25个基点",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 7.73,
+            "hE": 2767,
+            "tags": [
+              "美联储",
+              "加息"
+            ]
+          },
+          {
+            "eventId": "e94b11b07d9149ab10180139",
+            "img": "1789874079931.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "沈鼓集团上市A股",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 3.86,
+            "hE": 1381,
+            "tags": [
+              "沈鼓集团"
+            ]
+          },
+          {
+            "eventId": "b9083ddb3bb613d710180131",
+            "img": "5.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "智谱ZCode偷传用户数据",
+            "startTime": 1789660800000,
+            "oldPoint": 20,
+            "pro": 3.5,
+            "hE": 1251,
+            "tags": [
+              "智谱",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ce14895c08ba1b7410180151",
+            "img": "33.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "2026世界制造业大会开幕",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 3.37,
+            "hE": 1205,
+            "tags": [
+              "2026世界制造业大会"
+            ]
+          },
+          {
+            "eventId": "04b0cc0317d64a9010180100",
+            "img": "1789526741095.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "华为赛力斯合作模式调整",
+            "startTime": 1789401600000,
+            "oldPoint": 8,
+            "pro": 3,
+            "hE": 1075,
+            "tags": [
+              "华为",
+              "赛力斯",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a248c0172d55cb2510180114",
+            "img": "44.png",
+            "pointPro": 99.75,
+            "firstType": "体育",
+            "name": "国乒落地名古屋机场遭遇长时间滞留",
+            "startTime": 1789488000000,
+            "oldPoint": 40,
+            "pro": 1.05,
+            "hE": 377,
+            "tags": [
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2350
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
