@@ -1,57 +1,24 @@
 {
-  "generatedAt": "2026-09-22T09:17:26.273Z",
+  "generatedAt": "2026-09-22T13:28:27.568Z",
   "date": "2026-09-22",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "S",
-      "seat": "总榜Top1",
-      "title": "日本爱知・名古屋亚运会",
-      "topic": "日本爱知・名古屋亚运会",
-      "eventName": "日本爱知・名古屋亚运会",
-      "platform": "知微",
-      "rank": 1,
-      "hot": 17867,
-      "hotValue": 17867,
-      "url": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 1,
-          "hot": 17867
-        }
-      ],
-      "totalScore": 87.8,
-      "posScore": 90,
-      "hotScore": 95,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第1名, 在榜11小时)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 亚运会)",
-      "duration": "持续高位(第1名, 在榜11小时)",
-      "rankChange": "持续高位(第1名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-22T09:17:26.273Z",
-      "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
-      "propagation": "知名团队遭遇意外状况自带共情与围观；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对\"不可控的出行意外\"产生代入感，救援/解决的进展持续牵动关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
       "level": "A",
-      "seat": "总榜Top2",
-      "title": "盛李豪再夺亚运射击个人金牌",
-      "topic": "盛李豪再夺亚运射击个人金牌",
-      "eventName": "盛李豪再夺亚运射击个人金牌",
+      "seat": "总榜Top1",
+      "title": "中国女排将与日本女排争夺金牌",
+      "topic": "中国女排将与日本女排争夺金牌",
+      "eventName": "中国女排将与日本女排争夺金牌",
       "platform": "抖音",
-      "rank": 2,
-      "hot": 11494520,
-      "hotValue": 11494520,
-      "url": "https://www.douyin.com/search/%E7%9B%9B%E6%9D%8E%E8%B1%AA%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E5%B0%84%E5%87%BB%E4%B8%AA%E4%BA%BA%E9%87%91%E7%89%8C",
+      "rank": 1,
+      "hot": 12268597,
+      "hotValue": 12268597,
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%B0%86%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%E4%BA%89%E5%A4%BA%E9%87%91%E7%89%8C",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11494520
+          "hot": 12268597
         }
       ],
       "totalScore": 84.4,
@@ -64,31 +31,97 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-09-22T09:17:26.273Z",
+      "collectedAt": "2026-09-22T13:28:27.568Z",
       "eventSummary": "中国队在 2026 名古屋亚运会拿下本届首枚金牌：运动员在开局阶段率先夺金，为代表团打响头炮；这一成绩迅速引发全网祝贺，\"首金\"的象征意义与团队荣誉感成为讨论核心。",
       "propagation": "竞技荣誉的首金时刻自带强情绪峰值与家国共鸣；\"本届首枚金牌\"的稀缺性与国家荣誉感叠加，公众在\"加油-见证-欢呼\"的参与感中完成集体庆祝，观赛情绪与分享欲同步高涨。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top2",
+      "title": "日本爱知・名古屋亚运会",
+      "topic": "日本爱知・名古屋亚运会",
+      "eventName": "日本爱知・名古屋亚运会",
+      "platform": "知微",
+      "rank": 2,
+      "hot": 15667,
+      "hotValue": 15667,
+      "url": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 15667
+        }
+      ],
+      "totalScore": 80.8,
+      "posScore": 90,
+      "hotScore": 95,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第1名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第1名, 在榜11小时)",
+      "rankChange": "持续高位(第1名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-22T13:28:27.568Z",
+      "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
+      "propagation": "知名团队遭遇意外状况自带共情与围观；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对\"不可控的出行意外\"产生代入感，救援/解决的进展持续牵动关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top3",
+      "title": "南京一幼儿园用炒菜锅洗拖把",
+      "topic": "南京一幼儿园用炒菜锅洗拖把",
+      "eventName": "南京一幼儿园用炒菜锅洗拖把",
+      "platform": "知微",
+      "rank": 3,
+      "hot": 9111,
+      "hotValue": 9111,
+      "url": "https://ef.zhiweidata.com/eventRk/be9659d8ab93245910180159/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 9111
+        }
+      ],
+      "totalScore": 79,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 4→2, 在榜9小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 4→2, 在榜9小时",
+      "rankChange": "排名上升 4→2, 在榜9小时",
+      "excludeCat": null,
+      "collectedAt": "2026-09-22T13:28:27.568Z",
+      "eventSummary": "围绕「南京一幼儿园用炒菜锅洗拖把」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「南京一幼儿园用炒菜锅洗拖把」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top4",
-      "title": "美心月饼打六折卖",
-      "topic": "美心月饼打六折卖",
-      "eventName": "美心月饼打六折卖",
+      "title": "张家齐的奖金呢",
+      "topic": "张家齐的奖金呢",
+      "eventName": "张家齐的奖金呢",
       "platform": "微博",
       "rank": 4,
-      "hot": 1188408,
-      "hotValue": 1188408,
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%BF%83%E6%9C%88%E9%A5%BC%E6%89%93%E5%85%AD%E6%8A%98%E5%8D%96%23",
+      "hot": 1957683,
+      "hotValue": 1957683,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9A%84%E5%A5%96%E9%87%91%E5%91%A2%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1188408
+          "hot": 1957683
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98,
+      "posScore": 98.1,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -97,9 +130,9 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-09-22T09:17:26.273Z",
-      "eventSummary": "中秋节前，美心月饼在电商与线下渠道大幅降价至六折销售，主打的高端月饼礼盒价格明显回落；消费者一边对比\"该不该囤、送礼是否更有性价比\"，商家则借节日节点冲量清库存，\"高端礼盒跌价\"与\"中秋送礼刚需\"的碰撞成为讨论焦点。",
-      "propagation": "中秋送礼刚需碰上价格跳水形成反差话题；\"六折\"的直观价格信号刺激购买欲，叠加\"高端礼盒跌价\"的稀缺感，消费者在\"该不该囤、送礼更有面子\"的讨论中推动传播，节日节点自带流量高峰。",
+      "collectedAt": "2026-09-22T13:28:27.568Z",
+      "eventSummary": "围绕「张家齐的奖金呢」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「张家齐的奖金呢」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -110,14 +143,14 @@
       "eventName": "曝西贝已起诉罗永浩",
       "platform": "知微",
       "rank": 5,
-      "hot": 4402,
-      "hotValue": 4402,
+      "hot": 5538,
+      "hotValue": 5538,
       "url": "https://ef.zhiweidata.com/eventRk/2145a446cc6167c810180144/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 4402
+          "hot": 5538
         }
       ],
       "totalScore": 69.8,
@@ -130,7 +163,7 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-22T09:17:26.273Z",
+      "collectedAt": "2026-09-22T13:28:27.568Z",
       "eventSummary": "连锁餐饮品牌西贝被曝或将彻底倒闭：传闻指向其经营压力与门店收缩，顾客关心的\"会员充值/储值卡是否受影响\"与行业从业者对头部品牌走向的关注交织，品牌与门店方随后回应澄清经营现状。",
       "propagation": "知名连锁餐饮\"倒闭\"传闻自带信任与行业关切；头部品牌经营状况牵动消费者\"还开不开/充值怎么办\"的实际担忧，媒体跟进 + 从业者/顾客两极讨论叠加，话题黏性与情绪张力强。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -138,19 +171,19 @@
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "美联储时隔三年多宣布加息25个基点",
-      "topic": "美联储时隔三年多宣布加息25个基点",
-      "eventName": "美联储时隔三年多宣布加息25个基点",
+      "title": "西贝被曝将彻底倒闭",
+      "topic": "西贝被曝将彻底倒闭",
+      "eventName": "西贝被曝将彻底倒闭",
       "platform": "知微",
       "rank": 6,
-      "hot": 2597,
-      "hotValue": 2597,
-      "url": "https://ef.zhiweidata.com/eventRk/0861278071bde36d10180112/profil",
+      "hot": 4279,
+      "hotValue": 4279,
+      "url": "https://ef.zhiweidata.com/eventRk/bc190867e8842cac10180142/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 2597
+          "hot": 4279
         }
       ],
       "totalScore": 64.3,
@@ -163,9 +196,9 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-22T09:17:26.273Z",
-      "eventSummary": "美联储宣布调整基准利率（加息/降息），这一宏观货币政策信号直接影响房贷、存款与日常消费成本，市场与公众持续关注其后续影响。",
-      "propagation": "宏观政策信号牵动大众的钱包预期；加息/降息直接关联房贷、存款与日常消费成本，媒体解读 + 公众对\"物价/利息/储蓄\"的切身关切叠加，引发转发与讨论，属长线议题但发布节点有短期高峰。",
+      "collectedAt": "2026-09-22T13:28:27.568Z",
+      "eventSummary": "连锁餐饮品牌西贝被曝或将彻底倒闭：传闻指向其经营压力与门店收缩，顾客关心的\"会员充值/储值卡是否受影响\"与行业从业者对头部品牌走向的关注交织，品牌与门店方随后回应澄清经营现状。",
+      "propagation": "知名连锁餐饮\"倒闭\"传闻自带信任与行业关切；头部品牌经营状况牵动消费者\"还开不开/充值怎么办\"的实际担忧，媒体跟进 + 从业者/顾客两极讨论叠加，话题黏性与情绪张力强。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
