@@ -1,33 +1,69 @@
 {
-  "updatedAt": "2026-09-23T01:15:19.892Z",
-  "collectedAt": "2026-09-23T01:15:19.892Z",
+  "updatedAt": "2026-09-23T05:16:01.312Z",
+  "collectedAt": "2026-09-23T05:16:01.312Z",
   "date": "2026-09-23",
   "events": [
     {
       "level": "A",
-      "eventName": "中国队男子4×100米混接夺金",
-      "topic": "中国队男子4×100米混接夺金",
+      "eventName": "闲鱼回应涉黄",
+      "topic": "闲鱼回应涉黄",
+      "score": 84.5,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "9722",
+        "collectedAt": "2026-09-23T05:16:01.312Z",
+        "duration": "排名上升 2→1, 在榜2小时",
+        "rankChange": "排名上升 2→1, 在榜2小时",
+        "link": "https://ef.zhiweidata.com/eventRk/cea6b3ca99a1a80710180156/profil"
+      },
+      "explanation": "围绕「闲鱼回应涉黄」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
+      "risk": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "title": "闲鱼回应涉黄",
+      "eventSummary": "围绕「闲鱼回应涉黄」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "totalScore": 84.5,
+      "source": "知微",
+      "heat": "9722",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 9722
+        }
+      ]
+    },
+    {
+      "level": "A",
+      "eventName": "中国U23男足vs阿联酋U23",
+      "topic": "中国U23男足vs阿联酋U23",
       "score": 84.3,
       "platform": "抖音",
       "platformDetail": {
         "platform": "抖音",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "1166.8w",
-        "collectedAt": "2026-09-23T01:15:19.892Z",
+        "hotValue": "1211.6w",
+        "collectedAt": "2026-09-23T05:16:01.312Z",
         "duration": "抖音标记'爆'",
         "rankChange": "抖音标记'爆'",
-        "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B7%E5%AD%904%C3%97100%E7%B1%B3%E6%B7%B7%E6%8E%A5%E5%A4%BA%E9%87%91"
+        "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3vs%E9%98%BF%E8%81%94%E9%85%8BU23"
       },
-      "explanation": "围绕「中国队男子4×100米混接夺金」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「中国队男子4×100米混接夺金」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "explanation": "围绕「中国U23男足vs阿联酋U23」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「中国U23男足vs阿联酋U23」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "risk": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
-      "title": "中国队男子4×100米混接夺金",
-      "eventSummary": "围绕「中国队男子4×100米混接夺金」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "title": "中国U23男足vs阿联酋U23",
+      "eventSummary": "围绕「中国U23男足vs阿联酋U23」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
-      "totalScore": 91.3,
+      "totalScore": 84.3,
       "source": "抖音",
-      "heat": "1166.8w",
+      "heat": "1211.6w",
       "crossPlatform": [
         "抖音"
       ],
@@ -35,24 +71,24 @@
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11668387
+          "hot": 12116125
         }
       ]
     },
     {
-      "level": "S",
+      "level": "A",
       "eventName": "日本爱知・名古屋亚运会",
       "topic": "日本爱知・名古屋亚运会",
-      "score": 87.8,
+      "score": 82.3,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
-        "currentRank": 1,
-        "peakRank": 1,
-        "hotValue": "1.2w",
-        "collectedAt": "2026-09-23T01:15:19.892Z",
-        "duration": "持续高位(第1名, 在榜11小时)",
-        "rankChange": "持续高位(第1名, 在榜11小时)",
+        "currentRank": 2,
+        "peakRank": 2,
+        "hotValue": "9287",
+        "collectedAt": "2026-09-23T05:16:01.312Z",
+        "duration": "持续高位(第2名, 在榜11小时)",
+        "rankChange": "持续高位(第2名, 在榜11小时)",
         "link": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil"
       },
       "explanation": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
@@ -61,45 +97,45 @@
       "title": "日本爱知・名古屋亚运会",
       "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 87.8,
+      "totalScore": 82.3,
       "source": "知微",
-      "heat": "1.2w",
+      "heat": "9287",
       "crossPlatform": [
         "知微"
       ],
       "platforms": [
         {
           "platform": "知微",
-          "rank": 1,
-          "hot": 11741
+          "rank": 2,
+          "hot": 9287
         }
       ]
     },
     {
       "level": "A",
-      "eventName": "马斯克感叹中国壮丽",
-      "topic": "马斯克感叹中国壮丽",
+      "eventName": "闲鱼公布调查结果",
+      "topic": "闲鱼公布调查结果",
       "score": 78.1,
       "platform": "微博",
       "platformDetail": {
         "platform": "微博",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "115.6w",
-        "collectedAt": "2026-09-23T01:15:19.892Z",
+        "hotValue": "327.8w",
+        "collectedAt": "2026-09-23T05:16:01.312Z",
         "duration": "微博单次快照无在榜时长(按60)",
         "rankChange": "微博单次快照无在榜时长(按60)",
-        "link": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%9F%E5%8F%B9%E4%B8%AD%E5%9B%BD%E5%A3%AE%E4%B8%BD%23"
+        "link": "https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%85%AC%E5%B8%83%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23"
       },
-      "explanation": "围绕「马斯克感叹中国壮丽」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「马斯克感叹中国壮丽」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "explanation": "某高校发生人员坠楼事件，警方已介入调查，事件起因与后续处理受到外界关注。",
+      "whyHot": "突发悲剧引发公共关切与对事件真相的追问；警方/官方介入调查后，公众对\"起因与责任\"的讨论、对当事人的关切构成热度主体，情绪黏性高。",
       "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "马斯克感叹中国壮丽",
-      "eventSummary": "围绕「马斯克感叹中国壮丽」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "title": "闲鱼公布调查结果",
+      "eventSummary": "某高校发生人员坠楼事件，警方已介入调查，事件起因与后续处理受到外界关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 78.1,
       "source": "微博",
-      "heat": "115.6w",
+      "heat": "327.8w",
       "crossPlatform": [
         "微博"
       ],
@@ -107,24 +143,60 @@
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1156308
+          "hot": 3277612
         }
       ]
     },
     {
       "level": "A",
-      "eventName": "2026中国民营企业500强发布",
-      "topic": "2026中国民营企业500强发布",
-      "score": 75.3,
+      "eventName": "南京一幼儿园用炒菜锅洗拖把",
+      "topic": "南京一幼儿园用炒菜锅洗拖把",
+      "score": 73.5,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
-        "currentRank": 2,
-        "peakRank": 2,
-        "hotValue": "3477",
-        "collectedAt": "2026-09-23T01:15:19.892Z",
-        "duration": "持续高位(第2名, 在榜11小时)",
-        "rankChange": "持续高位(第2名, 在榜11小时)",
+        "currentRank": 3,
+        "peakRank": 3,
+        "hotValue": "3572",
+        "collectedAt": "2026-09-23T05:16:01.312Z",
+        "duration": "排名上升 4→3, 在榜8小时",
+        "rankChange": "排名上升 4→3, 在榜8小时",
+        "link": "https://ef.zhiweidata.com/eventRk/be9659d8ab93245910180159/profil"
+      },
+      "explanation": "围绕「南京一幼儿园用炒菜锅洗拖把」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「南京一幼儿园用炒菜锅洗拖把」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "南京一幼儿园用炒菜锅洗拖把",
+      "eventSummary": "围绕「南京一幼儿园用炒菜锅洗拖把」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 73.5,
+      "source": "知微",
+      "heat": "3572",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 3572
+        }
+      ]
+    },
+    {
+      "level": "B",
+      "eventName": "2026中国民营企业500强发布",
+      "topic": "2026中国民营企业500强发布",
+      "score": 64.3,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 4,
+        "peakRank": 4,
+        "hotValue": "1639",
+        "collectedAt": "2026-09-23T05:16:01.312Z",
+        "duration": "持续高位(第4名, 在榜11小时)",
+        "rankChange": "持续高位(第4名, 在榜11小时)",
         "link": "https://ef.zhiweidata.com/eventRk/91b2bbb9b758007810180174/profil"
       },
       "explanation": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
@@ -133,53 +205,17 @@
       "title": "2026中国民营企业500强发布",
       "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
       "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "totalScore": 75.3,
+      "totalScore": 64.3,
       "source": "知微",
-      "heat": "3477",
+      "heat": "1639",
       "crossPlatform": [
         "知微"
       ],
       "platforms": [
         {
           "platform": "知微",
-          "rank": 2,
-          "hot": 3477
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "2026中国民营企业500强发布",
-      "topic": "2026中国民营企业500强发布",
-      "score": 76.8,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 3,
-        "peakRank": 3,
-        "hotValue": "1725",
-        "collectedAt": "2026-09-23T01:15:19.892Z",
-        "duration": "持续高位(第3名, 在榜11小时)",
-        "rankChange": "持续高位(第3名, 在榜11小时)",
-        "link": "https://ef.zhiweidata.com/eventRk/2145a446cc6167c810180144/profil"
-      },
-      "explanation": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "whyHot": "围绕「2026中国民营企业500强发布」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "title": "2026中国民营企业500强发布",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "totalScore": 76.8,
-      "source": "知微",
-      "heat": "1725",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 1725
+          "rank": 4,
+          "hot": 1639
         }
       ]
     }
