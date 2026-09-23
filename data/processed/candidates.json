@@ -5,10 +5,35 @@
   "date": "2026-09-23",
   "rulesSummary": {
     "maxRankPerPlatform": 30,
-    "candidateCount": 89,
+    "candidateCount": 88,
     "pendingReviewCount": 1
   },
   "candidates": [
+    {
+      "id": "webwide-3-2026中国民营企业500强发布",
+      "title": "2026中国民营企业500强发布",
+      "crossPlatform": true,
+      "platforms": [
+        {
+          "platform": "webwide",
+          "rank": 3,
+          "hot": 5374,
+          "url": "https://ef.zhiweidata.com/eventRk/91b2bbb9b758007810180174/profil",
+          "sourceName": "webwide",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        },
+        {
+          "platform": "douyin",
+          "rank": 19,
+          "hot": 8485347,
+          "url": "https://www.douyin.com/search/2026%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A500%E5%BC%BA%E5%8F%91%E5%B8%83",
+          "sourceName": "douyin",
+          "sourceUpdatedAt": null,
+          "collectedAt": null
+        }
+      ]
+    },
     {
       "id": "webwide-1-日本爱知・名古屋亚运会",
       "title": "日本爱知・名古屋亚运会",
@@ -106,8 +131,8 @@
       ]
     },
     {
-      "id": "douyin-2-和好友一起打开川西慢旅行",
-      "title": "和好友一起打开川西慢旅行",
+      "id": "douyin-2-张展硕1500米自由泳夺冠",
+      "title": "张展硕1500米自由泳夺冠",
       "crossPlatform": false,
       "platforms": [
         {

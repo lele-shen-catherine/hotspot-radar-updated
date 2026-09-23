@@ -4,7 +4,7 @@
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
       "title": "中国队男子4×100米混接夺金",
       "topic": "中国队男子4×100米混接夺金",
@@ -26,8 +26,8 @@
       "hotScore": 99,
       "trendScore": 85,
       "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 亚运会)",
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
@@ -37,7 +37,7 @@
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top2",
       "title": "日本爱知・名古屋亚运会",
       "topic": "日本爱知・名古屋亚运会",
@@ -54,13 +54,13 @@
           "hot": 11741
         }
       ],
-      "totalScore": 80.8,
+      "totalScore": 87.8,
       "posScore": 90,
       "hotScore": 95,
       "trendScore": 85,
       "trendEvidence": "持续高位(第1名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 亚运会)",
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
@@ -94,8 +94,8 @@
       "trendEvidence": "微博单次快照无在榜时长(按60)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
+      "duration": "排名上升 4→2, 在榜2小时",
+      "rankChange": "排名上升 4→2, 在榜2小时",
       "excludeCat": null,
       "collectedAt": "2026-09-23T09:15:19.205Z",
       "eventSummary": "围绕「马斯克感叹中国壮丽」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
@@ -120,9 +120,9 @@
           "hot": 3477
         }
       ],
-      "totalScore": 75.3,
-      "posScore": 80,
-      "hotScore": 85,
+      "totalScore": 76.8,
+      "posScore": 70,
+      "hotScore": 75,
       "trendScore": 85,
       "trendEvidence": "持续高位(第2名, 在榜11小时)",
       "resonanceScore": 45,
