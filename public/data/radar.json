@@ -4,7 +4,7 @@
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "S",
+      "level": "A",
       "seat": "总榜Top1",
       "title": "日本爱知・名古屋亚运会",
       "topic": "日本爱知・名古屋亚运会",
@@ -21,15 +21,81 @@
           "hot": 12659
         }
       ],
-      "totalScore": 87.8,
+      "totalScore": 84.5,
       "posScore": 90,
       "hotScore": 95,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 2→1, 在榜2小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 2→1, 在榜2小时",
+      "rankChange": "排名上升 2→1, 在榜2小时",
+      "excludeCat": null,
+      "collectedAt": "2026-09-23T13:15:55.385Z",
+      "eventSummary": "围绕「闲鱼回应涉黄」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top2",
+      "title": "中国U23男足vs阿联酋U23",
+      "topic": "中国U23男足vs阿联酋U23",
+      "eventName": "中国U23男足vs阿联酋U23",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 12116125,
+      "hotValue": 12116125,
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3vs%E9%98%BF%E8%81%94%E9%85%8BU23",
+      "platforms": [
+        {
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 12116125
+        }
+      ],
+      "totalScore": 84.3,
+      "posScore": 98,
+      "hotScore": 99,
       "trendScore": 85,
-      "trendEvidence": "持续高位(第1名, 在榜11小时)",
+      "trendEvidence": "抖音标记'爆'",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音标记'爆'",
+      "rankChange": "抖音标记'爆'",
+      "excludeCat": null,
+      "collectedAt": "2026-09-23T13:15:55.385Z",
+      "eventSummary": "围绕「中国U23男足vs阿联酋U23」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「中国U23男足vs阿联酋U23」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top3",
+      "title": "日本爱知・名古屋亚运会",
+      "topic": "日本爱知・名古屋亚运会",
+      "eventName": "日本爱知・名古屋亚运会",
+      "platform": "知微",
+      "rank": 3,
+      "hot": 9287,
+      "hotValue": 9287,
+      "url": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 9287
+        }
+      ],
+      "totalScore": 82.3,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
       "resonanceScore": 80,
       "resonanceEvidence": "两源共振(其他: 亚运会)",
-      "duration": "持续高位(第1名, 在榜11小时)",
-      "rankChange": "持续高位(第1名, 在榜11小时)",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
       "collectedAt": "2026-09-23T14:30:22.158Z",
       "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
@@ -200,6 +266,39 @@
       "eventSummary": "围绕「南京一幼儿园用炒菜锅洗拖把」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「南京一幼儿园用炒菜锅洗拖把」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top6",
+      "title": "2026中国民营企业500强发布",
+      "topic": "2026中国民营企业500强发布",
+      "eventName": "2026中国民营企业500强发布",
+      "platform": "知微",
+      "rank": 6,
+      "hot": 1639,
+      "hotValue": 1639,
+      "url": "https://ef.zhiweidata.com/eventRk/91b2bbb9b758007810180174/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 1639
+        }
+      ],
+      "totalScore": 64.3,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第4名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第4名, 在榜11小时)",
+      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-23T13:15:55.385Z",
+      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
+      "propagation": "围绕「2026中国民营企业500强发布」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
     }
   ]
 }
