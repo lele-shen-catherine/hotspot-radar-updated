@@ -1,103 +1,37 @@
 {
-  "generatedAt": "2026-09-23T14:30:22.158Z",
+  "generatedAt": "2026-09-23T15:00:02.099Z",
   "date": "2026-09-23",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
       "title": "日本爱知・名古屋亚运会",
       "topic": "日本爱知・名古屋亚运会",
       "eventName": "日本爱知・名古屋亚运会",
       "platform": "知微",
       "rank": 1,
-      "hot": 12659,
-      "hotValue": 12659,
+      "hot": 13052,
+      "hotValue": 13052,
       "url": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 12659
+          "hot": 13052
         }
       ],
-      "totalScore": 84.5,
+      "totalScore": 87.8,
       "posScore": 90,
       "hotScore": 95,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 2→1, 在榜2小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 2→1, 在榜2小时",
-      "rankChange": "排名上升 2→1, 在榜2小时",
-      "excludeCat": null,
-      "collectedAt": "2026-09-23T13:15:55.385Z",
-      "eventSummary": "围绕「闲鱼回应涉黄」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
-      "title": "中国U23男足vs阿联酋U23",
-      "topic": "中国U23男足vs阿联酋U23",
-      "eventName": "中国U23男足vs阿联酋U23",
-      "platform": "抖音",
-      "rank": 2,
-      "hot": 12116125,
-      "hotValue": 12116125,
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3vs%E9%98%BF%E8%81%94%E9%85%8BU23",
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 12116125
-        }
-      ],
-      "totalScore": 84.3,
-      "posScore": 98,
-      "hotScore": 99,
       "trendScore": 85,
-      "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'爆'",
-      "rankChange": "抖音标记'爆'",
-      "excludeCat": null,
-      "collectedAt": "2026-09-23T13:15:55.385Z",
-      "eventSummary": "围绕「中国U23男足vs阿联酋U23」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「中国U23男足vs阿联酋U23」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top3",
-      "title": "日本爱知・名古屋亚运会",
-      "topic": "日本爱知・名古屋亚运会",
-      "eventName": "日本爱知・名古屋亚运会",
-      "platform": "知微",
-      "rank": 3,
-      "hot": 9287,
-      "hotValue": 9287,
-      "url": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 9287
-        }
-      ],
-      "totalScore": 82.3,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "trendEvidence": "持续高位(第1名, 在榜11小时)",
       "resonanceScore": 80,
       "resonanceEvidence": "两源共振(其他: 亚运会)",
-      "duration": "持续高位(第2名, 在榜11小时)",
-      "rankChange": "持续高位(第2名, 在榜11小时)",
+      "duration": "持续高位(第1名, 在榜11小时)",
+      "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-23T14:30:22.158Z",
+      "collectedAt": "2026-09-23T15:00:02.099Z",
       "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
       "propagation": "知名团队遭遇意外状况自带共情与围观；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对\"不可控的出行意外\"产生代入感，救援/解决的进展持续牵动关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -110,17 +44,17 @@
       "eventName": "中国U23男足vs阿联酋U23",
       "platform": "抖音",
       "rank": 2,
-      "hot": 11941444,
-      "hotValue": 11941444,
+      "hot": 11949674,
+      "hotValue": 11949674,
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3vs%E9%98%BF%E8%81%94%E9%85%8BU23",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11941444
+          "hot": 11949674
         }
       ],
-      "totalScore": 84.3,
+      "totalScore": 84.4,
       "posScore": 98,
       "hotScore": 99,
       "trendScore": 85,
@@ -130,7 +64,7 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-09-23T14:30:22.158Z",
+      "collectedAt": "2026-09-23T15:00:02.099Z",
       "eventSummary": "围绕「中国U23男足vs阿联酋U23」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「中国U23男足vs阿联酋U23」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
@@ -138,52 +72,19 @@
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "张家齐综艺节目表现引争议",
-      "topic": "张家齐综艺节目表现引争议",
-      "eventName": "张家齐综艺节目表现引争议",
-      "platform": "知微",
-      "rank": 3,
-      "hot": 5315,
-      "hotValue": 5315,
-      "url": "https://ef.zhiweidata.com/eventRk/39170a54dcac26ab10180186/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 5315
-        }
-      ],
-      "totalScore": 79,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 3→2, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 3→2, 在榜11小时",
-      "rankChange": "排名上升 3→2, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-09-23T14:30:22.158Z",
-      "eventSummary": "围绕「张家齐综艺节目表现引争议」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "身份反差与价值观张力极强，共情与质疑两极，公共资源公平性议题易引发争论，属高热度但需谨慎跟进。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
       "title": "女子回应丈夫离世6亿遗产全给自己",
       "topic": "女子回应丈夫离世6亿遗产全给自己",
       "eventName": "女子回应丈夫离世6亿遗产全给自己",
       "platform": "微博",
-      "rank": 4,
-      "hot": 1331648,
-      "hotValue": 1331648,
+      "rank": 3,
+      "hot": 1275108,
+      "hotValue": 1275108,
       "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%966%E4%BA%BF%E9%81%97%E4%BA%A7%E5%85%A8%E7%BB%99%E8%87%AA%E5%B7%B1%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1331648
+          "hot": 1275108
         }
       ],
       "totalScore": 78.1,
@@ -196,42 +97,75 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-09-23T14:30:22.158Z",
+      "collectedAt": "2026-09-23T15:00:02.099Z",
       "eventSummary": "围绕「女子回应丈夫离世6亿遗产全给自己」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
+      "title": "闲鱼回应涉黄",
+      "topic": "闲鱼回应涉黄",
+      "eventName": "闲鱼回应涉黄",
+      "platform": "知微",
+      "rank": 4,
+      "hot": 5494,
+      "hotValue": 5494,
+      "url": "https://ef.zhiweidata.com/eventRk/cea6b3ca99a1a80710180156/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 5494
+        }
+      ],
+      "totalScore": 71.5,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 70,
+      "trendEvidence": "平稳(第2名, 在榜3小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "平稳(第2名, 在榜3小时)",
+      "rankChange": "平稳(第2名, 在榜3小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-09-23T15:00:02.099Z",
+      "eventSummary": "围绕「闲鱼回应涉黄」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "B",
       "seat": "总榜Top5",
-      "title": "闲鱼回应涉黄",
-      "topic": "闲鱼回应涉黄",
-      "eventName": "闲鱼回应涉黄",
+      "title": "张家齐综艺节目表现引争议",
+      "topic": "张家齐综艺节目表现引争议",
+      "eventName": "张家齐综艺节目表现引争议",
       "platform": "知微",
       "rank": 5,
-      "hot": 4753,
-      "hotValue": 4753,
-      "url": "https://ef.zhiweidata.com/eventRk/cea6b3ca99a1a80710180156/profil",
+      "hot": 5491,
+      "hotValue": 5491,
+      "url": "https://ef.zhiweidata.com/eventRk/39170a54dcac26ab10180186/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 4753
+          "hot": 5491
         }
       ],
-      "totalScore": 66,
+      "totalScore": 69.8,
       "posScore": 70,
       "hotScore": 75,
-      "trendScore": 70,
-      "trendEvidence": "平稳(第3名, 在榜3小时)",
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第3名, 在榜11小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "平稳(第3名, 在榜3小时)",
-      "rankChange": "平稳(第3名, 在榜3小时)",
+      "duration": "持续高位(第3名, 在榜11小时)",
+      "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-23T14:30:22.158Z",
-      "eventSummary": "围绕「闲鱼回应涉黄」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
+      "collectedAt": "2026-09-23T15:00:02.099Z",
+      "eventSummary": "围绕「张家齐综艺节目表现引争议」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "身份反差与价值观张力极强，共情与质疑两极，公共资源公平性议题易引发争论，属高热度但需谨慎跟进。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
@@ -242,14 +176,14 @@
       "eventName": "南京一幼儿园用炒菜锅洗拖把",
       "platform": "知微",
       "rank": 6,
-      "hot": 2975,
-      "hotValue": 2975,
+      "hot": 3198,
+      "hotValue": 3198,
       "url": "https://ef.zhiweidata.com/eventRk/be9659d8ab93245910180159/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 2975
+          "hot": 3198
         }
       ],
       "totalScore": 64.3,
@@ -262,43 +196,10 @@
       "duration": "持续高位(第4名, 在榜7小时)",
       "rankChange": "持续高位(第4名, 在榜7小时)",
       "excludeCat": null,
-      "collectedAt": "2026-09-23T14:30:22.158Z",
+      "collectedAt": "2026-09-23T15:00:02.099Z",
       "eventSummary": "围绕「南京一幼儿园用炒菜锅洗拖把」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「南京一幼儿园用炒菜锅洗拖把」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "B",
-      "seat": "总榜Top6",
-      "title": "2026中国民营企业500强发布",
-      "topic": "2026中国民营企业500强发布",
-      "eventName": "2026中国民营企业500强发布",
-      "platform": "知微",
-      "rank": 6,
-      "hot": 1639,
-      "hotValue": 1639,
-      "url": "https://ef.zhiweidata.com/eventRk/91b2bbb9b758007810180174/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 4,
-          "hot": 1639
-        }
-      ],
-      "totalScore": 64.3,
-      "posScore": 60,
-      "hotScore": 65,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第4名, 在榜11小时)",
-      "rankChange": "持续高位(第4名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-23T13:15:55.385Z",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "propagation": "围绕「2026中国民营企业500强发布」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
     }
   ]
 }
