@@ -1714,3 +1714,25 @@ Hotspot radar template validation passed. ✅
   ai-analysis.json  → /root/.joyclaw/workspace/hotspot-radar-updated/public/data/ai-analysis.json
   dashboard.html    → /root/.joyclaw/workspace/hotspot-radar-updated/public/dashboard.html
 --- 推送 GitHub（触发 gh-pages 自动部署） ---
+[main 6c11b7b] daily update 2026-09-23 1500
+ 13 files changed, 5520 insertions(+), 896 deletions(-)
+ create mode 100644 data/raw/2026-09-23/douyin-1500.json
+ create mode 100644 data/raw/2026-09-23/webwide-1500.json
+ create mode 100644 data/raw/2026-09-23/weibo-1500.json
+ create mode 100644 data/raw/2026-09-23/xhs-1500.json
+ rewrite public/data/business-advice.json (83%)
+==> 开始推送 origin main（HTTP/1.1，最多 6 次）
+--- 第 1/6 次推送 ---
+fatal: Authentication failed for 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git/'
+⚠️ 第 1 次失败，等待 20s 后重试...
+--- 第 2/6 次推送 ---
+fatal: unable to access 'https://github.com/lele-shen-catherine/hotspot-radar-updated.git/': Failed to connect to github.com port 443 after 133580 ms: Connection timed out
+⚠️ 第 2 次失败，等待 40s 后重试...
+--- 第 3/6 次推送 ---
+To https://github.com/lele-shen-catherine/hotspot-radar-updated.git
+   088fe7b..6c11b7b  main -> main
+✅ push 成功（第 3 次）
+
+=== ✅ 每日更新完成 2026-09-23 15:06 ===
+线上访问: https://lele-shen-catherine.github.io/hotspot-radar-updated/
+Dashboard: https://lele-shen-catherine.github.io/hotspot-radar-updated/dashboard.html

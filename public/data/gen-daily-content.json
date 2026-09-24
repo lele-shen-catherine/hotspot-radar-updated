@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-09-23T12:01:11.919Z",
-  "collectedAt": "2026-09-23T12:01:11.919Z",
-  "date": "2026-09-23",
+  "updatedAt": "2026-09-24T01:13:50.892Z",
+  "collectedAt": "2026-09-24T01:13:50.892Z",
+  "date": "2026-09-24",
   "events": [
     {
       "level": "S",
-      "eventName": "习近平离京对美国进行国事访问",
-      "topic": "习近平离京对美国进行国事访问",
+      "eventName": "中美元首半年内实现互访",
+      "topic": "中美元首半年内实现互访",
       "score": 85.1,
       "platform": "抖音",
       "platformDetail": {
         "platform": "抖音",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "1160.9w",
-        "collectedAt": "2026-09-23T12:01:11.919Z",
+        "hotValue": "1209.9w",
+        "collectedAt": "2026-09-24T01:13:50.892Z",
         "duration": "抖音无在榜时长(按60)",
         "rankChange": "抖音无在榜时长(按60)",
-        "link": "https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE"
+        "link": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8A%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E4%BA%92%E8%AE%BF"
       },
-      "explanation": "围绕「习近平离京对美国进行国事访问」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「习近平离京对美国进行国事访问」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "explanation": "围绕「中美元首半年内实现互访」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「中美元首半年内实现互访」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "习近平离京对美国进行国事访问",
-      "eventSummary": "围绕「习近平离京对美国进行国事访问」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "title": "中美元首半年内实现互访",
+      "eventSummary": "围绕「中美元首半年内实现互访」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 85.1,
       "source": "抖音",
-      "heat": "1160.9w",
+      "heat": "1209.9w",
       "crossPlatform": [
         "抖音"
       ],
@@ -35,7 +35,79 @@
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11609378
+          "hot": 12098539
+        }
+      ]
+    },
+    {
+      "level": "A",
+      "eventName": "习近平将对美国进行国事访问",
+      "topic": "习近平将对美国进行国事访问",
+      "score": 80.8,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "2.0w",
+        "collectedAt": "2026-09-24T01:13:50.892Z",
+        "duration": "持续高位(第1名, 在榜10小时)",
+        "rankChange": "持续高位(第1名, 在榜10小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/2b7abd73837e22ec10180164/profil"
+      },
+      "explanation": "围绕「习近平将对美国进行国事访问」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「习近平将对美国进行国事访问」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "习近平将对美国进行国事访问",
+      "eventSummary": "围绕「习近平将对美国进行国事访问」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 80.8,
+      "source": "知微",
+      "heat": "2.0w",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 20406
+        }
+      ]
+    },
+    {
+      "level": "A",
+      "eventName": "3名中国女子在泰遭诱骗囚禁性侵",
+      "topic": "3名中国女子在泰遭诱骗囚禁性侵",
+      "score": 76.8,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 3,
+        "peakRank": 3,
+        "hotValue": "2651",
+        "collectedAt": "2026-09-24T01:13:50.892Z",
+        "duration": "持续高位(第3名, 在榜11小时)",
+        "rankChange": "持续高位(第3名, 在榜11小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/653682a1c58a092510180200/profil"
+      },
+      "explanation": "围绕「3名中国女子在泰遭诱骗囚禁性侵」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「3名中国女子在泰遭诱骗囚禁性侵」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "title": "3名中国女子在泰遭诱骗囚禁性侵",
+      "eventSummary": "围绕「3名中国女子在泰遭诱骗囚禁性侵」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "totalScore": 76.8,
+      "source": "知微",
+      "heat": "2651",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 2651
         }
       ]
     },
@@ -43,16 +115,16 @@
       "level": "A",
       "eventName": "日本爱知・名古屋亚运会",
       "topic": "日本爱知・名古屋亚运会",
-      "score": 80.8,
+      "score": 75.3,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
-        "currentRank": 1,
-        "peakRank": 1,
-        "hotValue": "3.0w",
-        "collectedAt": "2026-09-23T12:01:11.919Z",
-        "duration": "持续高位(第1名, 在榜11小时)",
-        "rankChange": "持续高位(第1名, 在榜11小时)",
+        "currentRank": 2,
+        "peakRank": 2,
+        "hotValue": "1.0w",
+        "collectedAt": "2026-09-24T01:13:50.892Z",
+        "duration": "持续高位(第2名, 在榜11小时)",
+        "rankChange": "持续高位(第2名, 在榜11小时)",
         "link": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil"
       },
       "explanation": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
@@ -61,89 +133,17 @@
       "title": "日本爱知・名古屋亚运会",
       "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 80.8,
+      "totalScore": 75.3,
       "source": "知微",
-      "heat": "3.0w",
+      "heat": "1.0w",
       "crossPlatform": [
         "知微"
       ],
       "platforms": [
         {
           "platform": "知微",
-          "rank": 1,
-          "hot": 29600
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "小米18 Pro系列新品发布会",
-      "topic": "小米18 Pro系列新品发布会",
-      "score": 75,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 4,
-        "peakRank": 4,
-        "hotValue": "1863",
-        "collectedAt": "2026-09-23T12:01:11.919Z",
-        "duration": "排名上升 7→4, 在榜11小时",
-        "rankChange": "排名上升 7→4, 在榜11小时",
-        "link": "https://ef.zhiweidata.com/eventRk/d96c69aaeb29e0b810180171/profil"
-      },
-      "explanation": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "whyHot": "新品首发自带\"即时体验\"冲动；科技/新品发布制造悬念，KOL 开箱 + 评论区讨论带动跨平台扩散。",
-      "risk": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "title": "小米18 Pro系列新品发布会",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "totalScore": 75,
-      "source": "知微",
-      "heat": "1863",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 4,
-          "hot": 1863
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "2026中国民营企业500强发布",
-      "topic": "2026中国民营企业500强发布",
-      "score": 73.5,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 3,
-        "peakRank": 3,
-        "hotValue": "2513",
-        "collectedAt": "2026-09-23T12:01:11.919Z",
-        "duration": "排名上升 4→3, 在榜11小时",
-        "rankChange": "排名上升 4→3, 在榜11小时",
-        "link": "https://ef.zhiweidata.com/eventRk/91b2bbb9b758007810180174/profil"
-      },
-      "explanation": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "whyHot": "围绕「2026中国民营企业500强发布」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "title": "2026中国民营企业500强发布",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "totalScore": 73.5,
-      "source": "知微",
-      "heat": "2513",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 2513
+          "rank": 2,
+          "hot": 10271
         }
       ]
     }
