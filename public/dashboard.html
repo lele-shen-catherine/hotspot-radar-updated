@@ -732,7 +732,8 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
 //       拉取最新 JSON，数据变化不再触发 Netlify 部署。
 // ============================================================
 (function () {
-  var CDN = 'https://cdn.jsdelivr.net/gh/lele-shen-catherine/hotspot-radar-updated@gh-pages/data/';
+  // 数据源：直连 GitHub raw（gh-pages 权威分支）。不用 jsDelivr @branch，因其对分支内容强缓存且 query 无法绕过（实测 2026-09-24 长期返回旧含政治热点内容）。
+  var CDN = 'https://raw.githubusercontent.com/lele-shen-catherine/hotspot-radar-updated/gh-pages/data/';
   var FILES = {
     radar: 'radar.json',
     advice: 'business-advice.json'
