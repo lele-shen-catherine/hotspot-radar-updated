@@ -1,139 +1,53 @@
 {
-  "generatedAt": "2026-09-24T09:13:48.407Z",
   "date": "2026-09-24",
-  "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
+  "updatedAt": "2026-09-24T09:32:08",
   "hotspots": [
     {
-      "level": "S",
-      "seat": "总榜Top1",
-      "title": "中美元首半年内实现互访",
-      "topic": "中美元首半年内实现互访",
-      "eventName": "中美元首半年内实现互访",
-      "platform": "抖音",
-      "rank": 1,
-      "hot": 12098539,
-      "hotValue": 12098539,
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%8D%8A%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E4%BA%92%E8%AE%BF",
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 12098539
-        }
-      ],
-      "totalScore": 85.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "抖音无在榜时长(按60)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 中美元首半年内实现国事互访)",
-      "duration": "抖音无在榜时长(按60)",
-      "rankChange": "抖音无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-24T09:13:48.407Z",
-      "eventSummary": "围绕「中美元首半年内实现互访」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「中美元首半年内实现互访」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
-      "title": "习近平将对美国进行国事访问",
-      "topic": "习近平将对美国进行国事访问",
-      "eventName": "习近平将对美国进行国事访问",
-      "platform": "知微",
-      "rank": 2,
-      "hot": 20406,
-      "hotValue": 20406,
-      "url": "https://ef.zhiweidata.com/eventRk/2b7abd73837e22ec10180164/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 1,
-          "hot": 20406
-        }
-      ],
-      "totalScore": 80.8,
-      "posScore": 90,
-      "hotScore": 95,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第1名, 在榜10小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第1名, 在榜10小时)",
-      "rankChange": "持续高位(第1名, 在榜10小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-24T09:13:48.407Z",
-      "eventSummary": "围绕「习近平将对美国进行国事访问」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「习近平将对美国进行国事访问」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top3",
-      "title": "3名中国女子在泰遭诱骗囚禁性侵",
-      "topic": "3名中国女子在泰遭诱骗囚禁性侵",
-      "eventName": "3名中国女子在泰遭诱骗囚禁性侵",
-      "platform": "知微",
-      "rank": 3,
-      "hot": 2651,
-      "hotValue": 2651,
-      "url": "https://ef.zhiweidata.com/eventRk/653682a1c58a092510180200/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 2651
-        }
-      ],
-      "totalScore": 76.8,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 3名中国女子在泰遭诱骗锁链囚禁)",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-24T09:13:48.407Z",
-      "eventSummary": "围绕「3名中国女子在泰遭诱骗囚禁性侵」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「3名中国女子在泰遭诱骗囚禁性侵」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
       "title": "日本爱知・名古屋亚运会",
-      "topic": "日本爱知・名古屋亚运会",
-      "eventName": "日本爱知・名古屋亚运会",
+      "level": "S",
       "platform": "知微",
-      "rank": 4,
       "hot": 10271,
-      "hotValue": 10271,
-      "url": "https://ef.zhiweidata.com/eventRk/b0b747a8306ce82110180141/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 10271
-        }
-      ],
-      "totalScore": 75.3,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第2名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第2名, 在榜11小时)",
-      "rankChange": "持续高位(第2名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-09-24T09:13:48.407Z",
-      "eventSummary": "国乒队员抵达名古屋机场后遭遇长时间滞留/被困，行程受阻影响后续赛事安排，引发外界对队员状态与赛事应对的关注。",
-      "propagation": "知名团队遭遇意外状况自带共情与围观；实力选手被突发行程问题困住，公众既关切其后续赛事安排，又对\"不可控的出行意外\"产生代入感，救援/解决的进展持续牵动关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "totalScore": 85.2,
+      "rank": "知微总榜TOP4",
+      "trend": "持续高位（在榜11小时）",
+      "source": "知微事件榜",
+      "summary": "爱知・名古屋亚运会开幕，中国代表团各项目陆续登场，乒乓球等优势项目表现受关注。"
+    },
+    {
+      "title": "3名中国女子在泰遭诱骗囚禁性侵",
+      "level": "A",
+      "platform": "知微",
+      "hot": 2651,
+      "totalScore": 76.8,
+      "rank": "知微总榜TOP3",
+      "trend": "持续高位（在榜11小时）",
+      "source": "知微事件榜",
+      "summary": "3名中国女子在泰国被诱骗囚禁并遭性侵，事件引发公众对跨境人身安全与维权的高度关注。"
+    },
+    {
+      "title": "林诗栋 打疯了",
+      "level": "B",
+      "platform": "微博",
+      "hot": 3020000,
+      "totalScore": 62.4,
+      "rank": "微博实时TOP7",
+      "trend": "上升中",
+      "source": "微博官方热榜",
+      "summary": "乒乓球选手林诗栋在亚运赛场表现强势、状态火热，相关话题登上热搜。"
+    },
+    {
+      "title": "中秋来庐山看千里江山",
+      "level": "B",
+      "platform": "抖音",
+      "hot": 39500000,
+      "totalScore": 60.8,
+      "rank": "抖音总榜TOP2",
+      "trend": "上升中",
+      "source": "抖音官方热榜",
+      "summary": "中秋假期临近，庐山千里江山主题玩法与赏月内容走红，带动中秋出行讨论。"
     }
-  ]
+  ],
+  "meta": {
+    "note": "2026-09-24 早间：已剔除政治类（中美元首互访/习近平国事访问/华盛顿会晤/特朗普等，属四类不展示内容直接删除不上页面）。"
+  }
 }
