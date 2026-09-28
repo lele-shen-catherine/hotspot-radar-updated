@@ -24,7 +24,7 @@
     "webwide": {
       "label": "全网热点",
       "fetchedAt": "2026-09-28T01:16:07.597Z",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "日本爱知・名古屋亚运会",
@@ -52,15 +52,6 @@
           "category": "国际",
           "snapshotTime": "2026-09-28 08",
           "eventId": "1916a770c3a4105a10180213"
-        },
-        {
-          "title": "习近平将对美国进行国事访问",
-          "url": "https://ef.zhiweidata.com/eventRk/2b7abd73837e22ec10180164/profil",
-          "hot": 1701,
-          "proportion": 5.13,
-          "category": "国际",
-          "snapshotTime": "2026-09-28 08",
-          "eventId": "2b7abd73837e22ec10180164"
         },
         {
           "title": "刘欢去世",
@@ -121,7 +112,7 @@
     "weibo": {
       "label": "微博",
       "fetchedAt": "2026-09-28T01:16:07.762Z",
-      "count": 52,
+      "count": 50,
       "items": [
         {
           "title": "电车 买得起修不起",
@@ -136,21 +127,9 @@
           "label": null
         },
         {
-          "title": "中美建立推进贸易理事会等机制",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%BB%BA%E7%AB%8B%E6%8E%A8%E8%BF%9B%E8%B4%B8%E6%98%93%E7%90%86%E4%BA%8B%E4%BC%9A%E7%AD%89%E6%9C%BA%E5%88%B6%23",
-          "hot": 1097778,
-          "label": null
-        },
-        {
           "title": "家用爆爆爆爆款享界V8今日预订",
           "url": "",
           "hot": 1027684,
-          "label": null
-        },
-        {
-          "title": "武契奇正式辞职",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%AD%A3%E5%BC%8F%E8%BE%9E%E8%81%8C%23",
-          "hot": 926817,
           "label": null
         },
         {
@@ -440,7 +419,7 @@
     "douyin": {
       "label": "抖音",
       "fetchedAt": "2026-09-28T01:16:07.965Z",
-      "count": 50,
+      "count": 49,
       "items": [
         {
           "title": "严子怡破纪录夺金",
@@ -495,12 +474,6 @@
           "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B30%3A3%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
           "hot": 9176876,
           "label": null
-        },
-        {
-          "title": "商务部解读第八轮中美经贸磋商成果",
-          "url": "https://www.douyin.com/search/%E5%95%86%E5%8A%A1%E9%83%A8%E8%A7%A3%E8%AF%BB%E7%AC%AC%E5%85%AB%E8%BD%AE%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E6%88%90%E6%9E%9C",
-          "hot": 9165399,
-          "label": "新"
         },
         {
           "title": "国庆出游穿搭思路有了",
