@@ -781,6 +781,14 @@ var Fr={},Gr={};var Wr,Hr=function(){function t(t,e,n){var i=this;this._sleepAft
   var commsEl = document.getElementById('business-comms');
   if (!sel || !actionEl) return;
   var data = (typeof window.__BUSINESS_ADVICE__ !== 'undefined' && window.__BUSINESS_ADVICE__.businesses) ? window.__BUSINESS_ADVICE__.businesses : {};
+  // 若 businesses 是数组 [{business, action, comms}]，转成 {业务名: {action, comms}}，避免下拉显示 0/1/2/3
+  if (Array.isArray(data)) {
+    var obj = {};
+    data.forEach(function (item) {
+      if (item && item.business) obj[item.business] = { action: item.action, comms: item.comms };
+    });
+    data = obj;
+  }
   var bizNames = Object.keys(data);
 
   function esc(s) { return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
