@@ -1,15 +1,11 @@
 {
-  "generatedAt": "2026-10-01T21:47:39.803Z",
-  "date": "2026-10-01",
-  "time": "2147",
+  "generatedAt": "2026-10-02T14:18:12.299Z",
+  "date": "2026-10-02",
+  "time": "1418",
   "sources": {
     "webwide": {
       "name": "zhiwei-event-rank",
       "base": "https://ef.zhiweidata.com"
-    },
-    "weibo": {
-      "name": "weibo-official",
-      "base": "https://weibo.com"
     },
     "douyin": {
       "name": "douyin-official",
@@ -23,718 +19,415 @@
   "platforms": {
     "webwide": {
       "label": "全网热点",
-      "fetchedAt": "2026-10-01T13:47:42.664Z",
+      "fetchedAt": "2026-10-02T06:18:13.636Z",
       "count": 10,
       "items": [
         {
-          "title": "国庆天安门10.1万人一起看升旗",
-          "url": "https://ef.zhiweidata.com/eventRk/b1bba9050948e38310180277/profil",
-          "hot": 5281,
-          "proportion": 29.32,
-          "category": "社会",
-          "snapshotTime": "2026-10-01 20",
-          "eventId": "b1bba9050948e38310180277"
-        },
-        {
           "title": "电影《神探之痕迹》",
           "url": "https://ef.zhiweidata.com/eventRk/5ed0be1066484aca10180222/profil",
-          "hot": 5080,
-          "proportion": 28.2,
+          "hot": 3295,
+          "proportion": 38.6,
           "category": "娱乐",
-          "snapshotTime": "2026-10-01 20",
+          "snapshotTime": "2026-10-02 13",
           "eventId": "5ed0be1066484aca10180222"
-        },
-        {
-          "title": "居民购房贷款贴息政策出台",
-          "url": "https://ef.zhiweidata.com/eventRk/20a60ed77719841810180254/profil",
-          "hot": 1014,
-          "proportion": 5.63,
-          "category": "政务",
-          "snapshotTime": "2026-10-01 20",
-          "eventId": "20a60ed77719841810180254"
         },
         {
           "title": "国庆首日高速公路上演“大堵车”",
           "url": "https://ef.zhiweidata.com/eventRk/9e2190c42c10393710180280/profil",
-          "hot": 730,
-          "proportion": 4.05,
+          "hot": 1906,
+          "proportion": 22.33,
           "category": "社会",
-          "snapshotTime": "2026-10-01 20",
+          "snapshotTime": "2026-10-02 13",
           "eventId": "9e2190c42c10393710180280"
         },
         {
-          "title": "林诗栋夺冠",
-          "url": "https://ef.zhiweidata.com/eventRk/72156e9478d00bed10180244/profil",
-          "hot": 682,
-          "proportion": 3.79,
-          "category": "体育",
-          "snapshotTime": "2026-10-01 20",
-          "eventId": "72156e9478d00bed10180244"
+          "title": "国庆天安门10.1万人一起看升旗",
+          "url": "https://ef.zhiweidata.com/eventRk/b1bba9050948e38310180277/profil",
+          "hot": 743,
+          "proportion": 8.71,
+          "category": "社会",
+          "snapshotTime": "2026-10-02 13",
+          "eventId": "b1bba9050948e38310180277"
         },
         {
-          "title": "国乒男团无缘亚运九连冠",
-          "url": "https://ef.zhiweidata.com/eventRk/1ed5a533ed31192010180206/profil",
-          "hot": 599,
-          "proportion": 3.33,
-          "category": "体育",
-          "snapshotTime": "2026-10-01 20",
-          "eventId": "1ed5a533ed31192010180206"
+          "title": "电影《活色生香》",
+          "url": "https://ef.zhiweidata.com/eventRk/17a8c582cceb318c10180224/profil",
+          "hot": 456,
+          "proportion": 5.34,
+          "category": "娱乐",
+          "snapshotTime": "2026-10-02 13",
+          "eventId": "17a8c582cceb318c10180224"
+        },
+        {
+          "title": "居民购房贷款贴息政策出台",
+          "url": "https://ef.zhiweidata.com/eventRk/20a60ed77719841810180254/profil",
+          "hot": 438,
+          "proportion": 5.13,
+          "category": "政务",
+          "snapshotTime": "2026-10-02 13",
+          "eventId": "20a60ed77719841810180254"
         },
         {
           "title": "央行调整完善若干货币政策工具",
           "url": "https://ef.zhiweidata.com/eventRk/cb6a32decc218c7b10180257/profil",
-          "hot": 599,
-          "proportion": 3.32,
+          "hot": 364,
+          "proportion": 4.26,
           "category": "财经",
-          "snapshotTime": "2026-10-01 20",
+          "snapshotTime": "2026-10-02 13",
           "eventId": "cb6a32decc218c7b10180257"
         },
         {
           "title": "消费20万女子遭Tiffany限号，企业通报",
           "url": "https://ef.zhiweidata.com/eventRk/22c46bb2261dd06610180251/profil",
-          "hot": 551,
-          "proportion": 3.06,
+          "hot": 269,
+          "proportion": 3.15,
           "category": "企业",
-          "snapshotTime": "2026-10-01 20",
+          "snapshotTime": "2026-10-02 13",
           "eventId": "22c46bb2261dd06610180251"
         },
         {
           "title": "东航通报空姐下跪事件",
           "url": "https://ef.zhiweidata.com/eventRk/d9900a0e4ab12d6110180270/profil",
-          "hot": 420,
-          "proportion": 2.33,
+          "hot": 203,
+          "proportion": 2.38,
           "category": "企业",
-          "snapshotTime": "2026-10-01 20",
+          "snapshotTime": "2026-10-02 13",
           "eventId": "d9900a0e4ab12d6110180270"
         },
         {
-          "title": "昆明地震",
-          "url": "https://ef.zhiweidata.com/eventRk/76da2334bcca702310180275/profil",
-          "hot": 363,
-          "proportion": 2.01,
-          "category": "灾难",
-          "snapshotTime": "2026-10-01 20",
-          "eventId": "76da2334bcca702310180275"
+          "title": "刘欢去世",
+          "url": "https://ef.zhiweidata.com/eventRk/70649bbba3048adb10180212/profil",
+          "hot": 165,
+          "proportion": 1.94,
+          "category": "娱乐",
+          "snapshotTime": "2026-10-02 13",
+          "eventId": "70649bbba3048adb10180212"
+        },
+        {
+          "title": "林诗栋夺冠",
+          "url": "https://ef.zhiweidata.com/eventRk/72156e9478d00bed10180244/profil",
+          "hot": 159,
+          "proportion": 1.87,
+          "category": "体育",
+          "snapshotTime": "2026-10-02 13",
+          "eventId": "72156e9478d00bed10180244"
         }
       ]
     },
     "weibo": {
-      "label": "微博",
-      "fetchedAt": "2026-10-01T13:47:43.405Z",
-      "count": 50,
-      "items": [
-        {
-          "title": "华为赛力斯 复合",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%20%E5%A4%8D%E5%90%88%23",
-          "hot": 2273969,
-          "label": null
-        },
-        {
-          "title": "陈鹤文 沙玥儿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%B9%A4%E6%96%87%20%E6%B2%99%E7%8E%A5%E5%84%BF%23",
-          "hot": 994815,
-          "label": null
-        },
-        {
-          "title": "国庆假期流动的中国具象化了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%B5%81%E5%8A%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23",
-          "hot": 969288,
-          "label": null
-        },
-        {
-          "title": "肖战来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E4%BA%86%23",
-          "hot": 953360,
-          "label": null
-        },
-        {
-          "title": "高速服务区新能源车充电像排队打饭",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E5%83%8F%E6%8E%92%E9%98%9F%E6%89%93%E9%A5%AD%23",
-          "hot": 488248,
-          "label": null
-        },
-        {
-          "title": "刘学义的吻技",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E7%9A%84%E5%90%BB%E6%8A%80%23",
-          "hot": 458356,
-          "label": null
-        },
-        {
-          "title": "美国一死刑犯致命注射后传出打呼声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%AD%BB%E5%88%91%E7%8A%AF%E8%87%B4%E5%91%BD%E6%B3%A8%E5%B0%84%E5%90%8E%E4%BC%A0%E5%87%BA%E6%89%93%E5%91%BC%E5%A3%B0%23",
-          "hot": 430034,
-          "label": null
-        },
-        {
-          "title": "央视国庆晚会节目单",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23",
-          "hot": 417484,
-          "label": null
-        },
-        {
-          "title": "鸿蒙智行问界业务升级",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E9%97%AE%E7%95%8C%E4%B8%9A%E5%8A%A1%E5%8D%87%E7%BA%A7%23",
-          "hot": 416366,
-          "label": null
-        },
-        {
-          "title": "罗意威大秀阵容",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%84%8F%E5%A8%81%E5%A4%A7%E7%A7%80%E9%98%B5%E5%AE%B9%23",
-          "hot": 415228,
-          "label": null
-        },
-        {
-          "title": "知乎高赞要求处罚那英",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%A5%E4%B9%8E%E9%AB%98%E8%B5%9E%E8%A6%81%E6%B1%82%E5%A4%84%E7%BD%9A%E9%82%A3%E8%8B%B1%23",
-          "hot": 412841,
-          "label": null
-        },
-        {
-          "title": "奚梦瑶自曝婆婆5胎剖腹产没坐月子",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E8%87%AA%E6%9B%9D%E5%A9%86%E5%A9%865%E8%83%8E%E5%89%96%E8%85%B9%E4%BA%A7%E6%B2%A1%E5%9D%90%E6%9C%88%E5%AD%90%23",
-          "hot": 410416,
-          "label": null
-        },
-        {
-          "title": "外围股市涨疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%B4%E8%82%A1%E5%B8%82%E6%B6%A8%E7%96%AF%E4%BA%86%23",
-          "hot": 408212,
-          "label": null
-        },
-        {
-          "title": "C罗退队惊动葡萄牙总理",
-          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E9%80%80%E9%98%9F%E6%83%8A%E5%8A%A8%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86%23",
-          "hot": 406016,
-          "label": null
-        },
-        {
-          "title": "女装高退货率逼出2.4米防拆丝带",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E9%AB%98%E9%80%80%E8%B4%A7%E7%8E%87%E9%80%BC%E5%87%BA2.4%E7%B1%B3%E9%98%B2%E6%8B%86%E4%B8%9D%E5%B8%A6%23",
-          "hot": 405044,
-          "label": null
-        },
-        {
-          "title": "周扬青自曝脸馒化了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E8%87%AA%E6%9B%9D%E8%84%B8%E9%A6%92%E5%8C%96%E4%BA%86%23",
-          "hot": 402437,
-          "label": null
-        },
-        {
-          "title": "广州男子被猫抓伤患狂犬病去世",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E6%82%A3%E7%8B%82%E7%8A%AC%E7%97%85%E5%8E%BB%E4%B8%96%23",
-          "hot": 400768,
-          "label": null
-        },
-        {
-          "title": "大堵车",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A0%B5%E8%BD%A6%23",
-          "hot": 398484,
-          "label": null
-        },
-        {
-          "title": "国庆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%23",
-          "hot": 395726,
-          "label": null
-        },
-        {
-          "title": "金价再度直线跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%23",
-          "hot": 393704,
-          "label": null
-        },
-        {
-          "title": "刘萧旭你出息了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E4%BD%A0%E5%87%BA%E6%81%AF%E4%BA%86%23",
-          "hot": 391107,
-          "label": null
-        },
-        {
-          "title": "燊是赌王把自己名字送给长孙继承",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%87%8A%E6%98%AF%E8%B5%8C%E7%8E%8B%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%8D%E5%AD%97%E9%80%81%E7%BB%99%E9%95%BF%E5%AD%99%E7%BB%A7%E6%89%BF%23",
-          "hot": 389815,
-          "label": null
-        },
-        {
-          "title": "山东文旅疑似喝多了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85%E7%96%91%E4%BC%BC%E5%96%9D%E5%A4%9A%E4%BA%86%23",
-          "hot": 386916,
-          "label": null
-        },
-        {
-          "title": "人可以和不爱的人过一生",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%92%8C%E4%B8%8D%E7%88%B1%E7%9A%84%E4%BA%BA%E8%BF%87%E4%B8%80%E7%94%9F%23",
-          "hot": 386179,
-          "label": null
-        },
-        {
-          "title": "刘学义怎么连林大爷这个梗都知道",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E6%80%8E%E4%B9%88%E8%BF%9E%E6%9E%97%E5%A4%A7%E7%88%B7%E8%BF%99%E4%B8%AA%E6%A2%97%E9%83%BD%E7%9F%A5%E9%81%93%23",
-          "hot": 384746,
-          "label": null
-        },
-        {
-          "title": "白鹿马甲线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%A9%AC%E7%94%B2%E7%BA%BF%23",
-          "hot": 380222,
-          "label": null
-        },
-        {
-          "title": "家长千万不要辞职陪读",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%BE%9E%E8%81%8C%E9%99%AA%E8%AF%BB%23",
-          "hot": 354816,
-          "label": null
-        },
-        {
-          "title": "养老院里的吃绝户",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E8%80%81%E9%99%A2%E9%87%8C%E7%9A%84%E5%90%83%E7%BB%9D%E6%88%B7%23",
-          "hot": 346248,
-          "label": null
-        },
-        {
-          "title": "虎扑女神大赛入围名单",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E%E5%A4%A7%E8%B5%9B%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95%23",
-          "hot": 335238,
-          "label": null
-        },
-        {
-          "title": "警察叔叔标记了一辆载具",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E6%A0%87%E8%AE%B0%E4%BA%86%E4%B8%80%E8%BE%86%E8%BD%BD%E5%85%B7%23",
-          "hot": 324866,
-          "label": null
-        },
-        {
-          "title": "周扬青家的爱马仕比我家塑料袋都多",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E5%AE%B6%E7%9A%84%E7%88%B1%E9%A9%AC%E4%BB%95%E6%AF%94%E6%88%91%E5%AE%B6%E5%A1%91%E6%96%99%E8%A2%8B%E9%83%BD%E5%A4%9A%23",
-          "hot": 316702,
-          "label": null
-        },
-        {
-          "title": "怪不得医生有时候会反复套话",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%8C%BB%E7%94%9F%E6%9C%89%E6%97%B6%E5%80%99%E4%BC%9A%E5%8F%8D%E5%A4%8D%E5%A5%97%E8%AF%9D%23",
-          "hot": 291898,
-          "label": null
-        },
-        {
-          "title": "日本拉面店因煮了14年汤底发酵歇业",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8B%89%E9%9D%A2%E5%BA%97%E5%9B%A0%E7%85%AE%E4%BA%8614%E5%B9%B4%E6%B1%A4%E5%BA%95%E5%8F%91%E9%85%B5%E6%AD%87%E4%B8%9A%23",
-          "hot": 230751,
-          "label": null
-        },
-        {
-          "title": "老板得知员工结婚天都塌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%BE%97%E7%9F%A5%E5%91%98%E5%B7%A5%E7%BB%93%E5%A9%9A%E5%A4%A9%E9%83%BD%E5%A1%8C%E4%BA%86%23",
-          "hot": 224528,
-          "label": null
-        },
-        {
-          "title": "许家印伦敦豪宅最新现状",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E4%BC%A6%E6%95%A6%E8%B1%AA%E5%AE%85%E6%9C%80%E6%96%B0%E7%8E%B0%E7%8A%B6%23",
-          "hot": 213569,
-          "label": null
-        },
-        {
-          "title": "导航看了都沉默三秒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AF%BC%E8%88%AA%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%E4%B8%89%E7%A7%92%23",
-          "hot": 207944,
-          "label": null
-        },
-        {
-          "title": "兰香如故林家一集下线2人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%9E%97%E5%AE%B6%E4%B8%80%E9%9B%86%E4%B8%8B%E7%BA%BF2%E4%BA%BA%23",
-          "hot": 200153,
-          "label": null
-        },
-        {
-          "title": "国庆出游天气",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E5%A4%A9%E6%B0%94%23",
-          "hot": 198033,
-          "label": null
-        },
-        {
-          "title": "原来香蜜有这么多雷霆片段",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A6%99%E8%9C%9C%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E9%9B%B7%E9%9C%86%E7%89%87%E6%AE%B5%23",
-          "hot": 196109,
-          "label": null
-        },
-        {
-          "title": "武汉烟花",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E7%83%9F%E8%8A%B1%23",
-          "hot": 193613,
-          "label": null
-        },
-        {
-          "title": "C罗离队原因",
-          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%A6%BB%E9%98%9F%E5%8E%9F%E5%9B%A0%23",
-          "hot": 191369,
-          "label": null
-        },
-        {
-          "title": "王一博拿着小萝卜",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8B%BF%E7%9D%80%E5%B0%8F%E8%90%9D%E5%8D%9C%23",
-          "hot": 182591,
-          "label": null
-        },
-        {
-          "title": "王安宇白敬亭体型差",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%93%E5%9E%8B%E5%B7%AE%23",
-          "hot": 179699,
-          "label": null
-        },
-        {
-          "title": "肖战我和我的祖国全网收视登顶",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E5%85%A8%E7%BD%91%E6%94%B6%E8%A7%86%E7%99%BB%E9%A1%B6%23",
-          "hot": 174353,
-          "label": null
-        },
-        {
-          "title": "杨幂像从古画里走出来似的",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%83%8F%E4%BB%8E%E5%8F%A4%E7%94%BB%E9%87%8C%E8%B5%B0%E5%87%BA%E6%9D%A5%E4%BC%BC%E7%9A%84%23",
-          "hot": 173982,
-          "label": null
-        },
-        {
-          "title": "葡萄牙7号已由C罗更换为莱奥",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%997%E5%8F%B7%E5%B7%B2%E7%94%B1C%E7%BD%97%E6%9B%B4%E6%8D%A2%E4%B8%BA%E8%8E%B1%E5%A5%A5%23",
-          "hot": 169920,
-          "label": null
-        },
-        {
-          "title": "护士给外国留学生写小纸条",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E7%BB%99%E5%A4%96%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%86%99%E5%B0%8F%E7%BA%B8%E6%9D%A1%23",
-          "hot": 164953,
-          "label": null
-        },
-        {
-          "title": "嫁金钗上星央八",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E4%B8%8A%E6%98%9F%E5%A4%AE%E5%85%AB%23",
-          "hot": 163169,
-          "label": null
-        },
-        {
-          "title": "阿丘事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%B8%98%E4%BA%8B%E4%BB%B6%23",
-          "hot": 162664,
-          "label": null
-        },
-        {
-          "title": "田栩宁工作室发了粉丝大合唱",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%BA%86%E7%B2%89%E4%B8%9D%E5%A4%A7%E5%90%88%E5%94%B1%23",
-          "hot": 162321,
-          "label": null
-        }
-      ]
+      "error": "fetch_failed",
+      "data": []
     },
     "douyin": {
       "label": "抖音",
-      "fetchedAt": "2026-10-01T13:47:44.852Z",
+      "fetchedAt": "2026-10-02T06:18:25.766Z",
       "count": 50,
       "items": [
         {
-          "title": "国庆节快乐",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90",
-          "hot": 11537550,
-          "label": "爆"
-        },
-        {
-          "title": "天安门广场国庆升旗仪式",
-          "url": "https://www.douyin.com/search/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F",
-          "hot": 11475931,
-          "label": "爆"
-        },
-        {
-          "title": "一起祝新中国生日快乐",
-          "url": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E7%A5%9D%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90",
-          "hot": 11389586,
-          "label": null
-        },
-        {
-          "title": "国庆节文案",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E6%96%87%E6%A1%88",
-          "hot": 11211689,
-          "label": "爆"
-        },
-        {
-          "title": "我们生在红旗下长在春风里",
-          "url": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E9%95%BF%E5%9C%A8%E6%98%A5%E9%A3%8E%E9%87%8C",
-          "hot": 10448741,
-          "label": "爆"
-        },
-        {
-          "title": "小孩姐陈妤颉携三金一银来了",
-          "url": "https://www.douyin.com/search/%E5%B0%8F%E5%AD%A9%E5%A7%90%E9%99%88%E5%A6%A4%E9%A2%89%E6%90%BA%E4%B8%89%E9%87%91%E4%B8%80%E9%93%B6%E6%9D%A5%E4%BA%86",
-          "hot": 10446627,
-          "label": null
-        },
-        {
-          "title": "国庆晚会直播",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E7%9B%B4%E6%92%AD",
-          "hot": 9288279,
+          "title": "全世界都知道中国人放假了",
+          "url": "https://www.douyin.com/search/%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86",
+          "hot": 11819630,
           "label": "新"
         },
         {
-          "title": "假期一起holymoly",
-          "url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly",
-          "hot": 9211149,
-          "label": null
-        },
-        {
-          "title": "我在这里给祖国庆生",
-          "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C%E7%BB%99%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F",
-          "hot": 9203769,
-          "label": null
-        },
-        {
-          "title": "先辈的奔赴终有回响",
-          "url": "https://www.douyin.com/search/%E5%85%88%E8%BE%88%E7%9A%84%E5%A5%94%E8%B5%B4%E7%BB%88%E6%9C%89%E5%9B%9E%E5%93%8D",
-          "hot": 9189741,
+          "title": "亚运铜牌战中国女足vs韩国",
+          "url": "https://www.douyin.com/search/%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C%E6%88%98%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3vs%E9%9F%A9%E5%9B%BD",
+          "hot": 11343177,
           "label": "爆"
         },
         {
-          "title": "十一假期就看现发4先导片",
-          "url": "https://www.douyin.com/search/%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E5%B0%B1%E7%9C%8B%E7%8E%B0%E5%8F%914%E5%85%88%E5%AF%BC%E7%89%87",
-          "hot": 9175710,
+          "title": "最骄傲的颜色来自山河",
+          "url": "https://www.douyin.com/search/%E6%9C%80%E9%AA%84%E5%82%B2%E7%9A%84%E9%A2%9C%E8%89%B2%E6%9D%A5%E8%87%AA%E5%B1%B1%E6%B2%B3",
+          "hot": 11096515,
           "label": "爆"
         },
         {
-          "title": "国庆一起合唱我和我的祖国",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%B8%80%E8%B5%B7%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD",
-          "hot": 9109483,
+          "title": "晒出你的武汉国庆烟花大片",
+          "url": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87",
+          "hot": 11091227,
+          "label": "爆"
+        },
+        {
+          "title": "一个人的国庆就这样破局",
+          "url": "https://www.douyin.com/search/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%86%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%A0%B4%E5%B1%80",
+          "hot": 10484600,
+          "label": "爆"
+        },
+        {
+          "title": "别人的国庆假期vs我的国庆假期",
+          "url": "https://www.douyin.com/search/%E5%88%AB%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9Fvs%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F",
+          "hot": 10412740,
+          "label": "爆"
+        },
+        {
+          "title": "赤壁之战未必有这规模",
+          "url": "https://www.douyin.com/search/%E8%B5%A4%E5%A3%81%E4%B9%8B%E6%88%98%E6%9C%AA%E5%BF%85%E6%9C%89%E8%BF%99%E8%A7%84%E6%A8%A1",
+          "hot": 9313866,
+          "label": "爆"
+        },
+        {
+          "title": "天地辽阔穿什么都对",
+          "url": "https://www.douyin.com/search/%E5%A4%A9%E5%9C%B0%E8%BE%BD%E9%98%94%E7%A9%BF%E4%BB%80%E4%B9%88%E9%83%BD%E5%AF%B9",
+          "hot": 9298832,
+          "label": "爆"
+        },
+        {
+          "title": "国庆琅琊古城游玩攻略请收好",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%90%85%E7%90%8A%E5%8F%A4%E5%9F%8E%E6%B8%B8%E7%8E%A9%E6%94%BB%E7%95%A5%E8%AF%B7%E6%94%B6%E5%A5%BD",
+          "hot": 9259980,
+          "label": "爆"
+        },
+        {
+          "title": "英雄城南昌国庆烟花太浪漫",
+          "url": "https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E5%9F%8E%E5%8D%97%E6%98%8C%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%AA%E6%B5%AA%E6%BC%AB",
+          "hot": 9183182,
           "label": null
         },
         {
-          "title": "本周谣言鉴别",
-          "url": "https://www.douyin.com/search/%E6%9C%AC%E5%91%A8%E8%B0%A3%E8%A8%80%E9%89%B4%E5%88%AB",
-          "hot": 9106385,
+          "title": "纯过日子休假教程",
+          "url": "https://www.douyin.com/search/%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E4%BC%91%E5%81%87%E6%95%99%E7%A8%8B",
+          "hot": 9154511,
           "label": null
         },
         {
-          "title": "金牌进行曲迎来了陈芋汐",
-          "url": "https://www.douyin.com/search/%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E8%BF%8E%E6%9D%A5%E4%BA%86%E9%99%88%E8%8A%8B%E6%B1%90",
-          "hot": 8950229,
+          "title": "我的国庆落地签已拍不欠",
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E8%90%BD%E5%9C%B0%E7%AD%BE%E5%B7%B2%E6%8B%8D%E4%B8%8D%E6%AC%A0",
+          "hot": 9135189,
+          "label": "爆"
+        },
+        {
+          "title": "所谓“12306候补妙招”都是假的",
+          "url": "https://www.douyin.com/search/%E6%89%80%E8%B0%93%E2%80%9C12306%E5%80%99%E8%A1%A5%E5%A6%99%E6%8B%9B%E2%80%9D%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84",
+          "hot": 9134633,
           "label": null
         },
         {
-          "title": "穆欣月用金牌进行曲告别亚运",
-          "url": "https://www.douyin.com/search/%E7%A9%86%E6%AC%A3%E6%9C%88%E7%94%A8%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E5%91%8A%E5%88%AB%E4%BA%9A%E8%BF%90",
-          "hot": 8915695,
+          "title": "余红旧事三人婚礼修罗场",
+          "url": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E4%B8%89%E4%BA%BA%E5%A9%9A%E7%A4%BC%E4%BF%AE%E7%BD%97%E5%9C%BA",
+          "hot": 9124240,
+          "label": "新"
+        },
+        {
+          "title": "送你一百朵国庆烟花",
+          "url": "https://www.douyin.com/search/%E9%80%81%E4%BD%A0%E4%B8%80%E7%99%BE%E6%9C%B5%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1",
+          "hot": 9118547,
           "label": null
+        },
+        {
+          "title": "假期开启气泡熊卖萌模式",
+          "url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E5%BC%80%E5%90%AF%E6%B0%94%E6%B3%A1%E7%86%8A%E5%8D%96%E8%90%8C%E6%A8%A1%E5%BC%8F",
+          "hot": 9102836,
+          "label": null
+        },
+        {
+          "title": "西藏贵州福建广东等地有暴雨",
+          "url": "https://www.douyin.com/search/%E8%A5%BF%E8%97%8F%E8%B4%B5%E5%B7%9E%E7%A6%8F%E5%BB%BA%E5%B9%BF%E4%B8%9C%E7%AD%89%E5%9C%B0%E6%9C%89%E6%9A%B4%E9%9B%A8",
+          "hot": 9096889,
+          "label": null
+        },
+        {
+          "title": "余红旧事喜剧悬疑好看",
+          "url": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%96%9C%E5%89%A7%E6%82%AC%E7%96%91%E5%A5%BD%E7%9C%8B",
+          "hot": 9090523,
+          "label": "爆"
         },
         {
           "title": "国庆接力合唱我爱你中国",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%8E%A5%E5%8A%9B%E5%90%88%E5%94%B1%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD",
-          "hot": 8861450,
+          "hot": 9051623,
           "label": null
         },
         {
-          "title": "华为Mate90定价5999起",
-          "url": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate90%E5%AE%9A%E4%BB%B75999%E8%B5%B7",
-          "hot": 8852699,
+          "title": "什么是skillcation",
+          "url": "https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E6%98%AFskillcation",
+          "hot": 9040387,
+          "label": "新"
+        },
+        {
+          "title": "神探之痕迹里反派好刺激",
+          "url": "https://www.douyin.com/search/%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E9%87%8C%E5%8F%8D%E6%B4%BE%E5%A5%BD%E5%88%BA%E6%BF%80",
+          "hot": 9038906,
           "label": null
         },
         {
-          "title": "C罗宣布离开国家队集训营",
-          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E8%90%A5",
-          "hot": 8803026,
+          "title": "贺兰山日出配国旗太燃了",
+          "url": "https://www.douyin.com/search/%E8%B4%BA%E5%85%B0%E5%B1%B1%E6%97%A5%E5%87%BA%E9%85%8D%E5%9B%BD%E6%97%97%E5%A4%AA%E7%87%83%E4%BA%86",
+          "hot": 8919933,
+          "label": null
+        },
+        {
+          "title": "抓紧你的手 走过我的朝朝暮暮",
+          "url": "https://www.douyin.com/search/%E6%8A%93%E7%B4%A7%E4%BD%A0%E7%9A%84%E6%89%8B%20%E8%B5%B0%E8%BF%87%E6%88%91%E7%9A%84%E6%9C%9D%E6%9C%9D%E6%9A%AE%E6%9A%AE",
+          "hot": 8908386,
+          "label": null
+        },
+        {
+          "title": "花小龙带小沈阳自律的一天",
+          "url": "https://www.douyin.com/search/%E8%8A%B1%E5%B0%8F%E9%BE%99%E5%B8%A6%E5%B0%8F%E6%B2%88%E9%98%B3%E8%87%AA%E5%BE%8B%E7%9A%84%E4%B8%80%E5%A4%A9",
+          "hot": 8888632,
+          "label": null
+        },
+        {
+          "title": "假期在阿尔山把秋景冬景一起看了",
+          "url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E5%9C%A8%E9%98%BF%E5%B0%94%E5%B1%B1%E6%8A%8A%E7%A7%8B%E6%99%AF%E5%86%AC%E6%99%AF%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BA%86",
+          "hot": 8870814,
+          "label": null
+        },
+        {
+          "title": "在长城上唱响我的祖国",
+          "url": "https://www.douyin.com/search/%E5%9C%A8%E9%95%BF%E5%9F%8E%E4%B8%8A%E5%94%B1%E5%93%8D%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD",
+          "hot": 8851588,
+          "label": null
+        },
+        {
+          "title": "假期不停手大赏",
+          "url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%8D%E5%81%9C%E6%89%8B%E5%A4%A7%E8%B5%8F",
+          "hot": 8693784,
+          "label": "新"
+        },
+        {
+          "title": "郑州金融岛把张杰演唱会续上了",
+          "url": "https://www.douyin.com/search/%E9%83%91%E5%B7%9E%E9%87%91%E8%9E%8D%E5%B2%9B%E6%8A%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%AD%E4%B8%8A%E4%BA%86",
+          "hot": 8581340,
           "label": "爆"
         },
         {
-          "title": "第五人格中国队启动金牌进行曲了",
-          "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AF%E5%8A%A8%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BA%86",
-          "hot": 8683993,
-          "label": "爆"
-        },
-        {
-          "title": "国庆秀出你家乡的颜色",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%A7%80%E5%87%BA%E4%BD%A0%E5%AE%B6%E4%B9%A1%E7%9A%84%E9%A2%9C%E8%89%B2",
-          "hot": 8670090,
-          "label": null
-        },
-        {
-          "title": "用中国人能飞献礼国庆",
-          "url": "https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%8C%AE%E7%A4%BC%E5%9B%BD%E5%BA%86",
-          "hot": 8275372,
-          "label": null
-        },
-        {
-          "title": "今天是你的生日我的祖国",
-          "url": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD",
-          "hot": 8224792,
-          "label": null
-        },
-        {
-          "title": "国庆大军已抵达全世界",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%86%9B%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%85%A8%E4%B8%96%E7%95%8C",
-          "hot": 8000379,
-          "label": "爆"
-        },
-        {
-          "title": "全网进入不烧心时代",
-          "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%BF%9B%E5%85%A5%E4%B8%8D%E7%83%A7%E5%BF%83%E6%97%B6%E4%BB%A3",
-          "hot": 7776558,
-          "label": null
-        },
-        {
-          "title": "国庆仪式感从看升旗开始",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F%E4%BB%8E%E7%9C%8B%E5%8D%87%E6%97%97%E5%BC%80%E5%A7%8B",
-          "hot": 7760394,
+          "title": "周深在大地指纹与万人合唱",
+          "url": "https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E5%9C%A8%E5%A4%A7%E5%9C%B0%E6%8C%87%E7%BA%B9%E4%B8%8E%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1",
+          "hot": 8463101,
           "label": "爆"
         },
         {
           "title": "中国人能飞",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E",
-          "hot": 7742453,
-          "label": null
-        },
-        {
-          "title": "电影什么意思夫妇喜剧人团建",
-          "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E5%96%9C%E5%89%A7%E4%BA%BA%E5%9B%A2%E5%BB%BA",
-          "hot": 7738995,
-          "label": null
-        },
-        {
-          "title": "陈伯狙击赛S6决战之夜",
-          "url": "https://www.douyin.com/search/%E9%99%88%E4%BC%AF%E7%8B%99%E5%87%BB%E8%B5%9BS6%E5%86%B3%E6%88%98%E4%B9%8B%E5%A4%9C",
-          "hot": 7738128,
-          "label": null
-        },
-        {
-          "title": "总要我看着你的眼睛说",
-          "url": "https://www.douyin.com/search/%E6%80%BB%E8%A6%81%E6%88%91%E7%9C%8B%E7%9D%80%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%AF%B4",
-          "hot": 7733997,
-          "label": null
-        },
-        {
-          "title": "在不同的地方歌唱祖国",
-          "url": "https://www.douyin.com/search/%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9C%B0%E6%96%B9%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD",
-          "hot": 7730815,
-          "label": null
-        },
-        {
-          "title": "长长长假给祖国整点新技艺",
-          "url": "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA",
-          "hot": 7723263,
-          "label": null
-        },
-        {
-          "title": "抖音落日合唱派对国庆场开唱",
-          "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E8%90%BD%E6%97%A5%E5%90%88%E5%94%B1%E6%B4%BE%E5%AF%B9%E5%9B%BD%E5%BA%86%E5%9C%BA%E5%BC%80%E5%94%B1",
-          "hot": 7720342,
-          "label": null
-        },
-        {
-          "title": "游戏达人集体为祖国庆生",
-          "url": "https://www.douyin.com/search/%E6%B8%B8%E6%88%8F%E8%BE%BE%E4%BA%BA%E9%9B%86%E4%BD%93%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F",
-          "hot": 7716305,
-          "label": null
-        },
-        {
-          "title": "电影神探之痕迹观后感",
-          "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E8%A7%82%E5%90%8E%E6%84%9F",
-          "hot": 7710839,
-          "label": null
-        },
-        {
-          "title": "赤壁之战未必有这规模",
-          "url": "https://www.douyin.com/search/%E8%B5%A4%E5%A3%81%E4%B9%8B%E6%88%98%E6%9C%AA%E5%BF%85%E6%9C%89%E8%BF%99%E8%A7%84%E6%A8%A1",
-          "hot": 7710497,
-          "label": null
-        },
-        {
-          "title": "晒出你的武汉国庆烟花大片",
-          "url": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87",
-          "hot": 7705129,
-          "label": null
-        },
-        {
-          "title": "用中国红定格国庆仪式感",
-          "url": "https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%9A%E6%A0%BC%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F",
-          "hot": 7704348,
-          "label": null
-        },
-        {
-          "title": "别人的国庆假期vs我的国庆假期",
-          "url": "https://www.douyin.com/search/%E5%88%AB%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9Fvs%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F",
-          "hot": 7697124,
-          "label": null
-        },
-        {
-          "title": "现在就出发4官宣王楚然",
-          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914%E5%AE%98%E5%AE%A3%E7%8E%8B%E6%A5%9A%E7%84%B6",
-          "hot": 7692012,
-          "label": "爆"
-        },
-        {
-          "title": "魏大勋皮鞋一擦变叶信之",
-          "url": "https://www.douyin.com/search/%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%AE%E9%9E%8B%E4%B8%80%E6%93%A6%E5%8F%98%E5%8F%B6%E4%BF%A1%E4%B9%8B",
-          "hot": 7691480,
-          "label": null
-        },
-        {
-          "title": "换上红装为祖国庆生",
-          "url": "https://www.douyin.com/search/%E6%8D%A2%E4%B8%8A%E7%BA%A2%E8%A3%85%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F",
-          "hot": 7688152,
-          "label": null
-        },
-        {
-          "title": "用闪身步打开国庆假期",
-          "url": "https://www.douyin.com/search/%E7%94%A8%E9%97%AA%E8%BA%AB%E6%AD%A5%E6%89%93%E5%BC%80%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F",
-          "hot": 7683954,
-          "label": null
-        },
-        {
-          "title": "骑着单车让红旗飘过祖国山河",
-          "url": "https://www.douyin.com/search/%E9%AA%91%E7%9D%80%E5%8D%95%E8%BD%A6%E8%AE%A9%E7%BA%A2%E6%97%97%E9%A3%98%E8%BF%87%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3",
-          "hot": 7681388,
-          "label": null
-        },
-        {
-          "title": "双重叠影卡出国庆双倍氛围",
-          "url": "https://www.douyin.com/search/%E5%8F%8C%E9%87%8D%E5%8F%A0%E5%BD%B1%E5%8D%A1%E5%87%BA%E5%9B%BD%E5%BA%86%E5%8F%8C%E5%80%8D%E6%B0%9B%E5%9B%B4",
-          "hot": 7678549,
-          "label": null
-        },
-        {
-          "title": "鞠婧祎撕拉片又美出了新高度",
-          "url": "https://www.douyin.com/search/%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%92%95%E6%8B%89%E7%89%87%E5%8F%88%E7%BE%8E%E5%87%BA%E4%BA%86%E6%96%B0%E9%AB%98%E5%BA%A6",
-          "hot": 7675879,
-          "label": "爆"
-        },
-        {
-          "title": "什么意思夫妇不用多想大笑就好",
-          "url": "https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E4%B8%8D%E7%94%A8%E5%A4%9A%E6%83%B3%E5%A4%A7%E7%AC%91%E5%B0%B1%E5%A5%BD",
-          "hot": 7669643,
-          "label": null
-        },
-        {
-          "title": "兔娘爆改逆战未来摆摊主理人",
-          "url": "https://www.douyin.com/search/%E5%85%94%E5%A8%98%E7%88%86%E6%94%B9%E9%80%86%E6%88%98%E6%9C%AA%E6%9D%A5%E6%91%86%E6%91%8A%E4%B8%BB%E7%90%86%E4%BA%BA",
-          "hot": 7666575,
-          "label": "爆"
-        },
-        {
-          "title": "余红旧事刘阳杀手变富婆助理",
-          "url": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%88%98%E9%98%B3%E6%9D%80%E6%89%8B%E5%8F%98%E5%AF%8C%E5%A9%86%E5%8A%A9%E7%90%86",
-          "hot": 7666114,
-          "label": null
-        },
-        {
-          "title": "唱响桑田沧海迎国庆",
-          "url": "https://www.douyin.com/search/%E5%94%B1%E5%93%8D%E6%A1%91%E7%94%B0%E6%B2%A7%E6%B5%B7%E8%BF%8E%E5%9B%BD%E5%BA%86",
-          "hot": 7663553,
+          "hot": 8177005,
           "label": null
         },
         {
           "title": "余红旧事两集两代人的爱情纠葛",
           "url": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E4%B8%A4%E9%9B%86%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E7%88%B1%E6%83%85%E7%BA%A0%E8%91%9B",
-          "hot": 7662238,
+          "hot": 8147454,
+          "label": null
+        },
+        {
+          "title": "电影什么意思夫妇喜剧人团建",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E5%96%9C%E5%89%A7%E4%BA%BA%E5%9B%A2%E5%BB%BA",
+          "hot": 8089478,
+          "label": null
+        },
+        {
+          "title": "总要我看着你的眼睛说",
+          "url": "https://www.douyin.com/search/%E6%80%BB%E8%A6%81%E6%88%91%E7%9C%8B%E7%9D%80%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%AF%B4",
+          "hot": 7915092,
+          "label": null
+        },
+        {
+          "title": "全网进入不烧心时代",
+          "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%BF%9B%E5%85%A5%E4%B8%8D%E7%83%A7%E5%BF%83%E6%97%B6%E4%BB%A3",
+          "hot": 7842085,
+          "label": null
+        },
+        {
+          "title": "用中国人能飞献礼国庆",
+          "url": "https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%8C%AE%E7%A4%BC%E5%9B%BD%E5%BA%86",
+          "hot": 7794336,
+          "label": null
+        },
+        {
+          "title": "大兴安岭的秋缓缓铺开了",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E7%9A%84%E7%A7%8B%E7%BC%93%E7%BC%93%E9%93%BA%E5%BC%80%E4%BA%86",
+          "hot": 7782498,
+          "label": "爆"
+        },
+        {
+          "title": "北约回应俄罗斯核警告",
+          "url": "https://www.douyin.com/search/%E5%8C%97%E7%BA%A6%E5%9B%9E%E5%BA%94%E4%BF%84%E7%BD%97%E6%96%AF%E6%A0%B8%E8%AD%A6%E5%91%8A",
+          "hot": 7780810,
+          "label": "爆"
+        },
+        {
+          "title": "那年梨花瘦你要走",
+          "url": "https://www.douyin.com/search/%E9%82%A3%E5%B9%B4%E6%A2%A8%E8%8A%B1%E7%98%A6%E4%BD%A0%E8%A6%81%E8%B5%B0",
+          "hot": 7768821,
+          "label": null
+        },
+        {
+          "title": "国庆小长假第一口甜",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%B0%8F%E9%95%BF%E5%81%87%E7%AC%AC%E4%B8%80%E5%8F%A3%E7%94%9C",
+          "hot": 7761520,
+          "label": "爆"
+        },
+        {
+          "title": "电影神探之痕迹观后感",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E8%A7%82%E5%90%8E%E6%84%9F",
+          "hot": 7759485,
+          "label": null
+        },
+        {
+          "title": "用大江南北食材做一桌国庆家宴",
+          "url": "https://www.douyin.com/search/%E7%94%A8%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%E9%A3%9F%E6%9D%90%E5%81%9A%E4%B8%80%E6%A1%8C%E5%9B%BD%E5%BA%86%E5%AE%B6%E5%AE%B4",
+          "hot": 7740933,
+          "label": "爆"
+        },
+        {
+          "title": "国庆假期不烧心指南",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E4%B8%8D%E7%83%A7%E5%BF%83%E6%8C%87%E5%8D%97",
+          "hot": 7735070,
+          "label": null
+        },
+        {
+          "title": "光遇国庆活动兑换指南",
+          "url": "https://www.douyin.com/search/%E5%85%89%E9%81%87%E5%9B%BD%E5%BA%86%E6%B4%BB%E5%8A%A8%E5%85%91%E6%8D%A2%E6%8C%87%E5%8D%97",
+          "hot": 7731131,
+          "label": "新"
+        },
+        {
+          "title": "第五人格中国队启动金牌进行曲了",
+          "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AF%E5%8A%A8%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BA%86",
+          "hot": 7730224,
+          "label": null
+        },
+        {
+          "title": "用中国红定格国庆仪式感",
+          "url": "https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%9A%E6%A0%BC%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F",
+          "hot": 7729435,
+          "label": null
+        },
+        {
+          "title": "蛋仔小猪佩奇联动外观上线",
+          "url": "https://www.douyin.com/search/%E8%9B%8B%E4%BB%94%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E8%81%94%E5%8A%A8%E5%A4%96%E8%A7%82%E4%B8%8A%E7%BA%BF",
+          "hot": 7726790,
+          "label": null
+        },
+        {
+          "title": "光遇我的世界联动开启",
+          "url": "https://www.douyin.com/search/%E5%85%89%E9%81%87%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E8%81%94%E5%8A%A8%E5%BC%80%E5%90%AF",
+          "hot": 7722934,
+          "label": null
+        },
+        {
+          "title": "余红旧事罗子君的富婆后半生",
+          "url": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E7%BD%97%E5%AD%90%E5%90%9B%E7%9A%84%E5%AF%8C%E5%A9%86%E5%90%8E%E5%8D%8A%E7%94%9F",
+          "hot": 7714276,
+          "label": null
+        },
+        {
+          "title": "大理洱海的风太懂浪漫",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E7%90%86%E6%B4%B1%E6%B5%B7%E7%9A%84%E9%A3%8E%E5%A4%AA%E6%87%82%E6%B5%AA%E6%BC%AB",
+          "hot": 7711666,
+          "label": "爆"
+        },
+        {
+          "title": "假期一起holymoly",
+          "url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly",
+          "hot": 7709876,
           "label": null
         }
       ]
     },
     "xhs": {
       "label": "小红书",
-      "fetchedAt": "2026-10-01T13:47:46.366Z",
+      "fetchedAt": "2026-10-02T06:18:27.233Z",
       "count": 20,
       "items": [
         {
@@ -744,7 +437,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 1,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -757,7 +450,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 2,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -770,7 +463,7 @@
           "desc": "",
           "cover": "",
           "rank": 3,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -782,7 +475,7 @@
           "desc": "",
           "cover": "",
           "rank": 4,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -794,7 +487,7 @@
           "desc": "",
           "cover": "",
           "rank": 5,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -806,7 +499,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 6,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -819,7 +512,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 7,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -832,7 +525,7 @@
           "desc": "",
           "cover": "",
           "rank": 8,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -844,7 +537,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 9,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -857,7 +550,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 10,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -870,7 +563,7 @@
           "desc": "",
           "cover": "",
           "rank": 11,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -882,7 +575,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 12,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -895,7 +588,7 @@
           "desc": "",
           "cover": "",
           "rank": 13,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -907,7 +600,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 14,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -920,7 +613,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 15,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -933,7 +626,7 @@
           "desc": "",
           "cover": "",
           "rank": 16,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -945,7 +638,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 17,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -958,7 +651,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 18,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"
@@ -971,7 +664,7 @@
           "desc": "",
           "cover": "",
           "rank": 19,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "type": "无"
           }
@@ -983,7 +676,7 @@
           "desc": "",
           "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
           "rank": 20,
-          "sourceUpdatedAt": "2026-10-01T13:14:53.922Z",
+          "sourceUpdatedAt": "2026-10-02T06:01:47.385Z",
           "rawExtra": {
             "cover": "https://picasso-static.xiaohongshu.com/fe-platform/cfd317ff14757c7ede6ef5176ec487589565e49e.png",
             "type": "热"

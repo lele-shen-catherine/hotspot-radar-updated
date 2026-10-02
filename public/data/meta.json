@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-10-01T21:47:39.803Z",
-  "date": "2026-10-01",
-  "time": "2147",
+  "lastUpdate": "2026-10-02T14:18:12.299Z",
+  "date": "2026-10-02",
+  "time": "1418",
   "platforms": {
     "webwide": 10,
-    "weibo": 50,
+    "weibo": 0,
     "douyin": 50,
     "xhs": 20
   },
   "sources": {
     "webwide": "zhiwei-event-rank",
-    "weibo": "weibo-official",
+    "weibo": null,
     "douyin": "douyin-official",
     "xhs": "uapi-xiaohongshu"
   }
