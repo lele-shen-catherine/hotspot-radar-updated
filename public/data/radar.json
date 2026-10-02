@@ -1,90 +1,123 @@
 {
-  "generatedAt": "2026-10-02T14:18:12.299Z",
+  "generatedAt": "2026-10-02T21:03:48.864Z",
   "date": "2026-10-02",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
-      "title": "电影《神探之痕迹》",
-      "topic": "电影《神探之痕迹》",
-      "eventName": "电影《神探之痕迹》",
-      "platform": "知微",
-      "rank": 1,
-      "hot": 3295,
-      "hotValue": 3295,
-      "url": "https://ef.zhiweidata.com/eventRk/5ed0be1066484aca10180222/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 1,
-          "hot": 3295
-        }
-      ],
-      "totalScore": 80.8,
-      "posScore": 90,
-      "hotScore": 95,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第1名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第1名, 在榜11小时)",
-      "rankChange": "持续高位(第1名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-10-02T14:18:12.299Z",
-      "eventSummary": "围绕「电影《神探之痕迹》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「电影《神探之痕迹》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
       "title": "全世界都知道中国人放假了",
       "topic": "全世界都知道中国人放假了",
       "eventName": "全世界都知道中国人放假了",
       "platform": "抖音",
-      "rank": 2,
-      "hot": 11819630,
-      "hotValue": 11819630,
+      "rank": 1,
+      "hot": 11254899,
+      "hotValue": 11254899,
       "url": "https://www.douyin.com/search/%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11819630
+          "hot": 11254899
         }
       ],
-      "totalScore": 78.1,
+      "totalScore": 91.4,
       "posScore": 98,
       "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "抖音标记'新'(刚上榜)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'新'(刚上榜)",
-      "rankChange": "抖音标记'新'(刚上榜)",
+      "trendScore": 85,
+      "trendEvidence": "抖音标记'爆'",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 全世界都知道中国人放假了)",
+      "duration": "抖音标记'爆'",
+      "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-10-02T14:18:12.299Z",
+      "collectedAt": "2026-10-02T21:03:48.864Z",
       "eventSummary": "围绕「全世界都知道中国人放假了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「全世界都知道中国人放假了」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top3",
-      "title": "国庆首日高速公路上演“大堵车”",
-      "topic": "国庆首日高速公路上演“大堵车”",
-      "eventName": "国庆首日高速公路上演“大堵车”",
+      "seat": "总榜Top2",
+      "title": "电影《神探之痕迹》",
+      "topic": "电影《神探之痕迹》",
+      "eventName": "电影《神探之痕迹》",
       "platform": "知微",
+      "rank": 2,
+      "hot": 1700,
+      "hotValue": 1700,
+      "url": "https://ef.zhiweidata.com/eventRk/5ed0be1066484aca10180222/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 1700
+        }
+      ],
+      "totalScore": 84.5,
+      "posScore": 90,
+      "hotScore": 95,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 2→1, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 2→1, 在榜11小时",
+      "rankChange": "排名上升 2→1, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-10-02T21:03:48.864Z",
+      "eventSummary": "围绕「电影《神探之痕迹》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「电影《神探之痕迹》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top3",
+      "title": "兰香如故袁绍辉去世",
+      "topic": "兰香如故袁绍辉去世",
+      "eventName": "兰香如故袁绍辉去世",
+      "platform": "微博",
       "rank": 3,
-      "hot": 1906,
-      "hotValue": 1906,
-      "url": "https://ef.zhiweidata.com/eventRk/9e2190c42c10393710180280/profil",
+      "hot": 1124138,
+      "hotValue": 1124138,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%A2%81%E7%BB%8D%E8%BE%89%E5%8E%BB%E4%B8%96%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1124138
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-02T21:03:48.864Z",
+      "eventSummary": "围绕「兰香如故袁绍辉去世」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「兰香如故袁绍辉去世」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
+      "title": "国庆高速新能源车充电遇堵",
+      "topic": "国庆高速新能源车充电遇堵",
+      "eventName": "国庆高速新能源车充电遇堵",
+      "platform": "知微",
+      "rank": 4,
+      "hot": 1338,
+      "hotValue": 1338,
+      "url": "https://ef.zhiweidata.com/eventRk/d2ea4bd61aa1846710180281/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 1906
+          "hot": 1338
         }
       ],
       "totalScore": 75.3,
@@ -97,27 +130,27 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-02T14:18:12.299Z",
+      "collectedAt": "2026-10-02T21:03:48.864Z",
       "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
-      "propagation": "围绕「国庆首日高速公路上演“大堵车”」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "propagation": "围绕「国庆高速新能源车充电遇堵」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top4",
+      "seat": "总榜Top5",
       "title": "国庆天安门10.1万人一起看升旗",
       "topic": "国庆天安门10.1万人一起看升旗",
       "eventName": "国庆天安门10.1万人一起看升旗",
       "platform": "知微",
-      "rank": 4,
-      "hot": 743,
-      "hotValue": 743,
+      "rank": 5,
+      "hot": 909,
+      "hotValue": 909,
       "url": "https://ef.zhiweidata.com/eventRk/b1bba9050948e38310180277/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 743
+          "hot": 909
         }
       ],
       "totalScore": 69.8,
@@ -130,43 +163,43 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-02T14:18:12.299Z",
+      "collectedAt": "2026-10-02T21:03:48.864Z",
       "eventSummary": "围绕「国庆天安门10.1万人一起看升旗」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「国庆天安门10.1万人一起看升旗」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top5",
-      "title": "电影《活色生香》",
-      "topic": "电影《活色生香》",
-      "eventName": "电影《活色生香》",
+      "seat": "总榜Top6",
+      "title": "东航通报空姐下跪事件",
+      "topic": "东航通报空姐下跪事件",
+      "eventName": "东航通报空姐下跪事件",
       "platform": "知微",
-      "rank": 5,
-      "hot": 456,
-      "hotValue": 456,
-      "url": "https://ef.zhiweidata.com/eventRk/17a8c582cceb318c10180224/profil",
+      "rank": 6,
+      "hot": 551,
+      "hotValue": 551,
+      "url": "https://ef.zhiweidata.com/eventRk/d9900a0e4ab12d6110180270/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 456
+          "hot": 551
         }
       ],
-      "totalScore": 68,
+      "totalScore": 64.3,
       "posScore": 60,
       "hotScore": 65,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 5→4, 在榜9小时",
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第4名, 在榜9小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 5→4, 在榜9小时",
-      "rankChange": "排名上升 5→4, 在榜9小时",
+      "duration": "持续高位(第4名, 在榜9小时)",
+      "rankChange": "持续高位(第4名, 在榜9小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-02T14:18:12.299Z",
-      "eventSummary": "围绕「电影《活色生香》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「电影《活色生香》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-10-02T21:03:48.864Z",
+      "eventSummary": "围绕「东航通报空姐下跪事件」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "官方通报自带公信力与强传播势能；公众人物/主体与监管结果形成强冲突叙事，评论区情绪共振与二次解读推动话题在榜单持续上探。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     }
   ]
 }
