@@ -1,57 +1,24 @@
 {
-  "generatedAt": "2026-10-04T20:47:03.672Z",
-  "date": "2026-10-04",
+  "generatedAt": "2026-10-05T14:18:40.338Z",
+  "date": "2026-10-05",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
       "seat": "总榜Top1",
-      "title": "电影《神探之痕迹》",
-      "topic": "电影《神探之痕迹》",
-      "eventName": "电影《神探之痕迹》",
-      "platform": "知微",
-      "rank": 1,
-      "hot": 2504,
-      "hotValue": 2504,
-      "url": "https://ef.zhiweidata.com/eventRk/5ed0be1066484aca10180222/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 1,
-          "hot": 2504
-        }
-      ],
-      "totalScore": 84.5,
-      "posScore": 90,
-      "hotScore": 95,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 2→1, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 2→1, 在榜11小时",
-      "rankChange": "排名上升 2→1, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-10-04T20:47:03.672Z",
-      "eventSummary": "围绕「电影《神探之痕迹》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「电影《神探之痕迹》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
-      "title": "市井人家的炊烟笑语总是令人心安",
-      "topic": "市井人家的炊烟笑语总是令人心安",
-      "eventName": "市井人家的炊烟笑语总是令人心安",
+      "title": "你说得对人是应该多出去走走",
+      "topic": "你说得对人是应该多出去走走",
+      "eventName": "你说得对人是应该多出去走走",
       "platform": "抖音",
-      "rank": 2,
-      "hot": 12426623,
-      "hotValue": 12426623,
-      "url": "https://www.douyin.com/search/%E5%B8%82%E4%BA%95%E4%BA%BA%E5%AE%B6%E7%9A%84%E7%82%8A%E7%83%9F%E7%AC%91%E8%AF%AD%E6%80%BB%E6%98%AF%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%AE%89",
+      "rank": 1,
+      "hot": 11749182,
+      "hotValue": 11749182,
+      "url": "https://www.douyin.com/search/%E4%BD%A0%E8%AF%B4%E5%BE%97%E5%AF%B9%E4%BA%BA%E6%98%AF%E5%BA%94%E8%AF%A5%E5%A4%9A%E5%87%BA%E5%8E%BB%E8%B5%B0%E8%B5%B0",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12426623
+          "hot": 11749182
         }
       ],
       "totalScore": 84.4,
@@ -64,27 +31,60 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-10-04T20:47:03.672Z",
-      "eventSummary": "围绕「市井人家的炊烟笑语总是令人心安」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「市井人家的炊烟笑语总是令人心安」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-05T14:18:40.338Z",
+      "eventSummary": "围绕「你说得对人是应该多出去走走」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「你说得对人是应该多出去走走」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top2",
+      "title": "电影《神探之痕迹》",
+      "topic": "电影《神探之痕迹》",
+      "eventName": "电影《神探之痕迹》",
+      "platform": "知微",
+      "rank": 2,
+      "hot": 3201,
+      "hotValue": 3201,
+      "url": "https://ef.zhiweidata.com/eventRk/5ed0be1066484aca10180222/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 3201
+        }
+      ],
+      "totalScore": 80.8,
+      "posScore": 90,
+      "hotScore": 95,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第1名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第1名, 在榜11小时)",
+      "rankChange": "持续高位(第1名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-05T14:18:40.338Z",
+      "eventSummary": "围绕「电影《神探之痕迹》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「电影《神探之痕迹》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "终于明白火锅店不爱洗豆芽的原因了",
-      "topic": "终于明白火锅店不爱洗豆芽的原因了",
-      "eventName": "终于明白火锅店不爱洗豆芽的原因了",
+      "title": "缅北电诈头目的钱多到发霉",
+      "topic": "缅北电诈头目的钱多到发霉",
+      "eventName": "缅北电诈头目的钱多到发霉",
       "platform": "微博",
       "rank": 3,
-      "hot": 1428139,
-      "hotValue": 1428139,
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BD%E7%81%AB%E9%94%85%E5%BA%97%E4%B8%8D%E7%88%B1%E6%B4%97%E8%B1%86%E8%8A%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23",
+      "hot": 1151564,
+      "hotValue": 1151564,
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E7%9A%84%E9%92%B1%E5%A4%9A%E5%88%B0%E5%8F%91%E9%9C%89%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1428139
+          "hot": 1151564
         }
       ],
       "totalScore": 78.1,
@@ -97,27 +97,27 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-10-04T20:47:03.672Z",
-      "eventSummary": "围绕「终于明白火锅店不爱洗豆芽的原因了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「终于明白火锅店不爱洗豆芽的原因了」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-05T14:18:40.338Z",
+      "eventSummary": "围绕「缅北电诈头目的钱多到发霉」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「缅北电诈头目的钱多到发霉」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top4",
-      "title": " 2026“苏超”开赛",
-      "topic": " 2026“苏超”开赛",
-      "eventName": " 2026“苏超”开赛",
+      "title": "国庆首日高速公路上演“大堵车”",
+      "topic": "国庆首日高速公路上演“大堵车”",
+      "eventName": "国庆首日高速公路上演“大堵车”",
       "platform": "知微",
       "rank": 4,
-      "hot": 1389,
-      "hotValue": 1389,
-      "url": "https://ef.zhiweidata.com/eventRk/4dcd3c3251d8ab6c10178799/profil",
+      "hot": 1061,
+      "hotValue": 1061,
+      "url": "https://ef.zhiweidata.com/eventRk/9e2190c42c10393710180280/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 1389
+          "hot": 1061
         }
       ],
       "totalScore": 75.3,
@@ -130,76 +130,76 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-04T20:47:03.672Z",
-      "eventSummary": "围绕「 2026“苏超”开赛」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「2026“苏超”开赛」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-05T14:18:40.338Z",
+      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
+      "propagation": "围绕「国庆首日高速公路上演“大堵车”」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top5",
-      "title": "国庆首日高速公路上演“大堵车”",
-      "topic": "国庆首日高速公路上演“大堵车”",
-      "eventName": "国庆首日高速公路上演“大堵车”",
+      "title": "电影《复仇者联盟4:终局之战（加码臻享版）》",
+      "topic": "电影《复仇者联盟4:终局之战（加码臻享版）》",
+      "eventName": "电影《复仇者联盟4:终局之战（加码臻享版）》",
       "platform": "知微",
       "rank": 5,
-      "hot": 1202,
-      "hotValue": 1202,
-      "url": "https://ef.zhiweidata.com/eventRk/9e2190c42c10393710180280/profil",
+      "hot": 717,
+      "hotValue": 717,
+      "url": "https://ef.zhiweidata.com/eventRk/4a376e665d27b6d310180233/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 1202
+          "hot": 717
         }
       ],
       "totalScore": 73.5,
       "posScore": 70,
       "hotScore": 75,
       "trendScore": 100,
-      "trendEvidence": "排名上升 4→3, 在榜11小时",
+      "trendEvidence": "排名上升 7→3, 在榜5小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 4→3, 在榜11小时",
-      "rankChange": "排名上升 4→3, 在榜11小时",
+      "duration": "排名上升 7→3, 在榜5小时",
+      "rankChange": "排名上升 7→3, 在榜5小时",
       "excludeCat": null,
-      "collectedAt": "2026-10-04T20:47:03.672Z",
-      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
-      "propagation": "围绕「国庆首日高速公路上演“大堵车”」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-05T14:18:40.338Z",
+      "eventSummary": "围绕「电影《复仇者联盟4:终局之战（加码臻享版）》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「电影《复仇者联盟4:终局之战（加码臻享版）》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "东航通报空姐下跪事件",
-      "topic": "东航通报空姐下跪事件",
-      "eventName": "东航通报空姐下跪事件",
+      "title": "林诗栋夺冠",
+      "topic": "林诗栋夺冠",
+      "eventName": "林诗栋夺冠",
       "platform": "知微",
       "rank": 6,
-      "hot": 950,
-      "hotValue": 950,
-      "url": "https://ef.zhiweidata.com/eventRk/d9900a0e4ab12d6110180270/profil",
+      "hot": 689,
+      "hotValue": 689,
+      "url": "https://ef.zhiweidata.com/eventRk/72156e9478d00bed10180244/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 950
+          "hot": 689
         }
       ],
       "totalScore": 68,
       "posScore": 60,
       "hotScore": 65,
       "trendScore": 100,
-      "trendEvidence": "排名上升 6→4, 在榜11小时",
+      "trendEvidence": "排名上升 9→4, 在榜8小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 6→4, 在榜11小时",
-      "rankChange": "排名上升 6→4, 在榜11小时",
+      "duration": "排名上升 9→4, 在榜8小时",
+      "rankChange": "排名上升 9→4, 在榜8小时",
       "excludeCat": null,
-      "collectedAt": "2026-10-04T20:47:03.672Z",
-      "eventSummary": "围绕「东航通报空姐下跪事件」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "官方通报自带公信力与强传播势能；公众人物/主体与监管结果形成强冲突叙事，评论区情绪共振与二次解读推动话题在榜单持续上探。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+      "collectedAt": "2026-10-05T14:18:40.338Z",
+      "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
+      "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }
