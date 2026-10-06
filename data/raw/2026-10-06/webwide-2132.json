@@ -1,0 +1,3085 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 121900,
+    "dayHotLevel": "低",
+    "rankDay": [
+      {
+        "time": "2026-09-29",
+        "sumH": 672298,
+        "info": [
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 23.47,
+            "hE": 157799,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "22c46bb2261dd06610180251",
+            "img": "1.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "消费20万女子遭Tiffany限号，企业通报",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 14.64,
+            "hE": 98447,
+            "tags": [
+              "Tiffany",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4b433644119a94ec10180262",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "文旅局回应那英临时加唱",
+            "startTime": 1790524800000,
+            "oldPoint": 0,
+            "pro": 9.46,
+            "hE": 63584,
+            "tags": [
+              "那英",
+              "文旅局",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 0,
+            "pro": 7.8,
+            "hE": 52465,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "4d978214d039037910180261",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "鲍师傅回应超长蛋挞全是皮没蛋液",
+            "startTime": 1790524800000,
+            "oldPoint": 0,
+            "pro": 5.97,
+            "hE": 40146,
+            "tags": [
+              "鲍师傅",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 0,
+            "pro": 5.57,
+            "hE": 37425,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "b73ae327b989c61910180255",
+            "img": "5.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "北理工教师裴某被解聘",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 3.78,
+            "hE": 25391,
+            "tags": [
+              "北京理工大学",
+              "解聘"
+            ]
+          },
+          {
+            "eventId": "7a902060022523c910180253",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "彭晓春被判死缓",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 3.77,
+            "hE": 25354,
+            "tags": [
+              "彭晓春",
+              "判刑",
+              "死缓"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.88,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 3.7,
+            "hE": 24884,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "1ed5a533ed31192010180206",
+            "img": "5.jpg",
+            "pointPro": 99.87,
+            "firstType": "体育",
+            "name": "国乒男团无缘亚运九连冠",
+            "startTime": 1790179200000,
+            "oldPoint": 0,
+            "pro": 3.09,
+            "hE": 20753,
+            "tags": [
+              "国乒",
+              "银牌"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 126050
+          }
+        ]
+      },
+      {
+        "time": "2026-09-30",
+        "sumH": 779115,
+        "info": [
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 58,
+            "pro": 25.27,
+            "hE": 196904,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 22.81,
+            "hE": 177712,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "791179d611391a3b10180202",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "游本昌去世",
+            "startTime": 1790179200000,
+            "oldPoint": 15,
+            "pro": 12.51,
+            "hE": 97448,
+            "tags": [
+              "游本昌",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "76da2334bcca702310180275",
+            "img": "6.jpg",
+            "pointPro": 99.95,
+            "firstType": "灾难",
+            "name": "昆明地震",
+            "startTime": 1790697600000,
+            "oldPoint": 70,
+            "pro": 5.42,
+            "hE": 42267,
+            "tags": [
+              "地震",
+              "昆明"
+            ]
+          },
+          {
+            "eventId": "22c46bb2261dd06610180251",
+            "img": "1.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "消费20万女子遭Tiffany限号，企业通报",
+            "startTime": 1790611200000,
+            "oldPoint": 1,
+            "pro": 4.75,
+            "hE": 37018,
+            "tags": [
+              "Tiffany",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.92,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 8,
+            "pro": 2.7,
+            "hE": 21041,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "723e4e34c778cc5e10180272",
+            "img": "3.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "长沙通报包子铺店员操作台剪脚趾甲",
+            "startTime": 1790697600000,
+            "oldPoint": 74,
+            "pro": 2.66,
+            "hE": 20754,
+            "tags": [
+              "食品安全",
+              "长沙",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 5,
+            "pro": 2.37,
+            "hE": 18491,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "4b7329628bdc657310180273",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "25岁女画师约稿被骗4万后坠亡",
+            "startTime": 1790697600000,
+            "oldPoint": 53,
+            "pro": 2.19,
+            "hE": 17087,
+            "tags": [
+              "画师",
+              "诈骗",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "0d56a718c2cc7aae10180274",
+            "img": "5.jpg",
+            "pointPro": 99.86,
+            "firstType": "政务",
+            "name": "朱忠明当选上海市市长",
+            "startTime": 1790697600000,
+            "oldPoint": 78,
+            "pro": 1.96,
+            "hE": 15252,
+            "tags": [
+              "朱忠明",
+              "市长",
+              "上海"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 135141
+          }
+        ]
+      },
+      {
+        "time": "2026-10-01",
+        "sumH": 544208,
+        "info": [
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 26,
+            "pro": 36.73,
+            "hE": 199888,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 13,
+            "pro": 13.67,
+            "hE": 74418,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 1,
+            "pro": 7.25,
+            "hE": 39447,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "e0d21543b0d3d4e010180279",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "12306回应“半夜候补成功，睡醒车开走了”",
+            "startTime": 1790697600000,
+            "oldPoint": 33,
+            "pro": 5.15,
+            "hE": 28035,
+            "tags": [
+              "12306",
+              "高铁"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 43,
+            "pro": 4.43,
+            "hE": 24128,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "dc1361ce1192a96710180276",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "沪昆高速怀化段交通事故6死4伤",
+            "startTime": 1790784000000,
+            "oldPoint": 75,
+            "pro": 3.88,
+            "hE": 21134,
+            "tags": [
+              "交通事故"
+            ]
+          },
+          {
+            "eventId": "22c46bb2261dd06610180251",
+            "img": "1.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "消费20万女子遭Tiffany限号，企业通报",
+            "startTime": 1790611200000,
+            "oldPoint": 4,
+            "pro": 3.4,
+            "hE": 18522,
+            "tags": [
+              "Tiffany",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 3.24,
+            "hE": 17652,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 40,
+            "pro": 3.07,
+            "hE": 16705,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "76da2334bcca702310180275",
+            "img": "6.jpg",
+            "pointPro": 99.83,
+            "firstType": "灾难",
+            "name": "昆明地震",
+            "startTime": 1790697600000,
+            "oldPoint": 3,
+            "pro": 2.47,
+            "hE": 13422,
+            "tags": [
+              "地震",
+              "昆明"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 90857
+          }
+        ]
+      },
+      {
+        "time": "2026-10-02",
+        "sumH": 270175,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 4,
+            "pro": 31.94,
+            "hE": 86304,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 21.87,
+            "hE": 59080,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 8.57,
+            "hE": 23144,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 8,
+            "pro": 7.92,
+            "hE": 21390,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 2,
+            "pro": 4.88,
+            "hE": 13177,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 7,
+            "pro": 3.01,
+            "hE": 8123,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 12,
+            "pro": 2.2,
+            "hE": 5945,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 10,
+            "pro": 2.04,
+            "hE": 5502,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "76da2334bcca702310180275",
+            "img": "6.jpg",
+            "pointPro": 99.86,
+            "firstType": "灾难",
+            "name": "昆明地震",
+            "startTime": 1790697600000,
+            "oldPoint": 9,
+            "pro": 1.63,
+            "hE": 4412,
+            "tags": [
+              "地震",
+              "昆明"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 13,
+            "pro": 1.45,
+            "hE": 3925,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 39173
+          }
+        ]
+      },
+      {
+        "time": "2026-10-03",
+        "sumH": 247603,
+        "info": [
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 5,
+            "pro": 21.36,
+            "hE": 52900,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 19.39,
+            "hE": 48021,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 18.91,
+            "hE": 46823,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 3,
+            "pro": 9.84,
+            "hE": 24359,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 11,
+            "pro": 8.14,
+            "hE": 20160,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 5.39,
+            "hE": 13344,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 2.88,
+            "hE": 7131,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 9,
+            "pro": 2.4,
+            "hE": 5950,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 4,
+            "pro": 2.38,
+            "hE": 5889,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.8,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 7,
+            "pro": 1.59,
+            "hE": 3945,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 19081
+          }
+        ]
+      },
+      {
+        "time": "2026-10-04",
+        "sumH": 174742,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 20.72,
+            "hE": 36209,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 16.74,
+            "hE": 29255,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 3,
+            "pro": 16.24,
+            "hE": 28381,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 13.38,
+            "hE": 23385,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 9.33,
+            "hE": 16306,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 5.35,
+            "hE": 9349,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.86,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 8,
+            "pro": 3.58,
+            "hE": 6262,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.84,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 10,
+            "pro": 2.68,
+            "hE": 4679,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 7,
+            "pro": 2.18,
+            "hE": 3815,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 6,
+            "pro": 1.39,
+            "hE": 2432,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 14669
+          }
+        ]
+      },
+      {
+        "time": "2026-10-05",
+        "sumH": 156500,
+        "info": [
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 4,
+            "pro": 21.62,
+            "hE": 33837,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 20.27,
+            "hE": 31716,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 3,
+            "pro": 13.41,
+            "hE": 20992,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 10.79,
+            "hE": 16887,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 6,
+            "pro": 6.51,
+            "hE": 10194,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 14,
+            "pro": 5.54,
+            "hE": 8676,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 5.19,
+            "hE": 8116,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.83,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 1,
+            "pro": 3.5,
+            "hE": 5476,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 8,
+            "pro": 1.74,
+            "hE": 2728,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.78,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 13,
+            "pro": 1.63,
+            "hE": 2555,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 15323
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-10-06 09",
+        "sumH": 5651,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 30.47,
+            "hE": 1722,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 17.82,
+            "hE": 1007,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 17.34,
+            "hE": 980,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 8.87,
+            "hE": 501,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 8.62,
+            "hE": 487,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.76,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 0,
+            "pro": 5.08,
+            "hE": 287,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.71,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 3.3,
+            "hE": 187,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "22c46bb2261dd06610180251",
+            "img": "1.png",
+            "pointPro": 99.67,
+            "firstType": "企业",
+            "name": "消费20万女子遭Tiffany限号，企业通报",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 1.72,
+            "hE": 97,
+            "tags": [
+              "Tiffany",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.62,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 1.21,
+            "hE": 69,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "70649bbba3048adb10180212",
+            "img": "33.png",
+            "pointPro": 99.57,
+            "firstType": "娱乐",
+            "name": "刘欢去世",
+            "startTime": 1790352000000,
+            "oldPoint": 0,
+            "pro": 1.15,
+            "hE": 65,
+            "tags": [
+              "刘欢",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 249
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 10",
+        "sumH": 7739,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 23.65,
+            "hE": 1831,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 4,
+            "pro": 18.4,
+            "hE": 1424,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 3,
+            "pro": 17.67,
+            "hE": 1367,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.87,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 2,
+            "pro": 11.84,
+            "hE": 916,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 1,
+            "pro": 10.78,
+            "hE": 834,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.78,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 8,
+            "pro": 3.66,
+            "hE": 283,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.74,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 10,
+            "pro": 3.09,
+            "hE": 239,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.7,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 15,
+            "pro": 2.32,
+            "hE": 180,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.65,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 11,
+            "pro": 2.01,
+            "hE": 156,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.61,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 14,
+            "pro": 1.82,
+            "hE": 141,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 368
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 11",
+        "sumH": 6768,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 29.5,
+            "hE": 1996,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 14.78,
+            "hE": 1000,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 13.3,
+            "hE": 900,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 10.02,
+            "hE": 678,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 4,
+            "pro": 7.89,
+            "hE": 534,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.76,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 3,
+            "pro": 6.32,
+            "hE": 428,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.71,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 7,
+            "pro": 4.2,
+            "hE": 284,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.67,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 18,
+            "pro": 4.18,
+            "hE": 283,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.62,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 6,
+            "pro": 1.85,
+            "hE": 125,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4b7329628bdc657310180273",
+            "img": "4.jpg",
+            "pointPro": 99.57,
+            "firstType": "社会",
+            "name": "25岁女画师约稿被骗4万后坠亡",
+            "startTime": 1790697600000,
+            "oldPoint": 13,
+            "pro": 1.48,
+            "hE": 100,
+            "tags": [
+              "画师",
+              "诈骗",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 440
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 12",
+        "sumH": 7580,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 29.72,
+            "hE": 2253,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 22.21,
+            "hE": 1683,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 21.59,
+            "hE": 1637,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 4,
+            "pro": 8.56,
+            "hE": 649,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.78,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 5,
+            "pro": 4.44,
+            "hE": 336,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.72,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 3.41,
+            "hE": 258,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.67,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 7,
+            "pro": 2.75,
+            "hE": 208,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.61,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 6,
+            "pro": 2.71,
+            "hE": 205,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.56,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 18,
+            "pro": 1.59,
+            "hE": 121,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "4b7329628bdc657310180273",
+            "img": "4.jpg",
+            "pointPro": 99.5,
+            "firstType": "社会",
+            "name": "25岁女画师约稿被骗4万后坠亡",
+            "startTime": 1790697600000,
+            "oldPoint": 9,
+            "pro": 1.43,
+            "hE": 109,
+            "tags": [
+              "画师",
+              "诈骗",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 121
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 13",
+        "sumH": 5573,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 36.24,
+            "hE": 2020,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 20.6,
+            "hE": 1148,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 18.42,
+            "hE": 1027,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 3,
+            "pro": 4.34,
+            "hE": 242,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.78,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 6,
+            "pro": 3.9,
+            "hE": 218,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.72,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 4,
+            "pro": 3.33,
+            "hE": 186,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.67,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 2.88,
+            "hE": 160,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.61,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 7,
+            "pro": 2.77,
+            "hE": 154,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.56,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 8,
+            "pro": 2.17,
+            "hE": 121,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.5,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 20,
+            "pro": 1.33,
+            "hE": 74,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 223
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 14",
+        "sumH": 7058,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 41.33,
+            "hE": 2918,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 21.96,
+            "hE": 1550,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 16.17,
+            "hE": 1141,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.87,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 4.32,
+            "hE": 305,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 5,
+            "pro": 4.23,
+            "hE": 299,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 8,
+            "pro": 3.53,
+            "hE": 249,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.74,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 3,
+            "pro": 2.88,
+            "hE": 203,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.7,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 4,
+            "pro": 1.46,
+            "hE": 103,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.65,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 7,
+            "pro": 0.84,
+            "hE": 59,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.61,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 17,
+            "pro": 0.68,
+            "hE": 48,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 183
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 15",
+        "sumH": 8076,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 41.55,
+            "hE": 3355,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 21.42,
+            "hE": 1730,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 14.52,
+            "hE": 1173,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.86,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 7,
+            "pro": 4.31,
+            "hE": 348,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 9,
+            "pro": 3.66,
+            "hE": 296,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 6,
+            "pro": 2.98,
+            "hE": 241,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.71,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 4,
+            "pro": 2.38,
+            "hE": 192,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "79544d3431dc175d10180278",
+            "img": "33.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "北京市属公园国庆假期首日迎客40.4万人次",
+            "startTime": 1790784000000,
+            "oldPoint": 13,
+            "pro": 2.14,
+            "hE": 173,
+            "tags": [
+              "国庆",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.62,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 1.88,
+            "hE": 152,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.57,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 23,
+            "pro": 1.09,
+            "hE": 88,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 328
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 16",
+        "sumH": 7222,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 41.93,
+            "hE": 3028,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 21.53,
+            "hE": 1555,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 11.33,
+            "hE": 818,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.88,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 3,
+            "pro": 6.53,
+            "hE": 471,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 5,
+            "pro": 5.83,
+            "hE": 421,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 8,
+            "pro": 3.86,
+            "hE": 279,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.75,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 4,
+            "pro": 1.93,
+            "hE": 140,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.71,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 9,
+            "pro": 1.65,
+            "hE": 119,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 14,
+            "pro": 1.19,
+            "hE": 86,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "4b7329628bdc657310180273",
+            "img": "4.jpg",
+            "pointPro": 99.63,
+            "firstType": "社会",
+            "name": "25岁女画师约稿被骗4万后坠亡",
+            "startTime": 1790697600000,
+            "oldPoint": 37,
+            "pro": 0.86,
+            "hE": 62,
+            "tags": [
+              "画师",
+              "诈骗",
+              "坠亡"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 243
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 17",
+        "sumH": 10306,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 35.5,
+            "hE": 3658,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 24.74,
+            "hE": 2550,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 10.75,
+            "hE": 1108,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 15,
+            "pro": 9.47,
+            "hE": 976,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.81,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 3,
+            "pro": 5.8,
+            "hE": 598,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.76,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 7,
+            "pro": 2.87,
+            "hE": 296,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 4,
+            "pro": 2.37,
+            "hE": 245,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.67,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 10,
+            "pro": 1.99,
+            "hE": 205,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.62,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 6,
+            "pro": 1.67,
+            "hE": 172,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "79544d3431dc175d10180278",
+            "img": "33.png",
+            "pointPro": 99.57,
+            "firstType": "社会",
+            "name": "北京市属公园国庆假期首日迎客40.4万人次",
+            "startTime": 1790784000000,
+            "oldPoint": 54,
+            "pro": 1.46,
+            "hE": 150,
+            "tags": [
+              "国庆",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 348
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 18",
+        "sumH": 8906,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 36.28,
+            "hE": 3232,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 24.05,
+            "hE": 2142,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 10.95,
+            "hE": 975,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 15,
+            "pro": 8.28,
+            "hE": 738,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.82,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 5,
+            "pro": 3.94,
+            "hE": 351,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.77,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 6,
+            "pro": 3.23,
+            "hE": 287,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.73,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 12,
+            "pro": 2.64,
+            "hE": 235,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.68,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 3,
+            "pro": 2.35,
+            "hE": 210,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.64,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 11,
+            "pro": 2.05,
+            "hE": 183,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "4a376e665d27b6d310180233",
+            "img": "1790576962406.png",
+            "pointPro": 99.59,
+            "firstType": "娱乐",
+            "name": "电影《复仇者联盟4:终局之战（加码臻享版）》",
+            "startTime": 1787673600000,
+            "oldPoint": 16,
+            "pro": 1.19,
+            "hE": 106,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 447
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 19",
+        "sumH": 10299,
+        "info": [
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 31.41,
+            "hE": 3235,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 20.9,
+            "hE": 2152,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 19.08,
+            "hE": 1965,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 10.27,
+            "hE": 1058,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 3.76,
+            "hE": 388,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 5,
+            "pro": 2.66,
+            "hE": 273,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.76,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 8,
+            "pro": 2.17,
+            "hE": 223,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.72,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 12,
+            "pro": 1.44,
+            "hE": 149,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.68,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 14,
+            "pro": 1.29,
+            "hE": 133,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.64,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 6,
+            "pro": 1.23,
+            "hE": 127,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 596
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06 20",
+        "sumH": 5161,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 34.9,
+            "hE": 1801,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 21.68,
+            "hE": 1119,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 11.61,
+            "hE": 599,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 19,
+            "pro": 5.53,
+            "hE": 285,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.81,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 9,
+            "pro": 4.65,
+            "hE": 240,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.76,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 11,
+            "pro": 3.92,
+            "hE": 202,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 5,
+            "pro": 3.47,
+            "hE": 179,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 8,
+            "pro": 3.07,
+            "hE": 159,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.62,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 3,
+            "pro": 2.72,
+            "hE": 140,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.57,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 7,
+            "pro": 2.42,
+            "hE": 125,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 312
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
