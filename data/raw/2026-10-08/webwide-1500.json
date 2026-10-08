@@ -1,0 +1,3055 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 246951,
+    "dayHotLevel": "中等",
+    "rankDay": [
+      {
+        "time": "2026-10-01",
+        "sumH": 544295,
+        "info": [
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 36.72,
+            "hE": 199888,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 13.67,
+            "hE": 74418,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 7.25,
+            "hE": 39447,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "e0d21543b0d3d4e010180279",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "12306回应“半夜候补成功，睡醒车开走了”",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 5.16,
+            "hE": 28108,
+            "tags": [
+              "12306",
+              "高铁"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 4.43,
+            "hE": 24128,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "dc1361ce1192a96710180276",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "沪昆高速怀化段交通事故6死4伤",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 3.88,
+            "hE": 21136,
+            "tags": [
+              "交通事故"
+            ]
+          },
+          {
+            "eventId": "22c46bb2261dd06610180251",
+            "img": "1.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "消费20万女子遭Tiffany限号，企业通报",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 3.4,
+            "hE": 18522,
+            "tags": [
+              "Tiffany",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 3.24,
+            "hE": 17652,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 3.07,
+            "hE": 16705,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "76da2334bcca702310180275",
+            "img": "6.jpg",
+            "pointPro": 99.83,
+            "firstType": "灾难",
+            "name": "昆明地震",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 2.47,
+            "hE": 13424,
+            "tags": [
+              "地震",
+              "昆明"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 90867
+          }
+        ]
+      },
+      {
+        "time": "2026-10-02",
+        "sumH": 273883,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 4,
+            "pro": 31.51,
+            "hE": 86304,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 21.57,
+            "hE": 59080,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 8.45,
+            "hE": 23145,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 8,
+            "pro": 7.81,
+            "hE": 21390,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 2,
+            "pro": 4.81,
+            "hE": 13177,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 7,
+            "pro": 2.97,
+            "hE": 8124,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 12,
+            "pro": 2.17,
+            "hE": 5945,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 10,
+            "pro": 2.01,
+            "hE": 5502,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "76da2334bcca702310180275",
+            "img": "6.jpg",
+            "pointPro": 99.86,
+            "firstType": "灾难",
+            "name": "昆明地震",
+            "startTime": 1790697600000,
+            "oldPoint": 9,
+            "pro": 1.61,
+            "hE": 4413,
+            "tags": [
+              "地震",
+              "昆明"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 13,
+            "pro": 1.43,
+            "hE": 3925,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 42878
+          }
+        ]
+      },
+      {
+        "time": "2026-10-03",
+        "sumH": 251486,
+        "info": [
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 5,
+            "pro": 21.03,
+            "hE": 52900,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 19.09,
+            "hE": 48021,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 1,
+            "pro": 18.62,
+            "hE": 46823,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 3,
+            "pro": 9.69,
+            "hE": 24359,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 11,
+            "pro": 8.02,
+            "hE": 20160,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 5.31,
+            "hE": 13344,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 2.84,
+            "hE": 7132,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 9,
+            "pro": 2.37,
+            "hE": 5950,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.84,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 4,
+            "pro": 2.34,
+            "hE": 5889,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.82,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 7,
+            "pro": 1.57,
+            "hE": 3945,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 22963
+          }
+        ]
+      },
+      {
+        "time": "2026-10-04",
+        "sumH": 198899,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 18.2,
+            "hE": 36209,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 14.71,
+            "hE": 29255,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 3,
+            "pro": 14.27,
+            "hE": 28381,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 11.76,
+            "hE": 23385,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 8.2,
+            "hE": 16306,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 49,
+            "pro": 7.86,
+            "hE": 15633,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 5,
+            "pro": 4.7,
+            "hE": 9349,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 8,
+            "pro": 3.15,
+            "hE": 6262,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 39,
+            "pro": 2.54,
+            "hE": 5055,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 11,
+            "pro": 2.35,
+            "hE": 4679,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 24385
+          }
+        ]
+      },
+      {
+        "time": "2026-10-05",
+        "sumH": 304284,
+        "info": [
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 5,
+            "pro": 29.2,
+            "hE": 88863,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 4,
+            "pro": 11.12,
+            "hE": 33837,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 10.42,
+            "hE": 31716,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 8,
+            "pro": 9.65,
+            "hE": 29367,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "56beb3819847095a10180293",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "北京大运河音乐节 ",
+            "startTime": 1791129600000,
+            "oldPoint": 28,
+            "pro": 6.99,
+            "hE": 21284,
+            "tags": [
+              "音乐节",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 3,
+            "pro": 6.9,
+            "hE": 20994,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 5.55,
+            "hE": 16887,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 7,
+            "pro": 3.35,
+            "hE": 10195,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.83,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 17,
+            "pro": 2.85,
+            "hE": 8676,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 6,
+            "pro": 2.67,
+            "hE": 8116,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 34349
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06",
+        "sumH": 231760,
+        "info": [
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 0,
+            "pro": 14.73,
+            "hE": 34131,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 5,
+            "pro": 12.27,
+            "hE": 28446,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 11.3,
+            "hE": 26186,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "56beb3819847095a10180293",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "北京大运河音乐节 ",
+            "startTime": 1791129600000,
+            "oldPoint": 4,
+            "pro": 10.56,
+            "hE": 24484,
+            "tags": [
+              "音乐节",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 6,
+            "pro": 9.89,
+            "hE": 22919,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 3,
+            "pro": 9.7,
+            "hE": 22470,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "b1101de00e9e472510180292",
+            "img": "2.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "清华毕业生举报中国电信",
+            "startTime": 1790956800000,
+            "oldPoint": 10,
+            "pro": 7.46,
+            "hE": 17292,
+            "tags": [
+              "电信",
+              "举报",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "09ae2015cc91d71810180297",
+            "img": "33.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "央视调查网红牛奶湖违规圈地收费",
+            "startTime": 1791216000000,
+            "oldPoint": 56,
+            "pro": 4.49,
+            "hE": 10408,
+            "tags": [
+              "牛奶湖",
+              "内蒙古",
+              "违规",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 1,
+            "pro": 3.75,
+            "hE": 8681,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.82,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 9,
+            "pro": 2.58,
+            "hE": 5990,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 30753
+          }
+        ]
+      },
+      {
+        "time": "2026-10-07",
+        "sumH": 276155,
+        "info": [
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 37,
+            "pro": 22.09,
+            "hE": 61005,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 50,
+            "pro": 14.26,
+            "hE": 39369,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 54,
+            "pro": 7.84,
+            "hE": 21642,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 0,
+            "pro": 6.6,
+            "hE": 18228,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 4,
+            "pro": 6.53,
+            "hE": 18044,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 6.43,
+            "hE": 17752,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.87,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 6.33,
+            "hE": 17477,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 8,
+            "pro": 5.37,
+            "hE": 14834,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "55ad9451eeb7852610180291",
+            "img": "1.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "只此青绿水立方场次因观演视野问题退票",
+            "startTime": 1791216000000,
+            "oldPoint": 12,
+            "pro": 4.83,
+            "hE": 13332,
+            "tags": [
+              "只此青绿",
+              "退票"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 5,
+            "pro": 3.13,
+            "hE": 8656,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 45816
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-10-08 02",
+        "sumH": 750,
+        "info": [
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 0,
+            "pro": 50.85,
+            "hE": 381,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.93,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 11.83,
+            "hE": 89,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 9.17,
+            "hE": 69,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 0,
+            "pro": 7.95,
+            "hE": 60,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.71,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 6.67,
+            "hE": 50,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.64,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 6.33,
+            "hE": 47,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.57,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 0,
+            "pro": 5.33,
+            "hE": 40,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d404cd0e30a3c4e510180239",
+            "img": "4.jpg",
+            "pointPro": 99.5,
+            "firstType": "企业",
+            "name": "荣耀Magic9系列发布会",
+            "startTime": 1790524800000,
+            "oldPoint": 0,
+            "pro": 0.4,
+            "hE": 3,
+            "tags": [
+              "荣耀",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.43,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 0.27,
+            "hE": 2,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "17a8c582cceb318c10180224",
+            "img": "1790575806787.png",
+            "pointPro": 99.36,
+            "firstType": "娱乐",
+            "name": "电影《活色生香》",
+            "startTime": 1788883200000,
+            "oldPoint": 0,
+            "pro": 0.27,
+            "hE": 2,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 7
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 03",
+        "sumH": 393,
+        "info": [
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 100,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 1,
+            "pro": 29.23,
+            "hE": 115,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 0,
+            "pro": 24.41,
+            "hE": 96,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 25,
+            "pro": 23.02,
+            "hE": 90,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.75,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 15,
+            "pro": 10.15,
+            "hE": 40,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 11,
+            "pro": 8.09,
+            "hE": 32,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.58,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 3,
+            "pro": 1.53,
+            "hE": 6,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.5,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 5,
+            "pro": 1.28,
+            "hE": 5,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.42,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 1.28,
+            "hE": 5,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.33,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 10,
+            "pro": 0.26,
+            "hE": 1,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "070ec7222cd6cb9210180240",
+            "img": "5.jpg",
+            "pointPro": 99.25,
+            "firstType": "体育",
+            "name": "中国队王者荣耀项目卫冕夺金",
+            "startTime": 1790524800000,
+            "oldPoint": 19,
+            "pro": 0.26,
+            "hE": 1,
+            "tags": [
+              "亚运会",
+              "王者荣耀",
+              "冠军"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 04",
+        "sumH": 510,
+        "info": [
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 4,
+            "pro": 23.66,
+            "hE": 121,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "b1101de00e9e472510180292",
+            "img": "2.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "清华毕业生举报中国电信",
+            "startTime": 1790956800000,
+            "oldPoint": 41,
+            "pro": 18.6,
+            "hE": 95,
+            "tags": [
+              "电信",
+              "举报",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 11,
+            "pro": 16.6,
+            "hE": 85,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.82,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 12.75,
+            "hE": 65,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.76,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 17,
+            "pro": 7.54,
+            "hE": 38,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.71,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 12,
+            "pro": 6.51,
+            "hE": 33,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.65,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 19,
+            "pro": 5.71,
+            "hE": 29,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.59,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 3.34,
+            "hE": 17,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.53,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 7,
+            "pro": 1.96,
+            "hE": 10,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 99.47,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 1,
+            "pro": 1.18,
+            "hE": 6,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 11
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 05",
+        "sumH": 1348,
+        "info": [
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 9,
+            "pro": 22.91,
+            "hE": 309,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "09ae2015cc91d71810180297",
+            "img": "33.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "央视调查网红牛奶湖违规圈地收费",
+            "startTime": 1791216000000,
+            "oldPoint": 53,
+            "pro": 17.26,
+            "hE": 233,
+            "tags": [
+              "牛奶湖",
+              "内蒙古",
+              "违规",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.87,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 3,
+            "pro": 14.35,
+            "hE": 193,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 15,
+            "pro": 12.28,
+            "hE": 165,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 0,
+            "pro": 11.98,
+            "hE": 161,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.67,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 16,
+            "pro": 6.36,
+            "hE": 86,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.6,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 8,
+            "pro": 4.79,
+            "hE": 65,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.53,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 3.53,
+            "hE": 48,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.47,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 5,
+            "pro": 3.18,
+            "hE": 43,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.4,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 18,
+            "pro": 2.75,
+            "hE": 37,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 8
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 06",
+        "sumH": 2631,
+        "info": [
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 0,
+            "pro": 26.03,
+            "hE": 685,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 3,
+            "pro": 12.03,
+            "hE": 317,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 9.94,
+            "hE": 261,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "cb6a32decc218c7b10180257",
+            "img": "6.png",
+            "pointPro": 99.86,
+            "firstType": "财经",
+            "name": "央行调整完善若干货币政策工具",
+            "startTime": 1790611200000,
+            "oldPoint": 2,
+            "pro": 9.32,
+            "hE": 245,
+            "tags": [
+              "央行",
+              "货币政策工具",
+              "调整"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 4,
+            "pro": 8.29,
+            "hE": 218,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.76,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 10,
+            "pro": 7.68,
+            "hE": 202,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.71,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 11,
+            "pro": 6.07,
+            "hE": 160,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.67,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 33,
+            "pro": 4.45,
+            "hE": 117,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.62,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 26,
+            "pro": 3.24,
+            "hE": 85,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "b1101de00e9e472510180292",
+            "img": "2.jpg",
+            "pointPro": 99.57,
+            "firstType": "企业",
+            "name": "清华毕业生举报中国电信",
+            "startTime": 1790956800000,
+            "oldPoint": 41,
+            "pro": 2.99,
+            "hE": 79,
+            "tags": [
+              "电信",
+              "举报",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 262
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 07",
+        "sumH": 5921,
+        "info": [
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 0,
+            "pro": 25.76,
+            "hE": 1526,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 4,
+            "pro": 16.11,
+            "hE": 954,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 14.68,
+            "hE": 869,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 10,
+            "pro": 11.57,
+            "hE": 685,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 1,
+            "pro": 6.63,
+            "hE": 393,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 8,
+            "pro": 5.32,
+            "hE": 315,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 12,
+            "pro": 4.72,
+            "hE": 279,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "09ae2015cc91d71810180297",
+            "img": "33.png",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "央视调查网红牛奶湖违规圈地收费",
+            "startTime": 1791216000000,
+            "oldPoint": 53,
+            "pro": 2.98,
+            "hE": 177,
+            "tags": [
+              "牛奶湖",
+              "内蒙古",
+              "违规",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.69,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 7,
+            "pro": 2.74,
+            "hE": 162,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.65,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 5,
+            "pro": 2.08,
+            "hE": 123,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 438
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 08",
+        "sumH": 7811,
+        "info": [
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 0,
+            "pro": 31.7,
+            "hE": 2476,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 1,
+            "pro": 11.82,
+            "hE": 923,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 11.55,
+            "hE": 902,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.83,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 8,
+            "pro": 10.03,
+            "hE": 783,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 5,
+            "pro": 8.89,
+            "hE": 695,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.72,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 9,
+            "pro": 7.95,
+            "hE": 621,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 6,
+            "pro": 4.98,
+            "hE": 389,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.61,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 11,
+            "pro": 3.56,
+            "hE": 278,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.56,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 13,
+            "pro": 3.07,
+            "hE": 240,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.5,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 10,
+            "pro": 2.7,
+            "hE": 211,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 293
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 09",
+        "sumH": 11037,
+        "info": [
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 4,
+            "pro": 16.89,
+            "hE": 1864,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 0,
+            "pro": 14.02,
+            "hE": 1547,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 1,
+            "pro": 12.59,
+            "hE": 1390,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 12.35,
+            "hE": 1363,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 6,
+            "pro": 8.23,
+            "hE": 909,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.76,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 3,
+            "pro": 8.01,
+            "hE": 884,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.71,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 7,
+            "pro": 5.91,
+            "hE": 653,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 8,
+            "pro": 5.7,
+            "hE": 629,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.62,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 9,
+            "pro": 4.1,
+            "hE": 453,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "56beb3819847095a10180293",
+            "img": "3.jpg",
+            "pointPro": 99.57,
+            "firstType": "娱乐",
+            "name": "北京大运河音乐节 ",
+            "startTime": 1791129600000,
+            "oldPoint": 21,
+            "pro": 3.73,
+            "hE": 412,
+            "tags": [
+              "音乐节",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 933
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 10",
+        "sumH": 11948,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 3,
+            "pro": 20.29,
+            "hE": 2424,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 0,
+            "pro": 13.26,
+            "hE": 1584,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 1,
+            "pro": 12.84,
+            "hE": 1534,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 14,
+            "pro": 11.84,
+            "hE": 1415,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.8,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 15,
+            "pro": 9.78,
+            "hE": 1169,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 2,
+            "pro": 5.84,
+            "hE": 698,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "10969527e2e1ed9810180234",
+            "img": "1790577070314.png",
+            "pointPro": 99.7,
+            "firstType": "娱乐",
+            "name": "电影《野兽之心》",
+            "startTime": 1788364800000,
+            "oldPoint": 19,
+            "pro": 4.72,
+            "hE": 564,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.65,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 4,
+            "pro": 3.99,
+            "hE": 476,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.6,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 5,
+            "pro": 3.29,
+            "hE": 393,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.55,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 6,
+            "pro": 3.06,
+            "hE": 365,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1326
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 11",
+        "sumH": 10706,
+        "info": [
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 22.67,
+            "hE": 2427,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 1,
+            "pro": 14.14,
+            "hE": 1514,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 3,
+            "pro": 13.97,
+            "hE": 1496,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 2,
+            "pro": 11.99,
+            "hE": 1284,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 13,
+            "pro": 5.62,
+            "hE": 601,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 5,
+            "pro": 5.15,
+            "hE": 551,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.71,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 10,
+            "pro": 4.9,
+            "hE": 525,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.67,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 4,
+            "pro": 4.27,
+            "hE": 457,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.62,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 7,
+            "pro": 3.91,
+            "hE": 418,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.57,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 8,
+            "pro": 2.73,
+            "hE": 293,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1140
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 12",
+        "sumH": 9211,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 8,
+            "pro": 20.61,
+            "hE": 1898,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 1,
+            "pro": 16.82,
+            "hE": 1549,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 13.62,
+            "hE": 1254,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 6,
+            "pro": 11.07,
+            "hE": 1020,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.8,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 4,
+            "pro": 9.15,
+            "hE": 843,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.75,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 2,
+            "pro": 7.33,
+            "hE": 676,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.7,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 5,
+            "pro": 3.72,
+            "hE": 343,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "b1101de00e9e472510180292",
+            "img": "2.jpg",
+            "pointPro": 99.65,
+            "firstType": "企业",
+            "name": "清华毕业生举报中国电信",
+            "startTime": 1790956800000,
+            "oldPoint": 13,
+            "pro": 3.2,
+            "hE": 295,
+            "tags": [
+              "电信",
+              "举报",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 99.6,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 3,
+            "pro": 2.7,
+            "hE": 248,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "b1bba9050948e38310180277",
+            "img": "22.png",
+            "pointPro": 99.55,
+            "firstType": "社会",
+            "name": "国庆天安门10.1万人一起看升旗",
+            "startTime": 1790784000000,
+            "oldPoint": 14,
+            "pro": 2.69,
+            "hE": 248,
+            "tags": [
+              "国庆",
+              "天安门广场",
+              "升旗"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 837
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08 13",
+        "sumH": 9220,
+        "info": [
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 28.3,
+            "hE": 2609,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 17.32,
+            "hE": 1596,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 1,
+            "pro": 13.46,
+            "hE": 1241,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.83,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 3,
+            "pro": 11.46,
+            "hE": 1057,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 99.78,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 8,
+            "pro": 6.37,
+            "hE": 588,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 6,
+            "pro": 6.35,
+            "hE": 585,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "a5274bb3a2e068db10180227",
+            "img": "1790576185957.png",
+            "pointPro": 99.67,
+            "firstType": "娱乐",
+            "name": "电影《小猪佩奇·完美假期》",
+            "startTime": 1788969600000,
+            "oldPoint": 5,
+            "pro": 6.17,
+            "hE": 569,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.61,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 4,
+            "pro": 3.23,
+            "hE": 297,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.56,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 10,
+            "pro": 1.68,
+            "hE": 155,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "09ae2015cc91d71810180297",
+            "img": "33.png",
+            "pointPro": 99.5,
+            "firstType": "社会",
+            "name": "央视调查网红牛奶湖违规圈地收费",
+            "startTime": 1791216000000,
+            "oldPoint": 13,
+            "pro": 1.39,
+            "hE": 128,
+            "tags": [
+              "牛奶湖",
+              "内蒙古",
+              "违规",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 395
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}

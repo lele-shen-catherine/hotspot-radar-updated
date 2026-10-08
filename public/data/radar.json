@@ -1,57 +1,24 @@
 {
-  "generatedAt": "2026-10-08T14:30:14.814Z",
+  "generatedAt": "2026-10-08T15:00:02.618Z",
   "date": "2026-10-08",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "S",
-      "seat": "总榜Top1",
-      "title": "尊界V800",
-      "topic": "尊界V800",
-      "eventName": "尊界V800",
-      "platform": "微博",
-      "rank": 1,
-      "hot": 3008323,
-      "hotValue": 3008323,
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8CV800%23",
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 3008323
-        }
-      ],
-      "totalScore": 85.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 尊界V800测试中刹车踏板支架断裂)",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-10-08T14:30:14.814Z",
-      "eventSummary": "华为与江淮汽车合作打造的鸿蒙智行旗舰轿车尊界V800，测试阶段被曝出刹车踏板支架断裂，引发对新车安全性与品控的讨论，品牌尚未正式回应。",
-      "propagation": "新能源旗舰新车自带高关注度与话题性；\"刹车踏板支架断裂\"这类涉及行车安全的负面细节冲击力强，戳中消费者对可靠性的核心担忧，加上鸿蒙智行品牌光环，讨论在\"质疑品控—对比竞品—等官方回应\"之间快速发酵。",
-      "riskNote": "风险等级：中。涉产品质量安全争议，不建议本地生活业务借势，避免蹭负面舆情。"
-    },
-    {
       "level": "A",
-      "seat": "总榜Top2",
+      "seat": "总榜Top1",
       "title": "国庆假期就这样结束了",
       "topic": "国庆假期就这样结束了",
       "eventName": "国庆假期就这样结束了",
       "platform": "抖音",
-      "rank": 2,
-      "hot": 12222550,
-      "hotValue": 12222550,
+      "rank": 1,
+      "hot": 12225097,
+      "hotValue": 12225097,
       "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%BB%93%E6%9D%9F%E4%BA%86",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12222550
+          "hot": 12225097
         }
       ],
       "totalScore": 84.4,
@@ -64,27 +31,27 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-10-08T14:30:14.814Z",
-      "eventSummary": "国庆长假结束，上班族返工、学生返校，全网\"假期结束\"的情绪集中爆发，晒返程、晒状态、吐槽开工成为主流话题。",
-      "propagation": "长假结束是全民共同的时间节点，情绪高度同步；\"不想上班\"\"假期过太快\"是普适共鸣，人人都能接话，配合晒图、段子、返程攻略等内容，形成高强度情绪宣泄与围观。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景（返工聚餐、换季整理），注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-10-08T15:00:02.618Z",
+      "eventSummary": "围绕「国庆假期就这样结束了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "节点刚需 + 清单化实用内容；出行/假期前后\"备货清单/应急攻略\"是强实用需求，攻略式内容高转发与收藏。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top3",
+      "seat": "总榜Top2",
       "title": "国庆高速新能源车充电遇堵",
       "topic": "国庆高速新能源车充电遇堵",
       "eventName": "国庆高速新能源车充电遇堵",
       "platform": "知微",
-      "rank": 3,
-      "hot": 2406,
-      "hotValue": 2406,
+      "rank": 2,
+      "hot": 2609,
+      "hotValue": 2609,
       "url": "https://ef.zhiweidata.com/eventRk/d2ea4bd61aa1846710180281/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 2406
+          "hot": 2609
         }
       ],
       "totalScore": 80.8,
@@ -97,27 +64,27 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-08T14:30:14.814Z",
-      "eventSummary": "国庆返程高峰，多地高速服务区新能源车排队充电、桩少车多，充电排队成堵点，车主吐槽\"充电1小时排队3小时\"。",
-      "propagation": "新能源车保有量激增与假期集中出行叠加，充电难是刚需痛点且亲历者众；\"排队充电\"的画面感强、吐槽自带共鸣，既反映真实出行困境，也牵动\"新能源替代油车\"的大众讨论，情绪+利益双重驱动。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景（出行补给、应急充电），注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-10-08T15:00:02.618Z",
+      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
+      "propagation": "围绕「国庆高速新能源车充电遇堵」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top4",
+      "seat": "总榜Top3",
       "title": "电影《神探之痕迹》",
       "topic": "电影《神探之痕迹》",
       "eventName": "电影《神探之痕迹》",
       "platform": "知微",
-      "rank": 4,
-      "hot": 1501,
-      "hotValue": 1501,
+      "rank": 3,
+      "hot": 1596,
+      "hotValue": 1596,
       "url": "https://ef.zhiweidata.com/eventRk/5ed0be1066484aca10180222/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 1501
+          "hot": 1596
         }
       ],
       "totalScore": 79,
@@ -130,43 +97,109 @@
       "duration": "排名上升 3→2, 在榜11小时",
       "rankChange": "排名上升 3→2, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-10-08T14:30:14.814Z",
-      "eventSummary": "新片《神探之痕迹》上映后热度攀升，围绕剧情、案件设定与演员表现引发观众讨论，票房与口碑同步走高。",
-      "propagation": "悬疑探案题材自带强剧情讨论点，观众热衷\"猜凶手、解谜题\"，上映期话题集中、二创与解读密集；主演粉丝与推理爱好者叠加，形成\"看片—讨论—推荐\"的传播循环。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景（观影聚会、影院餐饮），注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-10-08T15:00:02.618Z",
+      "eventSummary": "围绕「电影《神探之痕迹》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「电影《神探之痕迹》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
+      "title": "余承东尊界品牌危机",
+      "topic": "余承东尊界品牌危机",
+      "eventName": "余承东尊界品牌危机",
+      "platform": "微博",
+      "rank": 4,
+      "hot": 1867713,
+      "hotValue": 1867713,
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%B0%8A%E7%95%8C%E5%93%81%E7%89%8C%E5%8D%B1%E6%9C%BA%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1867713
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-08T15:00:02.618Z",
+      "eventSummary": "围绕「余承东尊界品牌危机」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「余承东尊界品牌危机」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top6",
+      "seat": "总榜Top5",
       "title": "青海祁连县文旅局免费安置游客到学生宿舍",
       "topic": "青海祁连县文旅局免费安置游客到学生宿舍",
       "eventName": "青海祁连县文旅局免费安置游客到学生宿舍",
       "platform": "知微",
-      "rank": 6,
-      "hot": 1014,
-      "hotValue": 1014,
+      "rank": 5,
+      "hot": 1241,
+      "hotValue": 1241,
       "url": "https://ef.zhiweidata.com/eventRk/b90b601aa2164beb10180299/profil",
       "platforms": [
         {
           "platform": "知微",
+          "rank": 3,
+          "hot": 1241
+        }
+      ],
+      "totalScore": 69.8,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第3名, 在榜10小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第3名, 在榜10小时)",
+      "rankChange": "持续高位(第3名, 在榜10小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-08T15:00:02.618Z",
+      "eventSummary": "围绕「青海祁连县文旅局免费安置游客到学生宿舍」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「青海祁连县文旅局免费安置游客到学生宿舍」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top6",
+      "title": "蔡康永现身台独分子竞选会场",
+      "topic": "蔡康永现身台独分子竞选会场",
+      "eventName": "蔡康永现身台独分子竞选会场",
+      "platform": "知微",
+      "rank": 6,
+      "hot": 1057,
+      "hotValue": 1057,
+      "url": "https://ef.zhiweidata.com/eventRk/6b45a42e8e428a8810180300/profil",
+      "platforms": [
+        {
+          "platform": "知微",
           "rank": 4,
-          "hot": 1014
+          "hot": 1057
         }
       ],
       "totalScore": 64.3,
       "posScore": 60,
       "hotScore": 65,
       "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜10小时)",
+      "trendEvidence": "持续高位(第4名, 在榜11小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第4名, 在榜10小时)",
-      "rankChange": "持续高位(第4名, 在榜10小时)",
+      "duration": "持续高位(第4名, 在榜11小时)",
+      "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-08T14:30:14.814Z",
-      "eventSummary": "青海祁连县因天气等突发情况，文旅局将滞留游客免费安置到学生宿舍，提供临时住宿保障，暖心举措获网友点赞。",
-      "propagation": "突发状况下官方主动兜底的暖心做法自带正向感染力，与\"游客被困\"的担忧形成反差；\"免费安置到学生宿舍\"的具体细节真实可感，契合大众对公共服务温情与担当的期待，情绪共鸣强烈、易于传播。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景（旅行住宿、文旅体验），注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-10-08T15:00:02.618Z",
+      "eventSummary": "围绕「蔡康永现身台独分子竞选会场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「蔡康永现身台独分子竞选会场」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }
