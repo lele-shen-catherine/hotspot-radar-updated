@@ -1,33 +1,69 @@
 {
-  "updatedAt": "2026-10-08T01:32:41.422Z",
-  "collectedAt": "2026-10-08T01:32:41.422Z",
+  "updatedAt": "2026-10-08T06:30:16.292Z",
+  "collectedAt": "2026-10-08T06:30:16.292Z",
   "date": "2026-10-08",
   "events": [
     {
+      "level": "S",
+      "eventName": "尊界V800",
+      "topic": "尊界V800",
+      "score": 85.1,
+      "platform": "微博",
+      "platformDetail": {
+        "platform": "微博",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "300.8w",
+        "collectedAt": "2026-10-08T06:30:16.292Z",
+        "duration": "微博单次快照无在榜时长(按60)",
+        "rankChange": "微博单次快照无在榜时长(按60)",
+        "link": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8CV800%23"
+      },
+      "explanation": "围绕「尊界V800」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「尊界V800」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "尊界V800",
+      "eventSummary": "围绕「尊界V800」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 85.1,
+      "source": "微博",
+      "heat": "300.8w",
+      "crossPlatform": [
+        "微博"
+      ],
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 3008323
+        }
+      ]
+    },
+    {
       "level": "A",
-      "eventName": "我终于看清了测视力的红房子",
-      "topic": "我终于看清了测视力的红房子",
+      "eventName": "国庆假期就这样结束了",
+      "topic": "国庆假期就这样结束了",
       "score": 84.4,
       "platform": "抖音",
       "platformDetail": {
         "platform": "抖音",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "1204.3w",
-        "collectedAt": "2026-10-08T01:32:41.422Z",
+        "hotValue": "1222.3w",
+        "collectedAt": "2026-10-08T06:30:16.292Z",
         "duration": "抖音标记'爆'",
         "rankChange": "抖音标记'爆'",
-        "link": "https://www.douyin.com/search/%E6%88%91%E7%BB%88%E4%BA%8E%E7%9C%8B%E6%B8%85%E4%BA%86%E6%B5%8B%E8%A7%86%E5%8A%9B%E7%9A%84%E7%BA%A2%E6%88%BF%E5%AD%90"
+        "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%BB%93%E6%9D%9F%E4%BA%86"
       },
-      "explanation": "围绕「我终于看清了测视力的红房子」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「我终于看清了测视力的红房子」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "explanation": "围绕「国庆假期就这样结束了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "节点刚需 + 清单化实用内容；出行/假期前后\"备货清单/应急攻略\"是强实用需求，攻略式内容高转发与收藏。",
       "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "我终于看清了测视力的红房子",
-      "eventSummary": "围绕「我终于看清了测视力的红房子」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "title": "国庆假期就这样结束了",
+      "eventSummary": "围绕「国庆假期就这样结束了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 84.4,
       "source": "抖音",
-      "heat": "1204.3w",
+      "heat": "1222.3w",
       "crossPlatform": [
         "抖音"
       ],
@@ -35,35 +71,35 @@
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12043158
+          "hot": 12222550
         }
       ]
     },
     {
       "level": "A",
-      "eventName": "孙颖莎WTT中国大满贯爆冷止步32强",
-      "topic": "孙颖莎WTT中国大满贯爆冷止步32强",
+      "eventName": "国庆高速新能源车充电遇堵",
+      "topic": "国庆高速新能源车充电遇堵",
       "score": 80.8,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "2340",
-        "collectedAt": "2026-10-08T01:32:41.422Z",
+        "hotValue": "2406",
+        "collectedAt": "2026-10-08T06:30:16.292Z",
         "duration": "持续高位(第1名, 在榜11小时)",
         "rankChange": "持续高位(第1名, 在榜11小时)",
-        "link": "https://ef.zhiweidata.com/eventRk/c096be25869a784b10180295/profil"
+        "link": "https://ef.zhiweidata.com/eventRk/d2ea4bd61aa1846710180281/profil"
       },
-      "explanation": "围绕「孙颖莎WTT中国大满贯爆冷止步32强」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「孙颖莎WTT中国大满贯爆冷止步32强」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "explanation": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
+      "whyHot": "围绕「国庆高速新能源车充电遇堵」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "孙颖莎WTT中国大满贯爆冷止步32强",
-      "eventSummary": "围绕「孙颖莎WTT中国大满贯爆冷止步32强」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "title": "国庆高速新能源车充电遇堵",
+      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 80.8,
       "source": "知微",
-      "heat": "2340",
+      "heat": "2406",
       "crossPlatform": [
         "知微"
       ],
@@ -71,7 +107,7 @@
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 2340
+          "hot": 2406
         }
       ]
     },
@@ -85,8 +121,8 @@
         "platform": "知微",
         "currentRank": 2,
         "peakRank": 2,
-        "hotValue": "886",
-        "collectedAt": "2026-10-08T01:32:41.422Z",
+        "hotValue": "1501",
+        "collectedAt": "2026-10-08T06:30:16.292Z",
         "duration": "排名上升 3→2, 在榜11小时",
         "rankChange": "排名上升 3→2, 在榜11小时",
         "link": "https://ef.zhiweidata.com/eventRk/5ed0be1066484aca10180222/profil"
@@ -99,7 +135,7 @@
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 79,
       "source": "知微",
-      "heat": "886",
+      "heat": "1501",
       "crossPlatform": [
         "知微"
       ],
@@ -107,107 +143,35 @@
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 886
+          "hot": 1501
         }
       ]
     },
     {
       "level": "A",
-      "eventName": "羊剃毛前以为要死了",
-      "topic": "羊剃毛前以为要死了",
-      "score": 78.1,
-      "platform": "微博",
-      "platformDetail": {
-        "platform": "微博",
-        "currentRank": 1,
-        "peakRank": 1,
-        "hotValue": "123.1w",
-        "collectedAt": "2026-10-08T01:32:41.422Z",
-        "duration": "微博单次快照无在榜时长(按60)",
-        "rankChange": "微博单次快照无在榜时长(按60)",
-        "link": "https://s.weibo.com/weibo?q=%23%E7%BE%8A%E5%89%83%E6%AF%9B%E5%89%8D%E4%BB%A5%E4%B8%BA%E8%A6%81%E6%AD%BB%E4%BA%86%23"
-      },
-      "explanation": "围绕「羊剃毛前以为要死了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「羊剃毛前以为要死了」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "羊剃毛前以为要死了",
-      "eventSummary": "围绕「羊剃毛前以为要死了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 78.1,
-      "source": "微博",
-      "heat": "123.1w",
-      "crossPlatform": [
-        "微博"
-      ],
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 1230609
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
-      "topic": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
-      "score": 75,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 4,
-        "peakRank": 4,
-        "hotValue": "783",
-        "collectedAt": "2026-10-08T01:32:41.422Z",
-        "duration": "排名上升 8→4, 在榜11小时",
-        "rankChange": "排名上升 8→4, 在榜11小时",
-        "link": "https://ef.zhiweidata.com/eventRk/8ab03e484900ca2110180296/profil"
-      },
-      "explanation": "围绕「《欢迎来龙餐馆》代表内地角逐奥斯卡」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「《欢迎来龙餐馆》代表内地角逐奥斯卡」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
-      "eventSummary": "围绕「《欢迎来龙餐馆》代表内地角逐奥斯卡」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 75,
-      "source": "知微",
-      "heat": "783",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 4,
-          "hot": 783
-        }
-      ]
-    },
-    {
-      "level": "B",
-      "eventName": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
-      "topic": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
-      "score": 69.8,
+      "eventName": "蔡康永现身台独分子竞选会场",
+      "topic": "蔡康永现身台独分子竞选会场",
+      "score": 73.5,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
         "currentRank": 3,
         "peakRank": 3,
-        "hotValue": "841",
-        "collectedAt": "2026-10-08T01:32:41.422Z",
-        "duration": "持续高位(第3名, 在榜11小时)",
-        "rankChange": "持续高位(第3名, 在榜11小时)",
-        "link": "https://ef.zhiweidata.com/eventRk/337aca502ccee83810180298/profil"
+        "hotValue": "1057",
+        "collectedAt": "2026-10-08T06:30:16.292Z",
+        "duration": "排名上升 4→3, 在榜11小时",
+        "rankChange": "排名上升 4→3, 在榜11小时",
+        "link": "https://ef.zhiweidata.com/eventRk/6b45a42e8e428a8810180300/profil"
       },
-      "explanation": "围绕「情侣开发抢号软件致医院挂号系统瘫痪获刑」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「情侣开发抢号软件致医院挂号系统瘫痪获刑」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "explanation": "围绕「蔡康永现身台独分子竞选会场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「蔡康永现身台独分子竞选会场」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
-      "eventSummary": "围绕「情侣开发抢号软件致医院挂号系统瘫痪获刑」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "title": "蔡康永现身台独分子竞选会场",
+      "eventSummary": "围绕「蔡康永现身台独分子竞选会场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 69.8,
+      "totalScore": 73.5,
       "source": "知微",
-      "heat": "841",
+      "heat": "1057",
       "crossPlatform": [
         "知微"
       ],
@@ -215,7 +179,43 @@
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 841
+          "hot": 1057
+        }
+      ]
+    },
+    {
+      "level": "B",
+      "eventName": "青海祁连县文旅局免费安置游客到学生宿舍",
+      "topic": "青海祁连县文旅局免费安置游客到学生宿舍",
+      "score": 64.3,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 4,
+        "peakRank": 4,
+        "hotValue": "1014",
+        "collectedAt": "2026-10-08T06:30:16.292Z",
+        "duration": "持续高位(第4名, 在榜10小时)",
+        "rankChange": "持续高位(第4名, 在榜10小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/b90b601aa2164beb10180299/profil"
+      },
+      "explanation": "围绕「青海祁连县文旅局免费安置游客到学生宿舍」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「青海祁连县文旅局免费安置游客到学生宿舍」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "青海祁连县文旅局免费安置游客到学生宿舍",
+      "eventSummary": "围绕「青海祁连县文旅局免费安置游客到学生宿舍」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 64.3,
+      "source": "知微",
+      "heat": "1014",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 1014
         }
       ]
     }
