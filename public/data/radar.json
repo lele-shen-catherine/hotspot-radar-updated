@@ -1,57 +1,24 @@
 {
-  "generatedAt": "2026-10-09T10:06:53.476Z",
+  "generatedAt": "2026-10-09T14:30:08.830Z",
   "date": "2026-10-09",
-  "note": "固定5席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
+  "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
       "seat": "总榜Top1",
-      "title": "己立 再立人",
-      "topic": "己立 再立人",
-      "eventName": "己立 再立人",
-      "platform": "抖音",
-      "rank": 1,
-      "hot": 12034309,
-      "hotValue": 12034309,
-      "url": "https://www.douyin.com/search/%E5%B7%B1%E7%AB%8B%20%E5%86%8D%E7%AB%8B%E4%BA%BA",
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 12034309
-        }
-      ],
-      "totalScore": 84.4,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 85,
-      "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'爆'",
-      "rankChange": "抖音标记'爆'",
-      "excludeCat": null,
-      "collectedAt": "2026-10-09T10:06:53.476Z",
-      "eventSummary": "围绕「己立 再立人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「己立 再立人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
       "title": "江淮汽车回应尊界V800刹车踏板断裂",
       "topic": "江淮汽车回应尊界V800刹车踏板断裂",
       "eventName": "江淮汽车回应尊界V800刹车踏板断裂",
       "platform": "知微",
-      "rank": 2,
-      "hot": 22633,
-      "hotValue": 22633,
+      "rank": 1,
+      "hot": 14259,
+      "hotValue": 14259,
       "url": "https://ef.zhiweidata.com/eventRk/4029141085ac567710180306/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 22633
+          "hot": 14259
         }
       ],
       "totalScore": 80.8,
@@ -64,27 +31,60 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T10:06:53.476Z",
+      "collectedAt": "2026-10-09T14:30:08.830Z",
       "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
       "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
+      "seat": "总榜Top2",
+      "title": "小米集团股价盘中大涨超9%",
+      "topic": "小米集团股价盘中大涨超9%",
+      "eventName": "小米集团股价盘中大涨超9%",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 11816145,
+      "hotValue": 11816145,
+      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E7%9B%98%E4%B8%AD%E5%A4%A7%E6%B6%A8%E8%B6%859%25",
+      "platforms": [
+        {
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 11816145
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "抖音标记'新'(刚上榜)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音标记'新'(刚上榜)",
+      "rankChange": "抖音标记'新'(刚上榜)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-09T14:30:08.830Z",
+      "eventSummary": "围绕「小米集团股价盘中大涨超9%」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「小米集团股价盘中大涨超9%」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
       "seat": "总榜Top3",
-      "title": "请回答1988",
-      "topic": "请回答1988",
-      "eventName": "请回答1988",
+      "title": "35岁年入五十万女生相亲要求",
+      "topic": "35岁年入五十万女生相亲要求",
+      "eventName": "35岁年入五十万女生相亲要求",
       "platform": "微博",
       "rank": 3,
-      "hot": 1568497,
-      "hotValue": 1568497,
-      "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%23",
+      "hot": 1225173,
+      "hotValue": 1225173,
+      "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%B9%B4%E5%85%A5%E4%BA%94%E5%8D%81%E4%B8%87%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E8%A6%81%E6%B1%82%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1568497
+          "hot": 1225173
         }
       ],
       "totalScore": 78.1,
@@ -97,10 +97,10 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T10:06:53.476Z",
-      "eventSummary": "围绕「请回答1988」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「请回答1988」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-10-09T14:30:08.830Z",
+      "eventSummary": "围绕「35岁年入五十万女生相亲要求」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「35岁年入五十万女生相亲要求」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
@@ -110,14 +110,14 @@
       "eventName": "俄罗斯“鼠疫事件”",
       "platform": "知微",
       "rank": 4,
-      "hot": 8305,
-      "hotValue": 8305,
+      "hot": 1752,
+      "hotValue": 1752,
       "url": "https://ef.zhiweidata.com/eventRk/27ba5c21739d77e910180302/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 8305
+          "hot": 1752
         }
       ],
       "totalScore": 75.3,
@@ -130,40 +130,73 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T10:06:53.476Z",
+      "collectedAt": "2026-10-09T14:30:08.830Z",
       "eventSummary": "围绕「俄罗斯“鼠疫事件”」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "level": "B",
+      "level": "A",
       "seat": "总榜Top5",
-      "title": "安妮·卡森斩获2026诺贝尔文学奖",
-      "topic": "安妮·卡森斩获2026诺贝尔文学奖",
-      "eventName": "安妮·卡森斩获2026诺贝尔文学奖",
+      "title": "蔡康永现身台独分子竞选会场",
+      "topic": "蔡康永现身台独分子竞选会场",
+      "eventName": "蔡康永现身台独分子竞选会场",
       "platform": "知微",
       "rank": 5,
-      "hot": 1179,
-      "hotValue": 1179,
-      "url": "https://ef.zhiweidata.com/eventRk/3da41b1edc94c69210180307/profil",
+      "hot": 685,
+      "hotValue": 685,
+      "url": "https://ef.zhiweidata.com/eventRk/6b45a42e8e428a8810180300/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 1179
+          "hot": 685
         }
       ],
-      "totalScore": 69.8,
+      "totalScore": 73.5,
       "posScore": 70,
       "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
+      "trendScore": 100,
+      "trendEvidence": "排名上升 5→3, 在榜9小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
+      "duration": "排名上升 5→3, 在榜9小时",
+      "rankChange": "排名上升 5→3, 在榜9小时",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T10:06:53.476Z",
+      "collectedAt": "2026-10-09T14:30:08.830Z",
+      "eventSummary": "围绕「蔡康永现身台独分子竞选会场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「蔡康永现身台独分子竞选会场」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top6",
+      "title": "安妮·卡森斩获2026诺贝尔文学奖",
+      "topic": "安妮·卡森斩获2026诺贝尔文学奖",
+      "eventName": "安妮·卡森斩获2026诺贝尔文学奖",
+      "platform": "知微",
+      "rank": 6,
+      "hot": 505,
+      "hotValue": 505,
+      "url": "https://ef.zhiweidata.com/eventRk/3da41b1edc94c69210180307/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 505
+        }
+      ],
+      "totalScore": 64.3,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第4名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第4名, 在榜11小时)",
+      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-09T14:30:08.830Z",
       "eventSummary": "围绕「安妮·卡森斩获2026诺贝尔文学奖」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「安妮·卡森斩获2026诺贝尔文学奖」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
