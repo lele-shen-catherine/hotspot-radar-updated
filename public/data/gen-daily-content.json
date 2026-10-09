@@ -148,42 +148,6 @@
       ]
     },
     {
-      "level": "A",
-      "eventName": "蔡康永现身台独分子竞选会场",
-      "topic": "蔡康永现身台独分子竞选会场",
-      "score": 73.5,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 3,
-        "peakRank": 3,
-        "hotValue": "685",
-        "collectedAt": "2026-10-09T07:00:02.890Z",
-        "duration": "排名上升 5→3, 在榜9小时",
-        "rankChange": "排名上升 5→3, 在榜9小时",
-        "link": "https://ef.zhiweidata.com/eventRk/6b45a42e8e428a8810180300/profil"
-      },
-      "explanation": "围绕「蔡康永现身台独分子竞选会场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「蔡康永现身台独分子竞选会场」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "蔡康永现身台独分子竞选会场",
-      "eventSummary": "围绕「蔡康永现身台独分子竞选会场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 73.5,
-      "source": "知微",
-      "heat": "685",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 685
-        }
-      ]
-    },
-    {
       "level": "B",
       "eventName": "安妮·卡森斩获2026诺贝尔文学奖",
       "topic": "安妮·卡森斩获2026诺贝尔文学奖",
@@ -272,7 +236,7 @@
   ],
   "meta": {
     "dataSource": "UAPI(微博/抖音/小红书) + 时光热搜 + 知微观察",
-    "hardExcluded": 0,
+    "hardExcluded": 1,
     "pendingReview": 0,
     "note": "郭德纲事件经用户确认保留展示；趋势图已按新规删除；问点点已删除。"
   }
