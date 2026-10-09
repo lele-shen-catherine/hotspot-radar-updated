@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T15:00:01.937Z",
+  "generatedAt": "2026-10-09T21:39:00.941Z",
   "date": "2026-10-09",
-  "note": "固定席位: 知微Top+抖音Top1+微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级; 已剔除政治敏感热点",
+  "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
@@ -11,14 +11,14 @@
       "eventName": "江淮汽车回应尊界V800刹车踏板断裂",
       "platform": "知微",
       "rank": 1,
-      "hot": 14325,
-      "hotValue": 14325,
+      "hot": 13210,
+      "hotValue": 13210,
       "url": "https://ef.zhiweidata.com/eventRk/4029141085ac567710180306/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 14325
+          "hot": 13210
         }
       ],
       "totalScore": 80.8,
@@ -31,7 +31,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T15:00:01.937Z",
+      "collectedAt": "2026-10-09T21:39:00.941Z",
       "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
       "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
@@ -39,19 +39,19 @@
     {
       "level": "A",
       "seat": "总榜Top2",
-      "title": "小米集团股价盘中大涨超9%",
-      "topic": "小米集团股价盘中大涨超9%",
-      "eventName": "小米集团股价盘中大涨超9%",
+      "title": "NBA中国赛首战打响",
+      "topic": "NBA中国赛首战打响",
+      "eventName": "NBA中国赛首战打响",
       "platform": "抖音",
       "rank": 2,
-      "hot": 11964498,
-      "hotValue": 11964498,
-      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E7%9B%98%E4%B8%AD%E5%A4%A7%E6%B6%A8%E8%B6%859%25",
+      "hot": 11708403,
+      "hotValue": 11708403,
+      "url": "https://www.douyin.com/search/NBA%E4%B8%AD%E5%9B%BD%E8%B5%9B%E9%A6%96%E6%88%98%E6%89%93%E5%93%8D",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11964498
+          "hot": 11708403
         }
       ],
       "totalScore": 78.1,
@@ -64,27 +64,27 @@
       "duration": "抖音标记'新'(刚上榜)",
       "rankChange": "抖音标记'新'(刚上榜)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T15:00:01.937Z",
-      "eventSummary": "围绕「小米集团股价盘中大涨超9%」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「小米集团股价盘中大涨超9%」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-09T21:39:00.941Z",
+      "eventSummary": "围绕「NBA中国赛首战打响」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「NBA中国赛首战打响」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "桂花香是一种非牛顿流体",
-      "topic": "桂花香是一种非牛顿流体",
-      "eventName": "桂花香是一种非牛顿流体",
+      "title": "飞天奖内场",
+      "topic": "飞天奖内场",
+      "eventName": "飞天奖内场",
       "platform": "微博",
       "rank": 3,
-      "hot": 1152225,
-      "hotValue": 1152225,
-      "url": "https://s.weibo.com/weibo?q=%23%E6%A1%82%E8%8A%B1%E9%A6%99%E6%98%AF%E4%B8%80%E7%A7%8D%E9%9D%9E%E7%89%9B%E9%A1%BF%E6%B5%81%E4%BD%93%23",
+      "hot": 2438328,
+      "hotValue": 2438328,
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%A5%96%E5%86%85%E5%9C%BA%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1152225
+          "hot": 2438328
         }
       ],
       "totalScore": 78.1,
@@ -97,27 +97,27 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T15:00:01.937Z",
-      "eventSummary": "围绕「桂花香是一种非牛顿流体」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「桂花香是一种非牛顿流体」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-09T21:39:00.941Z",
+      "eventSummary": "围绕「飞天奖内场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「飞天奖内场」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top4",
-      "title": "俄罗斯“鼠疫事件”",
-      "topic": "俄罗斯“鼠疫事件”",
-      "eventName": "俄罗斯“鼠疫事件”",
+      "title": "湖南一女局长被举报婚内出轨多人",
+      "topic": "湖南一女局长被举报婚内出轨多人",
+      "eventName": "湖南一女局长被举报婚内出轨多人",
       "platform": "知微",
       "rank": 4,
-      "hot": 2375,
-      "hotValue": 2375,
-      "url": "https://ef.zhiweidata.com/eventRk/27ba5c21739d77e910180302/profil",
+      "hot": 2584,
+      "hotValue": 2584,
+      "url": "https://ef.zhiweidata.com/eventRk/0753c703642253ed10180314/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 2375
+          "hot": 2584
         }
       ],
       "totalScore": 75.3,
@@ -130,42 +130,75 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T15:00:01.937Z",
-      "eventSummary": "围绕「俄罗斯“鼠疫事件”」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
+      "collectedAt": "2026-10-09T21:39:00.941Z",
+      "eventSummary": "围绕「湖南一女局长被举报婚内出轨多人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「湖南一女局长被举报婚内出轨多人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top5",
+      "title": "苹果削减iPhone18Pro订单",
+      "topic": "苹果削减iPhone18Pro订单",
+      "eventName": "苹果削减iPhone18Pro订单",
+      "platform": "知微",
+      "rank": 5,
+      "hot": 1089,
+      "hotValue": 1089,
+      "url": "https://ef.zhiweidata.com/eventRk/a4e4d072a030d4a710180312/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 1089
+        }
+      ],
+      "totalScore": 75,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 5→4, 在榜6小时",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: iPhone18Pro卖不动了)",
+      "duration": "排名上升 5→4, 在榜6小时",
+      "rankChange": "排名上升 5→4, 在榜6小时",
+      "excludeCat": null,
+      "collectedAt": "2026-10-09T21:39:00.941Z",
+      "eventSummary": "围绕「苹果削减iPhone18Pro订单」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "头部品牌新品发布自带\"即时体验\"冲动；首发与价格公布制造悬念，KOL 开箱 + 评论区\"值不值\"讨论带动跨平台扩散，传播窗口短而集中。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "安妮·卡森斩获2026诺贝尔文学奖",
-      "topic": "安妮·卡森斩获2026诺贝尔文学奖",
-      "eventName": "安妮·卡森斩获2026诺贝尔文学奖",
+      "title": "网传央视摄影师泰国失联",
+      "topic": "网传央视摄影师泰国失联",
+      "eventName": "网传央视摄影师泰国失联",
       "platform": "知微",
       "rank": 6,
-      "hot": 583,
-      "hotValue": 583,
-      "url": "https://ef.zhiweidata.com/eventRk/3da41b1edc94c69210180307/profil",
+      "hot": 2490,
+      "hotValue": 2490,
+      "url": "https://ef.zhiweidata.com/eventRk/587e15decb983cc610180311/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 4,
-          "hot": 583
+          "rank": 3,
+          "hot": 2490
         }
       ],
-      "totalScore": 64.3,
-      "posScore": 60,
-      "hotScore": 65,
+      "totalScore": 69.8,
+      "posScore": 70,
+      "hotScore": 75,
       "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜11小时)",
+      "trendEvidence": "持续高位(第3名, 在榜11小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第4名, 在榜11小时)",
-      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "duration": "持续高位(第3名, 在榜11小时)",
+      "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T15:00:01.937Z",
-      "eventSummary": "围绕「安妮·卡森斩获2026诺贝尔文学奖」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「安妮·卡森斩获2026诺贝尔文学奖」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-09T21:39:00.941Z",
+      "eventSummary": "围绕「网传央视摄影师泰国失联」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「网传央视摄影师泰国失联」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
