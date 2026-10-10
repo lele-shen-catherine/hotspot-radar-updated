@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-10-09T21:39:00.941Z",
-  "date": "2026-10-09",
+  "generatedAt": "2026-10-10T14:26:57.476Z",
+  "date": "2026-10-10",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
-      "title": "江淮汽车回应尊界V800刹车踏板断裂",
-      "topic": "江淮汽车回应尊界V800刹车踏板断裂",
-      "eventName": "江淮汽车回应尊界V800刹车踏板断裂",
-      "platform": "知微",
+      "title": "警方通报王皓被围堵辱骂处理结果",
+      "topic": "警方通报王皓被围堵辱骂处理结果",
+      "eventName": "警方通报王皓被围堵辱骂处理结果",
+      "platform": "微博",
       "rank": 1,
-      "hot": 13210,
-      "hotValue": 13210,
-      "url": "https://ef.zhiweidata.com/eventRk/4029141085ac567710180306/profil",
+      "hot": 2605060,
+      "hotValue": 2605060,
+      "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%9A%93%E8%A2%AB%E5%9B%B4%E5%A0%B5%E8%BE%B1%E9%AA%82%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C%23",
       "platforms": [
         {
-          "platform": "知微",
+          "platform": "微博",
           "rank": 1,
-          "hot": 13210
+          "hot": 2605060
         }
       ],
-      "totalScore": 80.8,
-      "posScore": 90,
-      "hotScore": 95,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第1名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第1名, 在榜11小时)",
-      "rankChange": "持续高位(第1名, 在榜11小时)",
+      "totalScore": 85.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 警方通报王皓赛场遭围堵辱骂案处理结果)",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T21:39:00.941Z",
-      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
-      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
+      "collectedAt": "2026-10-10T14:26:57.476Z",
+      "eventSummary": "围绕「警方通报王皓被围堵辱骂处理结果」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "官方通报自带公信力与强传播势能；公众人物/主体与监管结果形成强冲突叙事，评论区情绪共振与二次解读推动话题在榜单持续上探。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
       "seat": "总榜Top2",
-      "title": "NBA中国赛首战打响",
-      "topic": "NBA中国赛首战打响",
-      "eventName": "NBA中国赛首战打响",
+      "title": "WTT中国大满贯国乒女双夺冠",
+      "topic": "WTT中国大满贯国乒女双夺冠",
+      "eventName": "WTT中国大满贯国乒女双夺冠",
       "platform": "抖音",
       "rank": 2,
-      "hot": 11708403,
-      "hotValue": 11708403,
-      "url": "https://www.douyin.com/search/NBA%E4%B8%AD%E5%9B%BD%E8%B5%9B%E9%A6%96%E6%88%98%E6%89%93%E5%93%8D",
+      "hot": 11583598,
+      "hotValue": 11583598,
+      "url": "https://www.douyin.com/search/WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%8F%8C%E5%A4%BA%E5%86%A0",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11708403
+          "hot": 11583598
         }
       ],
       "totalScore": 78.1,
@@ -64,60 +64,27 @@
       "duration": "抖音标记'新'(刚上榜)",
       "rankChange": "抖音标记'新'(刚上榜)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T21:39:00.941Z",
-      "eventSummary": "围绕「NBA中国赛首战打响」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「NBA中国赛首战打响」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-10-10T14:26:57.476Z",
+      "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
+      "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "飞天奖内场",
-      "topic": "飞天奖内场",
-      "eventName": "飞天奖内场",
-      "platform": "微博",
-      "rank": 3,
-      "hot": 2438328,
-      "hotValue": 2438328,
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%A5%96%E5%86%85%E5%9C%BA%23",
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 2438328
-        }
-      ],
-      "totalScore": 78.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-10-09T21:39:00.941Z",
-      "eventSummary": "围绕「飞天奖内场」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「飞天奖内场」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
-      "title": "湖南一女局长被举报婚内出轨多人",
-      "topic": "湖南一女局长被举报婚内出轨多人",
-      "eventName": "湖南一女局长被举报婚内出轨多人",
+      "title": "江淮汽车回应尊界V800刹车踏板断裂",
+      "topic": "江淮汽车回应尊界V800刹车踏板断裂",
+      "eventName": "江淮汽车回应尊界V800刹车踏板断裂",
       "platform": "知微",
-      "rank": 4,
-      "hot": 2584,
-      "hotValue": 2584,
-      "url": "https://ef.zhiweidata.com/eventRk/0753c703642253ed10180314/profil",
+      "rank": 3,
+      "hot": 7369,
+      "hotValue": 7369,
+      "url": "https://ef.zhiweidata.com/eventRk/4029141085ac567710180306/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 2584
+          "hot": 7369
         }
       ],
       "totalScore": 75.3,
@@ -130,60 +97,27 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T21:39:00.941Z",
-      "eventSummary": "围绕「湖南一女局长被举报婚内出轨多人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「湖南一女局长被举报婚内出轨多人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-10T14:26:57.476Z",
+      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
+      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
-      "level": "A",
-      "seat": "总榜Top5",
-      "title": "苹果削减iPhone18Pro订单",
-      "topic": "苹果削减iPhone18Pro订单",
-      "eventName": "苹果削减iPhone18Pro订单",
-      "platform": "知微",
-      "rank": 5,
-      "hot": 1089,
-      "hotValue": 1089,
-      "url": "https://ef.zhiweidata.com/eventRk/a4e4d072a030d4a710180312/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 4,
-          "hot": 1089
-        }
-      ],
-      "totalScore": 75,
-      "posScore": 60,
-      "hotScore": 65,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 5→4, 在榜6小时",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: iPhone18Pro卖不动了)",
-      "duration": "排名上升 5→4, 在榜6小时",
-      "rankChange": "排名上升 5→4, 在榜6小时",
-      "excludeCat": null,
-      "collectedAt": "2026-10-09T21:39:00.941Z",
-      "eventSummary": "围绕「苹果削减iPhone18Pro订单」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "头部品牌新品发布自带\"即时体验\"冲动；首发与价格公布制造悬念，KOL 开箱 + 评论区\"值不值\"讨论带动跨平台扩散，传播窗口短而集中。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
       "level": "B",
-      "seat": "总榜Top6",
-      "title": "网传央视摄影师泰国失联",
-      "topic": "网传央视摄影师泰国失联",
-      "eventName": "网传央视摄影师泰国失联",
+      "seat": "总榜Top4",
+      "title": "王仁君斩获第35届飞天奖视帝",
+      "topic": "王仁君斩获第35届飞天奖视帝",
+      "eventName": "王仁君斩获第35届飞天奖视帝",
       "platform": "知微",
-      "rank": 6,
-      "hot": 2490,
-      "hotValue": 2490,
-      "url": "https://ef.zhiweidata.com/eventRk/587e15decb983cc610180311/profil",
+      "rank": 4,
+      "hot": 2717,
+      "hotValue": 2717,
+      "url": "https://ef.zhiweidata.com/eventRk/258e7a36700b27bd10180319/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 2490
+          "hot": 2717
         }
       ],
       "totalScore": 69.8,
@@ -196,10 +130,43 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-09T21:39:00.941Z",
-      "eventSummary": "围绕「网传央视摄影师泰国失联」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「网传央视摄影师泰国失联」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-10T14:26:57.476Z",
+      "eventSummary": "围绕「王仁君斩获第35届飞天奖视帝」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「王仁君斩获第35届飞天奖视帝」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top5",
+      "title": "湖南一女局长被举报婚内出轨多人",
+      "topic": "湖南一女局长被举报婚内出轨多人",
+      "eventName": "湖南一女局长被举报婚内出轨多人",
+      "platform": "知微",
+      "rank": 5,
+      "hot": 433,
+      "hotValue": 433,
+      "url": "https://ef.zhiweidata.com/eventRk/0753c703642253ed10180314/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 433
+        }
+      ],
+      "totalScore": 68,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 7→4, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 7→4, 在榜11小时",
+      "rankChange": "排名上升 7→4, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-10-10T14:26:57.476Z",
+      "eventSummary": "围绕「湖南一女局长被举报婚内出轨多人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「湖南一女局长被举报婚内出轨多人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     }
   ]
 }
