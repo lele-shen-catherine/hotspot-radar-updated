@@ -1,0 +1,3084 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 1117428,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-10-05",
+        "sumH": 307261,
+        "info": [
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 0,
+            "pro": 28.92,
+            "hE": 88866,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 0,
+            "pro": 11.01,
+            "hE": 33837,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 10.32,
+            "hE": 31716,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 0,
+            "pro": 9.56,
+            "hE": 29367,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "56beb3819847095a10180293",
+            "img": "3.jpg",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "北京大运河音乐节 ",
+            "startTime": 1791129600000,
+            "oldPoint": 0,
+            "pro": 6.93,
+            "hE": 21285,
+            "tags": [
+              "音乐节",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 6.83,
+            "hE": 20994,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 5.5,
+            "hE": 16887,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "20a60ed77719841810180254",
+            "img": "4.jpg",
+            "pointPro": 99.86,
+            "firstType": "政务",
+            "name": "居民购房贷款贴息政策出台",
+            "startTime": 1790611200000,
+            "oldPoint": 0,
+            "pro": 3.32,
+            "hE": 10195,
+            "tags": [
+              "政策",
+              "出台"
+            ]
+          },
+          {
+            "eventId": "72156e9478d00bed10180244",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "林诗栋夺冠",
+            "startTime": 1790524800000,
+            "oldPoint": 0,
+            "pro": 2.82,
+            "hE": 8676,
+            "tags": [
+              "林诗栋",
+              "中国乒乓球队",
+              "亚运会"
+            ]
+          },
+          {
+            "eventId": "d982bdc2eacecd3610180223",
+            "img": "1790575703707.png",
+            "pointPro": 99.82,
+            "firstType": "娱乐",
+            "name": "电影《重生2》",
+            "startTime": 1789833600000,
+            "oldPoint": 0,
+            "pro": 2.64,
+            "hE": 8116,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 37322
+          }
+        ]
+      },
+      {
+        "time": "2026-10-06",
+        "sumH": 244578,
+        "info": [
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 0,
+            "pro": 13.96,
+            "hE": 34144,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 5,
+            "pro": 11.63,
+            "hE": 28446,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 10.71,
+            "hE": 26186,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "56beb3819847095a10180293",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "北京大运河音乐节 ",
+            "startTime": 1791129600000,
+            "oldPoint": 4,
+            "pro": 10.01,
+            "hE": 24485,
+            "tags": [
+              "音乐节",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 6,
+            "pro": 9.37,
+            "hE": 22919,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "b90b601aa2164beb10180299",
+            "img": "1791424615403.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "青海祁连县文旅局免费安置游客到学生宿舍",
+            "startTime": 1790870400000,
+            "oldPoint": 3,
+            "pro": 9.19,
+            "hE": 22470,
+            "tags": [
+              "国庆",
+              "青海"
+            ]
+          },
+          {
+            "eventId": "b1101de00e9e472510180292",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "清华毕业生举报中国电信",
+            "startTime": 1790956800000,
+            "oldPoint": 10,
+            "pro": 7.07,
+            "hE": 17294,
+            "tags": [
+              "电信",
+              "举报",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "09ae2015cc91d71810180297",
+            "img": "33.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "央视调查网红牛奶湖违规圈地收费",
+            "startTime": 1791216000000,
+            "oldPoint": 60,
+            "pro": 4.3,
+            "hE": 10517,
+            "tags": [
+              "牛奶湖",
+              "内蒙古",
+              "违规",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "27ba5c21739d77e910180302",
+            "img": "2.jpg",
+            "pointPro": 99.85,
+            "firstType": "国际",
+            "name": "俄罗斯“鼠疫事件”",
+            "startTime": 1791043200000,
+            "oldPoint": 16,
+            "pro": 3.61,
+            "hE": 8824,
+            "tags": [
+              "鼠疫",
+              "俄罗斯"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 1,
+            "pro": 3.55,
+            "hE": 8681,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 40612
+          }
+        ]
+      },
+      {
+        "time": "2026-10-07",
+        "sumH": 321128,
+        "info": [
+          {
+            "eventId": "c096be25869a784b10180295",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "孙颖莎WTT中国大满贯爆冷止步32强",
+            "startTime": 1791302400000,
+            "oldPoint": 41,
+            "pro": 19.08,
+            "hE": 61277,
+            "tags": [
+              "孙颖莎",
+              "WTT"
+            ]
+          },
+          {
+            "eventId": "8ab03e484900ca2110180296",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "《欢迎来龙餐馆》代表内地角逐奥斯卡",
+            "startTime": 1791302400000,
+            "oldPoint": 54,
+            "pro": 12.28,
+            "hE": 39422,
+            "tags": [
+              "奥斯卡",
+              "欢迎来龙餐馆"
+            ]
+          },
+          {
+            "eventId": "27ba5c21739d77e910180302",
+            "img": "2.jpg",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "俄罗斯“鼠疫事件”",
+            "startTime": 1791043200000,
+            "oldPoint": 8,
+            "pro": 9.24,
+            "hE": 29679,
+            "tags": [
+              "鼠疫",
+              "俄罗斯"
+            ]
+          },
+          {
+            "eventId": "337aca502ccee83810180298",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "情侣开发抢号软件致医院挂号系统瘫痪获刑",
+            "startTime": 1791302400000,
+            "oldPoint": 59,
+            "pro": 6.74,
+            "hE": 21642,
+            "tags": [
+              "医院",
+              "挂号"
+            ]
+          },
+          {
+            "eventId": "6b45a42e8e428a8810180300",
+            "img": "1791437736165.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "蔡康永现身台独分子竞选会场",
+            "startTime": 1791043200000,
+            "oldPoint": 0,
+            "pro": 5.68,
+            "hE": 18234,
+            "tags": [
+              "蔡康永"
+            ]
+          },
+          {
+            "eventId": "9e2190c42c10393710180280",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "国庆首日高速公路上演“大堵车”",
+            "startTime": 1790784000000,
+            "oldPoint": 4,
+            "pro": 5.62,
+            "hE": 18046,
+            "tags": [
+              "国庆",
+              "堵车"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 1,
+            "pro": 5.53,
+            "hE": 17752,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 2,
+            "pro": 5.44,
+            "hE": 17477,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "d9900a0e4ab12d6110180270",
+            "img": "1.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "东航通报空姐下跪事件",
+            "startTime": 1790697600000,
+            "oldPoint": 9,
+            "pro": 4.62,
+            "hE": 14834,
+            "tags": [
+              "中国东航",
+              "空姐",
+              "下跪",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "55ad9451eeb7852610180291",
+            "img": "1.png",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "只此青绿水立方场次因观演视野问题退票",
+            "startTime": 1791216000000,
+            "oldPoint": 13,
+            "pro": 4.15,
+            "hE": 13334,
+            "tags": [
+              "只此青绿",
+              "退票"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 69431
+          }
+        ]
+      },
+      {
+        "time": "2026-10-08",
+        "sumH": 1006342,
+        "info": [
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 35,
+            "pro": 46.06,
+            "hE": 463543,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "27ba5c21739d77e910180302",
+            "img": "2.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "俄罗斯“鼠疫事件”",
+            "startTime": 1791043200000,
+            "oldPoint": 2,
+            "pro": 10.37,
+            "hE": 104330,
+            "tags": [
+              "鼠疫",
+              "俄罗斯"
+            ]
+          },
+          {
+            "eventId": "147a4bde0c92394310180304",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "彭玉去世",
+            "startTime": 1791388800000,
+            "oldPoint": 63,
+            "pro": 7.53,
+            "hE": 75758,
+            "tags": [
+              "彭玉",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "d87815bb962186dd10180316",
+            "img": "6.png",
+            "pointPro": 99.95,
+            "firstType": "谣言",
+            "name": "成都一小区楼顶埋7岁男童系谣言",
+            "startTime": 1791388800000,
+            "oldPoint": 43,
+            "pro": 5.08,
+            "hE": 51148,
+            "tags": [
+              "成都",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "3da41b1edc94c69210180307",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "国际",
+            "name": "安妮·卡森斩获2026诺贝尔文学奖",
+            "startTime": 1791388800000,
+            "oldPoint": 47,
+            "pro": 4.7,
+            "hE": 47287,
+            "tags": [
+              "诺贝尔文学奖"
+            ]
+          },
+          {
+            "eventId": "6c0c87438b9d95cb10180301",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "违法犯罪",
+            "name": "太仓通报网传代孕情况",
+            "startTime": 1791388800000,
+            "oldPoint": 64,
+            "pro": 3.48,
+            "hE": 35018,
+            "tags": [
+              "代孕",
+              "江苏",
+              "违法"
+            ]
+          },
+          {
+            "eventId": "461dec1e1bded73b10180303",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "违法犯罪",
+            "name": "广州市委原书记张硕辅被查",
+            "startTime": 1791388800000,
+            "oldPoint": 66,
+            "pro": 2.81,
+            "hE": 28277,
+            "tags": [
+              "张硕辅",
+              "违法",
+              "违纪"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 2.12,
+            "hE": 21351,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "c66bda66a6b67b4010180321",
+            "img": "33.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "清华团队国际率先研制成功核光钟",
+            "startTime": 1791302400000,
+            "oldPoint": 15,
+            "pro": 2.11,
+            "hE": 21184,
+            "tags": [
+              "清华大学",
+              "核光钟"
+            ]
+          },
+          {
+            "eventId": "d2ea4bd61aa1846710180281",
+            "img": "22.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "国庆高速新能源车充电遇堵",
+            "startTime": 1790784000000,
+            "oldPoint": 6,
+            "pro": 1.73,
+            "hE": 17363,
+            "tags": [
+              "新能源车"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 141083
+          }
+        ]
+      },
+      {
+        "time": "2026-10-09",
+        "sumH": 817471,
+        "info": [
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 0,
+            "pro": 41.94,
+            "hE": 342812,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "27ba5c21739d77e910180302",
+            "img": "2.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "俄罗斯“鼠疫事件”",
+            "startTime": 1791043200000,
+            "oldPoint": 1,
+            "pro": 7.5,
+            "hE": 61313,
+            "tags": [
+              "鼠疫",
+              "俄罗斯"
+            ]
+          },
+          {
+            "eventId": "0753c703642253ed10180314",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "政务",
+            "name": "湖南一女局长被举报婚内出轨多人",
+            "startTime": 1791388800000,
+            "oldPoint": 13,
+            "pro": 7.11,
+            "hE": 58151,
+            "tags": [
+              "局长",
+              "湖南",
+              "出轨"
+            ]
+          },
+          {
+            "eventId": "258e7a36700b27bd10180319",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "王仁君斩获第35届飞天奖视帝",
+            "startTime": 1791475200000,
+            "oldPoint": 48,
+            "pro": 5.04,
+            "hE": 41230,
+            "tags": [
+              "飞天奖"
+            ]
+          },
+          {
+            "eventId": "57bc362cbde1503610180335",
+            "img": "11.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "山姆回应拟限制亲友卡绑定",
+            "startTime": 1791475200000,
+            "oldPoint": 63,
+            "pro": 4.99,
+            "hE": 40795,
+            "tags": [
+              "山姆",
+              "规则"
+            ]
+          },
+          {
+            "eventId": "587e15decb983cc610180311",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "网传央视摄影师泰国失联",
+            "startTime": 1791388800000,
+            "oldPoint": 37,
+            "pro": 4.27,
+            "hE": 34913,
+            "tags": [
+              "摄影师",
+              "泰国",
+              "失联"
+            ]
+          },
+          {
+            "eventId": "a4e4d072a030d4a710180312",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "苹果削减iPhone18Pro订单",
+            "startTime": 1791475200000,
+            "oldPoint": 65,
+            "pro": 3.5,
+            "hE": 28618,
+            "tags": [
+              "iPhone",
+              "砍单",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e5b4d61bb1d1e65a10180313",
+            "img": "3.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "美政府暂停多家科企外籍员工绿卡申请",
+            "startTime": 1791475200000,
+            "oldPoint": 50,
+            "pro": 3.43,
+            "hE": 28007,
+            "tags": [
+              "绿卡",
+              "美国",
+              "暂停"
+            ]
+          },
+          {
+            "eventId": "d87815bb962186dd10180316",
+            "img": "6.png",
+            "pointPro": 99.85,
+            "firstType": "谣言",
+            "name": "成都一小区楼顶埋7岁男童系谣言",
+            "startTime": 1791388800000,
+            "oldPoint": 3,
+            "pro": 3.39,
+            "hE": 27714,
+            "tags": [
+              "成都",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "3da41b1edc94c69210180307",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "国际",
+            "name": "安妮·卡森斩获2026诺贝尔文学奖",
+            "startTime": 1791388800000,
+            "oldPoint": 4,
+            "pro": 2.78,
+            "hE": 22692,
+            "tags": [
+              "诺贝尔文学奖"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 131226
+          }
+        ]
+      },
+      {
+        "time": "2026-10-10",
+        "sumH": 703871,
+        "info": [
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 0,
+            "pro": 26.91,
+            "hE": 189387,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "258e7a36700b27bd10180319",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "王仁君斩获第35届飞天奖视帝",
+            "startTime": 1791475200000,
+            "oldPoint": 3,
+            "pro": 13.6,
+            "hE": 95719,
+            "tags": [
+              "飞天奖"
+            ]
+          },
+          {
+            "eventId": "872516b10a7115c210180323",
+            "img": "55.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "警方通报王皓赛场遭围堵辱骂案处理结果",
+            "startTime": 1791561600000,
+            "oldPoint": 57,
+            "pro": 12.26,
+            "hE": 86273,
+            "tags": [
+              "王皓",
+              "中国乒乓球队",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "c2d51608cb21450e10180334",
+            "img": "10.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "双汇被罚1.29亿",
+            "startTime": 1791475200000,
+            "oldPoint": 11,
+            "pro": 7.48,
+            "hE": 52651,
+            "tags": [
+              "双汇",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 44,
+            "pro": 5.8,
+            "hE": 40795,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "b6e3680ac20d3dcd10180338",
+            "img": "14.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "自闭症男童乘电梯遭陌生男子踹飞",
+            "startTime": 1791561600000,
+            "oldPoint": 59,
+            "pro": 4.78,
+            "hE": 33671,
+            "tags": [
+              "男童",
+              "踹倒"
+            ]
+          },
+          {
+            "eventId": "0753c703642253ed10180314",
+            "img": "4.jpg",
+            "pointPro": 99.89,
+            "firstType": "政务",
+            "name": "湖南一女局长被举报婚内出轨多人",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 4.6,
+            "hE": 32372,
+            "tags": [
+              "局长",
+              "湖南",
+              "出轨"
+            ]
+          },
+          {
+            "eventId": "57bc362cbde1503610180335",
+            "img": "11.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "山姆回应拟限制亲友卡绑定",
+            "startTime": 1791475200000,
+            "oldPoint": 4,
+            "pro": 3.73,
+            "hE": 26259,
+            "tags": [
+              "山姆",
+              "规则"
+            ]
+          },
+          {
+            "eventId": "b9b64b3e288520e310180337",
+            "img": "13.jpg",
+            "pointPro": 99.85,
+            "firstType": "政务",
+            "name": "周先旺受贿6050万余元获刑14年",
+            "startTime": 1791561600000,
+            "oldPoint": 61,
+            "pro": 3.67,
+            "hE": 25867,
+            "tags": [
+              "周先旺",
+              "违法"
+            ]
+          },
+          {
+            "eventId": "a4e4d072a030d4a710180312",
+            "img": "2.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "苹果削减iPhone18Pro订单",
+            "startTime": 1791475200000,
+            "oldPoint": 6,
+            "pro": 1.72,
+            "hE": 12124,
+            "tags": [
+              "iPhone",
+              "砍单",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 108753
+          }
+        ]
+      },
+      {
+        "time": "2026-10-11",
+        "sumH": 852623,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 17,
+            "pro": 37.84,
+            "hE": 322619,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 0,
+            "pro": 16.74,
+            "hE": 142708,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 15,
+            "pro": 11.89,
+            "hE": 101390,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 12,
+            "pro": 9.75,
+            "hE": 83165,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "587e15decb983cc610180311",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "网传央视摄影师泰国失联",
+            "startTime": 1791388800000,
+            "oldPoint": 13,
+            "pro": 4.93,
+            "hE": 42038,
+            "tags": [
+              "摄影师",
+              "泰国",
+              "失联"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 10,
+            "pro": 4.57,
+            "hE": 38922,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 4,
+            "pro": 2.96,
+            "hE": 25212,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "27ba5c21739d77e910180302",
+            "img": "2.jpg",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "俄罗斯“鼠疫事件”",
+            "startTime": 1791043200000,
+            "oldPoint": 11,
+            "pro": 1.36,
+            "hE": 11587,
+            "tags": [
+              "鼠疫",
+              "俄罗斯"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 40,
+            "pro": 1.09,
+            "hE": 9325,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.83,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 14,
+            "pro": 1.01,
+            "hE": 8596,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 67061
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-10-12 04",
+        "sumH": 3835,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 50.79,
+            "hE": 1948,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 0,
+            "pro": 20.8,
+            "hE": 798,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 0,
+            "pro": 7.65,
+            "hE": 293,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 7.41,
+            "hE": 284,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.8,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 0,
+            "pro": 7.15,
+            "hE": 274,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "27ba5c21739d77e910180302",
+            "img": "2.jpg",
+            "pointPro": 99.75,
+            "firstType": "国际",
+            "name": "俄罗斯“鼠疫事件”",
+            "startTime": 1791043200000,
+            "oldPoint": 0,
+            "pro": 2.01,
+            "hE": 77,
+            "tags": [
+              "鼠疫",
+              "俄罗斯"
+            ]
+          },
+          {
+            "eventId": "872516b10a7115c210180323",
+            "img": "55.png",
+            "pointPro": 99.7,
+            "firstType": "体育",
+            "name": "警方通报王皓赛场遭围堵辱骂案处理结果",
+            "startTime": 1791561600000,
+            "oldPoint": 0,
+            "pro": 1.49,
+            "hE": 57,
+            "tags": [
+              "王皓",
+              "中国乒乓球队",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "3ab3aea85d183c4610180230",
+            "img": "1790576602110.png",
+            "pointPro": 99.65,
+            "firstType": "娱乐",
+            "name": "电影《老江湖》",
+            "startTime": 1787760000000,
+            "oldPoint": 0,
+            "pro": 1.04,
+            "hE": 40,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "3da41b1edc94c69210180307",
+            "img": "11.png",
+            "pointPro": 99.6,
+            "firstType": "国际",
+            "name": "安妮·卡森斩获2026诺贝尔文学奖",
+            "startTime": 1791388800000,
+            "oldPoint": 0,
+            "pro": 0.82,
+            "hE": 32,
+            "tags": [
+              "诺贝尔文学奖"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.55,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 0,
+            "pro": 0.29,
+            "hE": 11,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 21
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 05",
+        "sumH": 6230,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 40.41,
+            "hE": 2517,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 1,
+            "pro": 22.56,
+            "hE": 1405,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 14.98,
+            "hE": 933,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 3,
+            "pro": 5.65,
+            "hE": 352,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.81,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 4.64,
+            "hE": 289,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "587e15decb983cc610180311",
+            "img": "1.jpg",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "网传央视摄影师泰国失联",
+            "startTime": 1791388800000,
+            "oldPoint": 12,
+            "pro": 3.64,
+            "hE": 227,
+            "tags": [
+              "摄影师",
+              "泰国",
+              "失联"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.71,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 15,
+            "pro": 3.19,
+            "hE": 199,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "27ba5c21739d77e910180302",
+            "img": "2.jpg",
+            "pointPro": 99.67,
+            "firstType": "国际",
+            "name": "俄罗斯“鼠疫事件”",
+            "startTime": 1791043200000,
+            "oldPoint": 5,
+            "pro": 1.32,
+            "hE": 82,
+            "tags": [
+              "鼠疫",
+              "俄罗斯"
+            ]
+          },
+          {
+            "eventId": "7026d7c22b8aadb010180346",
+            "img": "1791773492059.png",
+            "pointPro": 99.62,
+            "firstType": "企业",
+            "name": "回力“女店员剪男顾客吊牌”广告惹争议",
+            "startTime": 1791475200000,
+            "oldPoint": 16,
+            "pro": 1.31,
+            "hE": 82,
+            "tags": [
+              "回力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.57,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 9,
+            "pro": 0.84,
+            "hE": 53,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 91
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 06",
+        "sumH": 17517,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 54.46,
+            "hE": 9538,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 1,
+            "pro": 13.29,
+            "hE": 2328,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 12.76,
+            "hE": 2236,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 3,
+            "pro": 10.22,
+            "hE": 1791,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 2.58,
+            "hE": 452,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "c2d51608cb21450e10180334",
+            "img": "10.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "双汇被罚1.29亿",
+            "startTime": 1791475200000,
+            "oldPoint": 17,
+            "pro": 1.21,
+            "hE": 213,
+            "tags": [
+              "双汇",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.79,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 6,
+            "pro": 1.12,
+            "hE": 195,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "3da41b1edc94c69210180307",
+            "img": "11.png",
+            "pointPro": 99.76,
+            "firstType": "国际",
+            "name": "安妮·卡森斩获2026诺贝尔文学奖",
+            "startTime": 1791388800000,
+            "oldPoint": 10,
+            "pro": 0.85,
+            "hE": 149,
+            "tags": [
+              "诺贝尔文学奖"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 11,
+            "pro": 0.85,
+            "hE": 149,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "a4e4d072a030d4a710180312",
+            "img": "2.jpg",
+            "pointPro": 99.69,
+            "firstType": "企业",
+            "name": "苹果削减iPhone18Pro订单",
+            "startTime": 1791475200000,
+            "oldPoint": 12,
+            "pro": 0.51,
+            "hE": 90,
+            "tags": [
+              "iPhone",
+              "砍单",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 376
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 07",
+        "sumH": 39955,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 49.67,
+            "hE": 19844,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 1,
+            "pro": 17.97,
+            "hE": 7180,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 15.38,
+            "hE": 6145,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 3,
+            "pro": 5.9,
+            "hE": 2356,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 6,
+            "pro": 1.93,
+            "hE": 771,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.85,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 1.81,
+            "hE": 722,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "c2d51608cb21450e10180334",
+            "img": "10.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "双汇被罚1.29亿",
+            "startTime": 1791475200000,
+            "oldPoint": 5,
+            "pro": 1.01,
+            "hE": 403,
+            "tags": [
+              "双汇",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 8,
+            "pro": 0.92,
+            "hE": 369,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "a4e4d072a030d4a710180312",
+            "img": "2.jpg",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "苹果削减iPhone18Pro订单",
+            "startTime": 1791475200000,
+            "oldPoint": 9,
+            "pro": 0.92,
+            "hE": 367,
+            "tags": [
+              "iPhone",
+              "砍单",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7026d7c22b8aadb010180346",
+            "img": "1791773492059.png",
+            "pointPro": 99.73,
+            "firstType": "企业",
+            "name": "回力“女店员剪男顾客吊牌”广告惹争议",
+            "startTime": 1791475200000,
+            "oldPoint": 21,
+            "pro": 0.7,
+            "hE": 281,
+            "tags": [
+              "回力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1517
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 08",
+        "sumH": 55562,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 55.45,
+            "hE": 30805,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 17.28,
+            "hE": 9602,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 1,
+            "pro": 11.66,
+            "hE": 6480,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 3,
+            "pro": 8.21,
+            "hE": 4561,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 5,
+            "pro": 1.43,
+            "hE": 796,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.85,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 4,
+            "pro": 1.09,
+            "hE": 606,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "a4e4d072a030d4a710180312",
+            "img": "2.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "苹果削减iPhone18Pro订单",
+            "startTime": 1791475200000,
+            "oldPoint": 8,
+            "pro": 0.59,
+            "hE": 330,
+            "tags": [
+              "iPhone",
+              "砍单",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0753c703642253ed10180314",
+            "img": "4.jpg",
+            "pointPro": 99.79,
+            "firstType": "政务",
+            "name": "湖南一女局长被举报婚内出轨多人",
+            "startTime": 1791388800000,
+            "oldPoint": 22,
+            "pro": 0.59,
+            "hE": 328,
+            "tags": [
+              "局长",
+              "湖南",
+              "出轨"
+            ]
+          },
+          {
+            "eventId": "587e15decb983cc610180311",
+            "img": "1.jpg",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "网传央视摄影师泰国失联",
+            "startTime": 1791388800000,
+            "oldPoint": 13,
+            "pro": 0.58,
+            "hE": 321,
+            "tags": [
+              "摄影师",
+              "泰国",
+              "失联"
+            ]
+          },
+          {
+            "eventId": "7026d7c22b8aadb010180346",
+            "img": "1791773492059.png",
+            "pointPro": 99.74,
+            "firstType": "企业",
+            "name": "回力“女店员剪男顾客吊牌”广告惹争议",
+            "startTime": 1791475200000,
+            "oldPoint": 9,
+            "pro": 0.57,
+            "hE": 315,
+            "tags": [
+              "回力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1418
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 09",
+        "sumH": 85030,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 50.16,
+            "hE": 42654,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 3,
+            "pro": 20.63,
+            "hE": 17537,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 1,
+            "pro": 14.36,
+            "hE": 12208,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 2,
+            "pro": 7.87,
+            "hE": 6694,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 5,
+            "pro": 1.79,
+            "hE": 1520,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.85,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 1.07,
+            "hE": 913,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "57bc362cbde1503610180335",
+            "img": "11.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "山姆回应拟限制亲友卡绑定",
+            "startTime": 1791475200000,
+            "oldPoint": 18,
+            "pro": 0.66,
+            "hE": 560,
+            "tags": [
+              "山姆",
+              "规则"
+            ]
+          },
+          {
+            "eventId": "587e15decb983cc610180311",
+            "img": "1.jpg",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "网传央视摄影师泰国失联",
+            "startTime": 1791388800000,
+            "oldPoint": 8,
+            "pro": 0.49,
+            "hE": 417,
+            "tags": [
+              "摄影师",
+              "泰国",
+              "失联"
+            ]
+          },
+          {
+            "eventId": "b6e3680ac20d3dcd10180338",
+            "img": "14.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "自闭症男童乘电梯遭陌生男子踹飞",
+            "startTime": 1791561600000,
+            "oldPoint": 13,
+            "pro": 0.39,
+            "hE": 330,
+            "tags": [
+              "男童",
+              "踹倒"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.74,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 15,
+            "pro": 0.36,
+            "hE": 309,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1888
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 10",
+        "sumH": 92374,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 44.36,
+            "hE": 40974,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 1,
+            "pro": 28.43,
+            "hE": 26263,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 11.29,
+            "hE": 10430,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 3,
+            "pro": 5.88,
+            "hE": 5435,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 9,
+            "pro": 2.17,
+            "hE": 2005,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 5,
+            "pro": 1.53,
+            "hE": 1410,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.83,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 4,
+            "pro": 1.34,
+            "hE": 1240,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "c2d51608cb21450e10180334",
+            "img": "10.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "双汇被罚1.29亿",
+            "startTime": 1791475200000,
+            "oldPoint": 10,
+            "pro": 0.86,
+            "hE": 793,
+            "tags": [
+              "双汇",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "587e15decb983cc610180311",
+            "img": "1.jpg",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "网传央视摄影师泰国失联",
+            "startTime": 1791388800000,
+            "oldPoint": 7,
+            "pro": 0.62,
+            "hE": 574,
+            "tags": [
+              "摄影师",
+              "泰国",
+              "失联"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.74,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 11,
+            "pro": 0.57,
+            "hE": 525,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2725
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 11",
+        "sumH": 100731,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 43.89,
+            "hE": 44208,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 1,
+            "pro": 33.67,
+            "hE": 33916,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 12.43,
+            "hE": 12523,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 3,
+            "pro": 2.18,
+            "hE": 2197,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 5,
+            "pro": 1.61,
+            "hE": 1624,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 4,
+            "pro": 1.5,
+            "hE": 1506,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "7026d7c22b8aadb010180346",
+            "img": "1791773492059.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "回力“女店员剪男顾客吊牌”广告惹争议",
+            "startTime": 1791475200000,
+            "oldPoint": 10,
+            "pro": 0.93,
+            "hE": 934,
+            "tags": [
+              "回力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.78,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 6,
+            "pro": 0.93,
+            "hE": 933,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "c2d51608cb21450e10180334",
+            "img": "10.jpg",
+            "pointPro": 99.75,
+            "firstType": "企业",
+            "name": "双汇被罚1.29亿",
+            "startTime": 1791475200000,
+            "oldPoint": 7,
+            "pro": 0.8,
+            "hE": 808,
+            "tags": [
+              "双汇",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.72,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 9,
+            "pro": 0.54,
+            "hE": 545,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1537
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 12",
+        "sumH": 55980,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 47.19,
+            "hE": 26417,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 1,
+            "pro": 30.06,
+            "hE": 16829,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 11.66,
+            "hE": 6526,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 3,
+            "pro": 2.89,
+            "hE": 1617,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.87,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 7,
+            "pro": 1.68,
+            "hE": 943,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.83,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 1.31,
+            "hE": 735,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.8,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 9,
+            "pro": 0.74,
+            "hE": 415,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "7026d7c22b8aadb010180346",
+            "img": "1791773492059.png",
+            "pointPro": 99.77,
+            "firstType": "企业",
+            "name": "回力“女店员剪男顾客吊牌”广告惹争议",
+            "startTime": 1791475200000,
+            "oldPoint": 6,
+            "pro": 0.72,
+            "hE": 401,
+            "tags": [
+              "回力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b6e3680ac20d3dcd10180338",
+            "img": "14.png",
+            "pointPro": 99.73,
+            "firstType": "社会",
+            "name": "自闭症男童乘电梯遭陌生男子踹飞",
+            "startTime": 1791561600000,
+            "oldPoint": 13,
+            "pro": 0.63,
+            "hE": 355,
+            "tags": [
+              "男童",
+              "踹倒"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.7,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 5,
+            "pro": 0.6,
+            "hE": 338,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1404
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 13",
+        "sumH": 46807,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 46.19,
+            "hE": 21620,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 1,
+            "pro": 25.69,
+            "hE": 12023,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 13.79,
+            "hE": 6456,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 3,
+            "pro": 4.89,
+            "hE": 2290,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 5,
+            "pro": 2.68,
+            "hE": 1254,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.83,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 4,
+            "pro": 1.67,
+            "hE": 783,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 6,
+            "pro": 0.9,
+            "hE": 423,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 9,
+            "pro": 0.6,
+            "hE": 282,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "3da41b1edc94c69210180307",
+            "img": "11.png",
+            "pointPro": 99.72,
+            "firstType": "国际",
+            "name": "安妮·卡森斩获2026诺贝尔文学奖",
+            "startTime": 1791388800000,
+            "oldPoint": 19,
+            "pro": 0.54,
+            "hE": 254,
+            "tags": [
+              "诺贝尔文学奖"
+            ]
+          },
+          {
+            "eventId": "12122206665d08d510180310",
+            "img": "44.png",
+            "pointPro": 99.69,
+            "firstType": "企业",
+            "name": "OpenAI一次性发布722项AI生成数学手稿",
+            "startTime": 1791302400000,
+            "oldPoint": 12,
+            "pro": 0.49,
+            "hE": 229,
+            "tags": [
+              " OpenAI",
+              "数学",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1193
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 14",
+        "sumH": 56490,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 47.87,
+            "hE": 27041,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 1,
+            "pro": 29.63,
+            "hE": 16736,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 9.3,
+            "hE": 5256,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 3,
+            "pro": 4.5,
+            "hE": 2543,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 7,
+            "pro": 1.46,
+            "hE": 827,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "7026d7c22b8aadb010180346",
+            "img": "1791773492059.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "回力“女店员剪男顾客吊牌”广告惹争议",
+            "startTime": 1791475200000,
+            "oldPoint": 10,
+            "pro": 1.16,
+            "hE": 655,
+            "tags": [
+              "回力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.82,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 1,
+            "hE": 567,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "b6e3680ac20d3dcd10180338",
+            "img": "14.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "自闭症男童乘电梯遭陌生男子踹飞",
+            "startTime": 1791561600000,
+            "oldPoint": 13,
+            "pro": 0.71,
+            "hE": 403,
+            "tags": [
+              "男童",
+              "踹倒"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.76,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 5,
+            "pro": 0.69,
+            "hE": 387,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "0753c703642253ed10180314",
+            "img": "4.jpg",
+            "pointPro": 99.73,
+            "firstType": "政务",
+            "name": "湖南一女局长被举报婚内出轨多人",
+            "startTime": 1791388800000,
+            "oldPoint": 18,
+            "pro": 0.45,
+            "hE": 255,
+            "tags": [
+              "局长",
+              "湖南",
+              "出轨"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1820
+          }
+        ]
+      },
+      {
+        "time": "2026-10-12 15",
+        "sumH": 54629,
+        "info": [
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 50.76,
+            "hE": 27727,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 1,
+            "pro": 24.77,
+            "hE": 13531,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 8.6,
+            "hE": 4698,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a80190645b65402c10180340",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "国际",
+            "name": "利雅得机场遭袭数百人死伤",
+            "startTime": 1791561600000,
+            "oldPoint": 3,
+            "pro": 4.65,
+            "hE": 2542,
+            "tags": [
+              "沙特阿拉伯"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 4,
+            "pro": 2.28,
+            "hE": 1246,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "7026d7c22b8aadb010180346",
+            "img": "1791773492059.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "回力“女店员剪男顾客吊牌”广告惹争议",
+            "startTime": 1791475200000,
+            "oldPoint": 5,
+            "pro": 2.27,
+            "hE": 1241,
+            "tags": [
+              "回力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.81,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 6,
+            "pro": 2.1,
+            "hE": 1147,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.77,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 8,
+            "pro": 0.93,
+            "hE": 510,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.74,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 11,
+            "pro": 0.87,
+            "hE": 477,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "a4e4d072a030d4a710180312",
+            "img": "2.jpg",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "苹果削减iPhone18Pro订单",
+            "startTime": 1791475200000,
+            "oldPoint": 17,
+            "pro": 0.83,
+            "hE": 452,
+            "tags": [
+              "iPhone",
+              "砍单",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1058
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
