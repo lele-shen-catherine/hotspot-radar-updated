@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-13T15:08:41.326Z",
+  "generatedAt": "2026-10-13T22:30:12.275Z",
   "date": "2026-10-13",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "S",
+      "level": "A",
       "seat": "总榜Top1",
-      "title": "缅北魏家犯罪集团案一审宣判",
-      "topic": "缅北魏家犯罪集团案一审宣判",
-      "eventName": "缅北魏家犯罪集团案一审宣判",
+      "title": "完美穿搭不浪费",
+      "topic": "完美穿搭不浪费",
+      "eventName": "完美穿搭不浪费",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11761646,
-      "hotValue": 11761646,
-      "url": "https://www.douyin.com/search/%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4",
+      "hot": 11586793,
+      "hotValue": 11586793,
+      "url": "https://www.douyin.com/search/%E5%AE%8C%E7%BE%8E%E7%A9%BF%E6%90%AD%E4%B8%8D%E6%B5%AA%E8%B4%B9",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11761646
+          "hot": 11586793
         }
       ],
-      "totalScore": 85.1,
+      "totalScore": 84.4,
       "posScore": 98,
       "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "抖音无在榜时长(按60)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 魏家犯罪集团3人一审死刑)",
-      "duration": "抖音无在榜时长(按60)",
-      "rankChange": "抖音无在榜时长(按60)",
+      "trendScore": 85,
+      "trendEvidence": "抖音标记'爆'",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音标记'爆'",
+      "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-10-13T15:08:41.326Z",
-      "eventSummary": "围绕「缅北魏家犯罪集团案一审宣判」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「缅北魏家犯罪集团案一审宣判」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-13T22:30:12.275Z",
+      "eventSummary": "围绕「完美穿搭不浪费」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "低门槛可复刻的穿搭模板；同色系+叠穿公式人人都能用衣橱单品还原，强视觉传播 + 入秋仪式感，达人展示与评论区种草推动扩散。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -44,19 +44,19 @@
       "eventName": "江淮汽车回应尊界V800刹车踏板断裂",
       "platform": "知微",
       "rank": 2,
-      "hot": 13522,
-      "hotValue": 13522,
+      "hot": 4953,
+      "hotValue": 4953,
       "url": "https://ef.zhiweidata.com/eventRk/4029141085ac567710180306/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 13522
+          "hot": 4953
         }
       ],
-      "totalScore": 80.8,
-      "posScore": 90,
-      "hotScore": 95,
+      "totalScore": 80.3,
+      "posScore": 88.9,
+      "hotScore": 94.4,
       "trendScore": 85,
       "trendEvidence": "持续高位(第1名, 在榜11小时)",
       "resonanceScore": 45,
@@ -64,7 +64,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-13T15:08:41.326Z",
+      "collectedAt": "2026-10-13T22:30:12.275Z",
       "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
       "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
@@ -72,52 +72,19 @@
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "雅思考试突发大范围停考",
-      "topic": "雅思考试突发大范围停考",
-      "eventName": "雅思考试突发大范围停考",
-      "platform": "知微",
-      "rank": 3,
-      "hot": 6448,
-      "hotValue": 6448,
-      "url": "https://ef.zhiweidata.com/eventRk/07351b86bb4a769010180336/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 6448
-        }
-      ],
-      "totalScore": 79,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 4→2, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 4→2, 在榜11小时",
-      "rankChange": "排名上升 4→2, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-10-13T15:08:41.326Z",
-      "eventSummary": "当事人突发健康问题，被紧急送医并接受手术/治疗，消息经网络流传引发关注。",
-      "propagation": "围绕「雅思考试突发大范围停考」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
-      "title": "霸王茶姬赠送奶茶成本加盟商承担",
-      "topic": "霸王茶姬赠送奶茶成本加盟商承担",
-      "eventName": "霸王茶姬赠送奶茶成本加盟商承担",
+      "title": "79岁老干妈陶华碧用AI一年赚54亿",
+      "topic": "79岁老干妈陶华碧用AI一年赚54亿",
+      "eventName": "79岁老干妈陶华碧用AI一年赚54亿",
       "platform": "微博",
-      "rank": 4,
-      "hot": 1120087,
-      "hotValue": 1120087,
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%B5%A0%E9%80%81%E5%A5%B6%E8%8C%B6%E6%88%90%E6%9C%AC%E5%8A%A0%E7%9B%9F%E5%95%86%E6%89%BF%E6%8B%85%23",
+      "rank": 3,
+      "hot": 1564029,
+      "hotValue": 1564029,
+      "url": "https://s.weibo.com/weibo?q=%2379%E5%B2%81%E8%80%81%E5%B9%B2%E5%A6%88%E9%99%B6%E5%8D%8E%E7%A2%A7%E7%94%A8AI%E4%B8%80%E5%B9%B4%E8%B5%9A54%E4%BA%BF%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1120087
+          "hot": 1564029
         }
       ],
       "totalScore": 78.1,
@@ -130,43 +97,109 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-10-13T15:08:41.326Z",
-      "eventSummary": "围绕「霸王茶姬赠送奶茶成本加盟商承担」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「霸王茶姬赠送奶茶成本加盟商承担」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-10-13T22:30:12.275Z",
+      "eventSummary": "围绕「79岁老干妈陶华碧用AI一年赚54亿」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「79岁老干妈陶华碧用AI一年赚54亿」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "level": "B",
-      "seat": "总榜Top5",
+      "level": "A",
+      "seat": "总榜Top4",
       "title": "郑钦文中网女单夺冠",
       "topic": "郑钦文中网女单夺冠",
       "eventName": "郑钦文中网女单夺冠",
       "platform": "知微",
-      "rank": 5,
-      "hot": 4305,
-      "hotValue": 4305,
+      "rank": 4,
+      "hot": 3835,
+      "hotValue": 3835,
       "url": "https://ef.zhiweidata.com/eventRk/124dbd0c591ce78310180339/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 3,
-          "hot": 4305
+          "rank": 2,
+          "hot": 3835
         }
       ],
-      "totalScore": 69.8,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
+      "totalScore": 77.9,
+      "posScore": 77.8,
+      "hotScore": 83.3,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 6→2, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
+      "duration": "排名上升 6→2, 在榜11小时",
+      "rankChange": "排名上升 6→2, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-10-13T15:08:41.326Z",
+      "collectedAt": "2026-10-13T22:30:12.275Z",
       "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
       "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top5",
+      "title": "黄奇帆被查",
+      "topic": "黄奇帆被查",
+      "eventName": "黄奇帆被查",
+      "platform": "知微",
+      "rank": 5,
+      "hot": 2504,
+      "hotValue": 2504,
+      "url": "https://ef.zhiweidata.com/eventRk/083929c6120304e710180359/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 2504
+        }
+      ],
+      "totalScore": 71.3,
+      "posScore": 66.7,
+      "hotScore": 72.2,
+      "trendScore": 70,
+      "trendEvidence": "平稳(第3名, 在榜3小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 黄奇帆被查)",
+      "duration": "平稳(第3名, 在榜3小时)",
+      "rankChange": "平稳(第3名, 在榜3小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-13T22:30:12.275Z",
+      "eventSummary": "围绕「黄奇帆被查」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「黄奇帆被查」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top6",
+      "title": "百果园2年亏掉了7个亿",
+      "topic": "百果园2年亏掉了7个亿",
+      "eventName": "百果园2年亏掉了7个亿",
+      "platform": "知微",
+      "rank": 6,
+      "hot": 1973,
+      "hotValue": 1973,
+      "url": "https://ef.zhiweidata.com/eventRk/1e09be1bad94633c10180362/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 1973
+        }
+      ],
+      "totalScore": 68.9,
+      "posScore": 55.6,
+      "hotScore": 61.1,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第4名, 在榜10小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 百果园2年亏掉了7个亿)",
+      "duration": "持续高位(第4名, 在榜10小时)",
+      "rankChange": "持续高位(第4名, 在榜10小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-13T22:30:12.275Z",
+      "eventSummary": "围绕「百果园2年亏掉了7个亿」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「百果园2年亏掉了7个亿」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }
