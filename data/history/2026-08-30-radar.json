@@ -1,0 +1,719 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-30T12:28:41.005Z",
+  "date": "2026-08-30",
+  "sourceGeneratedAt": "2026-08-30T20:28:38.565Z",
+  "provider": "local-rules",
+  "model": "auditable-score-v1",
+  "summary": {
+    "analyzed": 24,
+    "selected": 4,
+    "rejected": 20
+  },
+  "hotspots": [
+    {
+      "id": "weibo-7-开学三件套齐涨价家长直呼吃不消",
+      "title": "开学三件套齐涨价家长直呼吃不消",
+      "ruleScore": 66,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 7,
+          "hot": 469165,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E4%B8%89%E4%BB%B6%E5%A5%97%E9%BD%90%E6%B6%A8%E4%BB%B7%E5%AE%B6%E9%95%BF%E7%9B%B4%E5%91%BC%E5%90%83%E4%B8%8D%E6%B6%88%23"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 83.6,
+      "creativityScore": 82,
+      "totalScore": 74.2,
+      "level": "A",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "开学三件套齐涨价家长直呼吃不消",
+      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
+      "communicationIdea": "围绕“开学三件套齐涨价家长直呼吃不消”给出可直接尝试的菜单、做法或购买清单。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-18-用绿色告别我的假期",
+      "title": "用绿色告别我的假期",
+      "ruleScore": 58.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 18,
+          "hot": 7764812,
+          "url": "https://www.douyin.com/search/%E7%94%A8%E7%BB%BF%E8%89%B2%E5%91%8A%E5%88%AB%E6%88%91%E7%9A%84%E5%81%87%E6%9C%9F"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 70.4,
+      "creativityScore": 72,
+      "totalScore": 67.6,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "用绿色告别我的假期",
+      "businessAction": "整理目的地、出行或周末消费清单，并明确价格与适用条件。",
+      "communicationIdea": "围绕“用绿色告别我的假期”制作实用攻略，避免夸大承诺。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-24-开学新人设",
+      "title": "开学新人设",
+      "ruleScore": 52.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 24,
+          "hot": 7718135,
+          "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E6%96%B0%E4%BA%BA%E8%AE%BE"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 63.2,
+      "creativityScore": 82,
+      "totalScore": 64.5,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "开学新人设",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“开学新人设”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-27-金铲铲全明星周末表演赛",
+      "title": "金铲铲全明星周末表演赛",
+      "ruleScore": 49.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 27,
+          "hot": 7701971,
+          "url": "https://www.douyin.com/search/%E9%87%91%E9%93%B2%E9%93%B2%E5%85%A8%E6%98%8E%E6%98%9F%E5%91%A8%E6%9C%AB%E8%A1%A8%E6%BC%94%E8%B5%9B"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 59.6,
+      "creativityScore": 72,
+      "totalScore": 61.5,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "金铲铲全明星周末表演赛",
+      "businessAction": "整理目的地、出行或周末消费清单，并明确价格与适用条件。",
+      "communicationIdea": "围绕“金铲铲全明星周末表演赛”制作实用攻略，避免夸大承诺。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "weibo-6-中国女排vs泰国女排",
+      "title": "中国女排vs泰国女排",
+      "ruleScore": 62.1,
+      "crossPlatform": true,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 6,
+          "hot": 490097,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%23"
+        },
+        {
+          "platform": "douyin",
+          "rank": 1,
+          "hot": 11087794,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 58,
+      "timelinessScore": 90.8,
+      "creativityScore": 42,
+      "totalScore": 63.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "中国女排vs泰国女排",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-1-某综艺节目在海岛遗弃造景垃圾",
+      "title": "某综艺节目在海岛遗弃造景垃圾",
+      "ruleScore": 53.3,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 1,
+          "hot": 1221558,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%90%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E5%9C%A8%E6%B5%B7%E5%B2%9B%E9%81%97%E5%BC%83%E9%80%A0%E6%99%AF%E5%9E%83%E5%9C%BE%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 90.8,
+      "creativityScore": 42,
+      "totalScore": 54,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "某综艺节目在海岛遗弃造景垃圾",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-4-军训结束回家的我belike",
+      "title": "军训结束回家的我belike",
+      "ruleScore": 53.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 4,
+          "hot": 10854258,
+          "url": "https://www.douyin.com/search/%E5%86%9B%E8%AE%AD%E7%BB%93%E6%9D%9F%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%88%91belike"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 87.2,
+      "creativityScore": 42,
+      "totalScore": 53.3,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "军训结束回家的我belike",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-2-早春晴朗",
+      "title": "早春晴朗",
+      "ruleScore": 51.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 2,
+          "hot": 850129,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 89.6,
+      "creativityScore": 42,
+      "totalScore": 53,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "早春晴朗",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-5-当我执意报考省外大学",
+      "title": "当我执意报考省外大学",
+      "ruleScore": 52,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 5,
+          "hot": 10169383,
+          "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%89%A7%E6%84%8F%E6%8A%A5%E8%80%83%E7%9C%81%E5%A4%96%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 86,
+      "creativityScore": 42,
+      "totalScore": 52.6,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "当我执意报考省外大学",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-3-2026数博会上的数字经济实力",
+      "title": "2026数博会上的数字经济实力",
+      "ruleScore": 50.5,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 3,
+          "hot": 676762,
+          "url": "https://s.weibo.com/weibo?q=%232026%E6%95%B0%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%AE%9E%E5%8A%9B%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 88.4,
+      "creativityScore": 42,
+      "totalScore": 52.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "2026数博会上的数字经济实力",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-4-细胞抗老是智商税么",
+      "title": "细胞抗老是智商税么",
+      "ruleScore": 49.2,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 4,
+          "hot": 543531,
+          "url": ""
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 87.2,
+      "creativityScore": 42,
+      "totalScore": 51.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "细胞抗老是智商税么",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-7-三只松鼠终止在港交所上市",
+      "title": "三只松鼠终止在港交所上市",
+      "ruleScore": 49.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 7,
+          "hot": 8927844,
+          "url": "https://www.douyin.com/search/%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E7%BB%88%E6%AD%A2%E5%9C%A8%E6%B8%AF%E4%BA%A4%E6%89%80%E4%B8%8A%E5%B8%82"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 83.6,
+      "creativityScore": 42,
+      "totalScore": 51.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "三只松鼠终止在港交所上市",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-5-金饰销量暴跌34%",
+      "title": "金饰销量暴跌34%",
+      "ruleScore": 48.2,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 5,
+          "hot": 539410,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C34%25%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 86,
+      "creativityScore": 42,
+      "totalScore": 50.7,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "金饰销量暴跌34%",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-8-直击钱塘江鬼王潮",
+      "title": "直击钱塘江“鬼王潮”",
+      "ruleScore": 48.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 8,
+          "hot": 8846182,
+          "url": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E9%92%B1%E5%A1%98%E6%B1%9F%E2%80%9C%E9%AC%BC%E7%8E%8B%E6%BD%AE%E2%80%9D"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 82.4,
+      "creativityScore": 42,
+      "totalScore": 50.5,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "直击钱塘江“鬼王潮”",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-9-切尔西官宣签下马丁内斯",
+      "title": "切尔西官宣签下马丁内斯",
+      "ruleScore": 47.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 9,
+          "hot": 8254696,
+          "url": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF%E5%AE%98%E5%AE%A3%E7%AD%BE%E4%B8%8B%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 81.2,
+      "creativityScore": 42,
+      "totalScore": 49.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "切尔西官宣签下马丁内斯",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-10-中国石油半年赚1039亿",
+      "title": "中国石油半年赚1039亿",
+      "ruleScore": 46.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 10,
+          "hot": 8048908,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%8D%8A%E5%B9%B4%E8%B5%9A1039%E4%BA%BF"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 80,
+      "creativityScore": 42,
+      "totalScore": 49.1,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "中国石油半年赚1039亿",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-8-花几十万买国企工作岗位全是编的",
+      "title": "花几十万买国企工作岗位全是编的",
+      "ruleScore": 45,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 8,
+          "hot": 455605,
+          "url": ""
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 82.4,
+      "creativityScore": 42,
+      "totalScore": 48.6,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "花几十万买国企工作岗位全是编的",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-11-crisp接受不了带队掉涅槃",
+      "title": "Crisp接受不了带队掉涅槃",
+      "ruleScore": 45.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 11,
+          "hot": 7871223,
+          "url": "https://www.douyin.com/search/Crisp%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E5%B8%A6%E9%98%9F%E6%8E%89%E6%B6%85%E6%A7%83"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 78.8,
+      "creativityScore": 42,
+      "totalScore": 48.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "Crisp接受不了带队掉涅槃",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-9-陈妍希儿子出镜了我家那闺女",
+      "title": "陈妍希儿子出镜了我家那闺女",
+      "ruleScore": 43.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 9,
+          "hot": 410208,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E5%87%BA%E9%95%9C%E4%BA%86%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 81.2,
+      "creativityScore": 42,
+      "totalScore": 47.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "陈妍希儿子出镜了我家那闺女",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-12-人民网三评王计兵获鲁奖",
+      "title": "人民网三评王计兵获鲁奖",
+      "ruleScore": 44.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 12,
+          "hot": 7870486,
+          "url": "https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E7%BD%91%E4%B8%89%E8%AF%84%E7%8E%8B%E8%AE%A1%E5%85%B5%E8%8E%B7%E9%B2%81%E5%A5%96"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 77.6,
+      "creativityScore": 42,
+      "totalScore": 47.7,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "人民网三评王计兵获鲁奖",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-13-中国足协辟谣不与安东尼奥续约",
+      "title": "中国足协辟谣不与安东尼奥续约",
+      "ruleScore": 43.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 13,
+          "hot": 7837893,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%BE%9F%E8%B0%A3%E4%B8%8D%E4%B8%8E%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E7%BB%AD%E7%BA%A6"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 76.4,
+      "creativityScore": 42,
+      "totalScore": 47,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "中国足协辟谣不与安东尼奥续约",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-14-你怎么舍得让我的泪流向海",
+      "title": "你怎么舍得让我的泪流向海",
+      "ruleScore": 42.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 14,
+          "hot": 7827179,
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%88%91%E7%9A%84%E6%B3%AA%E6%B5%81%E5%90%91%E6%B5%B7"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 75.2,
+      "creativityScore": 42,
+      "totalScore": 46.3,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "你怎么舍得让我的泪流向海",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-11-孟子义笑场争议澄清",
+      "title": "孟子义笑场争议澄清",
+      "ruleScore": 41.4,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 11,
+          "hot": 291530,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%AC%91%E5%9C%BA%E4%BA%89%E8%AE%AE%E6%BE%84%E6%B8%85%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 78.8,
+      "creativityScore": 42,
+      "totalScore": 46.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "孟子义笑场争议澄清",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-15-幸福和快乐是结局",
+      "title": "幸福和快乐是结局",
+      "ruleScore": 41.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 15,
+          "hot": 7813404,
+          "url": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E5%92%8C%E5%BF%AB%E4%B9%90%E6%98%AF%E7%BB%93%E5%B1%80"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 74,
+      "creativityScore": 42,
+      "totalScore": 45.7,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "幸福和快乐是结局",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    }
+  ]
+}

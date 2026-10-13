@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-01T02:36:20.064Z",
+  "date": "2026-09-01",
+  "sourceGeneratedAt": "2026-09-01T10:36:19.284Z",
+  "provider": "local-rules",
+  "model": "auditable-score-v1",
+  "summary": {
+    "analyzed": 24,
+    "selected": 7,
+    "rejected": 17
+  },
+  "hotspots": [
+    {
+      "id": "douyin-9-预习我的早秋穿搭",
+      "title": "预习我的早秋穿搭",
+      "ruleScore": 67.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 9,
+          "hot": 9370918,
+          "url": "https://www.douyin.com/search/%E9%A2%84%E4%B9%A0%E6%88%91%E7%9A%84%E6%97%A9%E7%A7%8B%E7%A9%BF%E6%90%AD"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 81.2,
+      "creativityScore": 82,
+      "totalScore": 74.8,
+      "level": "A",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "预习我的早秋穿搭",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“预习我的早秋穿搭”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-5-台风沙德尔复活",
+      "title": "台风沙德尔“复活”",
+      "ruleScore": 72.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 5,
+          "hot": 10550429,
+          "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "medium",
+      "relevanceScore": 82,
+      "timelinessScore": 86,
+      "creativityScore": 45,
+      "totalScore": 74,
+      "level": "A",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "台风沙德尔“复活”",
+      "businessAction": "仅发布权威天气信息、履约调整和民生保障提醒，不做娱乐化营销。",
+      "communicationIdea": "用服务通知形式说明配送时效、安全提示与客服入口。",
+      "riskNote": "只允许权威信息、履约提醒和民生保障，不渲染灾情。"
+    },
+    {
+      "id": "weibo-8-开学季买儿童营养品上京东",
+      "title": "开学季买儿童营养品上京东",
+      "ruleScore": 64.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 8,
+          "hot": 417425,
+          "url": ""
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 82.4,
+      "creativityScore": 82,
+      "totalScore": 73.5,
+      "level": "A",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "开学季买儿童营养品上京东",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“开学季买儿童营养品上京东”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-15-黄磊回应不再参加向往的生活",
+      "title": "黄磊回应不再参加向往的生活",
+      "ruleScore": 57.4,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 15,
+          "hot": 293565,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%23"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 74,
+      "creativityScore": 82,
+      "totalScore": 68.5,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "黄磊回应不再参加向往的生活",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“黄磊回应不再参加向往的生活”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-22-开学与家人临别那一刻",
+      "title": "开学与家人临别那一刻",
+      "ruleScore": 54.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 22,
+          "hot": 7833701,
+          "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E4%B8%8E%E5%AE%B6%E4%BA%BA%E4%B8%B4%E5%88%AB%E9%82%A3%E4%B8%80%E5%88%BB"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 65.6,
+      "creativityScore": 82,
+      "totalScore": 65.9,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "开学与家人临别那一刻",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“开学与家人临别那一刻”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-23-人们常在开学前一天回忆假期",
+      "title": "人们常在开学前一天回忆假期",
+      "ruleScore": 53.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 23,
+          "hot": 7796764,
+          "url": "https://www.douyin.com/search/%E4%BA%BA%E4%BB%AC%E5%B8%B8%E5%9C%A8%E5%BC%80%E5%AD%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E5%9B%9E%E5%BF%86%E5%81%87%E6%9C%9F"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 64.4,
+      "creativityScore": 82,
+      "totalScore": 65.2,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "人们常在开学前一天回忆假期",
+      "businessAction": "整理目的地、出行或周末消费清单，并明确价格与适用条件。",
+      "communicationIdea": "围绕“人们常在开学前一天回忆假期”制作实用攻略，避免夸大承诺。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-28-hanghang挑战赛冠军找到了",
+      "title": "HangHang挑战赛冠军找到了",
+      "ruleScore": 48.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 28,
+          "hot": 7745132,
+          "url": "https://www.douyin.com/search/HangHang%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B%E6%89%BE%E5%88%B0%E4%BA%86"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 58.4,
+      "creativityScore": 82,
+      "totalScore": 61.8,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "HangHang挑战赛冠军找到了",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“HangHang挑战赛冠军找到了”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "douyin-1-杨瀚森绝杀",
+      "title": "杨瀚森绝杀",
+      "ruleScore": 56.2,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 1,
+          "hot": 11776485,
+          "url": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 90.8,
+      "creativityScore": 42,
+      "totalScore": 55.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "杨瀚森绝杀",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-3-消费品以旧换新持续释放消费潜力",
+      "title": "消费品以旧换新持续释放消费潜力",
+      "ruleScore": 54.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 3,
+          "hot": 11170620,
+          "url": "https://www.douyin.com/search/%E6%B6%88%E8%B4%B9%E5%93%81%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%8C%81%E7%BB%AD%E9%87%8A%E6%94%BE%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 88.4,
+      "creativityScore": 42,
+      "totalScore": 54,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "消费品以旧换新持续释放消费潜力",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-1-多款手机正式涨价",
+      "title": "多款手机正式涨价",
+      "ruleScore": 53.2,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 1,
+          "hot": 1209445,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 90.8,
+      "creativityScore": 42,
+      "totalScore": 53.9,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "多款手机正式涨价",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-3-20项措施推动消费扩容升级",
+      "title": "20项措施推动消费扩容升级",
+      "ruleScore": 50.5,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 3,
+          "hot": 673776,
+          "url": "https://s.weibo.com/weibo?q=%2320%E9%A1%B9%E6%8E%AA%E6%96%BD%E6%8E%A8%E5%8A%A8%E6%B6%88%E8%B4%B9%E6%89%A9%E5%AE%B9%E5%8D%87%E7%BA%A7%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 88.4,
+      "creativityScore": 42,
+      "totalScore": 52.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "20项措施推动消费扩容升级",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-4-舞蹈新风暴封神瞬间",
+      "title": "舞蹈新风暴封神瞬间",
+      "ruleScore": 49.4,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 4,
+          "hot": 621939,
+          "url": ""
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 87.2,
+      "creativityScore": 42,
+      "totalScore": 51.5,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "舞蹈新风暴封神瞬间",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-7-英超阿斯顿维拉01阿森纳",
+      "title": "英超阿斯顿维拉0:1阿森纳",
+      "ruleScore": 49.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 7,
+          "hot": 9404152,
+          "url": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%890%3A1%E9%98%BF%E6%A3%AE%E7%BA%B3"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 83.6,
+      "creativityScore": 42,
+      "totalScore": 51.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "英超阿斯顿维拉0:1阿森纳",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-8-分别总是在九月回忆是思念的愁",
+      "title": "分别总是在九月 回忆是思念的愁",
+      "ruleScore": 48.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 8,
+          "hot": 9389856,
+          "url": "https://www.douyin.com/search/%E5%88%86%E5%88%AB%E6%80%BB%E6%98%AF%E5%9C%A8%E4%B9%9D%E6%9C%88%20%E5%9B%9E%E5%BF%86%E6%98%AF%E6%80%9D%E5%BF%B5%E7%9A%84%E6%84%81"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 82.4,
+      "creativityScore": 42,
+      "totalScore": 50.5,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "分别总是在九月 回忆是思念的愁",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-6-连尼泊尔都怕了日本人的千纸鹤",
+      "title": "连尼泊尔都怕了日本人的千纸鹤",
+      "ruleScore": 47.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 6,
+          "hot": 498875,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E5%B0%BC%E6%B3%8A%E5%B0%94%E9%83%BD%E6%80%95%E4%BA%86%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%9A%84%E5%8D%83%E7%BA%B8%E9%B9%A4%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 84.8,
+      "creativityScore": 42,
+      "totalScore": 50,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "连尼泊尔都怕了日本人的千纸鹤",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-10-多彩民族共舞中华",
+      "title": "多彩民族共舞中华",
+      "ruleScore": 46.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 10,
+          "hot": 9344357,
+          "url": "https://www.douyin.com/search/%E5%A4%9A%E5%BD%A9%E6%B0%91%E6%97%8F%E5%85%B1%E8%88%9E%E4%B8%AD%E5%8D%8E"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 80,
+      "creativityScore": 42,
+      "totalScore": 49.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "多彩民族共舞中华",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-7-雷军回应小米汽车8月交付量",
+      "title": "雷军回应小米汽车8月交付量",
+      "ruleScore": 45.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 7,
+          "hot": 422672,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A68%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 83.6,
+      "creativityScore": 42,
+      "totalScore": 49.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "雷军回应小米汽车8月交付量",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-11-中国男篮8987黎巴嫩男篮",
+      "title": "中国男篮89:87黎巴嫩男篮",
+      "ruleScore": 45.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 11,
+          "hot": 9338655,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE89%3A87%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 78.8,
+      "creativityScore": 42,
+      "totalScore": 48.5,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "中国男篮89:87黎巴嫩男篮",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-12-特朗普称将狠狠打击伊朗",
+      "title": "特朗普称将“狠狠打击”伊朗",
+      "ruleScore": 44.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 12,
+          "hot": 9320096,
+          "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E2%80%9C%E7%8B%A0%E7%8B%A0%E6%89%93%E5%87%BB%E2%80%9D%E4%BC%8A%E6%9C%97"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 77.6,
+      "creativityScore": 42,
+      "totalScore": 47.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "特朗普称将“狠狠打击”伊朗",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-9-栾念该死的好看",
+      "title": "栾念 该死的好看",
+      "ruleScore": 43.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 9,
+          "hot": 410179,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%20%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%A5%BD%E7%9C%8B%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 81.2,
+      "creativityScore": 42,
+      "totalScore": 47.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "栾念 该死的好看",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-10-杨瀚森将缺席后续世预赛",
+      "title": "杨瀚森将缺席后续世预赛",
+      "ruleScore": 42.4,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 10,
+          "hot": 299616,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%B0%86%E7%BC%BA%E5%B8%AD%E5%90%8E%E7%BB%AD%E4%B8%96%E9%A2%84%E8%B5%9B%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 80,
+      "creativityScore": 42,
+      "totalScore": 46.9,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "杨瀚森将缺席后续世预赛",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-14-8月科学流言榜",
+      "title": "8月“科学”流言榜",
+      "ruleScore": 42.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 14,
+          "hot": 9170600,
+          "url": "https://www.douyin.com/search/8%E6%9C%88%E2%80%9C%E7%A7%91%E5%AD%A6%E2%80%9D%E6%B5%81%E8%A8%80%E6%A6%9C"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 75.2,
+      "creativityScore": 42,
+      "totalScore": 46.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "8月“科学”流言榜",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-15-首批20后开始上小学啦",
+      "title": "首批“20后”开始上小学啦",
+      "ruleScore": 41.9,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 15,
+          "hot": 9163036,
+          "url": "https://www.douyin.com/search/%E9%A6%96%E6%89%B9%E2%80%9C20%E5%90%8E%E2%80%9D%E5%BC%80%E5%A7%8B%E4%B8%8A%E5%B0%8F%E5%AD%A6%E5%95%A6"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 74,
+      "creativityScore": 42,
+      "totalScore": 45.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "首批“20后”开始上小学啦",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-6-江苏省委常委刘建洋被查",
+      "title": "江苏省委常委刘建洋被查",
+      "ruleScore": 51.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 6,
+          "hot": 10546912,
+          "url": "https://www.douyin.com/search/%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E5%B8%B8%E5%A7%94%E5%88%98%E5%BB%BA%E6%B4%8B%E8%A2%AB%E6%9F%A5"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "high",
+      "relevanceScore": 10,
+      "timelinessScore": 84.8,
+      "creativityScore": 5,
+      "totalScore": 41.3,
+      "level": "reject",
+      "reason": "命中高风险事件规则，不建议商业借势。",
+      "eventSummary": "江苏省委常委刘建洋被查",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "禁止商业借势，必要时仅转发权威公共信息。"
+    }
+  ]
+}
