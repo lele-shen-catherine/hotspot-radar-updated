@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-10-17T05:03:28.193Z",
-  "collectedAt": "2026-10-17T05:03:28.193Z",
+  "updatedAt": "2026-10-17T11:05:43.014Z",
+  "collectedAt": "2026-10-17T11:05:43.014Z",
   "date": "2026-10-17",
   "events": [
+    {
+      "level": "A",
+      "eventName": "特斯拉Roadster全球发布会",
+      "topic": "特斯拉Roadster全球发布会",
+      "score": 84.5,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "1609",
+        "collectedAt": "2026-10-17T11:05:43.014Z",
+        "duration": "排名上升 2→1, 在榜11小时",
+        "rankChange": "排名上升 2→1, 在榜11小时",
+        "link": "https://ef.zhiweidata.com/eventRk/9e4a84103030929810180402/profil"
+      },
+      "explanation": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
+      "whyHot": "新品首发自带\"即时体验\"冲动；科技/新品发布制造悬念，KOL 开箱 + 评论区讨论带动跨平台扩散。",
+      "risk": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
+      "title": "特斯拉Roadster全球发布会",
+      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
+      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
+      "totalScore": 84.5,
+      "source": "知微",
+      "heat": "1609",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 1609
+        }
+      ]
+    },
     {
       "level": "A",
       "eventName": "阿达西的馕真是馕界楷模",
@@ -13,8 +49,8 @@
         "platform": "抖音",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "1210.6w",
-        "collectedAt": "2026-10-17T05:03:28.193Z",
+        "hotValue": "1219.5w",
+        "collectedAt": "2026-10-17T11:05:43.014Z",
         "duration": "抖音标记'爆'",
         "rankChange": "抖音标记'爆'",
         "link": "https://www.douyin.com/search/%E9%98%BF%E8%BE%BE%E8%A5%BF%E7%9A%84%E9%A6%95%E7%9C%9F%E6%98%AF%E9%A6%95%E7%95%8C%E6%A5%B7%E6%A8%A1"
@@ -27,7 +63,7 @@
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 84.4,
       "source": "抖音",
-      "heat": "1210.6w",
+      "heat": "1219.5w",
       "crossPlatform": [
         "抖音"
       ],
@@ -35,71 +71,35 @@
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12105719
+          "hot": 12194811
         }
       ]
     },
     {
       "level": "A",
-      "eventName": "特斯拉Roadster全球发布会",
-      "topic": "特斯拉Roadster全球发布会",
-      "score": 80.3,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 1,
-        "peakRank": 1,
-        "hotValue": "4482",
-        "collectedAt": "2026-10-17T05:03:28.193Z",
-        "duration": "持续高位(第1名, 在榜11小时)",
-        "rankChange": "持续高位(第1名, 在榜11小时)",
-        "link": "https://ef.zhiweidata.com/eventRk/9e4a84103030929810180402/profil"
-      },
-      "explanation": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "whyHot": "新品首发自带\"即时体验\"冲动；科技/新品发布制造悬念，KOL 开箱 + 评论区讨论带动跨平台扩散。",
-      "risk": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "title": "特斯拉Roadster全球发布会",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。",
-      "totalScore": 80.3,
-      "source": "知微",
-      "heat": "4482",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 1,
-          "hot": 4482
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "拿打工人血汗钱给女儿铺星路",
-      "topic": "拿打工人血汗钱给女儿铺星路",
+      "eventName": "欠薪345万却砸钱送孩子韩国出道",
+      "topic": "欠薪345万却砸钱送孩子韩国出道",
       "score": 78.1,
       "platform": "微博",
       "platformDetail": {
         "platform": "微博",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "151.3w",
-        "collectedAt": "2026-10-17T05:03:28.193Z",
+        "hotValue": "162.7w",
+        "collectedAt": "2026-10-17T11:05:43.014Z",
         "duration": "微博单次快照无在榜时长(按60)",
         "rankChange": "微博单次快照无在榜时长(按60)",
-        "link": "https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%89%93%E5%B7%A5%E4%BA%BA%E8%A1%80%E6%B1%97%E9%92%B1%E7%BB%99%E5%A5%B3%E5%84%BF%E9%93%BA%E6%98%9F%E8%B7%AF%23"
+        "link": "https://s.weibo.com/weibo?q=%23%E6%AC%A0%E8%96%AA345%E4%B8%87%E5%8D%B4%E7%A0%B8%E9%92%B1%E9%80%81%E5%AD%A9%E5%AD%90%E9%9F%A9%E5%9B%BD%E5%87%BA%E9%81%93%23"
       },
-      "explanation": "围绕「拿打工人血汗钱给女儿铺星路」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「拿打工人血汗钱给女儿铺星路」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
-      "title": "拿打工人血汗钱给女儿铺星路",
-      "eventSummary": "围绕「拿打工人血汗钱给女儿铺星路」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "explanation": "围绕「欠薪345万却砸钱送孩子韩国出道」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「欠薪345万却砸钱送孩子韩国出道」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "欠薪345万却砸钱送孩子韩国出道",
+      "eventSummary": "围绕「欠薪345万却砸钱送孩子韩国出道」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 78.1,
       "source": "微博",
-      "heat": "151.3w",
+      "heat": "162.7w",
       "crossPlatform": [
         "微博"
       ],
@@ -107,43 +107,7 @@
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1513009
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "肖战官宣个人巡回演唱会",
-      "topic": "肖战官宣个人巡回演唱会",
-      "score": 77.9,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 2,
-        "peakRank": 2,
-        "hotValue": "2206",
-        "collectedAt": "2026-10-17T05:03:28.193Z",
-        "duration": "排名上升 3→2, 在榜10小时",
-        "rankChange": "排名上升 3→2, 在榜10小时",
-        "link": "https://ef.zhiweidata.com/eventRk/29512b4507e2beb410180386/profil"
-      },
-      "explanation": "演唱会现场有人当众求婚，被周边观众呼喊要求坐下/别挡视线，现场互动引发网络讨论。",
-      "whyHot": "现场情绪互动自带真实感与代入感；演唱会/公共场所的突发互动（求婚/被喊）画面感强，现场与围观者的反应共同构成\"名场面\"，传播快。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "肖战官宣个人巡回演唱会",
-      "eventSummary": "演唱会现场有人当众求婚，被周边观众呼喊要求坐下/别挡视线，现场互动引发网络讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 77.9,
-      "source": "知微",
-      "heat": "2206",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 2206
+          "hot": 1626509
         }
       ]
     },
@@ -151,16 +115,16 @@
       "level": "A",
       "eventName": "第140届广交会开幕",
       "topic": "第140届广交会开幕",
-      "score": 71.8,
+      "score": 75.3,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
-        "currentRank": 3,
-        "peakRank": 3,
-        "hotValue": "908",
-        "collectedAt": "2026-10-17T05:03:28.193Z",
-        "duration": "排名上升 4→3, 在榜7小时",
-        "rankChange": "排名上升 4→3, 在榜7小时",
+        "currentRank": 2,
+        "peakRank": 2,
+        "hotValue": "1120",
+        "collectedAt": "2026-10-17T11:05:43.014Z",
+        "duration": "持续高位(第2名, 在榜11小时)",
+        "rankChange": "持续高位(第2名, 在榜11小时)",
         "link": "https://ef.zhiweidata.com/eventRk/049d3cba0659667e10180401/profil"
       },
       "explanation": "围绕「第140届广交会开幕」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
@@ -169,9 +133,45 @@
       "title": "第140届广交会开幕",
       "eventSummary": "围绕「第140届广交会开幕」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 71.8,
+      "totalScore": 75.3,
       "source": "知微",
-      "heat": "908",
+      "heat": "1120",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 1120
+        }
+      ]
+    },
+    {
+      "level": "B",
+      "eventName": "肖战官宣个人巡回演唱会",
+      "topic": "肖战官宣个人巡回演唱会",
+      "score": 69.8,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 3,
+        "peakRank": 3,
+        "hotValue": "850",
+        "collectedAt": "2026-10-17T11:05:43.014Z",
+        "duration": "持续高位(第3名, 在榜11小时)",
+        "rankChange": "持续高位(第3名, 在榜11小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/29512b4507e2beb410180386/profil"
+      },
+      "explanation": "演唱会现场有人当众求婚，被周边观众呼喊要求坐下/别挡视线，现场互动引发网络讨论。",
+      "whyHot": "现场情绪互动自带真实感与代入感；演唱会/公共场所的突发互动（求婚/被喊）画面感强，现场与围观者的反应共同构成\"名场面\"，传播快。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "肖战官宣个人巡回演唱会",
+      "eventSummary": "演唱会现场有人当众求婚，被周边观众呼喊要求坐下/别挡视线，现场互动引发网络讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 69.8,
+      "source": "知微",
+      "heat": "850",
       "crossPlatform": [
         "知微"
       ],
@@ -179,35 +179,35 @@
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 908
+          "hot": 850
         }
       ]
     },
     {
       "level": "B",
-      "eventName": "黄子韬徐艺洋官宣生子",
-      "topic": "黄子韬徐艺洋官宣生子",
-      "score": 61.9,
+      "eventName": " 2026“苏超”开赛",
+      "topic": " 2026“苏超”开赛",
+      "score": 68,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
         "currentRank": 4,
         "peakRank": 4,
-        "hotValue": "864",
-        "collectedAt": "2026-10-17T05:03:28.193Z",
-        "duration": "持续高位(第4名, 在榜11小时)",
-        "rankChange": "持续高位(第4名, 在榜11小时)",
-        "link": "https://ef.zhiweidata.com/eventRk/953c523d381e9bb010180398/profil"
+        "hotValue": "835",
+        "collectedAt": "2026-10-17T11:05:43.014Z",
+        "duration": "排名上升 6→4, 在榜11小时",
+        "rankChange": "排名上升 6→4, 在榜11小时",
+        "link": "https://ef.zhiweidata.com/eventRk/4dcd3c3251d8ab6c10178799/profil"
       },
-      "explanation": "歌手许嵩与演员冯禧公开了恋情/结婚关系：两人用公开方式官宣，粉丝与路人共同见证，\"许嵩冯禧\"相关话题迅速上榜；公众在祝福与\"考古两人过往\"之间集体参与，甜蜜氛围成为情绪主线。",
-      "whyHot": "公众人物婚恋官宣自带\"CP/情感\"的高浓度围观；明星/公众人物公开关系，公众在\"祝福-八卦-考古\"间集体参与，粉丝记忆与路人好感叠加，甜蜜感与代入感驱动跨平台转发与祝福。",
+      "explanation": "围绕「 2026“苏超”开赛」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「2026“苏超”开赛」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "黄子韬徐艺洋官宣生子",
-      "eventSummary": "歌手许嵩与演员冯禧公开了恋情/结婚关系：两人用公开方式官宣，粉丝与路人共同见证，\"许嵩冯禧\"相关话题迅速上榜；公众在祝福与\"考古两人过往\"之间集体参与，甜蜜氛围成为情绪主线。",
+      "title": " 2026“苏超”开赛",
+      "eventSummary": "围绕「 2026“苏超”开赛」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 61.9,
+      "totalScore": 68,
       "source": "知微",
-      "heat": "864",
+      "heat": "835",
       "crossPlatform": [
         "知微"
       ],
@@ -215,7 +215,7 @@
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 864
+          "hot": 835
         }
       ]
     }
