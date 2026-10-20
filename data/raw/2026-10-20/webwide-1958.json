@@ -1,0 +1,3111 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 546819,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-10-13",
+        "sumH": 1177871,
+        "info": [
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 0,
+            "pro": 25.49,
+            "hE": 300213,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 18.23,
+            "hE": 214704,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 10.55,
+            "hE": 124256,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "07351b86bb4a769010180336",
+            "img": "12.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "雅思考试突发大范围停考",
+            "startTime": 1791561600000,
+            "oldPoint": 0,
+            "pro": 7.34,
+            "hE": 86399,
+            "tags": [
+              "雅思",
+              "停考"
+            ]
+          },
+          {
+            "eventId": "083929c6120304e710180359",
+            "img": "2.jpg",
+            "pointPro": 99.95,
+            "firstType": "政务",
+            "name": "黄奇帆被查",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 5.95,
+            "hE": 70067,
+            "tags": [
+              "黄奇帆",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "385220ca0db9a3d910180360",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "茶百道涉嫌操纵IPO被香港证监会停牌",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 4.18,
+            "hE": 49222,
+            "tags": [
+              "茶百道",
+              "停牌",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 4.08,
+            "hE": 48098,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "b941c9154901bbb810180349",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "国家天文台回应付费可进天眼核心区",
+            "startTime": 1791648000000,
+            "oldPoint": 0,
+            "pro": 3.05,
+            "hE": 35912,
+            "tags": [
+              "中国天眼",
+              "酒店",
+              "贵州"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 0,
+            "pro": 2.32,
+            "hE": 27374,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "273312827bec6b0610180363",
+            "img": "6.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "加拿大鹅回应拍广告在山上遗留垃圾",
+            "startTime": 1791734400000,
+            "oldPoint": 0,
+            "pro": 1.95,
+            "hE": 23009,
+            "tags": [
+              "加拿大鹅",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 198617
+          }
+        ]
+      },
+      {
+        "time": "2026-10-14",
+        "sumH": 850375,
+        "info": [
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 1,
+            "pro": 19.57,
+            "hE": 166438,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "b40119eb6863637410180375",
+            "img": "1.jpg",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "官方通报女子高铁和男友开免提通话",
+            "startTime": 1791907200000,
+            "oldPoint": 52,
+            "pro": 13.9,
+            "hE": 118218,
+            "tags": [
+              "高铁",
+              "公共秩序"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 0,
+            "pro": 12.74,
+            "hE": 108326,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 2,
+            "pro": 8.02,
+            "hE": 68201,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "385220ca0db9a3d910180360",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "茶百道涉嫌操纵IPO被香港证监会停牌",
+            "startTime": 1791820800000,
+            "oldPoint": 5,
+            "pro": 4.34,
+            "hE": 36864,
+            "tags": [
+              "茶百道",
+              "停牌",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "1366c47abb0b26db10180367",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "四川宜宾炸串摊主被差评后跳河轻生",
+            "startTime": 1791820800000,
+            "oldPoint": 17,
+            "pro": 4.24,
+            "hE": 36051,
+            "tags": [
+              "宜宾",
+              "跳河"
+            ]
+          },
+          {
+            "eventId": "083929c6120304e710180359",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "黄奇帆被查",
+            "startTime": 1791820800000,
+            "oldPoint": 4,
+            "pro": 3.29,
+            "hE": 27945,
+            "tags": [
+              "黄奇帆",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "9a03e5bd9eae559510180385",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "违法犯罪",
+            "name": "香港发生珠宝大劫案",
+            "startTime": 1791907200000,
+            "oldPoint": 85,
+            "pro": 3.28,
+            "hE": 27917,
+            "tags": [
+              "香港",
+              "抢劫"
+            ]
+          },
+          {
+            "eventId": "ba1144280de55c0910180344",
+            "img": "1791773249000.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "霸王茶姬借郑钦文中网夺冠推出限时买一送一活动",
+            "startTime": 1791648000000,
+            "oldPoint": 6,
+            "pro": 2.75,
+            "hE": 23386,
+            "tags": [
+              "郑钦文",
+              "霸王茶姬"
+            ]
+          },
+          {
+            "eventId": "8d33a928e5174cb010180365",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "79岁老干妈陶华碧用AI一年赚了54亿",
+            "startTime": 1791820800000,
+            "oldPoint": 10,
+            "pro": 2.68,
+            "hE": 22831,
+            "tags": [
+              "老干妈"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 214198
+          }
+        ]
+      },
+      {
+        "time": "2026-10-15",
+        "sumH": 1015968,
+        "info": [
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 21.56,
+            "hE": 219094,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "c092c79657572c4b10180392",
+            "img": "2.jpg",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "官方公布纸尿裤甲酰胺问题调查结果",
+            "startTime": 1791993600000,
+            "oldPoint": 79,
+            "pro": 15.85,
+            "hE": 161048,
+            "tags": [
+              "纸尿裤",
+              "调查结果",
+              "甲酰胺"
+            ]
+          },
+          {
+            "eventId": "953c523d381e9bb010180398",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "黄子韬徐艺洋官宣生子",
+            "startTime": 1791993600000,
+            "oldPoint": 85,
+            "pro": 11.29,
+            "hE": 114725,
+            "tags": [
+              "黄子韬",
+              "官宣"
+            ]
+          },
+          {
+            "eventId": "c612745bd21c2a9510180391",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "DeepSeek崩了",
+            "startTime": 1791993600000,
+            "oldPoint": 55,
+            "pro": 9.43,
+            "hE": 95808,
+            "tags": [
+              "DeepSeek",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "699482b16db882e910180393",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "谣言",
+            "name": "长实辟谣李嘉诚逝世传闻",
+            "startTime": 1791993600000,
+            "oldPoint": 86,
+            "pro": 8.48,
+            "hE": 86121,
+            "tags": [
+              "长实集团",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 36,
+            "pro": 4.72,
+            "hE": 48004,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "385220ca0db9a3d910180360",
+            "img": "3.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "茶百道涉嫌操纵IPO被香港证监会停牌",
+            "startTime": 1791820800000,
+            "oldPoint": 4,
+            "pro": 2.62,
+            "hE": 26653,
+            "tags": [
+              "茶百道",
+              "停牌",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "124dbd0c591ce78310180339",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "郑钦文中网女单夺冠",
+            "startTime": 1791648000000,
+            "oldPoint": 3,
+            "pro": 2.37,
+            "hE": 24055,
+            "tags": [
+              "郑钦文",
+              "中国网球公开赛"
+            ]
+          },
+          {
+            "eventId": "4029141085ac567710180306",
+            "img": "6.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "江淮汽车回应尊界V800刹车踏板断裂",
+            "startTime": 1791388800000,
+            "oldPoint": 2,
+            "pro": 2.26,
+            "hE": 22931,
+            "tags": [
+              "鸿蒙智行",
+              "江淮汽车",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 13,
+            "pro": 2.05,
+            "hE": 20817,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 196712
+          }
+        ]
+      },
+      {
+        "time": "2026-10-16",
+        "sumH": 801867,
+        "info": [
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 21,
+            "pro": 28.88,
+            "hE": 231584,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "5681ee2d81e2880310180400",
+            "img": "33.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "肯德基将换百事可乐为可口可乐",
+            "startTime": 1791993600000,
+            "oldPoint": 56,
+            "pro": 8.05,
+            "hE": 64527,
+            "tags": [
+              "肯德基",
+              "可口可乐"
+            ]
+          },
+          {
+            "eventId": "953c523d381e9bb010180398",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "黄子韬徐艺洋官宣生子",
+            "startTime": 1791993600000,
+            "oldPoint": 2,
+            "pro": 7.51,
+            "hE": 60257,
+            "tags": [
+              "黄子韬",
+              "官宣"
+            ]
+          },
+          {
+            "eventId": "7d829db21ede024410180404",
+            "img": "2.jpg",
+            "pointPro": 99.96,
+            "firstType": "国际",
+            "name": "日本误报9.9级地震",
+            "startTime": 1792080000000,
+            "oldPoint": 84,
+            "pro": 6.89,
+            "hE": 55249,
+            "tags": [
+              "地震",
+              "日本",
+              "误报"
+            ]
+          },
+          {
+            "eventId": "b456648815e1a02d10180407",
+            "img": "5.png",
+            "pointPro": 99.95,
+            "firstType": "违法犯罪",
+            "name": "甘肃天水幼儿园铅中毒案一审宣判",
+            "startTime": 1792080000000,
+            "oldPoint": 85,
+            "pro": 5.56,
+            "hE": 44546,
+            "tags": [
+              "食品安全",
+              "幼儿园",
+              "甘肃",
+              "宣判"
+            ]
+          },
+          {
+            "eventId": "9dd0356a825e915a10180405",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "广西阳朔严查硫磺熏桂花",
+            "startTime": 1792080000000,
+            "oldPoint": 86,
+            "pro": 5.12,
+            "hE": 41056,
+            "tags": [
+              "食品安全",
+              "硫磺",
+              "桂花",
+              "广西"
+            ]
+          },
+          {
+            "eventId": "86105bd077dee08010180423",
+            "img": "1792389623622.png",
+            "pointPro": 99.92,
+            "firstType": "谣言",
+            "name": "洛阳博物馆辟谣“挖出传国玉玺”",
+            "startTime": 1791820800000,
+            "oldPoint": 23,
+            "pro": 4.75,
+            "hE": 38073,
+            "tags": [
+              "洛阳博物馆",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "c092c79657572c4b10180392",
+            "img": "2.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "官方公布纸尿裤甲酰胺问题调查结果",
+            "startTime": 1791993600000,
+            "oldPoint": 1,
+            "pro": 4.73,
+            "hE": 37903,
+            "tags": [
+              "纸尿裤",
+              "调查结果",
+              "甲酰胺"
+            ]
+          },
+          {
+            "eventId": "500987c69cadd02310180397",
+            "img": "6.jpg",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "男孩被曝衣衫不整跟随母亲游荡",
+            "startTime": 1791993600000,
+            "oldPoint": 15,
+            "pro": 3.94,
+            "hE": 31627,
+            "tags": [
+              "未成年人",
+              "保护"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 3.2,
+            "hE": 25688,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 171357
+          }
+        ]
+      },
+      {
+        "time": "2026-10-17",
+        "sumH": 334580,
+        "info": [
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 18.72,
+            "hE": 62627,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 16,
+            "pro": 16.12,
+            "hE": 53940,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 9,
+            "pro": 9.24,
+            "hE": 30927,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "1b5ae15c4197822910180410",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "夫妻买2块劳力士不选不试戴 店员报警",
+            "startTime": 1792166400000,
+            "oldPoint": 85,
+            "pro": 8.52,
+            "hE": 28510,
+            "tags": [
+              "劳力士",
+              "诈骗"
+            ]
+          },
+          {
+            "eventId": "953c523d381e9bb010180398",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "黄子韬徐艺洋官宣生子",
+            "startTime": 1791993600000,
+            "oldPoint": 2,
+            "pro": 6.2,
+            "hE": 20730,
+            "tags": [
+              "黄子韬",
+              "官宣"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 10,
+            "pro": 5.86,
+            "hE": 19616,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 22,
+            "pro": 5.73,
+            "hE": 19158,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 27,
+            "pro": 3.82,
+            "hE": 12795,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "083929c6120304e710180359",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "政务",
+            "name": "黄奇帆被查",
+            "startTime": 1791820800000,
+            "oldPoint": 26,
+            "pro": 2.25,
+            "hE": 7545,
+            "tags": [
+              "黄奇帆",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "9dd0356a825e915a10180405",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "广西阳朔严查硫磺熏桂花",
+            "startTime": 1792080000000,
+            "oldPoint": 5,
+            "pro": 2.15,
+            "hE": 7178,
+            "tags": [
+              "食品安全",
+              "硫磺",
+              "桂花",
+              "广西"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 71554
+          }
+        ]
+      },
+      {
+        "time": "2026-10-18",
+        "sumH": 318542,
+        "info": [
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 2,
+            "pro": 16.5,
+            "hE": 52562,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "5ac849c77693583410180422",
+            "img": "1792389513133.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "Swisse抗糖丸被检出铅超标",
+            "startTime": 1792166400000,
+            "oldPoint": 38,
+            "pro": 10.44,
+            "hE": 33251,
+            "tags": [
+              "斯维诗",
+              "铅超标",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 10.07,
+            "hE": 32062,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 1,
+            "pro": 10.06,
+            "hE": 32048,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "5cadce12609716a310180424",
+            "img": "1792394470542.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "央视曝光近视防控镜片暴利乱象",
+            "startTime": 1792252800000,
+            "oldPoint": 77,
+            "pro": 5.7,
+            "hE": 18143,
+            "tags": [
+              "丹阳",
+              "央视曝光",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 7,
+            "pro": 5.44,
+            "hE": 17336,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.92,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 56,
+            "pro": 3.46,
+            "hE": 11024,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 5,
+            "pro": 3.44,
+            "hE": 10971,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "642dc8d89c0a1ad710180372",
+            "img": "2.jpg",
+            "pointPro": 99.9,
+            "firstType": "体育",
+            "name": "S16英雄联盟全球总决赛",
+            "startTime": 1791648000000,
+            "oldPoint": 12,
+            "pro": 2.88,
+            "hE": 9165,
+            "tags": [
+              "英雄联盟",
+              "总决赛"
+            ]
+          },
+          {
+            "eventId": "d34aad3aee3ced3d10180437",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "女子打砸酒水店五粮液定损30多万",
+            "startTime": 1792252800000,
+            "oldPoint": 82,
+            "pro": 2.72,
+            "hE": 8656,
+            "tags": [
+              "五粮液",
+              "四川",
+              "违法",
+              "打砸"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 93324
+          }
+        ]
+      },
+      {
+        "time": "2026-10-19",
+        "sumH": 559018,
+        "info": [
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 47,
+            "pro": 14.68,
+            "hE": 82062,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.99,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 5,
+            "pro": 13.01,
+            "hE": 72739,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.97,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 43,
+            "pro": 7.67,
+            "hE": 42858,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 6.97,
+            "hE": 38950,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 3,
+            "pro": 6.84,
+            "hE": 38241,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "5ac849c77693583410180422",
+            "img": "1792389513133.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "Swisse抗糖丸被检出铅超标",
+            "startTime": 1792166400000,
+            "oldPoint": 1,
+            "pro": 5.84,
+            "hE": 32639,
+            "tags": [
+              "斯维诗",
+              "铅超标",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "11975ea99cd4830210180429",
+            "img": "5.png",
+            "pointPro": 99.92,
+            "firstType": "违法犯罪",
+            "name": "女局长被“仙人跳”团伙敲诈19万",
+            "startTime": 1792339200000,
+            "oldPoint": 81,
+            "pro": 5.7,
+            "hE": 31855,
+            "tags": [
+              "山东",
+              "违法",
+              "仙人跳"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 2,
+            "pro": 5.01,
+            "hE": 28016,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "4143293580bdaaa010180434",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "高校试行实践成果申请学位",
+            "startTime": 1792339200000,
+            "oldPoint": 84,
+            "pro": 4.13,
+            "hE": 23076,
+            "tags": [
+              "高校",
+              "申请学位"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 36,
+            "pro": 3.77,
+            "hE": 21079,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 147503
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-10-20 07",
+        "sumH": 18270,
+        "info": [
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 30.31,
+            "hE": 5538,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "11975ea99cd4830210180429",
+            "img": "5.png",
+            "pointPro": 99.97,
+            "firstType": "违法犯罪",
+            "name": "女局长被“仙人跳”团伙敲诈19万",
+            "startTime": 1792339200000,
+            "oldPoint": 0,
+            "pro": 15.44,
+            "hE": 2820,
+            "tags": [
+              "山东",
+              "违法",
+              "仙人跳"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 0,
+            "pro": 12.55,
+            "hE": 2292,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 0,
+            "pro": 9.29,
+            "hE": 1696,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 0,
+            "pro": 5.53,
+            "hE": 1010,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 5.05,
+            "hE": 922,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "2c7b8343a02bd72e10180428",
+            "img": "4.jpg",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "日本人被指蒙古大火后未向中国道歉",
+            "startTime": 1792166400000,
+            "oldPoint": 0,
+            "pro": 4.02,
+            "hE": 734,
+            "tags": [
+              "蒙古",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "4143293580bdaaa010180434",
+            "img": "44.png",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "高校试行实践成果申请学位",
+            "startTime": 1792339200000,
+            "oldPoint": 0,
+            "pro": 2.94,
+            "hE": 537,
+            "tags": [
+              "高校",
+              "申请学位"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.75,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 0,
+            "pro": 2.68,
+            "hE": 489,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "660e727274dcd64b10180438",
+            "img": "4.jpg",
+            "pointPro": 99.72,
+            "firstType": "社会",
+            "name": "酒店回应房间挂画后藏设备间",
+            "startTime": 1792339200000,
+            "oldPoint": 0,
+            "pro": 2.22,
+            "hE": 405,
+            "tags": [
+              "隐私",
+              "酒店",
+              "武汉"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1827
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 08",
+        "sumH": 28869,
+        "info": [
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 43.51,
+            "hE": 12560,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 3,
+            "pro": 13.75,
+            "hE": 3969,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.95,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 2,
+            "pro": 10.23,
+            "hE": 2953,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "11975ea99cd4830210180429",
+            "img": "5.png",
+            "pointPro": 99.93,
+            "firstType": "违法犯罪",
+            "name": "女局长被“仙人跳”团伙敲诈19万",
+            "startTime": 1792339200000,
+            "oldPoint": 1,
+            "pro": 5.46,
+            "hE": 1575,
+            "tags": [
+              "山东",
+              "违法",
+              "仙人跳"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 5,
+            "pro": 3.36,
+            "hE": 970,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "c612745bd21c2a9510180391",
+            "img": "1.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "DeepSeek崩了",
+            "startTime": 1791993600000,
+            "oldPoint": 10,
+            "pro": 3.08,
+            "hE": 888,
+            "tags": [
+              "DeepSeek",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 4,
+            "pro": 2.99,
+            "hE": 862,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4143293580bdaaa010180434",
+            "img": "44.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "高校试行实践成果申请学位",
+            "startTime": 1792339200000,
+            "oldPoint": 7,
+            "pro": 2.69,
+            "hE": 776,
+            "tags": [
+              "高校",
+              "申请学位"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 15,
+            "pro": 2.05,
+            "hE": 591,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 14,
+            "pro": 1.4,
+            "hE": 403,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3322
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 09",
+        "sumH": 35175,
+        "info": [
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 100,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 31.08,
+            "hE": 10934,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 1,
+            "pro": 11.04,
+            "hE": 3884,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 14,
+            "pro": 9.71,
+            "hE": 3414,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.93,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 2,
+            "pro": 8.07,
+            "hE": 2839,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 4,
+            "pro": 6.66,
+            "hE": 2343,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "11975ea99cd4830210180429",
+            "img": "5.png",
+            "pointPro": 99.88,
+            "firstType": "违法犯罪",
+            "name": "女局长被“仙人跳”团伙敲诈19万",
+            "startTime": 1792339200000,
+            "oldPoint": 3,
+            "pro": 4.25,
+            "hE": 1496,
+            "tags": [
+              "山东",
+              "违法",
+              "仙人跳"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 8,
+            "pro": 3.75,
+            "hE": 1318,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 6,
+            "pro": 3.24,
+            "hE": 1138,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "4143293580bdaaa010180434",
+            "img": "44.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "高校试行实践成果申请学位",
+            "startTime": 1792339200000,
+            "oldPoint": 7,
+            "pro": 3.19,
+            "hE": 1123,
+            "tags": [
+              "高校",
+              "申请学位"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 9,
+            "pro": 2.93,
+            "hE": 1029,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5657
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 10",
+        "sumH": 37874,
+        "info": [
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 9,
+            "pro": 18.77,
+            "hE": 7110,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 16.25,
+            "hE": 6155,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 2,
+            "pro": 12.5,
+            "hE": 4733,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 6,
+            "pro": 9.03,
+            "hE": 3422,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 1,
+            "pro": 7.13,
+            "hE": 2701,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 7,
+            "pro": 5.11,
+            "hE": 1935,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2c7b8343a02bd72e10180428",
+            "img": "4.jpg",
+            "pointPro": 99.86,
+            "firstType": "国际",
+            "name": "日本人被指蒙古大火后未向中国道歉",
+            "startTime": 1792166400000,
+            "oldPoint": 10,
+            "pro": 4.02,
+            "hE": 1523,
+            "tags": [
+              "蒙古",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 4,
+            "pro": 3.85,
+            "hE": 1457,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.82,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 14,
+            "pro": 3.83,
+            "hE": 1450,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.8,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 3,
+            "pro": 3.36,
+            "hE": 1273,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6115
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 11",
+        "sumH": 30571,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 2,
+            "pro": 24.44,
+            "hE": 7472,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 1,
+            "pro": 18.93,
+            "hE": 5785,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 6.35,
+            "hE": 1942,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 5,
+            "pro": 5.89,
+            "hE": 1801,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 4,
+            "pro": 5.38,
+            "hE": 1644,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 10,
+            "pro": 4.73,
+            "hE": 1445,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.87,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 9,
+            "pro": 4.64,
+            "hE": 1419,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "660e727274dcd64b10180438",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "酒店回应房间挂画后藏设备间",
+            "startTime": 1792339200000,
+            "oldPoint": 12,
+            "pro": 3.25,
+            "hE": 993,
+            "tags": [
+              "隐私",
+              "酒店",
+              "武汉"
+            ]
+          },
+          {
+            "eventId": "11975ea99cd4830210180429",
+            "img": "5.png",
+            "pointPro": 99.83,
+            "firstType": "违法犯罪",
+            "name": "女局长被“仙人跳”团伙敲诈19万",
+            "startTime": 1792339200000,
+            "oldPoint": 11,
+            "pro": 3.12,
+            "hE": 953,
+            "tags": [
+              "山东",
+              "违法",
+              "仙人跳"
+            ]
+          },
+          {
+            "eventId": "c612745bd21c2a9510180391",
+            "img": "1.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "DeepSeek崩了",
+            "startTime": 1791993600000,
+            "oldPoint": 14,
+            "pro": 2.94,
+            "hE": 899,
+            "tags": [
+              "DeepSeek",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6218
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 12",
+        "sumH": 28383,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 40.87,
+            "hE": 11600,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 1,
+            "pro": 20.75,
+            "hE": 5891,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 5,
+            "pro": 4.74,
+            "hE": 1347,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 2,
+            "pro": 4.47,
+            "hE": 1270,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "11975ea99cd4830210180429",
+            "img": "5.png",
+            "pointPro": 99.9,
+            "firstType": "违法犯罪",
+            "name": "女局长被“仙人跳”团伙敲诈19万",
+            "startTime": 1792339200000,
+            "oldPoint": 8,
+            "pro": 3.75,
+            "hE": 1065,
+            "tags": [
+              "山东",
+              "违法",
+              "仙人跳"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 13,
+            "pro": 3.03,
+            "hE": 859,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.85,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 18,
+            "pro": 2.9,
+            "hE": 823,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 4,
+            "pro": 2.78,
+            "hE": 789,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 11,
+            "pro": 2.36,
+            "hE": 671,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.77,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 3,
+            "pro": 2.07,
+            "hE": 589,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3479
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 13",
+        "sumH": 32253,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 43.45,
+            "hE": 14014,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 1,
+            "pro": 14.79,
+            "hE": 4769,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 6,
+            "pro": 10,
+            "hE": 3225,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 2,
+            "pro": 4.1,
+            "hE": 1323,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 12,
+            "pro": 3.5,
+            "hE": 1129,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 7,
+            "pro": 3.06,
+            "hE": 987,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 9,
+            "pro": 2.74,
+            "hE": 884,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 3,
+            "pro": 2.55,
+            "hE": 823,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 5,
+            "pro": 1.82,
+            "hE": 586,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 8,
+            "pro": 1.74,
+            "hE": 562,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3951
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 14",
+        "sumH": 50854,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 53.86,
+            "hE": 27389,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 1,
+            "pro": 9.36,
+            "hE": 4762,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 2,
+            "pro": 7.84,
+            "hE": 3988,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "e105d495a30bdc6210180436",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "小米一口气申报了8款汽车商标",
+            "startTime": 1792339200000,
+            "oldPoint": 10,
+            "pro": 6.54,
+            "hE": 3325,
+            "tags": [
+              "小米",
+              "商标"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 7,
+            "pro": 4.66,
+            "hE": 2372,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 3,
+            "pro": 2.8,
+            "hE": 1426,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 6,
+            "pro": 2.35,
+            "hE": 1195,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.84,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 4,
+            "pro": 1.77,
+            "hE": 899,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 5,
+            "pro": 1.45,
+            "hE": 739,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.8,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 20,
+            "pro": 1.25,
+            "hE": 637,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4122
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 15",
+        "sumH": 59370,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 49.34,
+            "hE": 29294,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e105d495a30bdc6210180436",
+            "img": "2.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "小米一口气申报了8款汽车商标",
+            "startTime": 1792339200000,
+            "oldPoint": 3,
+            "pro": 10.29,
+            "hE": 6111,
+            "tags": [
+              "小米",
+              "商标"
+            ]
+          },
+          {
+            "eventId": "c612745bd21c2a9510180391",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "DeepSeek崩了",
+            "startTime": 1791993600000,
+            "oldPoint": 14,
+            "pro": 9.99,
+            "hE": 5933,
+            "tags": [
+              "DeepSeek",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 2,
+            "pro": 6.2,
+            "hE": 3679,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 1,
+            "pro": 5.93,
+            "hE": 3523,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 4,
+            "pro": 3.6,
+            "hE": 2140,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 10,
+            "pro": 3.22,
+            "hE": 1914,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "d34aad3aee3ced3d10180437",
+            "img": "3.jpg",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "女子打砸酒水店五粮液定损30多万",
+            "startTime": 1792252800000,
+            "oldPoint": 11,
+            "pro": 1.39,
+            "hE": 825,
+            "tags": [
+              "五粮液",
+              "四川",
+              "违法",
+              "打砸"
+            ]
+          },
+          {
+            "eventId": "c2b5287b06b6525910180440",
+            "img": "6.jpg",
+            "pointPro": 99.82,
+            "firstType": "谣言",
+            "name": "官方辟谣艾滋病患者到济南恶意传播",
+            "startTime": 1792425600000,
+            "oldPoint": 22,
+            "pro": 1.17,
+            "hE": 692,
+            "tags": [
+              "艾滋病",
+              "济南",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.8,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 7,
+            "pro": 1.09,
+            "hE": 650,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4609
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 16",
+        "sumH": 58211,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 49.88,
+            "hE": 29038,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 3,
+            "pro": 8.81,
+            "hE": 5130,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "e105d495a30bdc6210180436",
+            "img": "2.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "小米一口气申报了8款汽车商标",
+            "startTime": 1792339200000,
+            "oldPoint": 1,
+            "pro": 6.1,
+            "hE": 3548,
+            "tags": [
+              "小米",
+              "商标"
+            ]
+          },
+          {
+            "eventId": "c612745bd21c2a9510180391",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "DeepSeek崩了",
+            "startTime": 1791993600000,
+            "oldPoint": 2,
+            "pro": 5.89,
+            "hE": 3429,
+            "tags": [
+              "DeepSeek",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 4,
+            "pro": 4.9,
+            "hE": 2850,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "d34aad3aee3ced3d10180437",
+            "img": "3.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "女子打砸酒水店五粮液定损30多万",
+            "startTime": 1792252800000,
+            "oldPoint": 7,
+            "pro": 4.67,
+            "hE": 2720,
+            "tags": [
+              "五粮液",
+              "四川",
+              "违法",
+              "打砸"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 5,
+            "pro": 4.06,
+            "hE": 2365,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 13,
+            "pro": 2.23,
+            "hE": 1301,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "660e727274dcd64b10180438",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "酒店回应房间挂画后藏设备间",
+            "startTime": 1792339200000,
+            "oldPoint": 26,
+            "pro": 1.87,
+            "hE": 1091,
+            "tags": [
+              "隐私",
+              "酒店",
+              "武汉"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 10,
+            "pro": 1.45,
+            "hE": 844,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5895
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 17",
+        "sumH": 44014,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 32.44,
+            "hE": 14278,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 6,
+            "pro": 13.62,
+            "hE": 5997,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.96,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 1,
+            "pro": 12.3,
+            "hE": 5413,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "c612745bd21c2a9510180391",
+            "img": "1.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "DeepSeek崩了",
+            "startTime": 1791993600000,
+            "oldPoint": 3,
+            "pro": 7.98,
+            "hE": 3511,
+            "tags": [
+              "DeepSeek",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 4,
+            "pro": 6.55,
+            "hE": 2881,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "e105d495a30bdc6210180436",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "小米一口气申报了8款汽车商标",
+            "startTime": 1792339200000,
+            "oldPoint": 2,
+            "pro": 3.89,
+            "hE": 1712,
+            "tags": [
+              "小米",
+              "商标"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.87,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 7,
+            "pro": 3.48,
+            "hE": 1531,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 9,
+            "pro": 3.05,
+            "hE": 1340,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d34aad3aee3ced3d10180437",
+            "img": "3.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "女子打砸酒水店五粮液定损30多万",
+            "startTime": 1792252800000,
+            "oldPoint": 5,
+            "pro": 2.5,
+            "hE": 1100,
+            "tags": [
+              "五粮液",
+              "四川",
+              "违法",
+              "打砸"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 13,
+            "pro": 1.78,
+            "hE": 784,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5467
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20 18",
+        "sumH": 24933,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 32.18,
+            "hE": 8023,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 1,
+            "pro": 12.31,
+            "hE": 3069,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 4,
+            "pro": 11.62,
+            "hE": 2898,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "c612745bd21c2a9510180391",
+            "img": "1.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "DeepSeek崩了",
+            "startTime": 1791993600000,
+            "oldPoint": 3,
+            "pro": 9.25,
+            "hE": 2306,
+            "tags": [
+              "DeepSeek",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 2,
+            "pro": 8.02,
+            "hE": 1999,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 9,
+            "pro": 3.95,
+            "hE": 984,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e105d495a30bdc6210180436",
+            "img": "2.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "小米一口气申报了8款汽车商标",
+            "startTime": 1792339200000,
+            "oldPoint": 5,
+            "pro": 3.26,
+            "hE": 812,
+            "tags": [
+              "小米",
+              "商标"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.83,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 13,
+            "pro": 3,
+            "hE": 748,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 14,
+            "pro": 2.85,
+            "hE": 711,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "d34aad3aee3ced3d10180437",
+            "img": "3.jpg",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "女子打砸酒水店五粮液定损30多万",
+            "startTime": 1792252800000,
+            "oldPoint": 8,
+            "pro": 1.77,
+            "hE": 442,
+            "tags": [
+              "五粮液",
+              "四川",
+              "违法",
+              "打砸"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2941
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
