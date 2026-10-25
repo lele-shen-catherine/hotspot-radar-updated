@@ -1,0 +1,3046 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 149524,
+    "dayHotLevel": "低",
+    "rankDay": [
+      {
+        "time": "2026-10-18",
+        "sumH": 482353,
+        "info": [
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 26.88,
+            "hE": 129666,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 0,
+            "pro": 10.9,
+            "hE": 52562,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "80cd12ac379ea6bd10180450",
+            "img": "6.jpg",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "台风蔷琵",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 7,
+            "hE": 33774,
+            "tags": [
+              "台风"
+            ]
+          },
+          {
+            "eventId": "5ac849c77693583410180422",
+            "img": "1792389513133.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "Swisse抗糖丸被检出铅超标",
+            "startTime": 1792166400000,
+            "oldPoint": 0,
+            "pro": 6.92,
+            "hE": 33365,
+            "tags": [
+              "斯维诗",
+              "铅超标",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 6.65,
+            "hE": 32062,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 0,
+            "pro": 6.64,
+            "hE": 32051,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "5cadce12609716a310180424",
+            "img": "1792394470542.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "央视曝光近视防控镜片暴利乱象",
+            "startTime": 1792252800000,
+            "oldPoint": 0,
+            "pro": 3.78,
+            "hE": 18211,
+            "tags": [
+              "丹阳",
+              "央视曝光",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 3.63,
+            "hE": 17503,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "336b6ac6a362b71610180341",
+            "img": "33.png",
+            "pointPro": 99.9,
+            "firstType": "违法犯罪",
+            "name": "梅艳芳骨灰被盗",
+            "startTime": 1791561600000,
+            "oldPoint": 0,
+            "pro": 2.29,
+            "hE": 11024,
+            "tags": [
+              "梅艳芳",
+              "被盗"
+            ]
+          },
+          {
+            "eventId": "049d3cba0659667e10180401",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "第140届广交会开幕",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 2.27,
+            "hE": 10971,
+            "tags": [
+              "广交会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 111164
+          }
+        ]
+      },
+      {
+        "time": "2026-10-19",
+        "sumH": 725649,
+        "info": [
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 15.6,
+            "hE": 113207,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "439345204a1a0c2310180426",
+            "img": "2.jpg",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "汇源集团称不再生产“汇源”商标的果汁",
+            "startTime": 1792252800000,
+            "oldPoint": 49,
+            "pro": 11.32,
+            "hE": 82173,
+            "tags": [
+              "汇源",
+              "商业纠纷",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 7,
+            "pro": 10.3,
+            "hE": 74708,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "80cd12ac379ea6bd10180450",
+            "img": "6.jpg",
+            "pointPro": 99.96,
+            "firstType": "灾难",
+            "name": "台风蔷琵",
+            "startTime": 1791993600000,
+            "oldPoint": 2,
+            "pro": 6.19,
+            "hE": 44932,
+            "tags": [
+              "台风"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.95,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 45,
+            "pro": 5.91,
+            "hE": 42858,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 1,
+            "pro": 5.37,
+            "hE": 38950,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 5,
+            "pro": 5.27,
+            "hE": 38246,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "5ac849c77693583410180422",
+            "img": "1792389513133.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "Swisse抗糖丸被检出铅超标",
+            "startTime": 1792166400000,
+            "oldPoint": 3,
+            "pro": 4.53,
+            "hE": 32838,
+            "tags": [
+              "斯维诗",
+              "铅超标",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "11975ea99cd4830210180429",
+            "img": "5.png",
+            "pointPro": 99.9,
+            "firstType": "违法犯罪",
+            "name": "女局长被“仙人跳”团伙敲诈19万",
+            "startTime": 1792339200000,
+            "oldPoint": 83,
+            "pro": 4.39,
+            "hE": 31855,
+            "tags": [
+              "山东",
+              "违法",
+              "仙人跳"
+            ]
+          },
+          {
+            "eventId": "9e4a84103030929810180402",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "特斯拉Roadster全球发布会",
+            "startTime": 1791993600000,
+            "oldPoint": 4,
+            "pro": 3.86,
+            "hE": 28019,
+            "tags": [
+              "特斯拉"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 197863
+          }
+        ]
+      },
+      {
+        "time": "2026-10-20",
+        "sumH": 766325,
+        "info": [
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 67,
+            "pro": 22.49,
+            "hE": 172382,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 10.85,
+            "hE": 83141,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "c14edb754524da1810180427",
+            "img": "3.jpg",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "莫斯科大学调查中国留学生披旭日旗",
+            "startTime": 1791993600000,
+            "oldPoint": 2,
+            "pro": 10.38,
+            "hE": 79513,
+            "tags": [
+              "旭日旗",
+              "留学生",
+              "莫斯科"
+            ]
+          },
+          {
+            "eventId": "80cd12ac379ea6bd10180450",
+            "img": "6.jpg",
+            "pointPro": 99.96,
+            "firstType": "灾难",
+            "name": "台风蔷琵",
+            "startTime": 1791993600000,
+            "oldPoint": 3,
+            "pro": 6.85,
+            "hE": 52481,
+            "tags": [
+              "台风"
+            ]
+          },
+          {
+            "eventId": "769a1541456e099610180442",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "国家数据集团成立",
+            "startTime": 1792425600000,
+            "oldPoint": 82,
+            "pro": 6.4,
+            "hE": 49058,
+            "tags": [
+              "国家数据集团"
+            ]
+          },
+          {
+            "eventId": "29512b4507e2beb410180386",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "肖战官宣个人巡回演唱会",
+            "startTime": 1791820800000,
+            "oldPoint": 5,
+            "pro": 4.56,
+            "hE": 34936,
+            "tags": [
+              "肖战",
+              "演唱会"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 87,
+            "pro": 3.85,
+            "hE": 29466,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "c680a54795b7a6a210180430",
+            "img": "6.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "圆通回应快递员上门致女子先兆流产",
+            "startTime": 1792339200000,
+            "oldPoint": 11,
+            "pro": 2.86,
+            "hE": 21943,
+            "tags": [
+              "圆通",
+              "回应",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "add7ebe167c5567210180459",
+            "img": "1792634131293.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "乌鲁木齐航空回应航班延误发过期泡面",
+            "startTime": 1792425600000,
+            "oldPoint": 96,
+            "pro": 2.8,
+            "hE": 21440,
+            "tags": [
+              "乌鲁木齐航空",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e105d495a30bdc6210180436",
+            "img": "2.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "小米一口气申报了8款汽车商标",
+            "startTime": 1792339200000,
+            "oldPoint": 18,
+            "pro": 2.66,
+            "hE": 20377,
+            "tags": [
+              "小米",
+              "商标"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 201588
+          }
+        ]
+      },
+      {
+        "time": "2026-10-21",
+        "sumH": 874838,
+        "info": [
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 69,
+            "pro": 13.08,
+            "hE": 114455,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 73,
+            "pro": 12.33,
+            "hE": 107832,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "80cd12ac379ea6bd10180450",
+            "img": "6.jpg",
+            "pointPro": 99.98,
+            "firstType": "灾难",
+            "name": "台风蔷琵",
+            "startTime": 1791993600000,
+            "oldPoint": 3,
+            "pro": 10.05,
+            "hE": 87896,
+            "tags": [
+              "台风"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 9.79,
+            "hE": 85625,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 37,
+            "pro": 9.48,
+            "hE": 82934,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "e45495bde91d2aa310180443",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "马斯克回应特斯拉SpaceX合并",
+            "startTime": 1792425600000,
+            "oldPoint": 21,
+            "pro": 6.37,
+            "hE": 55751,
+            "tags": [
+              "马斯克",
+              "特斯拉",
+              "SpaceX"
+            ]
+          },
+          {
+            "eventId": "769a1541456e099610180442",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "国家数据集团成立",
+            "startTime": 1792425600000,
+            "oldPoint": 4,
+            "pro": 5.2,
+            "hE": 45516,
+            "tags": [
+              "国家数据集团"
+            ]
+          },
+          {
+            "eventId": "5253ea8b0c675db310180457",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "张凌赫赴台被拒",
+            "startTime": 1792512000000,
+            "oldPoint": 82,
+            "pro": 4.85,
+            "hE": 42464,
+            "tags": [
+              "张凌赫",
+              "台湾"
+            ]
+          },
+          {
+            "eventId": "aabde7e704b174dd10180445",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "女子迟到错过检票失控哀求工作人员",
+            "startTime": 1792512000000,
+            "oldPoint": 84,
+            "pro": 4.01,
+            "hE": 35077,
+            "tags": [
+              "高铁",
+              "广西",
+              "情绪失控"
+            ]
+          },
+          {
+            "eventId": "801ed1521136c1db10180435",
+            "img": "1.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "小天才手表回应封闭社交",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 2.99,
+            "hE": 26136,
+            "tags": [
+              "小天才",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 191152
+          }
+        ]
+      },
+      {
+        "time": "2026-10-22",
+        "sumH": 831830,
+        "info": [
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 11.15,
+            "hE": 92713,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 10.24,
+            "hE": 85218,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "c054a4d6100cb09b10180454",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "中国体操女团时隔20年夺冠",
+            "startTime": 1792598400000,
+            "oldPoint": 91,
+            "pro": 9.51,
+            "hE": 79069,
+            "tags": [
+              "体操",
+              "夺冠"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 88,
+            "pro": 7.57,
+            "hE": 62961,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "c7b676e097971dd110180465",
+            "img": "4.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "山姆紧急下架牡蛎精胶囊",
+            "startTime": 1792598400000,
+            "oldPoint": 74,
+            "pro": 7.44,
+            "hE": 61883,
+            "tags": [
+              "山姆",
+              "下架",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 4,
+            "pro": 6.57,
+            "hE": 54625,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 1,
+            "pro": 5.92,
+            "hE": 49248,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "632a7acb6a7a99e210180464",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "PHP严重安全漏洞波及全球",
+            "startTime": 1792512000000,
+            "oldPoint": 16,
+            "pro": 5.89,
+            "hE": 49027,
+            "tags": [
+              "网络安全",
+              "PHP"
+            ]
+          },
+          {
+            "eventId": "5542d403094b4e6610180463",
+            "img": "2.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "女子称地铁站内看5小时书被扣15元",
+            "startTime": 1792512000000,
+            "oldPoint": 27,
+            "pro": 5.72,
+            "hE": 47600,
+            "tags": [
+              "地铁",
+              "广州"
+            ]
+          },
+          {
+            "eventId": "97b98a96903a68bb10180462",
+            "img": "1.jpg",
+            "pointPro": 99.88,
+            "firstType": "政务",
+            "name": "北京市副市长夏林茂被查",
+            "startTime": 1792598400000,
+            "oldPoint": 95,
+            "pro": 4.39,
+            "hE": 36558,
+            "tags": [
+              "夏林茂",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 212928
+          }
+        ]
+      },
+      {
+        "time": "2026-10-23",
+        "sumH": 1005462,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 3,
+            "pro": 57.04,
+            "hE": 573540,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 7.61,
+            "hE": 76498,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "5b5e0101d0e745a210180475",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "黄子韬公司被强制执行2040万",
+            "startTime": 1792684800000,
+            "oldPoint": 80,
+            "pro": 4.96,
+            "hE": 49864,
+            "tags": [
+              "龙韬娱乐",
+              "危机",
+              "强制执行"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 5,
+            "pro": 4.39,
+            "hE": 44176,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "e12594de6705849b10180448",
+            "img": "4.jpg",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "神探李昌钰灵骨跨洋回归祖国",
+            "startTime": 1792512000000,
+            "oldPoint": 31,
+            "pro": 3.01,
+            "hE": 30245,
+            "tags": [
+              "李昌钰",
+              "扬州",
+              "回国"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 59,
+            "pro": 2.49,
+            "hE": 25010,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "b4949605c58445a410180476",
+            "img": "2.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "娃哈哈集团董事长被曝辞职",
+            "startTime": 1792598400000,
+            "oldPoint": 34,
+            "pro": 2.43,
+            "hE": 24407,
+            "tags": [
+              "娃哈哈",
+              "董事长",
+              "辞职"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 6,
+            "pro": 2.29,
+            "hE": 23001,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "632a7acb6a7a99e210180464",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "国际",
+            "name": "PHP严重安全漏洞波及全球",
+            "startTime": 1792512000000,
+            "oldPoint": 7,
+            "pro": 1.96,
+            "hE": 19678,
+            "tags": [
+              "网络安全",
+              "PHP"
+            ]
+          },
+          {
+            "eventId": "c7b676e097971dd110180465",
+            "img": "4.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "山姆紧急下架牡蛎精胶囊",
+            "startTime": 1792598400000,
+            "oldPoint": 4,
+            "pro": 1.29,
+            "hE": 12952,
+            "tags": [
+              "山姆",
+              "下架",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 126091
+          }
+        ]
+      },
+      {
+        "time": "2026-10-24",
+        "sumH": 219837,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 40.35,
+            "hE": 88704,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 15.22,
+            "hE": 33456,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 19,
+            "pro": 11.9,
+            "hE": 26169,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 13,
+            "pro": 3.15,
+            "hE": 6918,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 3,
+            "pro": 2.95,
+            "hE": 6487,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 7,
+            "pro": 2.93,
+            "hE": 6447,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 24,
+            "pro": 2.71,
+            "hE": 5961,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 5,
+            "pro": 2.56,
+            "hE": 5638,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "e12594de6705849b10180448",
+            "img": "4.jpg",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "神探李昌钰灵骨跨洋回归祖国",
+            "startTime": 1792512000000,
+            "oldPoint": 4,
+            "pro": 1.85,
+            "hE": 4075,
+            "tags": [
+              "李昌钰",
+              "扬州",
+              "回国"
+            ]
+          },
+          {
+            "eventId": "0442e71d87c9974210180387",
+            "img": "22.png",
+            "pointPro": 99.85,
+            "firstType": "国际",
+            "name": "ChinaHaul持续走红",
+            "startTime": 1790784000000,
+            "oldPoint": 27,
+            "pro": 1.8,
+            "hE": 3957,
+            "tags": [
+              "China Haul"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 32025
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-10-25 07",
+        "sumH": 5066,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 30.69,
+            "hE": 1555,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 22.2,
+            "hE": 1125,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "632a7acb6a7a99e210180464",
+            "img": "3.jpg",
+            "pointPro": 99.93,
+            "firstType": "国际",
+            "name": "PHP严重安全漏洞波及全球",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 13.28,
+            "hE": 673,
+            "tags": [
+              "网络安全",
+              "PHP"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 0,
+            "pro": 11,
+            "hE": 557,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "0442e71d87c9974210180387",
+            "img": "22.png",
+            "pointPro": 99.86,
+            "firstType": "国际",
+            "name": "ChinaHaul持续走红",
+            "startTime": 1790784000000,
+            "oldPoint": 0,
+            "pro": 4.54,
+            "hE": 230,
+            "tags": [
+              "China Haul"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 2.8,
+            "hE": 142,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "2c7b8343a02bd72e10180428",
+            "img": "4.jpg",
+            "pointPro": 99.79,
+            "firstType": "国际",
+            "name": "日本人被指蒙古大火后未向中国道歉",
+            "startTime": 1792166400000,
+            "oldPoint": 0,
+            "pro": 2.35,
+            "hE": 119,
+            "tags": [
+              "蒙古",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "e45495bde91d2aa310180443",
+            "img": "33.png",
+            "pointPro": 99.75,
+            "firstType": "企业",
+            "name": "马斯克回应特斯拉SpaceX合并",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 2.1,
+            "hE": 106,
+            "tags": [
+              "马斯克",
+              "特斯拉",
+              "SpaceX"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 0,
+            "pro": 2.1,
+            "hE": 106,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.68,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 1.86,
+            "hE": 94,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 359
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 08",
+        "sumH": 8598,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 44,
+            "hE": 3783,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 11.25,
+            "hE": 967,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 3,
+            "pro": 10.14,
+            "hE": 872,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 27,
+            "pro": 5.96,
+            "hE": 513,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 8,
+            "pro": 5.39,
+            "hE": 464,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "769a1541456e099610180442",
+            "img": "22.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "国家数据集团成立",
+            "startTime": 1792425600000,
+            "oldPoint": 30,
+            "pro": 4.65,
+            "hE": 400,
+            "tags": [
+              "国家数据集团"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.83,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 32,
+            "pro": 2.72,
+            "hE": 234,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 10,
+            "pro": 2.09,
+            "hE": 179,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 13,
+            "pro": 2.05,
+            "hE": 176,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "a9317b095777284e10179798",
+            "pointPro": 99.75,
+            "firstType": "体育",
+            "name": "逐梦少年足球赛",
+            "startTime": 1781193600000,
+            "oldPoint": 57,
+            "pro": 1.75,
+            "hE": 150,
+            "tags": [
+              "聊球节目"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 860
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 09",
+        "sumH": 8694,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 26.71,
+            "hE": 2322,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 15.77,
+            "hE": 1371,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 2,
+            "pro": 11.54,
+            "hE": 1003,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 23,
+            "pro": 10.72,
+            "hE": 932,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 4,
+            "pro": 5.3,
+            "hE": 460,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 3,
+            "pro": 4.95,
+            "hE": 430,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "2c7b8343a02bd72e10180428",
+            "img": "4.jpg",
+            "pointPro": 99.84,
+            "firstType": "国际",
+            "name": "日本人被指蒙古大火后未向中国道歉",
+            "startTime": 1792166400000,
+            "oldPoint": 12,
+            "pro": 3.87,
+            "hE": 337,
+            "tags": [
+              "蒙古",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 13,
+            "pro": 3.3,
+            "hE": 287,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 11,
+            "pro": 2.73,
+            "hE": 237,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.76,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 2.36,
+            "hE": 205,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1110
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 10",
+        "sumH": 9801,
+        "info": [
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 25.04,
+            "hE": 2454,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 21,
+            "hE": 2058,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "0442e71d87c9974210180387",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "ChinaHaul持续走红",
+            "startTime": 1790784000000,
+            "oldPoint": 17,
+            "pro": 8.35,
+            "hE": 819,
+            "tags": [
+              "China Haul"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 2,
+            "pro": 7.68,
+            "hE": 753,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 3,
+            "pro": 7.35,
+            "hE": 720,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 5,
+            "pro": 4.56,
+            "hE": 447,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 7,
+            "pro": 3.08,
+            "hE": 302,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 8,
+            "pro": 3.03,
+            "hE": 297,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 10,
+            "pro": 2.69,
+            "hE": 264,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.75,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 4,
+            "pro": 2.5,
+            "hE": 245,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1442
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 11",
+        "sumH": 8876,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 28.09,
+            "hE": 2493,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 27.47,
+            "hE": 2438,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 3,
+            "pro": 7.08,
+            "hE": 629,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "0442e71d87c9974210180387",
+            "img": "22.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "ChinaHaul持续走红",
+            "startTime": 1790784000000,
+            "oldPoint": 2,
+            "pro": 5.94,
+            "hE": 527,
+            "tags": [
+              "China Haul"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 10,
+            "pro": 4.49,
+            "hE": 399,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 5,
+            "pro": 3.69,
+            "hE": 327,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 9,
+            "pro": 3.44,
+            "hE": 305,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.81,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 4,
+            "pro": 3.13,
+            "hE": 278,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 7,
+            "pro": 2.75,
+            "hE": 244,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.75,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 11,
+            "pro": 2.18,
+            "hE": 194,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1042
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 12",
+        "sumH": 8357,
+        "info": [
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 49.52,
+            "hE": 4139,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 15.63,
+            "hE": 1306,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 6,
+            "pro": 5.62,
+            "hE": 469,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 2,
+            "pro": 4.56,
+            "hE": 381,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 8,
+            "pro": 3.07,
+            "hE": 256,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 5,
+            "pro": 3.01,
+            "hE": 252,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "5b5e0101d0e745a210180475",
+            "img": "1.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "黄子韬公司被强制执行2040万",
+            "startTime": 1792684800000,
+            "oldPoint": 28,
+            "pro": 2.7,
+            "hE": 226,
+            "tags": [
+              "龙韬娱乐",
+              "危机",
+              "强制执行"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 13,
+            "pro": 2.54,
+            "hE": 212,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.77,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 9,
+            "pro": 2.5,
+            "hE": 209,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "2c7b8343a02bd72e10180428",
+            "img": "4.jpg",
+            "pointPro": 99.74,
+            "firstType": "国际",
+            "name": "日本人被指蒙古大火后未向中国道歉",
+            "startTime": 1792166400000,
+            "oldPoint": 12,
+            "pro": 2.12,
+            "hE": 178,
+            "tags": [
+              "蒙古",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 729
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 13",
+        "sumH": 6022,
+        "info": [
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 37.03,
+            "hE": 2230,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 25.35,
+            "hE": 1527,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 3,
+            "pro": 10.14,
+            "hE": 611,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 7,
+            "pro": 3.92,
+            "hE": 236,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "5ac849c77693583410180422",
+            "img": "1792389513133.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "Swisse抗糖丸被检出铅超标",
+            "startTime": 1792166400000,
+            "oldPoint": 28,
+            "pro": 3.43,
+            "hE": 207,
+            "tags": [
+              "斯维诗",
+              "铅超标",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 12,
+            "pro": 3.36,
+            "hE": 203,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 4,
+            "pro": 3.08,
+            "hE": 186,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b4949605c58445a410180476",
+            "img": "2.jpg",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "娃哈哈集团董事长被曝辞职",
+            "startTime": 1792598400000,
+            "oldPoint": 23,
+            "pro": 1.69,
+            "hE": 102,
+            "tags": [
+              "娃哈哈",
+              "董事长",
+              "辞职"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 2,
+            "pro": 1.45,
+            "hE": 87,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.74,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 8,
+            "pro": 1.15,
+            "hE": 69,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 564
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 14",
+        "sumH": 6279,
+        "info": [
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 34.84,
+            "hE": 2187,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 24.72,
+            "hE": 1552,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "0d93889d7ca44ae510180439",
+            "img": "5.jpg",
+            "pointPro": 99.94,
+            "firstType": "政务",
+            "name": "智驾小蓝灯颜色进入新国标",
+            "startTime": 1792425600000,
+            "oldPoint": 24,
+            "pro": 7.98,
+            "hE": 501,
+            "tags": [
+              "政策",
+              "自动驾驶"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.9,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 2,
+            "pro": 7.95,
+            "hE": 499,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "632a7acb6a7a99e210180464",
+            "img": "3.jpg",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "PHP严重安全漏洞波及全球",
+            "startTime": 1792512000000,
+            "oldPoint": 22,
+            "pro": 3.5,
+            "hE": 220,
+            "tags": [
+              "网络安全",
+              "PHP"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 8,
+            "pro": 2.93,
+            "hE": 184,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 19,
+            "pro": 2.46,
+            "hE": 154,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "2c7b8343a02bd72e10180428",
+            "img": "4.jpg",
+            "pointPro": 99.77,
+            "firstType": "国际",
+            "name": "日本人被指蒙古大火后未向中国道歉",
+            "startTime": 1792166400000,
+            "oldPoint": 10,
+            "pro": 2.43,
+            "hE": 153,
+            "tags": [
+              "蒙古",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "0442e71d87c9974210180387",
+            "img": "22.png",
+            "pointPro": 99.74,
+            "firstType": "国际",
+            "name": "ChinaHaul持续走红",
+            "startTime": 1790784000000,
+            "oldPoint": 37,
+            "pro": 2.3,
+            "hE": 144,
+            "tags": [
+              "China Haul"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.71,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 29,
+            "pro": 2.25,
+            "hE": 141,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 544
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 15",
+        "sumH": 7259,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 41.11,
+            "hE": 2985,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 29.73,
+            "hE": 2158,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 3,
+            "pro": 3.19,
+            "hE": 232,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 13,
+            "pro": 2.91,
+            "hE": 211,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 6,
+            "pro": 2.38,
+            "hE": 173,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "0442e71d87c9974210180387",
+            "img": "22.png",
+            "pointPro": 99.85,
+            "firstType": "国际",
+            "name": "ChinaHaul持续走红",
+            "startTime": 1790784000000,
+            "oldPoint": 8,
+            "pro": 2.04,
+            "hE": 148,
+            "tags": [
+              "China Haul"
+            ]
+          },
+          {
+            "eventId": "5542d403094b4e6610180463",
+            "img": "2.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "女子称地铁站内看5小时书被扣15元",
+            "startTime": 1792512000000,
+            "oldPoint": 17,
+            "pro": 1.97,
+            "hE": 143,
+            "tags": [
+              "地铁",
+              "广州"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 18,
+            "pro": 1.67,
+            "hE": 121,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.76,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 9,
+            "pro": 1.65,
+            "hE": 120,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.73,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 5,
+            "pro": 1.61,
+            "hE": 117,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 851
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 16",
+        "sumH": 8313,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 57.59,
+            "hE": 4787,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 17.28,
+            "hE": 1437,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 13,
+            "pro": 4.19,
+            "hE": 348,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 2,
+            "pro": 3.18,
+            "hE": 265,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 9,
+            "pro": 2.83,
+            "hE": 235,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 4,
+            "pro": 2.11,
+            "hE": 175,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 3,
+            "pro": 2.03,
+            "hE": 169,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 11,
+            "pro": 2.02,
+            "hE": 168,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "e45495bde91d2aa310180443",
+            "img": "33.png",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "马斯克回应特斯拉SpaceX合并",
+            "startTime": 1792425600000,
+            "oldPoint": 26,
+            "pro": 1.32,
+            "hE": 110,
+            "tags": [
+              "马斯克",
+              "特斯拉",
+              "SpaceX"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.74,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 14,
+            "pro": 0.83,
+            "hE": 69,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 550
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 17",
+        "sumH": 7749,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 40.88,
+            "hE": 3168,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 29.19,
+            "hE": 2262,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "b8c71bd43ae9910b10180433",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "财经",
+            "name": "2026金融街论坛年会在京开幕",
+            "startTime": 1792339200000,
+            "oldPoint": 14,
+            "pro": 5.05,
+            "hE": 392,
+            "tags": [
+              "2026金融街论坛年会"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 4,
+            "pro": 3.06,
+            "hE": 237,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 18,
+            "pro": 2.4,
+            "hE": 186,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 2,
+            "pro": 2.34,
+            "hE": 181,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "5b5e0101d0e745a210180475",
+            "img": "1.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "黄子韬公司被强制执行2040万",
+            "startTime": 1792684800000,
+            "oldPoint": 15,
+            "pro": 2.08,
+            "hE": 161,
+            "tags": [
+              "龙韬娱乐",
+              "危机",
+              "强制执行"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 5,
+            "pro": 1.84,
+            "hE": 143,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.76,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 7,
+            "pro": 1.71,
+            "hE": 133,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.74,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 3,
+            "pro": 1.46,
+            "hE": 113,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 773
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25 18",
+        "sumH": 6878,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 38.19,
+            "hE": 2627,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 27.44,
+            "hE": 1888,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 9,
+            "pro": 13.21,
+            "hE": 908,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 8,
+            "pro": 6.09,
+            "hE": 419,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 4,
+            "pro": 2.56,
+            "hE": 176,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 3,
+            "pro": 2.13,
+            "hE": 146,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 5,
+            "pro": 1.91,
+            "hE": 131,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "5542d403094b4e6610180463",
+            "img": "2.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "女子称地铁站内看5小时书被扣15元",
+            "startTime": 1792512000000,
+            "oldPoint": 41,
+            "pro": 1.7,
+            "hE": 117,
+            "tags": [
+              "地铁",
+              "广州"
+            ]
+          },
+          {
+            "eventId": "2c7b8343a02bd72e10180428",
+            "img": "4.jpg",
+            "pointPro": 99.76,
+            "firstType": "国际",
+            "name": "日本人被指蒙古大火后未向中国道歉",
+            "startTime": 1792166400000,
+            "oldPoint": 27,
+            "pro": 1.65,
+            "hE": 113,
+            "tags": [
+              "蒙古",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "46141585138c114d10180471",
+            "img": "33.png",
+            "pointPro": 99.73,
+            "firstType": "企业",
+            "name": "小米宣布成立独立汽车安全研究中心",
+            "startTime": 1792512000000,
+            "oldPoint": 76,
+            "pro": 1.44,
+            "hE": 99,
+            "tags": [
+              "小米汽车"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 254
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
