@@ -1,22 +1,58 @@
 {
-  "updatedAt": "2026-10-27T05:42:34.703Z",
-  "collectedAt": "2026-10-27T05:42:34.703Z",
+  "updatedAt": "2026-10-27T12:36:11.587Z",
+  "collectedAt": "2026-10-27T12:36:11.587Z",
   "date": "2026-10-27",
   "events": [
     {
       "level": "S",
+      "eventName": "外交部回应姆巴佩发表不当言论",
+      "topic": "外交部回应姆巴佩发表不当言论",
+      "score": 91.3,
+      "platform": "抖音",
+      "platformDetail": {
+        "platform": "抖音",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "1224.1w",
+        "collectedAt": "2026-10-27T12:36:11.587Z",
+        "duration": "抖音标记'爆'",
+        "rankChange": "抖音标记'爆'",
+        "link": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA"
+      },
+      "explanation": "围绕「外交部回应姆巴佩发表不当言论」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
+      "risk": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "title": "外交部回应姆巴佩发表不当言论",
+      "eventSummary": "围绕「外交部回应姆巴佩发表不当言论」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "totalScore": 91.3,
+      "source": "抖音",
+      "heat": "1224.1w",
+      "crossPlatform": [
+        "抖音"
+      ],
+      "platforms": [
+        {
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 12241159
+        }
+      ]
+    },
+    {
+      "level": "A",
       "eventName": "多个品牌终止与姆巴佩合作",
       "topic": "多个品牌终止与姆巴佩合作",
-      "score": 87.3,
+      "score": 84,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "4.8w",
-        "collectedAt": "2026-10-27T05:42:34.703Z",
-        "duration": "持续高位(第1名, 在榜11小时)",
-        "rankChange": "持续高位(第1名, 在榜11小时)",
+        "hotValue": "7900",
+        "collectedAt": "2026-10-27T12:36:11.587Z",
+        "duration": "排名上升 2→1, 在榜10小时",
+        "rankChange": "排名上升 2→1, 在榜10小时",
         "link": "https://ef.zhiweidata.com/eventRk/05b2079991853b0410180511/profil"
       },
       "explanation": "围绕「多个品牌终止与姆巴佩合作」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
@@ -25,9 +61,9 @@
       "title": "多个品牌终止与姆巴佩合作",
       "eventSummary": "围绕「多个品牌终止与姆巴佩合作」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 87.3,
+      "totalScore": 84,
       "source": "知微",
-      "heat": "4.8w",
+      "heat": "7900",
       "crossPlatform": [
         "知微"
       ],
@@ -35,115 +71,43 @@
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 48302
+          "hot": 7900
         }
       ]
     },
     {
       "level": "A",
-      "eventName": "这样的景区逛着不烧心",
-      "topic": "这样的景区逛着不烧心",
-      "score": 84.3,
-      "platform": "抖音",
+      "eventName": "姆巴佩道歉",
+      "topic": "姆巴佩道歉",
+      "score": 78.1,
+      "platform": "微博",
       "platformDetail": {
-        "platform": "抖音",
+        "platform": "微博",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "1237.7w",
-        "collectedAt": "2026-10-27T05:42:34.703Z",
-        "duration": "抖音标记'爆'",
-        "rankChange": "抖音标记'爆'",
-        "link": "https://www.douyin.com/search/%E8%BF%99%E6%A0%B7%E7%9A%84%E6%99%AF%E5%8C%BA%E9%80%9B%E7%9D%80%E4%B8%8D%E7%83%A7%E5%BF%83"
+        "hotValue": "2979.2w",
+        "collectedAt": "2026-10-27T12:36:11.587Z",
+        "duration": "微博单次快照无在榜时长(按60)",
+        "rankChange": "微博单次快照无在榜时长(按60)",
+        "link": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89%23"
       },
-      "explanation": "围绕「这样的景区逛着不烧心」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「这样的景区逛着不烧心」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "这样的景区逛着不烧心",
-      "eventSummary": "围绕「这样的景区逛着不烧心」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 84.3,
-      "source": "抖音",
-      "heat": "1237.7w",
+      "explanation": "围绕「姆巴佩道歉」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
+      "risk": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "title": "姆巴佩道歉",
+      "eventSummary": "围绕「姆巴佩道歉」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。",
+      "totalScore": 78.1,
+      "source": "微博",
+      "heat": "2979.2w",
       "crossPlatform": [
-        "抖音"
+        "微博"
       ],
       "platforms": [
         {
-          "platform": "抖音",
+          "platform": "微博",
           "rank": 1,
-          "hot": 12376687
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "凯恩获2026金球奖",
-      "topic": "凯恩获2026金球奖",
-      "score": 74.1,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 2,
-        "peakRank": 2,
-        "hotValue": "3872",
-        "collectedAt": "2026-10-27T05:42:34.703Z",
-        "duration": "持续高位(第2名, 在榜11小时)",
-        "rankChange": "持续高位(第2名, 在榜11小时)",
-        "link": "https://ef.zhiweidata.com/eventRk/9335ace10c64d40e10180498/profil"
-      },
-      "explanation": "围绕「凯恩获2026金球奖」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「凯恩获2026金球奖」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "凯恩获2026金球奖",
-      "eventSummary": "围绕「凯恩获2026金球奖」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 74.1,
-      "source": "知微",
-      "heat": "3872",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 3872
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "iPhoneDuo品控问题",
-      "topic": "iPhoneDuo品控问题",
-      "score": 72.7,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 4,
-        "peakRank": 4,
-        "hotValue": "1655",
-        "collectedAt": "2026-10-27T05:42:34.703Z",
-        "duration": "排名上升 5→4, 在榜11小时",
-        "rankChange": "排名上升 5→4, 在榜11小时",
-        "link": "https://ef.zhiweidata.com/eventRk/555d22d7a8827ea610180489/profil"
-      },
-      "explanation": "围绕「iPhoneDuo品控问题」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "头部品牌新品发布自带\"即时体验\"冲动；首发与价格公布制造悬念，KOL 开箱 + 评论区\"值不值\"讨论带动跨平台扩散，传播窗口短而集中。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "iPhoneDuo品控问题",
-      "eventSummary": "围绕「iPhoneDuo品控问题」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 72.7,
-      "source": "知微",
-      "heat": "1655",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 4,
-          "hot": 1655
+          "hot": 29791683
         }
       ]
     },
@@ -157,10 +121,10 @@
         "platform": "知微",
         "currentRank": 3,
         "peakRank": 3,
-        "hotValue": "3081",
-        "collectedAt": "2026-10-27T05:42:34.703Z",
-        "duration": "排名上升 4→3, 在榜11小时",
-        "rankChange": "排名上升 4→3, 在榜11小时",
+        "hotValue": "1890",
+        "collectedAt": "2026-10-27T12:36:11.587Z",
+        "duration": "排名上升 4→3, 在榜10小时",
+        "rankChange": "排名上升 4→3, 在榜10小时",
         "link": "https://ef.zhiweidata.com/eventRk/18191607d934a3e710180460/profil"
       },
       "explanation": "围绕「电视剧《嫁金钗》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
@@ -171,7 +135,7 @@
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
       "totalScore": 71.8,
       "source": "知微",
-      "heat": "3081",
+      "heat": "1890",
       "crossPlatform": [
         "知微"
       ],
@@ -179,7 +143,79 @@
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 3081
+          "hot": 1890
+        }
+      ]
+    },
+    {
+      "level": "A",
+      "eventName": "日本前首相福田康夫去世",
+      "topic": "日本前首相福田康夫去世",
+      "score": 70.4,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 2,
+        "peakRank": 2,
+        "hotValue": "4332",
+        "collectedAt": "2026-10-27T12:36:11.587Z",
+        "duration": "平稳(第2名, 在榜2小时)",
+        "rankChange": "平稳(第2名, 在榜2小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/d9bbe0023eb7ce3710180490/profil"
+      },
+      "explanation": "围绕「日本前首相福田康夫去世」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「日本前首相福田康夫去世」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "日本前首相福田康夫去世",
+      "eventSummary": "围绕「日本前首相福田康夫去世」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 70.4,
+      "source": "知微",
+      "heat": "4332",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 4332
+        }
+      ]
+    },
+    {
+      "level": "B",
+      "eventName": "凯恩获2026金球奖",
+      "topic": "凯恩获2026金球奖",
+      "score": 61.9,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 4,
+        "peakRank": 4,
+        "hotValue": "968",
+        "collectedAt": "2026-10-27T12:36:11.587Z",
+        "duration": "持续高位(第4名, 在榜11小时)",
+        "rankChange": "持续高位(第4名, 在榜11小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/9335ace10c64d40e10180498/profil"
+      },
+      "explanation": "围绕「凯恩获2026金球奖」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「凯恩获2026金球奖」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "凯恩获2026金球奖",
+      "eventSummary": "围绕「凯恩获2026金球奖」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 61.9,
+      "source": "知微",
+      "heat": "968",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 968
         }
       ]
     }
