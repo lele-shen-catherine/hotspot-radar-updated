@@ -1,0 +1,3064 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 1161609,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-10-21",
+        "sumH": 1086305,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 16.59,
+            "hE": 180212,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 10.54,
+            "hE": 114455,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 9.94,
+            "hE": 108007,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "80cd12ac379ea6bd10180450",
+            "img": "6.jpg",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "台风蔷琵",
+            "startTime": 1791993600000,
+            "oldPoint": 0,
+            "pro": 8.09,
+            "hE": 87896,
+            "tags": [
+              "台风"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 7.88,
+            "hE": 85625,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 7.63,
+            "hE": 82934,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "e45495bde91d2aa310180443",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "马斯克回应特斯拉SpaceX合并",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 5.14,
+            "hE": 55808,
+            "tags": [
+              "马斯克",
+              "特斯拉",
+              "SpaceX"
+            ]
+          },
+          {
+            "eventId": "769a1541456e099610180442",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "国家数据集团成立",
+            "startTime": 1792425600000,
+            "oldPoint": 0,
+            "pro": 4.19,
+            "hE": 45516,
+            "tags": [
+              "国家数据集团"
+            ]
+          },
+          {
+            "eventId": "5253ea8b0c675db310180457",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "张凌赫赴台被拒",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 3.92,
+            "hE": 42540,
+            "tags": [
+              "张凌赫",
+              "台湾"
+            ]
+          },
+          {
+            "eventId": "aabde7e704b174dd10180445",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "女子迟到错过检票失控哀求工作人员",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 3.24,
+            "hE": 35215,
+            "tags": [
+              "高铁",
+              "广西",
+              "情绪失控"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 248097
+          }
+        ]
+      },
+      {
+        "time": "2026-10-22",
+        "sumH": 1111786,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 19.91,
+            "hE": 221373,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 4,
+            "pro": 8.34,
+            "hE": 92713,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 1,
+            "pro": 7.67,
+            "hE": 85219,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "c054a4d6100cb09b10180454",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "中国体操女团时隔20年夺冠",
+            "startTime": 1792598400000,
+            "oldPoint": 98,
+            "pro": 7.13,
+            "hE": 79231,
+            "tags": [
+              "体操",
+              "夺冠"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 95,
+            "pro": 5.66,
+            "hE": 62961,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "c7b676e097971dd110180465",
+            "img": "4.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "山姆紧急下架牡蛎精胶囊",
+            "startTime": 1792598400000,
+            "oldPoint": 80,
+            "pro": 5.57,
+            "hE": 61884,
+            "tags": [
+              "山姆",
+              "下架",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 5,
+            "pro": 4.91,
+            "hE": 54625,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "a6b50b395602294d10180449",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "问界回应车辆起火",
+            "startTime": 1792512000000,
+            "oldPoint": 2,
+            "pro": 4.44,
+            "hE": 49309,
+            "tags": [
+              "问界",
+              "回应",
+              "起火",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "632a7acb6a7a99e210180464",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "国际",
+            "name": "PHP严重安全漏洞波及全球",
+            "startTime": 1792512000000,
+            "oldPoint": 18,
+            "pro": 4.41,
+            "hE": 49027,
+            "tags": [
+              "网络安全",
+              "PHP"
+            ]
+          },
+          {
+            "eventId": "5542d403094b4e6610180463",
+            "img": "2.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "女子称地铁站内看5小时书被扣15元",
+            "startTime": 1792512000000,
+            "oldPoint": 31,
+            "pro": 4.28,
+            "hE": 47600,
+            "tags": [
+              "地铁",
+              "广州"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 307844
+          }
+        ]
+      },
+      {
+        "time": "2026-10-23",
+        "sumH": 1330154,
+        "info": [
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 100,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 4,
+            "pro": 43.12,
+            "hE": 573540,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 15.5,
+            "hE": 206223,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 5.75,
+            "hE": 76498,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "6abcd212a93b53d010180485",
+            "img": "1792981182765.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "宇树科技发布新品后股价上涨",
+            "startTime": 1792425600000,
+            "oldPoint": 18,
+            "pro": 4.55,
+            "hE": 60535,
+            "tags": [
+              "宇树科技",
+              "股价"
+            ]
+          },
+          {
+            "eventId": "5b5e0101d0e745a210180475",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄子韬公司被强制执行2040万",
+            "startTime": 1792684800000,
+            "oldPoint": 90,
+            "pro": 3.75,
+            "hE": 49865,
+            "tags": [
+              "龙韬娱乐",
+              "危机",
+              "强制执行"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 6,
+            "pro": 3.32,
+            "hE": 44176,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "555d22d7a8827ea610180489",
+            "img": "1792982241389.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "iPhoneDuo品控问题",
+            "startTime": 1792684800000,
+            "oldPoint": 47,
+            "pro": 2.46,
+            "hE": 32752,
+            "tags": [
+              "苹果",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e12594de6705849b10180448",
+            "img": "4.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "神探李昌钰灵骨跨洋回归祖国",
+            "startTime": 1792512000000,
+            "oldPoint": 34,
+            "pro": 2.27,
+            "hE": 30245,
+            "tags": [
+              "李昌钰",
+              "扬州",
+              "回国"
+            ]
+          },
+          {
+            "eventId": "70ae947850b8aee910180479",
+            "img": "5.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "红果客服回复上线防沉迷提醒",
+            "startTime": 1792684800000,
+            "oldPoint": 68,
+            "pro": 1.88,
+            "hE": 25010,
+            "tags": [
+              "红果",
+              "防沉迷"
+            ]
+          },
+          {
+            "eventId": "b4949605c58445a410180476",
+            "img": "2.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "娃哈哈集团董事长被曝辞职",
+            "startTime": 1792598400000,
+            "oldPoint": 37,
+            "pro": 1.83,
+            "hE": 24407,
+            "tags": [
+              "娃哈哈",
+              "董事长",
+              "辞职"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 206903
+          }
+        ]
+      },
+      {
+        "time": "2026-10-24",
+        "sumH": 505175,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 41.41,
+            "hE": 209217,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.99,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 17.56,
+            "hE": 88704,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "555d22d7a8827ea610180489",
+            "img": "1792982241389.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "iPhoneDuo品控问题",
+            "startTime": 1792684800000,
+            "oldPoint": 6,
+            "pro": 8.03,
+            "hE": 40573,
+            "tags": [
+              "苹果",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 6.62,
+            "hE": 33456,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 24,
+            "pro": 5.18,
+            "hE": 26170,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "6abcd212a93b53d010180485",
+            "img": "1792981182765.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "宇树科技发布新品后股价上涨",
+            "startTime": 1792425600000,
+            "oldPoint": 3,
+            "pro": 2.35,
+            "hE": 11849,
+            "tags": [
+              "宇树科技",
+              "股价"
+            ]
+          },
+          {
+            "eventId": "bd36e5410a3e954c10180480",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "中国长城博物馆焕新开馆",
+            "startTime": 1792771200000,
+            "oldPoint": 83,
+            "pro": 2.16,
+            "hE": 10891,
+            "tags": [
+              "中国长城博物馆"
+            ]
+          },
+          {
+            "eventId": "419e7099eabac30910180482",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "小鹏00后产品经理就“老登”言辞道歉",
+            "startTime": 1792598400000,
+            "oldPoint": 12,
+            "pro": 1.58,
+            "hE": 7986,
+            "tags": [
+              "小鹏汽车",
+              "道歉"
+            ]
+          },
+          {
+            "eventId": "d6e8cd31e13aa83710180461",
+            "img": "1792634338401.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "宇树发布功夫传奇机器人",
+            "startTime": 1792512000000,
+            "oldPoint": 17,
+            "pro": 1.37,
+            "hE": 6918,
+            "tags": [
+              "宇树科技"
+            ]
+          },
+          {
+            "eventId": "05c9507c75ae06a210180455",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "星巴克确认“消费入座”",
+            "startTime": 1792512000000,
+            "oldPoint": 5,
+            "pro": 1.28,
+            "hE": 6487,
+            "tags": [
+              "星巴克",
+              "消费入座"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 62924
+          }
+        ]
+      },
+      {
+        "time": "2026-10-25",
+        "sumH": 581980,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 32.4,
+            "hE": 188564,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "19380d14c721c7e710180484",
+            "img": "1792981049870.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "张雪刷新吉尼斯纪录",
+            "startTime": 1792857600000,
+            "oldPoint": 21,
+            "pro": 22.37,
+            "hE": 130184,
+            "tags": [
+              "张雪机车",
+              "吉尼斯纪录"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.98,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 10.96,
+            "hE": 63766,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "2b7752e91ed2a9a910180487",
+            "img": "1792981529125.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "于蕾出任2027羊年央视春晚总导演",
+            "startTime": 1792857600000,
+            "oldPoint": 78,
+            "pro": 5.76,
+            "hE": 33518,
+            "tags": [
+              "春晚"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 5.22,
+            "hE": 30389,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "555d22d7a8827ea610180489",
+            "img": "1792982241389.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "iPhoneDuo品控问题",
+            "startTime": 1792684800000,
+            "oldPoint": 2,
+            "pro": 2.91,
+            "hE": 16956,
+            "tags": [
+              "苹果",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "199b9b1c1794c24b10180481",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "蔡康永深夜回应没支持过“台独”",
+            "startTime": 1792857600000,
+            "oldPoint": 77,
+            "pro": 2.47,
+            "hE": 14362,
+            "tags": [
+              "蔡康永",
+              "台独"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 4,
+            "pro": 1.66,
+            "hE": 9638,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "419e7099eabac30910180482",
+            "img": "33.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "小鹏00后产品经理就“老登”言辞道歉",
+            "startTime": 1792598400000,
+            "oldPoint": 7,
+            "pro": 1.62,
+            "hE": 9449,
+            "tags": [
+              "小鹏汽车",
+              "道歉"
+            ]
+          },
+          {
+            "eventId": "7e6eb6c85051428410180491",
+            "img": "2.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "寿司郎回应传送带出现老鼠",
+            "startTime": 1792857600000,
+            "oldPoint": 80,
+            "pro": 1.6,
+            "hE": 9331,
+            "tags": [
+              "寿司郎",
+              "危机",
+              "食品卫生"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 75823
+          }
+        ]
+      },
+      {
+        "time": "2026-10-26",
+        "sumH": 1021877,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 25.58,
+            "hE": 261352,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "9456661ab9b83bcb10180507",
+            "img": "88.png",
+            "pointPro": 99.99,
+            "firstType": "政务",
+            "name": "二十届五中全会在京召开",
+            "startTime": 1792944000000,
+            "oldPoint": 51,
+            "pro": 6.58,
+            "hE": 67281,
+            "tags": [
+              "二十届五中全会"
+            ]
+          },
+          {
+            "eventId": "d9bbe0023eb7ce3710180490",
+            "img": "1.jpg",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "日本前首相福田康夫去世",
+            "startTime": 1792944000000,
+            "oldPoint": 84,
+            "pro": 6.31,
+            "hE": 64507,
+            "tags": [
+              "福田康夫",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 4,
+            "pro": 6.06,
+            "hE": 61926,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 2,
+            "pro": 5.64,
+            "hE": 57596,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "555d22d7a8827ea610180489",
+            "img": "1792982241389.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "iPhoneDuo品控问题",
+            "startTime": 1792684800000,
+            "oldPoint": 5,
+            "pro": 5.27,
+            "hE": 53845,
+            "tags": [
+              "苹果",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "45edee625bd6b5c910180492",
+            "img": "3.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "老干妈回应AI裁员传闻",
+            "startTime": 1792944000000,
+            "oldPoint": 76,
+            "pro": 5.08,
+            "hE": 51912,
+            "tags": [
+              "老干妈",
+              "辟谣",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "992668dab3cb6c5610180508",
+            "img": "77.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "80岁卢拉翻盘赢下巴西大选",
+            "startTime": 1792857600000,
+            "oldPoint": 17,
+            "pro": 4.85,
+            "hE": 49583,
+            "tags": [
+              "巴西",
+              "总统竞选"
+            ]
+          },
+          {
+            "eventId": "6abcd212a93b53d010180485",
+            "img": "1792981182765.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "宇树科技发布新品后股价上涨",
+            "startTime": 1792425600000,
+            "oldPoint": 11,
+            "pro": 4.73,
+            "hE": 48319,
+            "tags": [
+              "宇树科技",
+              "股价"
+            ]
+          },
+          {
+            "eventId": "4c55c51aad68e68d10180518",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "奥迪在华“双品牌、双合作伙伴”战略落地",
+            "startTime": 1792944000000,
+            "oldPoint": 68,
+            "pro": 3.13,
+            "hE": 31994,
+            "tags": [
+              "奥迪",
+              "上汽集团",
+              "一汽"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 273562
+          }
+        ]
+      },
+      {
+        "time": "2026-10-27",
+        "sumH": 1712245,
+        "info": [
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 49,
+            "pro": 28.9,
+            "hE": 494815,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 18.4,
+            "hE": 315100,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.98,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 91,
+            "pro": 8.54,
+            "hE": 146256,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 38,
+            "pro": 7.86,
+            "hE": 134624,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 87,
+            "pro": 6.33,
+            "hE": 108415,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 15,
+            "pro": 3.75,
+            "hE": 64281,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 2.8,
+            "hE": 47969,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "74163778688e0a0010180512",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "王会民受贿4.36亿判死缓",
+            "startTime": 1793030400000,
+            "oldPoint": 96,
+            "pro": 2.03,
+            "hE": 34825,
+            "tags": [
+              "王会民",
+              "死缓"
+            ]
+          },
+          {
+            "eventId": "555d22d7a8827ea610180489",
+            "img": "1792982241389.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "iPhoneDuo品控问题",
+            "startTime": 1792684800000,
+            "oldPoint": 5,
+            "pro": 1.64,
+            "hE": 28097,
+            "tags": [
+              "苹果",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d9bbe0023eb7ce3710180490",
+            "img": "1.jpg",
+            "pointPro": 99.9,
+            "firstType": "国际",
+            "name": "日本前首相福田康夫去世",
+            "startTime": 1792944000000,
+            "oldPoint": 2,
+            "pro": 1.55,
+            "hE": 26456,
+            "tags": [
+              "福田康夫",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 311407
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-10-28 02",
+        "sumH": 7639,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 68.34,
+            "hE": 5221,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 5.92,
+            "hE": 452,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 0,
+            "pro": 4.04,
+            "hE": 308,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 0,
+            "pro": 3.68,
+            "hE": 281,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 0,
+            "pro": 3.12,
+            "hE": 238,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "ce17680016632b6310180467",
+            "img": "11.png",
+            "pointPro": 99.81,
+            "firstType": "财经",
+            "name": "前三季度北京GDP同比增长5.2%",
+            "startTime": 1792512000000,
+            "oldPoint": 0,
+            "pro": 2.29,
+            "hE": 175,
+            "tags": [
+              "GDP",
+              "北京"
+            ]
+          },
+          {
+            "eventId": "d9bbe0023eb7ce3710180490",
+            "img": "1.jpg",
+            "pointPro": 99.77,
+            "firstType": "国际",
+            "name": "日本前首相福田康夫去世",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 1.99,
+            "hE": 152,
+            "tags": [
+              "福田康夫",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.73,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 1.55,
+            "hE": 118,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.69,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 1.5,
+            "hE": 114,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "97b98a96903a68bb10180462",
+            "img": "1.jpg",
+            "pointPro": 99.65,
+            "firstType": "政务",
+            "name": "北京市副市长夏林茂被查",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 1.18,
+            "hE": 90,
+            "tags": [
+              "夏林茂",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 490
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 03",
+        "sumH": 6055,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 61.58,
+            "hE": 3729,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 2,
+            "pro": 7.45,
+            "hE": 451,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 8,
+            "pro": 7.26,
+            "hE": 440,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 4,
+            "pro": 5.74,
+            "hE": 348,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "1a0eae01535598bb10180468",
+            "img": "22.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "Meta被判250亿美元罚款",
+            "startTime": 1792512000000,
+            "oldPoint": 72,
+            "pro": 3.7,
+            "hE": 224,
+            "tags": [
+              "Meta",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "992668dab3cb6c5610180508",
+            "img": "77.png",
+            "pointPro": 99.77,
+            "firstType": "国际",
+            "name": "80岁卢拉翻盘赢下巴西大选",
+            "startTime": 1792857600000,
+            "oldPoint": 11,
+            "pro": 2.67,
+            "hE": 162,
+            "tags": [
+              "巴西",
+              "总统竞选"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.73,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 1,
+            "pro": 2.61,
+            "hE": 158,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.68,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 3,
+            "pro": 2.05,
+            "hE": 124,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.64,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 7,
+            "pro": 1.84,
+            "hE": 111,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.59,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 27,
+            "pro": 1.49,
+            "hE": 90,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 218
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 04",
+        "sumH": 5850,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 70.13,
+            "hE": 4102,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 3,
+            "pro": 12.88,
+            "hE": 753,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 8,
+            "pro": 4.96,
+            "hE": 290,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.89,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 7,
+            "pro": 2.95,
+            "hE": 173,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 6,
+            "pro": 2.7,
+            "hE": 158,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 1,
+            "pro": 2.28,
+            "hE": 134,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "3ab3aea85d183c4610180230",
+            "img": "1790576602110.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "电影《老江湖》",
+            "startTime": 1787760000000,
+            "oldPoint": 51,
+            "pro": 0.88,
+            "hE": 52,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.75,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 24,
+            "pro": 0.74,
+            "hE": 43,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "43b5e33c220dda2a10180513",
+            "img": "2.jpg",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "小米首个住宅小区开售",
+            "startTime": 1792512000000,
+            "oldPoint": 20,
+            "pro": 0.71,
+            "hE": 42,
+            "tags": [
+              "小米",
+              "住宅小区",
+              "开售"
+            ]
+          },
+          {
+            "eventId": "7c3962ea6cc76a0c10180516",
+            "img": "5.jpg",
+            "pointPro": 99.68,
+            "firstType": "企业",
+            "name": "泡泡玛特Q3业绩大跌",
+            "startTime": 1793030400000,
+            "oldPoint": 10,
+            "pro": 0.7,
+            "hE": 41,
+            "tags": [
+              "泡泡玛特",
+              "业绩报告",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 62
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 05",
+        "sumH": 7693,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 52.58,
+            "hE": 4044,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 3,
+            "pro": 9.65,
+            "hE": 743,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 1,
+            "pro": 8.81,
+            "hE": 678,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 4,
+            "pro": 6.19,
+            "hE": 476,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "d9bbe0023eb7ce3710180490",
+            "img": "1.jpg",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "日本前首相福田康夫去世",
+            "startTime": 1792944000000,
+            "oldPoint": 17,
+            "pro": 5.7,
+            "hE": 439,
+            "tags": [
+              "福田康夫",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 5,
+            "pro": 5.68,
+            "hE": 437,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "992668dab3cb6c5610180508",
+            "img": "77.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "80岁卢拉翻盘赢下巴西大选",
+            "startTime": 1792857600000,
+            "oldPoint": 49,
+            "pro": 2.55,
+            "hE": 196,
+            "tags": [
+              "巴西",
+              "总统竞选"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.77,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 2,
+            "hE": 154,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "74163778688e0a0010180512",
+            "img": "1.jpg",
+            "pointPro": 99.74,
+            "firstType": "政务",
+            "name": "王会民受贿4.36亿判死缓",
+            "startTime": 1793030400000,
+            "oldPoint": 15,
+            "pro": 1.48,
+            "hE": 114,
+            "tags": [
+              "王会民",
+              "死缓"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 11,
+            "pro": 1.07,
+            "hE": 83,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 329
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 06",
+        "sumH": 15396,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 36.24,
+            "hE": 5579,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 1,
+            "pro": 12.48,
+            "hE": 1921,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 5,
+            "pro": 10.35,
+            "hE": 1594,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 3,
+            "pro": 6.11,
+            "hE": 941,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "7c3962ea6cc76a0c10180516",
+            "img": "5.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "泡泡玛特Q3业绩大跌",
+            "startTime": 1793030400000,
+            "oldPoint": 24,
+            "pro": 5.55,
+            "hE": 854,
+            "tags": [
+              "泡泡玛特",
+              "业绩报告",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 7,
+            "pro": 4.74,
+            "hE": 730,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "d9bbe0023eb7ce3710180490",
+            "img": "1.jpg",
+            "pointPro": 99.85,
+            "firstType": "国际",
+            "name": "日本前首相福田康夫去世",
+            "startTime": 1792944000000,
+            "oldPoint": 4,
+            "pro": 3.37,
+            "hE": 519,
+            "tags": [
+              "福田康夫",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "992668dab3cb6c5610180508",
+            "img": "77.png",
+            "pointPro": 99.83,
+            "firstType": "国际",
+            "name": "80岁卢拉翻盘赢下巴西大选",
+            "startTime": 1792857600000,
+            "oldPoint": 6,
+            "pro": 3.06,
+            "hE": 471,
+            "tags": [
+              "巴西",
+              "总统竞选"
+            ]
+          },
+          {
+            "eventId": "769a1541456e099610180442",
+            "img": "22.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "国家数据集团成立",
+            "startTime": 1792425600000,
+            "oldPoint": 37,
+            "pro": 2.39,
+            "hE": 367,
+            "tags": [
+              "国家数据集团"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 9,
+            "pro": 2.12,
+            "hE": 327,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2093
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 07",
+        "sumH": 31920,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 24.15,
+            "hE": 7708,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 3,
+            "pro": 12.31,
+            "hE": 3929,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 2,
+            "pro": 10.03,
+            "hE": 3201,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.94,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 1,
+            "pro": 9.76,
+            "hE": 3116,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "992668dab3cb6c5610180508",
+            "img": "77.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "80岁卢拉翻盘赢下巴西大选",
+            "startTime": 1792857600000,
+            "oldPoint": 7,
+            "pro": 6.73,
+            "hE": 2147,
+            "tags": [
+              "巴西",
+              "总统竞选"
+            ]
+          },
+          {
+            "eventId": "7c3962ea6cc76a0c10180516",
+            "img": "5.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "泡泡玛特Q3业绩大跌",
+            "startTime": 1793030400000,
+            "oldPoint": 4,
+            "pro": 6.62,
+            "hE": 2113,
+            "tags": [
+              "泡泡玛特",
+              "业绩报告",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 9,
+            "pro": 5.73,
+            "hE": 1829,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 10,
+            "pro": 2.65,
+            "hE": 847,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "43b5e33c220dda2a10180513",
+            "img": "2.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "小米首个住宅小区开售",
+            "startTime": 1792512000000,
+            "oldPoint": 15,
+            "pro": 2.58,
+            "hE": 823,
+            "tags": [
+              "小米",
+              "住宅小区",
+              "开售"
+            ]
+          },
+          {
+            "eventId": "1a0eae01535598bb10180468",
+            "img": "22.png",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "Meta被判250亿美元罚款",
+            "startTime": 1792512000000,
+            "oldPoint": 29,
+            "pro": 1.65,
+            "hE": 527,
+            "tags": [
+              "Meta",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5680
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 08",
+        "sumH": 50581,
+        "info": [
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 1,
+            "pro": 29.53,
+            "hE": 14938,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 19.37,
+            "hE": 9798,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 2,
+            "pro": 11.71,
+            "hE": 5922,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.95,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 3,
+            "pro": 6.98,
+            "hE": 3532,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "7c3962ea6cc76a0c10180516",
+            "img": "5.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "泡泡玛特Q3业绩大跌",
+            "startTime": 1793030400000,
+            "oldPoint": 5,
+            "pro": 3.81,
+            "hE": 1930,
+            "tags": [
+              "泡泡玛特",
+              "业绩报告",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 6,
+            "pro": 3.7,
+            "hE": 1873,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "992668dab3cb6c5610180508",
+            "img": "77.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "80岁卢拉翻盘赢下巴西大选",
+            "startTime": 1792857600000,
+            "oldPoint": 4,
+            "pro": 3.52,
+            "hE": 1783,
+            "tags": [
+              "巴西",
+              "总统竞选"
+            ]
+          },
+          {
+            "eventId": "43b5e33c220dda2a10180513",
+            "img": "2.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "小米首个住宅小区开售",
+            "startTime": 1792512000000,
+            "oldPoint": 8,
+            "pro": 2.79,
+            "hE": 1409,
+            "tags": [
+              "小米",
+              "住宅小区",
+              "开售"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 17,
+            "pro": 2.03,
+            "hE": 1028,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.84,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 11,
+            "pro": 1.92,
+            "hE": 969,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 7399
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 09",
+        "sumH": 70367,
+        "info": [
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 31.02,
+            "hE": 21829,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 19.15,
+            "hE": 13475,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 2,
+            "pro": 9.9,
+            "hE": 6965,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 3,
+            "pro": 6.67,
+            "hE": 4692,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "7c3962ea6cc76a0c10180516",
+            "img": "5.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "泡泡玛特Q3业绩大跌",
+            "startTime": 1793030400000,
+            "oldPoint": 4,
+            "pro": 3.14,
+            "hE": 2206,
+            "tags": [
+              "泡泡玛特",
+              "业绩报告",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "43b5e33c220dda2a10180513",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "小米首个住宅小区开售",
+            "startTime": 1792512000000,
+            "oldPoint": 7,
+            "pro": 2.85,
+            "hE": 2008,
+            "tags": [
+              "小米",
+              "住宅小区",
+              "开售"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 10,
+            "pro": 2.75,
+            "hE": 1937,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 9,
+            "pro": 2.67,
+            "hE": 1882,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "90805898431397c010180500",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "Anthropic正式提交IPO申请",
+            "startTime": 1792944000000,
+            "oldPoint": 5,
+            "pro": 2.53,
+            "hE": 1777,
+            "tags": [
+              "Anthropic",
+              "IPO申请"
+            ]
+          },
+          {
+            "eventId": "992668dab3cb6c5610180508",
+            "img": "77.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "80岁卢拉翻盘赢下巴西大选",
+            "startTime": 1792857600000,
+            "oldPoint": 6,
+            "pro": 1.99,
+            "hE": 1400,
+            "tags": [
+              "巴西",
+              "总统竞选"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 12196
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 10",
+        "sumH": 79817,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 20.74,
+            "hE": 16557,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 19.36,
+            "hE": 15456,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "199b9b1c1794c24b10180481",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "蔡康永深夜回应没支持过“台独”",
+            "startTime": 1792857600000,
+            "oldPoint": 37,
+            "pro": 13.56,
+            "hE": 10822,
+            "tags": [
+              "蔡康永",
+              "台独"
+            ]
+          },
+          {
+            "eventId": "5253ea8b0c675db310180457",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "张凌赫赴台被拒",
+            "startTime": 1792512000000,
+            "oldPoint": 73,
+            "pro": 6.97,
+            "hE": 5566,
+            "tags": [
+              "张凌赫",
+              "台湾"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.94,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 3,
+            "pro": 5.53,
+            "hE": 4416,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 2,
+            "pro": 4.92,
+            "hE": 3929,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "6abcd212a93b53d010180485",
+            "img": "1792981182765.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "宇树科技发布新品后股价上涨",
+            "startTime": 1792425600000,
+            "oldPoint": 22,
+            "pro": 3.42,
+            "hE": 2732,
+            "tags": [
+              "宇树科技",
+              "股价"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 7,
+            "pro": 2.77,
+            "hE": 2213,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "9456661ab9b83bcb10180507",
+            "img": "88.png",
+            "pointPro": 99.87,
+            "firstType": "政务",
+            "name": "二十届五中全会在京召开",
+            "startTime": 1792944000000,
+            "oldPoint": 14,
+            "pro": 2.36,
+            "hE": 1882,
+            "tags": [
+              "二十届五中全会"
+            ]
+          },
+          {
+            "eventId": "9335ace10c64d40e10180498",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "凯恩获2026金球奖",
+            "startTime": 1793030400000,
+            "oldPoint": 6,
+            "pro": 1.71,
+            "hE": 1364,
+            "tags": [
+              "金球奖",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 14880
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 11",
+        "sumH": 83239,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 17.59,
+            "hE": 14642,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 1,
+            "pro": 17.06,
+            "hE": 14201,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "199b9b1c1794c24b10180481",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "蔡康永深夜回应没支持过“台独”",
+            "startTime": 1792857600000,
+            "oldPoint": 2,
+            "pro": 13.85,
+            "hE": 11533,
+            "tags": [
+              "蔡康永",
+              "台独"
+            ]
+          },
+          {
+            "eventId": "5253ea8b0c675db310180457",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "张凌赫赴台被拒",
+            "startTime": 1792512000000,
+            "oldPoint": 3,
+            "pro": 7.8,
+            "hE": 6491,
+            "tags": [
+              "张凌赫",
+              "台湾"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.94,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 4,
+            "pro": 7.29,
+            "hE": 6066,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 5,
+            "pro": 6.07,
+            "hE": 5054,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 7,
+            "pro": 5.18,
+            "hE": 4315,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "6abcd212a93b53d010180485",
+            "img": "1792981182765.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "宇树科技发布新品后股价上涨",
+            "startTime": 1792425600000,
+            "oldPoint": 6,
+            "pro": 5.04,
+            "hE": 4199,
+            "tags": [
+              "宇树科技",
+              "股价"
+            ]
+          },
+          {
+            "eventId": "7c3962ea6cc76a0c10180516",
+            "img": "5.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "泡泡玛特Q3业绩大跌",
+            "startTime": 1793030400000,
+            "oldPoint": 14,
+            "pro": 2.86,
+            "hE": 2379,
+            "tags": [
+              "泡泡玛特",
+              "业绩报告",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "43b5e33c220dda2a10180513",
+            "img": "2.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "小米首个住宅小区开售",
+            "startTime": 1792512000000,
+            "oldPoint": 11,
+            "pro": 2.1,
+            "hE": 1746,
+            "tags": [
+              "小米",
+              "住宅小区",
+              "开售"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 12613
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 12",
+        "sumH": 52394,
+        "info": [
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 1,
+            "pro": 20.45,
+            "hE": 10714,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 20.43,
+            "hE": 10704,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 4,
+            "pro": 8.92,
+            "hE": 4674,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 6,
+            "pro": 8.7,
+            "hE": 4560,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "199b9b1c1794c24b10180481",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "蔡康永深夜回应没支持过“台独”",
+            "startTime": 1792857600000,
+            "oldPoint": 2,
+            "pro": 8.28,
+            "hE": 4336,
+            "tags": [
+              "蔡康永",
+              "台独"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 5,
+            "pro": 7.36,
+            "hE": 3855,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "5253ea8b0c675db310180457",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "张凌赫赴台被拒",
+            "startTime": 1792512000000,
+            "oldPoint": 3,
+            "pro": 4.94,
+            "hE": 2586,
+            "tags": [
+              "张凌赫",
+              "台湾"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 10,
+            "pro": 3.06,
+            "hE": 1602,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 13,
+            "pro": 2.29,
+            "hE": 1199,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "555d22d7a8827ea610180489",
+            "img": "1792982241389.png",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "iPhoneDuo品控问题",
+            "startTime": 1792684800000,
+            "oldPoint": 19,
+            "pro": 1.46,
+            "hE": 765,
+            "tags": [
+              "苹果",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 7399
+          }
+        ]
+      },
+      {
+        "time": "2026-10-28 13",
+        "sumH": 40280,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 23.72,
+            "hE": 9555,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "199b9b1c1794c24b10180481",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "蔡康永深夜回应没支持过“台独”",
+            "startTime": 1792857600000,
+            "oldPoint": 4,
+            "pro": 11.03,
+            "hE": 4444,
+            "tags": [
+              "蔡康永",
+              "台独"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 9.9,
+            "hE": 3987,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ad81517b445a2dde10180506",
+            "img": "77.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "offer8医学生李子祺引争议",
+            "startTime": 1792512000000,
+            "oldPoint": 14,
+            "pro": 9.68,
+            "hE": 3898,
+            "tags": [
+              "令人心动的offer",
+              "翻车"
+            ]
+          },
+          {
+            "eventId": "05b2079991853b0410180511",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "多个品牌终止与姆巴佩合作",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 9.49,
+            "hE": 3821,
+            "tags": [
+              "姆巴佩",
+              "不当言论"
+            ]
+          },
+          {
+            "eventId": "cc90031b0481749d10180515",
+            "img": "4.jpg",
+            "pointPro": 99.9,
+            "firstType": "违法犯罪",
+            "name": "反诈博主徽剑2年前遭买凶遇害",
+            "startTime": 1793030400000,
+            "oldPoint": 2,
+            "pro": 6.18,
+            "hE": 2490,
+            "tags": [
+              "博主",
+              "杀害"
+            ]
+          },
+          {
+            "eventId": "6b07a63a0d85ae5c10180514",
+            "img": "3.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "张一鸣刷新中国首富财富纪录",
+            "startTime": 1793030400000,
+            "oldPoint": 5,
+            "pro": 4.21,
+            "hE": 1697,
+            "tags": [
+              "张一鸣",
+              "字节跳动",
+              "中国首富"
+            ]
+          },
+          {
+            "eventId": "5253ea8b0c675db310180457",
+            "img": "44.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "张凌赫赴台被拒",
+            "startTime": 1792512000000,
+            "oldPoint": 6,
+            "pro": 3.96,
+            "hE": 1596,
+            "tags": [
+              "张凌赫",
+              "台湾"
+            ]
+          },
+          {
+            "eventId": "63e59ccda3d84ec010180451",
+            "img": "7.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "红果短剧计划下线金币功能",
+            "startTime": 1792512000000,
+            "oldPoint": 8,
+            "pro": 3.31,
+            "hE": 1332,
+            "tags": [
+              "红果",
+              "下架"
+            ]
+          },
+          {
+            "eventId": "96b1eb2758d866c310180474",
+            "img": "44.png",
+            "pointPro": 99.81,
+            "firstType": "灾难",
+            "name": "西藏那曲发生7.0级地震",
+            "startTime": 1792598400000,
+            "oldPoint": 7,
+            "pro": 3.27,
+            "hE": 1317,
+            "tags": [
+              "地震",
+              "西藏"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6143
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
