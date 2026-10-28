@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:21:39.846Z",
+  "generatedAt": "2026-10-28T21:26:43.568Z",
   "date": "2026-10-28",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
@@ -11,17 +11,17 @@
       "eventName": "在稻城亚丁看一场秋日童话",
       "platform": "抖音",
       "rank": 1,
-      "hot": 12268872,
-      "hotValue": 12268872,
+      "hot": 11812782,
+      "hotValue": 11812782,
       "url": "https://www.douyin.com/search/%E5%9C%A8%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E7%9C%8B%E4%B8%80%E5%9C%BA%E7%A7%8B%E6%97%A5%E7%AB%A5%E8%AF%9D",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12268872
+          "hot": 11812782
         }
       ],
-      "totalScore": 84.4,
+      "totalScore": 84.3,
       "posScore": 98,
       "hotScore": 99,
       "trendScore": 85,
@@ -31,7 +31,7 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-10-28T14:21:39.846Z",
+      "collectedAt": "2026-10-28T21:26:43.568Z",
       "eventSummary": "围绕「在稻城亚丁看一场秋日童话」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「在稻城亚丁看一场秋日童话」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -39,56 +39,23 @@
     {
       "level": "A",
       "seat": "总榜Top2",
-      "title": "电视剧《小城良方》",
-      "topic": "电视剧《小城良方》",
-      "eventName": "电视剧《小城良方》",
-      "platform": "知微",
-      "rank": 2,
-      "hot": 9555,
-      "hotValue": 9555,
-      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 1,
-          "hot": 9555
-        }
-      ],
-      "totalScore": 84,
-      "posScore": 88.9,
-      "hotScore": 94.4,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 2→1, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 2→1, 在榜11小时",
-      "rankChange": "排名上升 2→1, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-10-28T14:21:39.846Z",
-      "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top3",
-      "title": "海信回应与皇马合作",
-      "topic": "海信回应与皇马合作",
-      "eventName": "海信回应与皇马合作",
+      "title": "理想i6",
+      "topic": "理想i6",
+      "eventName": "理想i6",
       "platform": "微博",
-      "rank": 3,
-      "hot": 3099687,
-      "hotValue": 3099687,
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E4%BF%A1%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%9A%87%E9%A9%AC%E5%90%88%E4%BD%9C%23",
+      "rank": 2,
+      "hot": 1673079,
+      "hotValue": 1673079,
+      "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3i6%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 3099687
+          "hot": 1673079
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98.1,
+      "posScore": 98,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -97,76 +64,142 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-10-28T14:21:39.846Z",
-      "eventSummary": "焦点赛事结束，比分已出，胜负结果与比赛过程成为讨论焦点。",
-      "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
+      "collectedAt": "2026-10-28T21:26:43.568Z",
+      "eventSummary": "围绕「理想i6」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「理想i6」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top3",
+      "title": "西班牙国铁回应列车相撞",
+      "topic": "西班牙国铁回应列车相撞",
+      "eventName": "西班牙国铁回应列车相撞",
+      "platform": "知微",
+      "rank": 3,
+      "hot": 10845,
+      "hotValue": 10845,
+      "url": "https://ef.zhiweidata.com/eventRk/02393bd4d5e698c110180531/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 10845
+        }
+      ],
+      "totalScore": 76.5,
+      "posScore": 88.9,
+      "hotScore": 94.4,
+      "trendScore": 70,
+      "trendEvidence": "平稳(第1名, 在榜3小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "平稳(第1名, 在榜3小时)",
+      "rankChange": "平稳(第1名, 在榜3小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-28T21:26:43.568Z",
+      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
+      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
       "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
       "seat": "总榜Top4",
-      "title": "蔡康永深夜回应没支持过“台独”",
-      "topic": "蔡康永深夜回应没支持过“台独”",
-      "eventName": "蔡康永深夜回应没支持过“台独”",
+      "title": "电视剧《小城良方》",
+      "topic": "电视剧《小城良方》",
+      "eventName": "电视剧《小城良方》",
       "platform": "知微",
       "rank": 4,
-      "hot": 4444,
-      "hotValue": 4444,
-      "url": "https://ef.zhiweidata.com/eventRk/199b9b1c1794c24b10180481/profil",
+      "hot": 8854,
+      "hotValue": 8854,
+      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 4444
+          "hot": 8854
         }
       ],
-      "totalScore": 77.9,
+      "totalScore": 74.1,
       "posScore": 77.8,
       "hotScore": 83.3,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 5→2, 在榜3小时",
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 5→2, 在榜3小时",
-      "rankChange": "排名上升 5→2, 在榜3小时",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-28T14:21:39.846Z",
-      "eventSummary": "围绕「蔡康永深夜回应没支持过“台独”」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+      "collectedAt": "2026-10-28T21:26:43.568Z",
+      "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top5",
+      "title": "反诈博主徽剑2年前遭买凶遇害",
+      "topic": "反诈博主徽剑2年前遭买凶遇害",
+      "eventName": "反诈博主徽剑2年前遭买凶遇害",
+      "platform": "知微",
+      "rank": 5,
+      "hot": 2702,
+      "hotValue": 2702,
+      "url": "https://ef.zhiweidata.com/eventRk/cc90031b0481749d10180515/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 2702
+        }
+      ],
+      "totalScore": 71.8,
+      "posScore": 66.7,
+      "hotScore": 72.2,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 4→3, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 4→3, 在榜11小时",
+      "rankChange": "排名上升 4→3, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-10-28T21:26:43.568Z",
+      "eventSummary": "围绕「反诈博主徽剑2年前遭买凶遇害」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「反诈博主徽剑2年前遭买凶遇害」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top5",
-      "title": "offer8医学生李子祺引争议",
-      "topic": "offer8医学生李子祺引争议",
-      "eventName": "offer8医学生李子祺引争议",
+      "seat": "总榜Top6",
+      "title": "国务院原副总理刘延东逝世",
+      "topic": "国务院原副总理刘延东逝世",
+      "eventName": "国务院原副总理刘延东逝世",
       "platform": "知微",
-      "rank": 5,
-      "hot": 3898,
-      "hotValue": 3898,
-      "url": "https://ef.zhiweidata.com/eventRk/ad81517b445a2dde10180506/profil",
+      "rank": 6,
+      "hot": 2068,
+      "hotValue": 2068,
+      "url": "https://ef.zhiweidata.com/eventRk/506b65460529cb3a10180529/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 3898
+          "hot": 2068
         }
       ],
-      "totalScore": 55.7,
+      "totalScore": 65.2,
       "posScore": 55.6,
       "hotScore": 61.1,
-      "trendScore": 60,
-      "trendEvidence": "刚上榜(在榜0小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "刚上榜(在榜0小时)",
-      "rankChange": "刚上榜(在榜0小时)",
+      "trendScore": 70,
+      "trendEvidence": "平稳(第4名, 在榜2小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 国务院原副总理刘延东逝世)",
+      "duration": "平稳(第4名, 在榜2小时)",
+      "rankChange": "平稳(第4名, 在榜2小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-28T14:21:39.846Z",
-      "eventSummary": "围绕「offer8医学生李子祺引争议」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "身份反差与价值观张力极强，共情与质疑两极，公共资源公平性议题易引发争论，属高热度但需谨慎跟进。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+      "collectedAt": "2026-10-28T21:26:43.568Z",
+      "eventSummary": "围绕「国务院原副总理刘延东逝世」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「国务院原副总理刘延东逝世」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }
