@@ -1,60 +1,27 @@
 {
-  "generatedAt": "2026-10-30T21:24:46.085Z",
-  "date": "2026-10-30",
+  "generatedAt": "2026-10-31T14:21:38.500Z",
+  "date": "2026-10-31",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
       "seat": "总榜Top1",
-      "title": "电视剧《小城良方》",
-      "topic": "电视剧《小城良方》",
-      "eventName": "电视剧《小城良方》",
-      "platform": "知微",
-      "rank": 1,
-      "hot": 16043,
-      "hotValue": 16043,
-      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 1,
-          "hot": 16043
-        }
-      ],
-      "totalScore": 84.5,
-      "posScore": 90,
-      "hotScore": 95,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 2→1, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 2→1, 在榜11小时",
-      "rankChange": "排名上升 2→1, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-10-30T21:24:46.085Z",
-      "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
-      "title": "中共中央举行新闻发布会",
-      "topic": "中共中央举行新闻发布会",
-      "eventName": "中共中央举行新闻发布会",
+      "title": "冬天奶茶要挖着吃才满足",
+      "topic": "冬天奶茶要挖着吃才满足",
+      "eventName": "冬天奶茶要挖着吃才满足",
       "platform": "抖音",
-      "rank": 2,
-      "hot": 11823417,
-      "hotValue": 11823417,
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+      "rank": 1,
+      "hot": 11562108,
+      "hotValue": 11562108,
+      "url": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%A5%B6%E8%8C%B6%E8%A6%81%E6%8C%96%E7%9D%80%E5%90%83%E6%89%8D%E6%BB%A1%E8%B6%B3",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11823417
+          "hot": 11562108
         }
       ],
-      "totalScore": 84.4,
+      "totalScore": 84.3,
       "posScore": 98,
       "hotScore": 99,
       "trendScore": 85,
@@ -64,27 +31,27 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-10-30T21:24:46.085Z",
-      "eventSummary": "品牌/平台举办新品发布活动，公布新产品与价格，引发用户围观与讨论。",
-      "propagation": "新品首发自带\"即时体验\"冲动；科技/新品发布制造悬念，KOL 开箱 + 评论区讨论带动跨平台扩散。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
+      "collectedAt": "2026-10-31T14:21:38.500Z",
+      "eventSummary": "围绕「冬天奶茶要挖着吃才满足」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「冬天奶茶要挖着吃才满足」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top3",
+      "seat": "总榜Top2",
       "title": "二十届五中全会在京召开",
       "topic": "二十届五中全会在京召开",
       "eventName": "二十届五中全会在京召开",
       "platform": "知微",
-      "rank": 3,
-      "hot": 12441,
-      "hotValue": 12441,
+      "rank": 2,
+      "hot": 2962,
+      "hotValue": 2962,
       "url": "https://ef.zhiweidata.com/eventRk/9456661ab9b83bcb10180507/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 12441
+          "hot": 2962
         }
       ],
       "totalScore": 82.3,
@@ -97,31 +64,64 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-10-30T21:24:46.085Z",
+      "collectedAt": "2026-10-31T14:21:38.500Z",
       "eventSummary": "围绕「二十届五中全会在京召开」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「二十届五中全会在京召开」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
+      "seat": "总榜Top3",
+      "title": "电视剧《小城良方》",
+      "topic": "电视剧《小城良方》",
+      "eventName": "电视剧《小城良方》",
+      "platform": "知微",
+      "rank": 3,
+      "hot": 5551,
+      "hotValue": 5551,
+      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 5551
+        }
+      ],
+      "totalScore": 80.8,
+      "posScore": 90,
+      "hotScore": 95,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第1名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第1名, 在榜11小时)",
+      "rankChange": "持续高位(第1名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-10-31T14:21:38.500Z",
+      "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
       "seat": "总榜Top4",
-      "title": "男子星巴克不消费占座被劝离后报警",
-      "topic": "男子星巴克不消费占座被劝离后报警",
-      "eventName": "男子星巴克不消费占座被劝离后报警",
+      "title": "卖650万捐赠房产要缴450万的税",
+      "topic": "卖650万捐赠房产要缴450万的税",
+      "eventName": "卖650万捐赠房产要缴450万的税",
       "platform": "微博",
       "rank": 4,
-      "hot": 1122213,
-      "hotValue": 1122213,
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%8D%E6%B6%88%E8%B4%B9%E5%8D%A0%E5%BA%A7%E8%A2%AB%E5%8A%9D%E7%A6%BB%E5%90%8E%E6%8A%A5%E8%AD%A6%23",
+      "hot": 1206974,
+      "hotValue": 1206974,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1122213
+          "hot": 1206974
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98,
+      "posScore": 98.1,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -130,76 +130,43 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-10-30T21:24:46.085Z",
-      "eventSummary": "围绕「男子星巴克不消费占座被劝离后报警」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「男子星巴克不消费占座被劝离后报警」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+      "collectedAt": "2026-10-31T14:21:38.500Z",
+      "eventSummary": "围绕「卖650万捐赠房产要缴450万的税」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「卖650万捐赠房产要缴450万的税」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "level": "B",
+      "level": "A",
       "seat": "总榜Top5",
-      "title": "云南昭通小伙“小小徐”邀请全国网友吃席",
-      "topic": "云南昭通小伙“小小徐”邀请全国网友吃席",
-      "eventName": "云南昭通小伙“小小徐”邀请全国网友吃席",
+      "title": "反诈博主徽剑2年前遭买凶遇害",
+      "topic": "反诈博主徽剑2年前遭买凶遇害",
+      "eventName": "反诈博主徽剑2年前遭买凶遇害",
       "platform": "知微",
       "rank": 5,
-      "hot": 6495,
-      "hotValue": 6495,
-      "url": "https://ef.zhiweidata.com/eventRk/d09e99edaa60577b10180554/profil",
+      "hot": 2917,
+      "hotValue": 2917,
+      "url": "https://ef.zhiweidata.com/eventRk/cc90031b0481749d10180515/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 6495
+          "hot": 2917
         }
       ],
-      "totalScore": 69.8,
+      "totalScore": 73.5,
       "posScore": 70,
       "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-10-30T21:24:46.085Z",
-      "eventSummary": "围绕「云南昭通小伙“小小徐”邀请全国网友吃席」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「云南昭通小伙“小小徐”邀请全国网友吃席」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "B",
-      "seat": "总榜Top6",
-      "title": "西班牙国铁回应列车相撞",
-      "topic": "西班牙国铁回应列车相撞",
-      "eventName": "西班牙国铁回应列车相撞",
-      "platform": "知微",
-      "rank": 6,
-      "hot": 1492,
-      "hotValue": 1492,
-      "url": "https://ef.zhiweidata.com/eventRk/02393bd4d5e698c110180531/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 4,
-          "hot": 1492
-        }
-      ],
-      "totalScore": 68,
-      "posScore": 60,
-      "hotScore": 65,
       "trendScore": 100,
-      "trendEvidence": "排名上升 10→4, 在榜11小时",
+      "trendEvidence": "排名上升 4→3, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 10→4, 在榜11小时",
-      "rankChange": "排名上升 10→4, 在榜11小时",
+      "duration": "排名上升 4→3, 在榜11小时",
+      "rankChange": "排名上升 4→3, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-10-30T21:24:46.085Z",
-      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
-      "propagation": "品牌公关事件触发信任议题；公众关注品牌态度与整改诚意，道歉-回应-后续处理构成完整叙事，评论区两极分化推动持续上榜。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+      "collectedAt": "2026-10-31T14:21:38.500Z",
+      "eventSummary": "围绕「反诈博主徽剑2年前遭买凶遇害」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「反诈博主徽剑2年前遭买凶遇害」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }
