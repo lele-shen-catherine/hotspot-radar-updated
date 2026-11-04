@@ -1,24 +1,57 @@
 {
-  "generatedAt": "2026-11-04T14:40:36.075Z",
+  "generatedAt": "2026-11-04T15:00:01.233Z",
   "date": "2026-11-04",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
+      "title": "A股",
+      "topic": "A股",
+      "eventName": "A股",
+      "platform": "微博",
+      "rank": 1,
+      "hot": 1317715,
+      "hotValue": 1317715,
+      "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1317715
+        }
+      ],
+      "totalScore": 85.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: A股)",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-04T15:00:01.233Z",
+      "eventSummary": "围绕「A股」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「A股」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top2",
       "title": "电视剧《小城良方》",
       "topic": "电视剧《小城良方》",
       "eventName": "电视剧《小城良方》",
       "platform": "知微",
-      "rank": 1,
-      "hot": 7678,
-      "hotValue": 7678,
+      "rank": 2,
+      "hot": 7738,
+      "hotValue": 7738,
       "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 7678
+          "hot": 7738
         }
       ],
       "totalScore": 80.8,
@@ -31,27 +64,27 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-04T14:40:36.075Z",
+      "collectedAt": "2026-11-04T15:00:01.233Z",
       "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top2",
+      "seat": "总榜Top3",
       "title": "觉醒吧我的厨艺天赋",
       "topic": "觉醒吧我的厨艺天赋",
       "eventName": "觉醒吧我的厨艺天赋",
       "platform": "抖音",
-      "rank": 2,
-      "hot": 12052706,
-      "hotValue": 12052706,
+      "rank": 3,
+      "hot": 11859045,
+      "hotValue": 11859045,
       "url": "https://www.douyin.com/search/%E8%A7%89%E9%86%92%E5%90%A7%E6%88%91%E7%9A%84%E5%8E%A8%E8%89%BA%E5%A4%A9%E8%B5%8B",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12052706
+          "hot": 11859045
         }
       ],
       "totalScore": 78.1,
@@ -64,42 +97,9 @@
       "duration": "抖音无在榜时长(按60)",
       "rankChange": "抖音无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-04T14:40:36.075Z",
+      "collectedAt": "2026-11-04T15:00:01.233Z",
       "eventSummary": "围绕「觉醒吧我的厨艺天赋」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「觉醒吧我的厨艺天赋」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top3",
-      "title": "特朗普全面惨败",
-      "topic": "特朗普全面惨败",
-      "eventName": "特朗普全面惨败",
-      "platform": "微博",
-      "rank": 3,
-      "hot": 2696467,
-      "hotValue": 2696467,
-      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E6%83%A8%E8%B4%A5%23",
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 2696467
-        }
-      ],
-      "totalScore": 78.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-04T14:40:36.075Z",
-      "eventSummary": "围绕「特朗普全面惨败」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「特朗普全面惨败」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -130,7 +130,7 @@
       "duration": "持续高位(第2名, 在榜6小时)",
       "rankChange": "持续高位(第2名, 在榜6小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-04T14:40:36.075Z",
+      "collectedAt": "2026-11-04T15:00:01.233Z",
       "eventSummary": "围绕「苹果天气App预报北京上海厦门等地-30℃」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "头部品牌新品发布自带\"即时体验\"冲动；首发与价格公布制造悬念，KOL 开箱 + 评论区\"值不值\"讨论带动跨平台扩散，传播窗口短而集中。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -143,14 +143,14 @@
       "eventName": "秦朔起诉抖音集团副总裁李亮",
       "platform": "知微",
       "rank": 5,
-      "hot": 1382,
-      "hotValue": 1382,
+      "hot": 2163,
+      "hotValue": 2163,
       "url": "https://ef.zhiweidata.com/eventRk/9e2cc8986a60b29010180587/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 1382
+          "hot": 2163
         }
       ],
       "totalScore": 73.5,
@@ -163,9 +163,42 @@
       "duration": "排名上升 4→3, 在榜9小时",
       "rankChange": "排名上升 4→3, 在榜9小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-04T14:40:36.075Z",
+      "collectedAt": "2026-11-04T15:00:01.233Z",
       "eventSummary": "围绕「秦朔起诉抖音集团副总裁李亮」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「秦朔起诉抖音集团副总裁李亮」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top6",
+      "title": "尹锡悦二审被求死刑",
+      "topic": "尹锡悦二审被求死刑",
+      "eventName": "尹锡悦二审被求死刑",
+      "platform": "知微",
+      "rank": 6,
+      "hot": 918,
+      "hotValue": 918,
+      "url": "https://ef.zhiweidata.com/eventRk/927303d0a0b354b210180548/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 918
+        }
+      ],
+      "totalScore": 58,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 60,
+      "trendEvidence": "刚上榜(在榜0小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "刚上榜(在榜0小时)",
+      "rankChange": "刚上榜(在榜0小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-04T15:00:01.233Z",
+      "eventSummary": "围绕「尹锡悦二审被求死刑」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「尹锡悦二审被求死刑」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
