@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T14:31:08.560Z",
+  "generatedAt": "2026-11-06T15:00:01.873Z",
   "date": "2026-11-06",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
@@ -11,17 +11,17 @@
       "eventName": "BLG战胜DK晋级半决赛",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11409686,
-      "hotValue": 11409686,
+      "hot": 11425858,
+      "hotValue": 11425858,
       "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CDK%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11409686
+          "hot": 11425858
         }
       ],
-      "totalScore": 84.3,
+      "totalScore": 84.4,
       "posScore": 98,
       "hotScore": 99,
       "trendScore": 85,
@@ -31,7 +31,7 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T14:31:08.560Z",
+      "collectedAt": "2026-11-06T15:00:01.873Z",
       "eventSummary": "围绕「BLG战胜DK晋级半决赛」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -64,7 +64,7 @@
       "duration": "排名上升 4→2, 在榜11小时",
       "rankChange": "排名上升 4→2, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T14:31:08.560Z",
+      "collectedAt": "2026-11-06T15:00:01.873Z",
       "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -72,23 +72,56 @@
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "白小纯爆料青稚队友私下找自己吐槽青稚",
-      "topic": "白小纯爆料青稚队友私下找自己吐槽青稚",
-      "eventName": "白小纯爆料青稚队友私下找自己吐槽青稚",
-      "platform": "微博",
+      "title": "2027年放假安排出炉",
+      "topic": "2027年放假安排出炉",
+      "eventName": "2027年放假安排出炉",
+      "platform": "知微",
       "rank": 3,
-      "hot": 1116155,
-      "hotValue": 1116155,
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%88%86%E6%96%99%E9%9D%92%E7%A8%9A%E9%98%9F%E5%8F%8B%E7%A7%81%E4%B8%8B%E6%89%BE%E8%87%AA%E5%B7%B1%E5%90%90%E6%A7%BD%E9%9D%92%E7%A8%9A%23",
+      "hot": 2508,
+      "hotValue": 2508,
+      "url": "https://ef.zhiweidata.com/eventRk/456c1a478e0a4a6c10180625/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 2508
+        }
+      ],
+      "totalScore": 81.1,
+      "posScore": 77.8,
+      "hotScore": 83.3,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第3名, 在榜11小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 2027年放假安排来了)",
+      "duration": "持续高位(第3名, 在榜11小时)",
+      "rankChange": "持续高位(第3名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-06T15:00:01.873Z",
+      "eventSummary": "围绕「2027年放假安排出炉」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「2027年放假安排出炉」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
+      "title": "商南命案嫌犯孙某已死亡",
+      "topic": "商南命案嫌犯孙某已死亡",
+      "eventName": "商南命案嫌犯孙某已死亡",
+      "platform": "微博",
+      "rank": 4,
+      "hot": 1770024,
+      "hotValue": 1770024,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%AD%99%E6%9F%90%E5%B7%B2%E6%AD%BB%E4%BA%A1%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1116155
+          "hot": 1770024
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98.1,
+      "posScore": 98,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -97,42 +130,9 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T14:31:08.560Z",
-      "eventSummary": "公众人物/网友公开吐槽某餐饮或品牌体验不佳，吐槽内容引发围观与共鸣。",
-      "propagation": "反向吐槽自带话题性与共鸣；公众人物/消费者真实体验的\"踩坑\"表达引发共情与讨论，传播轻快。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
-      "title": "2027年放假安排出炉",
-      "topic": "2027年放假安排出炉",
-      "eventName": "2027年放假安排出炉",
-      "platform": "知微",
-      "rank": 4,
-      "hot": 2440,
-      "hotValue": 2440,
-      "url": "https://ef.zhiweidata.com/eventRk/456c1a478e0a4a6c10180625/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 2440
-        }
-      ],
-      "totalScore": 74.1,
-      "posScore": 77.8,
-      "hotScore": 83.3,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-06T14:31:08.560Z",
-      "eventSummary": "围绕「2027年放假安排出炉」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「2027年放假安排出炉」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-06T15:00:01.873Z",
+      "eventSummary": "围绕「商南命案嫌犯孙某已死亡」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「商南命案嫌犯孙某已死亡」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -143,14 +143,14 @@
       "eventName": "歌手袁成杰成失信被执行人",
       "platform": "知微",
       "rank": 5,
-      "hot": 2023,
-      "hotValue": 2023,
+      "hot": 2113,
+      "hotValue": 2113,
       "url": "https://ef.zhiweidata.com/eventRk/ca336ea90e767e0510180623/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 2023
+          "hot": 2113
         }
       ],
       "totalScore": 68,
@@ -163,7 +163,7 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T14:31:08.560Z",
+      "collectedAt": "2026-11-06T15:00:01.873Z",
       "eventSummary": "围绕「歌手袁成杰成失信被执行人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「歌手袁成杰成失信被执行人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -196,7 +196,7 @@
       "duration": "排名上升 6→5, 在榜3小时",
       "rankChange": "排名上升 6→5, 在榜3小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T14:31:08.560Z",
+      "collectedAt": "2026-11-06T15:00:01.873Z",
       "eventSummary": "围绕「清华毕业生英国留学疑遭电诈后失联」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「清华毕业生英国留学疑遭电诈后失联」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
