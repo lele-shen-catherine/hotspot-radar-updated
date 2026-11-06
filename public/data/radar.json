@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T15:00:01.873Z",
+  "generatedAt": "2026-11-06T15:26:39.128Z",
   "date": "2026-11-06",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
@@ -11,14 +11,14 @@
       "eventName": "BLG战胜DK晋级半决赛",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11425858,
-      "hotValue": 11425858,
+      "hot": 11872318,
+      "hotValue": 11872318,
       "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CDK%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11425858
+          "hot": 11872318
         }
       ],
       "totalScore": 84.4,
@@ -31,7 +31,7 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T15:00:01.873Z",
+      "collectedAt": "2026-11-06T15:26:39.128Z",
       "eventSummary": "围绕「BLG战胜DK晋级半决赛」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -39,52 +39,19 @@
     {
       "level": "A",
       "seat": "总榜Top2",
-      "title": "电视剧《小城良方》",
-      "topic": "电视剧《小城良方》",
-      "eventName": "电视剧《小城良方》",
-      "platform": "知微",
-      "rank": 2,
-      "hot": 4131,
-      "hotValue": 4131,
-      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 4131
-        }
-      ],
-      "totalScore": 84,
-      "posScore": 88.9,
-      "hotScore": 94.4,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 4→2, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 4→2, 在榜11小时",
-      "rankChange": "排名上升 4→2, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-11-06T15:00:01.873Z",
-      "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top3",
       "title": "2027年放假安排出炉",
       "topic": "2027年放假安排出炉",
       "eventName": "2027年放假安排出炉",
       "platform": "知微",
-      "rank": 3,
-      "hot": 2508,
-      "hotValue": 2508,
+      "rank": 2,
+      "hot": 3982,
+      "hotValue": 3982,
       "url": "https://ef.zhiweidata.com/eventRk/456c1a478e0a4a6c10180625/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 2508
+          "hot": 3982
         }
       ],
       "totalScore": 81.1,
@@ -97,9 +64,42 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T15:00:01.873Z",
+      "collectedAt": "2026-11-06T15:26:39.128Z",
       "eventSummary": "围绕「2027年放假安排出炉」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「2027年放假安排出炉」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top3",
+      "title": "电视剧《小城良方》",
+      "topic": "电视剧《小城良方》",
+      "eventName": "电视剧《小城良方》",
+      "platform": "知微",
+      "rank": 3,
+      "hot": 5386,
+      "hotValue": 5386,
+      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 5386
+        }
+      ],
+      "totalScore": 80.3,
+      "posScore": 88.9,
+      "hotScore": 94.4,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-06T15:26:39.128Z",
+      "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -110,18 +110,18 @@
       "eventName": "商南命案嫌犯孙某已死亡",
       "platform": "微博",
       "rank": 4,
-      "hot": 1770024,
-      "hotValue": 1770024,
+      "hot": 1686924,
+      "hotValue": 1686924,
       "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%AD%99%E6%9F%90%E5%B7%B2%E6%AD%BB%E4%BA%A1%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1770024
+          "hot": 1686924
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98,
+      "posScore": 98.1,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -130,75 +130,75 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T15:00:01.873Z",
+      "collectedAt": "2026-11-06T15:26:39.128Z",
       "eventSummary": "围绕「商南命案嫌犯孙某已死亡」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「商南命案嫌犯孙某已死亡」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "level": "B",
+      "level": "A",
       "seat": "总榜Top5",
-      "title": "歌手袁成杰成失信被执行人",
-      "topic": "歌手袁成杰成失信被执行人",
-      "eventName": "歌手袁成杰成失信被执行人",
+      "title": "陕西发生重大刑案嫌疑人持刀在逃",
+      "topic": "陕西发生重大刑案嫌疑人持刀在逃",
+      "eventName": "陕西发生重大刑案嫌疑人持刀在逃",
       "platform": "知微",
       "rank": 5,
-      "hot": 2113,
-      "hotValue": 2113,
-      "url": "https://ef.zhiweidata.com/eventRk/ca336ea90e767e0510180623/profil",
+      "hot": 3032,
+      "hotValue": 3032,
+      "url": "https://ef.zhiweidata.com/eventRk/3eea91cccb179ba610180605/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 2113
+          "hot": 3032
         }
       ],
-      "totalScore": 68,
+      "totalScore": 71.8,
       "posScore": 66.7,
       "hotScore": 72.2,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜11小时)",
+      "trendScore": 100,
+      "trendEvidence": "排名上升 8→4, 在榜7小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第4名, 在榜11小时)",
-      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "duration": "排名上升 8→4, 在榜7小时",
+      "rankChange": "排名上升 8→4, 在榜7小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T15:00:01.873Z",
-      "eventSummary": "围绕「歌手袁成杰成失信被执行人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「歌手袁成杰成失信被执行人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-06T15:26:39.128Z",
+      "eventSummary": "围绕「陕西发生重大刑案嫌疑人持刀在逃」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「陕西发生重大刑案嫌疑人持刀在逃」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "清华毕业生英国留学疑遭电诈后失联",
-      "topic": "清华毕业生英国留学疑遭电诈后失联",
-      "eventName": "清华毕业生英国留学疑遭电诈后失联",
+      "title": "无印良品2700多万条用户信息疑泄露",
+      "topic": "无印良品2700多万条用户信息疑泄露",
+      "eventName": "无印良品2700多万条用户信息疑泄露",
       "platform": "知微",
       "rank": 6,
-      "hot": 1877,
-      "hotValue": 1877,
-      "url": "https://ef.zhiweidata.com/eventRk/bc3898072db6136410180579/profil",
+      "hot": 2553,
+      "hotValue": 2553,
+      "url": "https://ef.zhiweidata.com/eventRk/65241b083a82a3a510180619/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 5,
-          "hot": 1877
+          "hot": 2553
         }
       ],
       "totalScore": 65.7,
       "posScore": 55.6,
       "hotScore": 61.1,
       "trendScore": 100,
-      "trendEvidence": "排名上升 6→5, 在榜3小时",
+      "trendEvidence": "排名上升 7→5, 在榜8小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 6→5, 在榜3小时",
-      "rankChange": "排名上升 6→5, 在榜3小时",
+      "duration": "排名上升 7→5, 在榜8小时",
+      "rankChange": "排名上升 7→5, 在榜8小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-06T15:00:01.873Z",
-      "eventSummary": "围绕「清华毕业生英国留学疑遭电诈后失联」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「清华毕业生英国留学疑遭电诈后失联」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-06T15:26:39.128Z",
+      "eventSummary": "围绕「无印良品2700多万条用户信息疑泄露」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「无印良品2700多万条用户信息疑泄露」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
