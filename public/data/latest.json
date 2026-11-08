@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T21:27:35.512Z",
-  "date": "2026-11-07",
-  "time": "2127",
+  "generatedAt": "2026-11-08T14:44:33.722Z",
+  "date": "2026-11-08",
+  "time": "1444",
   "sources": {
     "webwide": {
       "name": "zhiwei-event-rank",
@@ -23,730 +23,724 @@
   "platforms": {
     "webwide": {
       "label": "全网热点",
-      "fetchedAt": "2026-11-07T13:27:37.176Z",
+      "fetchedAt": "2026-11-08T06:44:39.398Z",
       "count": 10,
       "items": [
         {
           "title": "电视剧《小城良方》",
           "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
-          "hot": 3539,
-          "proportion": 45.2,
+          "hot": 3117,
+          "proportion": 48.61,
           "category": "娱乐",
-          "snapshotTime": "2026-11-07 20",
+          "snapshotTime": "2026-11-08 13",
           "eventId": "083e832b3e8dd45c10180521"
         },
         {
           "title": "特朗普中期选举失利",
           "url": "https://ef.zhiweidata.com/eventRk/46a0246c8bcdcbde10180612/profil",
-          "hot": 1418,
-          "proportion": 18.11,
+          "hot": 1766,
+          "proportion": 27.54,
           "category": "政务",
-          "snapshotTime": "2026-11-07 20",
+          "snapshotTime": "2026-11-08 13",
           "eventId": "46a0246c8bcdcbde10180612"
-        },
-        {
-          "title": "豆包用户数被红果超越",
-          "url": "https://ef.zhiweidata.com/eventRk/045e16a247d3c0ce10180586/profil",
-          "hot": 711,
-          "proportion": 9.08,
-          "category": "企业",
-          "snapshotTime": "2026-11-07 20",
-          "eventId": "045e16a247d3c0ce10180586"
         },
         {
           "title": "“厕所偷拍黑产”涉及未成年",
           "url": "https://ef.zhiweidata.com/eventRk/0c20215abd6598a610180618/profil",
-          "hot": 534,
-          "proportion": 6.82,
+          "hot": 676,
+          "proportion": 10.54,
           "category": "社会",
-          "snapshotTime": "2026-11-07 20",
+          "snapshotTime": "2026-11-08 13",
           "eventId": "0c20215abd6598a610180618"
+        },
+        {
+          "title": "延安大学副教授白保国投湖去世",
+          "url": "https://ef.zhiweidata.com/eventRk/2bbe761ae0c96e0e10180604/profil",
+          "hot": 143,
+          "proportion": 2.23,
+          "category": "社会",
+          "snapshotTime": "2026-11-08 13",
+          "eventId": "2bbe761ae0c96e0e10180604"
+        },
+        {
+          "title": "美坠机事故9名遇难者身份确认",
+          "url": "https://ef.zhiweidata.com/eventRk/c1376bd364ceae6310180582/profil",
+          "hot": 140,
+          "proportion": 2.18,
+          "category": "国际",
+          "snapshotTime": "2026-11-08 13",
+          "eventId": "c1376bd364ceae6310180582"
+        },
+        {
+          "title": "欧洲多架客机收到炸弹威胁",
+          "url": "https://ef.zhiweidata.com/eventRk/3274e6ec4728c3a810180621/profil",
+          "hot": 85,
+          "proportion": 1.33,
+          "category": "国际",
+          "snapshotTime": "2026-11-08 13",
+          "eventId": "3274e6ec4728c3a810180621"
+        },
+        {
+          "title": "C罗宣布从葡萄牙国家队退役",
+          "url": "https://ef.zhiweidata.com/eventRk/548d63a3dd7ba4d110180620/profil",
+          "hot": 84,
+          "proportion": 1.31,
+          "category": "体育",
+          "snapshotTime": "2026-11-08 13",
+          "eventId": "548d63a3dd7ba4d110180620"
         },
         {
           "title": "ChinaHaul持续走红",
           "url": "https://ef.zhiweidata.com/eventRk/0442e71d87c9974210180387/profil",
-          "hot": 357,
-          "proportion": 4.56,
+          "hot": 77,
+          "proportion": 1.2,
           "category": "国际",
-          "snapshotTime": "2026-11-07 20",
+          "snapshotTime": "2026-11-08 13",
           "eventId": "0442e71d87c9974210180387"
         },
         {
           "title": " 2026“苏超”开赛",
           "url": "https://ef.zhiweidata.com/eventRk/4dcd3c3251d8ab6c10178799/profil",
-          "hot": 328,
-          "proportion": 4.2,
+          "hot": 71,
+          "proportion": 1.1,
           "category": "体育",
-          "snapshotTime": "2026-11-07 20",
+          "snapshotTime": "2026-11-08 13",
           "eventId": "4dcd3c3251d8ab6c10178799"
         },
         {
-          "title": "欧洲多架客机收到炸弹威胁",
-          "url": "https://ef.zhiweidata.com/eventRk/3274e6ec4728c3a810180621/profil",
-          "hot": 217,
-          "proportion": 2.78,
+          "title": "币安被黑疑涉几十亿美元",
+          "url": "https://ef.zhiweidata.com/eventRk/6d0d3dc00ddec98e10180558/profil",
+          "hot": 51,
+          "proportion": 0.79,
           "category": "国际",
-          "snapshotTime": "2026-11-07 20",
-          "eventId": "3274e6ec4728c3a810180621"
-        },
-        {
-          "title": "毛不易婚礼发言引网友争议",
-          "url": "https://ef.zhiweidata.com/eventRk/429b357d9e07a67710180537/profil",
-          "hot": 141,
-          "proportion": 1.81,
-          "category": "娱乐",
-          "snapshotTime": "2026-11-07 20",
-          "eventId": "429b357d9e07a67710180537"
-        },
-        {
-          "title": "C罗宣布从葡萄牙国家队退役",
-          "url": "https://ef.zhiweidata.com/eventRk/548d63a3dd7ba4d110180620/profil",
-          "hot": 111,
-          "proportion": 1.42,
-          "category": "体育",
-          "snapshotTime": "2026-11-07 20",
-          "eventId": "548d63a3dd7ba4d110180620"
-        },
-        {
-          "title": "2027年放假安排出炉",
-          "url": "https://ef.zhiweidata.com/eventRk/456c1a478e0a4a6c10180625/profil",
-          "hot": 98,
-          "proportion": 1.25,
-          "category": "社会",
-          "snapshotTime": "2026-11-07 20",
-          "eventId": "456c1a478e0a4a6c10180625"
+          "snapshotTime": "2026-11-08 13",
+          "eventId": "6d0d3dc00ddec98e10180558"
         }
       ]
     },
     "weibo": {
       "label": "微博",
-      "fetchedAt": "2026-11-07T13:27:37.934Z",
-      "count": 52,
+      "fetchedAt": "2026-11-08T06:44:40.353Z",
+      "count": 51,
       "items": [
         {
-          "title": "妻子偷拍丈夫出轨80余次构成侵权",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%81%B7%E6%8B%8D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A880%E4%BD%99%E6%AC%A1%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83%23",
-          "hot": 1092882,
+          "title": "TheShy希望Chovy夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%B8%8C%E6%9C%9BChovy%E5%A4%BA%E5%86%A0%23",
+          "hot": 1118742,
           "label": null
         },
         {
-          "title": "乘客车上削苹果急刹车水果刀插心脏",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E8%BD%A6%E4%B8%8A%E5%89%8A%E8%8B%B9%E6%9E%9C%E6%80%A5%E5%88%B9%E8%BD%A6%E6%B0%B4%E6%9E%9C%E5%88%80%E6%8F%92%E5%BF%83%E8%84%8F%23",
-          "hot": 1066396,
+          "title": "曝青稚并没有和白小纯去韩国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9D%92%E7%A8%9A%E5%B9%B6%E6%B2%A1%E6%9C%89%E5%92%8C%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8E%BB%E9%9F%A9%E5%9B%BD%23",
+          "hot": 918020,
           "label": null
         },
         {
-          "title": "共赴APEC之约",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6%23",
-          "hot": 619275,
+          "title": "以开放姿态共赴星海之约",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%BC%80%E6%94%BE%E5%A7%BF%E6%80%81%E5%85%B1%E8%B5%B4%E6%98%9F%E6%B5%B7%E4%B9%8B%E7%BA%A6%23",
+          "hot": 792041,
           "label": null
         },
         {
-          "title": "黄晓明喊你上京东领美食大赛5折福利",
+          "title": "延迟到校取消早读家长发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23",
+          "hot": 707347,
+          "label": null
+        },
+        {
+          "title": "芒果买了三人行复播",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E4%B9%B0%E4%BA%86%E4%B8%89%E4%BA%BA%E8%A1%8C%E5%A4%8D%E6%92%AD%23",
+          "hot": 673942,
+          "label": null
+        },
+        {
+          "title": "杨瀚森NBA生涯首次两双",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AENBA%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C%23",
+          "hot": 658568,
+          "label": null
+        },
+        {
+          "title": "时尚玩出花",
           "url": "",
-          "hot": 475447,
+          "hot": 640748,
           "label": null
         },
         {
-          "title": "嫁金钗全员谢幕这两分钟",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E5%85%A8%E5%91%98%E8%B0%A2%E5%B9%95%E8%BF%99%E4%B8%A4%E5%88%86%E9%92%9F%23",
-          "hot": 313257,
+          "title": "王子璇火了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E7%81%AB%E4%BA%86%23",
+          "hot": 577568,
           "label": null
         },
         {
-          "title": "男子被雇主扇耳光昏迷14个月离世",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%9B%87%E4%B8%BB%E6%89%87%E8%80%B3%E5%85%89%E6%98%8F%E8%BF%B714%E4%B8%AA%E6%9C%88%E7%A6%BB%E4%B8%96%23",
-          "hot": 289304,
+          "title": "TheShy分析BLG打T1",
+          "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%88%86%E6%9E%90BLG%E6%89%93T1%23",
+          "hot": 513721,
           "label": null
         },
         {
-          "title": "妻子偷拍丈夫出轨80余次未被采信",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%81%B7%E6%8B%8D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A880%E4%BD%99%E6%AC%A1%E6%9C%AA%E8%A2%AB%E9%87%87%E4%BF%A1%23",
-          "hot": 279816,
+          "title": "韩乔生谈杨瀚森生涯首个两双",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E8%B0%88%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%94%9F%E6%B6%AF%E9%A6%96%E4%B8%AA%E4%B8%A4%E5%8F%8C%23",
+          "hot": 412441,
           "label": null
         },
         {
-          "title": "白举纲openday见面会",
-          "url": "",
-          "hot": 278753,
+          "title": "马天宇 死去的记忆又回来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E6%AD%BB%E5%8E%BB%E7%9A%84%E8%AE%B0%E5%BF%86%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23",
+          "hot": 410546,
           "label": null
         },
         {
-          "title": "闫桉看田曦薇哭的反应",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AB%E6%A1%89%E7%9C%8B%E7%94%B0%E6%9B%A6%E8%96%87%E5%93%AD%E7%9A%84%E5%8F%8D%E5%BA%94%23",
-          "hot": 278550,
+          "title": "曝迪丽热巴没买房常年住酒店",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B2%A1%E4%B9%B0%E6%88%BF%E5%B8%B8%E5%B9%B4%E4%BD%8F%E9%85%92%E5%BA%97%23",
+          "hot": 405759,
           "label": null
         },
         {
-          "title": "赵丽颖也得变着法哄自己上班",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E5%BE%97%E5%8F%98%E7%9D%80%E6%B3%95%E5%93%84%E8%87%AA%E5%B7%B1%E4%B8%8A%E7%8F%AD%23",
-          "hot": 250679,
+          "title": "终于开始查寺院了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E6%9F%A5%E5%AF%BA%E9%99%A2%E4%BA%86%23",
+          "hot": 402428,
           "label": null
         },
         {
-          "title": "马斯克说我爱中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E6%88%91%E7%88%B1%E4%B8%AD%E5%9B%BD%23",
-          "hot": 239005,
+          "title": "小糯米听到刘恺威有新女友的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%90%AC%E5%88%B0%E5%88%98%E6%81%BA%E5%A8%81%E6%9C%89%E6%96%B0%E5%A5%B3%E5%8F%8B%E7%9A%84%E5%8F%8D%E5%BA%94%23",
+          "hot": 395284,
           "label": null
         },
         {
-          "title": "TTG零封LGDNBW晋级年总败决",
-          "url": "https://s.weibo.com/weibo?q=%23TTG%E9%9B%B6%E5%B0%81LGDNBW%E6%99%8B%E7%BA%A7%E5%B9%B4%E6%80%BB%E8%B4%A5%E5%86%B3%23",
-          "hot": 194569,
+          "title": "白小纯商务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%95%86%E5%8A%A1%23",
+          "hot": 382633,
           "label": null
         },
         {
-          "title": "马天宇 李明德",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E6%9D%8E%E6%98%8E%E5%BE%B7%23",
-          "hot": 194039,
+          "title": "于正回应和何晟铭上后会友期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E5%92%8C%E4%BD%95%E6%99%9F%E9%93%AD%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23",
+          "hot": 376870,
           "label": null
         },
         {
-          "title": "博主私信发现两人偷情对话",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%81%E4%BF%A1%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BA%BA%E5%81%B7%E6%83%85%E5%AF%B9%E8%AF%9D%23",
-          "hot": 187507,
+          "title": "杨瀚森对位文班亚马",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AF%B9%E4%BD%8D%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%23",
+          "hot": 375519,
           "label": null
         },
         {
-          "title": "刘熙墨脸部二度烧伤",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%86%99%E5%A2%A8%E8%84%B8%E9%83%A8%E4%BA%8C%E5%BA%A6%E7%83%A7%E4%BC%A4%23",
-          "hot": 183454,
+          "title": "月薪过万为啥社保按4千基数缴费",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87%E4%B8%BA%E5%95%A5%E7%A4%BE%E4%BF%9D%E6%8C%894%E5%8D%83%E5%9F%BA%E6%95%B0%E7%BC%B4%E8%B4%B9%23",
+          "hot": 356490,
           "label": null
         },
         {
-          "title": "杨颖文咏珊 后会友期",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E6%96%87%E5%92%8F%E7%8F%8A%20%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23",
-          "hot": 179421,
+          "title": "花少8播放量综艺断层领先",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%E6%92%AD%E6%94%BE%E9%87%8F%E7%BB%BC%E8%89%BA%E6%96%AD%E5%B1%82%E9%A2%86%E5%85%88%23",
+          "hot": 355458,
           "label": null
         },
         {
-          "title": "李一桐疑似内涵芒果",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E7%96%91%E4%BC%BC%E5%86%85%E6%B6%B5%E8%8A%92%E6%9E%9C%23",
-          "hot": 174790,
+          "title": "太阳雨 猫的树牛大了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E9%9B%A8%20%E7%8C%AB%E7%9A%84%E6%A0%91%E7%89%9B%E5%A4%A7%E4%BA%86%23",
+          "hot": 305700,
           "label": null
         },
         {
-          "title": "立冬",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%23",
-          "hot": 169427,
+          "title": "突然发现AI已经渗透到各行各业了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0AI%E5%B7%B2%E7%BB%8F%E6%B8%97%E9%80%8F%E5%88%B0%E5%90%84%E8%A1%8C%E5%90%84%E4%B8%9A%E4%BA%86%23",
+          "hot": 303517,
           "label": null
         },
         {
-          "title": "曝90剧花美国待产",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D90%E5%89%A7%E8%8A%B1%E7%BE%8E%E5%9B%BD%E5%BE%85%E4%BA%A7%23",
-          "hot": 164489,
+          "title": "特朗普的offer令人心动吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84offer%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E5%90%97%23",
+          "hot": 301736,
           "label": null
         },
         {
-          "title": "火树是最懂白小纯青稚的人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%A0%91%E6%98%AF%E6%9C%80%E6%87%82%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E7%9A%84%E4%BA%BA%23",
-          "hot": 161846,
+          "title": "厉娜回复了于正求情",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%A4%8D%E4%BA%86%E4%BA%8E%E6%AD%A3%E6%B1%82%E6%83%85%23",
+          "hot": 298858,
           "label": null
         },
         {
-          "title": "全球汽车销量前十中国占三席",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%B8%AD%E5%9B%BD%E5%8D%A0%E4%B8%89%E5%B8%AD%23",
-          "hot": 154452,
+          "title": "杨瀚森得分篮板双双创生涯新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%BE%97%E5%88%86%E7%AF%AE%E6%9D%BF%E5%8F%8C%E5%8F%8C%E5%88%9B%E7%94%9F%E6%B6%AF%E6%96%B0%E9%AB%98%23",
+          "hot": 296731,
           "label": null
         },
         {
-          "title": "王源我还以为自己18岁呢",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%88%91%E8%BF%98%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B118%E5%B2%81%E5%91%A2%23",
-          "hot": 152469,
+          "title": "后会友期 恰逢各个圈子都很闲",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E6%81%B0%E9%80%A2%E5%90%84%E4%B8%AA%E5%9C%88%E5%AD%90%E9%83%BD%E5%BE%88%E9%97%B2%23",
+          "hot": 294663,
           "label": null
         },
         {
-          "title": "王嘉尔演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%23",
-          "hot": 152456,
+          "title": "伊朗是真急了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%98%AF%E7%9C%9F%E6%80%A5%E4%BA%86%23",
+          "hot": 293977,
           "label": null
         },
         {
-          "title": "iPhone20外观",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%A4%96%E8%A7%82%23",
-          "hot": 152380,
+          "title": "最后一位开国将军王扶之逝世",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E5%BC%80%E5%9B%BD%E5%B0%86%E5%86%9B%E7%8E%8B%E6%89%B6%E4%B9%8B%E9%80%9D%E4%B8%96%23",
+          "hot": 290610,
           "label": null
         },
         {
-          "title": "梁文锋DeepSeek不止国运级",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7%23",
-          "hot": 152280,
+          "title": "多地中小学延迟到校取消早读",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%23",
+          "hot": 264870,
           "label": null
         },
         {
-          "title": "男子被小奶狗抓伤确诊狂犬病",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%8F%E5%A5%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E7%A1%AE%E8%AF%8A%E7%8B%82%E7%8A%AC%E7%97%85%23",
-          "hot": 152208,
+          "title": "迪丽热巴物欲超低的女明星",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%A9%E6%AC%B2%E8%B6%85%E4%BD%8E%E7%9A%84%E5%A5%B3%E6%98%8E%E6%98%9F%23",
+          "hot": 256323,
           "label": null
         },
         {
-          "title": "北京的雪有多大",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9A%84%E9%9B%AA%E6%9C%89%E5%A4%9A%E5%A4%A7%23",
-          "hot": 152154,
+          "title": "Jiaqi回应失误",
+          "url": "https://s.weibo.com/weibo?q=%23Jiaqi%E5%9B%9E%E5%BA%94%E5%A4%B1%E8%AF%AF%23",
+          "hot": 255730,
           "label": null
         },
         {
-          "title": "大S剥虾论八年后被读懂",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7S%E5%89%A5%E8%99%BE%E8%AE%BA%E5%85%AB%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%AF%BB%E6%87%82%23",
-          "hot": 152082,
+          "title": "普通女孩化妆最有效的一步",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E5%A5%B3%E5%AD%A9%E5%8C%96%E5%A6%86%E6%9C%80%E6%9C%89%E6%95%88%E7%9A%84%E4%B8%80%E6%AD%A5%23",
+          "hot": 254755,
           "label": null
         },
         {
-          "title": "别人说日照香炉生紫烟我装死",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E8%AF%B4%E6%97%A5%E7%85%A7%E9%A6%99%E7%82%89%E7%94%9F%E7%B4%AB%E7%83%9F%E6%88%91%E8%A3%85%E6%AD%BB%23",
-          "hot": 152046,
+          "title": "教育不是一场比谁起得更早的竞赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E4%B8%80%E5%9C%BA%E6%AF%94%E8%B0%81%E8%B5%B7%E5%BE%97%E6%9B%B4%E6%97%A9%E7%9A%84%E7%AB%9E%E8%B5%9B%23",
+          "hot": 247317,
           "label": null
         },
         {
-          "title": "芒果有条通天路你走不走",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E6%9C%89%E6%9D%A1%E9%80%9A%E5%A4%A9%E8%B7%AF%E4%BD%A0%E8%B5%B0%E4%B8%8D%E8%B5%B0%23",
-          "hot": 151960,
+          "title": "杨瀚森5分钟3分5篮板",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE5%E5%88%86%E9%92%9F3%E5%88%865%E7%AF%AE%E6%9D%BF%23",
+          "hot": 232436,
           "label": null
         },
         {
-          "title": "黄景瑜回复李昀锐",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%9B%9E%E5%A4%8D%E6%9D%8E%E6%98%80%E9%94%90%23",
-          "hot": 151843,
+          "title": "青稚前女友",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%89%8D%E5%A5%B3%E5%8F%8B%23",
+          "hot": 224256,
           "label": null
         },
         {
-          "title": "狗狗不明白为什么会输",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B8%8D%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%BE%93%23",
-          "hot": 151769,
+          "title": "电动车才是年轻人最该买的",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%89%8D%E6%98%AF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%80%E8%AF%A5%E4%B9%B0%E7%9A%84%23",
+          "hot": 222382,
           "label": null
         },
         {
-          "title": "江南 今何在",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%8D%97%20%E4%BB%8A%E4%BD%95%E5%9C%A8%23",
-          "hot": 151747,
+          "title": "张月疑似拒收cp粉的信",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E7%96%91%E4%BC%BC%E6%8B%92%E6%94%B6cp%E7%B2%89%E7%9A%84%E4%BF%A1%23",
+          "hot": 215198,
           "label": null
         },
         {
-          "title": "新人举办极简婚礼欢迎大家上菜开席",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E4%B8%BE%E5%8A%9E%E6%9E%81%E7%AE%80%E5%A9%9A%E7%A4%BC%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6%E4%B8%8A%E8%8F%9C%E5%BC%80%E5%B8%AD%23",
-          "hot": 151648,
+          "title": "遇害骑手同事称曾遭流浪汉挑衅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%81%87%E5%AE%B3%E9%AA%91%E6%89%8B%E5%90%8C%E4%BA%8B%E7%A7%B0%E6%9B%BE%E9%81%AD%E6%B5%81%E6%B5%AA%E6%B1%89%E6%8C%91%E8%A1%85%23",
+          "hot": 208158,
           "label": null
         },
         {
-          "title": "时代峰峻迎来了物料大更新时代",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%BF%8E%E6%9D%A5%E4%BA%86%E7%89%A9%E6%96%99%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%97%B6%E4%BB%A3%23",
-          "hot": 151590,
+          "title": "青稚删除让他别和白小纯和好的回复",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%88%A0%E9%99%A4%E8%AE%A9%E4%BB%96%E5%88%AB%E5%92%8C%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%92%8C%E5%A5%BD%E7%9A%84%E5%9B%9E%E5%A4%8D%23",
+          "hot": 203924,
           "label": null
         },
         {
-          "title": "马天宇直播被工作人员叫停",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%AB%E5%81%9C%23",
-          "hot": 151533,
+          "title": "易烊千玺",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23",
+          "hot": 199660,
           "label": null
         },
         {
-          "title": "饮品店员称遇害骑手从不催单",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A5%AE%E5%93%81%E5%BA%97%E5%91%98%E7%A7%B0%E9%81%87%E5%AE%B3%E9%AA%91%E6%89%8B%E4%BB%8E%E4%B8%8D%E5%82%AC%E5%8D%95%23",
-          "hot": 151476,
+          "title": "TheShy Bin状态不是特别好",
+          "url": "https://s.weibo.com/weibo?q=%23TheShy%20Bin%E7%8A%B6%E6%80%81%E4%B8%8D%E6%98%AF%E7%89%B9%E5%88%AB%E5%A5%BD%23",
+          "hot": 199621,
           "label": null
         },
         {
-          "title": "宁静推荐陈添祥入选星辰大海",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E6%8E%A8%E8%8D%90%E9%99%88%E6%B7%BB%E7%A5%A5%E5%85%A5%E9%80%89%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%23",
-          "hot": 151353,
+          "title": "金鸡闭幕式主持人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%BB%E6%8C%81%E4%BA%BA%23",
+          "hot": 199407,
           "label": null
         },
         {
-          "title": "今何在 江南是谁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E4%BD%95%E5%9C%A8%20%E6%B1%9F%E5%8D%97%E6%98%AF%E8%B0%81%23",
-          "hot": 151281,
+          "title": "厉娜许飞这是要和好了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E8%BF%99%E6%98%AF%E8%A6%81%E5%92%8C%E5%A5%BD%E4%BA%86%E5%90%97%23",
+          "hot": 199200,
           "label": null
         },
         {
-          "title": "多平台下架推不倒戒指",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E6%8E%A8%E4%B8%8D%E5%80%92%E6%88%92%E6%8C%87%23",
-          "hot": 151255,
+          "title": "足球大连的骄傲",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%B3%E7%90%83%E5%A4%A7%E8%BF%9E%E7%9A%84%E9%AA%84%E5%82%B2%23",
+          "hot": 193351,
           "label": null
         },
         {
-          "title": "王橹杰台历",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%8F%B0%E5%8E%86%23",
-          "hot": 151141,
+          "title": "广东带状疱疹病毒进入高发期",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%97%85%E6%AF%92%E8%BF%9B%E5%85%A5%E9%AB%98%E5%8F%91%E6%9C%9F%23",
+          "hot": 188393,
           "label": null
         },
         {
-          "title": "王一博585车组获亚军",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A585%E8%BD%A6%E7%BB%84%E8%8E%B7%E4%BA%9A%E5%86%9B%23",
-          "hot": 151062,
+          "title": "北外教授否认给文吉儿写过推荐语",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%96%E6%95%99%E6%8E%88%E5%90%A6%E8%AE%A4%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E5%86%99%E8%BF%87%E6%8E%A8%E8%8D%90%E8%AF%AD%23",
+          "hot": 176151,
           "label": null
         },
         {
-          "title": "iPhone18电池容量曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89%23",
-          "hot": 151002,
+          "title": "张萌马天宇 她已经很特殊但她不知道",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E5%A5%B9%E5%B7%B2%E7%BB%8F%E5%BE%88%E7%89%B9%E6%AE%8A%E4%BD%86%E5%A5%B9%E4%B8%8D%E7%9F%A5%E9%81%93%23",
+          "hot": 174206,
           "label": null
         },
         {
-          "title": "夏之光问尼格买提有孩子了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E9%97%AE%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86%E5%90%97%23",
-          "hot": 150937,
+          "title": "王一博打滑后连续超车",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E6%BB%91%E5%90%8E%E8%BF%9E%E7%BB%AD%E8%B6%85%E8%BD%A6%23",
+          "hot": 163678,
           "label": null
         },
         {
-          "title": "文吉儿 社会性",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%20%E7%A4%BE%E4%BC%9A%E6%80%A7%23",
-          "hot": 150864,
+          "title": "偷拍丈夫出轨案有按摩女承认卖淫",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%8B%8D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E6%A1%88%E6%9C%89%E6%8C%89%E6%91%A9%E5%A5%B3%E6%89%BF%E8%AE%A4%E5%8D%96%E6%B7%AB%23",
+          "hot": 158756,
           "label": null
         },
         {
-          "title": "iG和GEN热身方式曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E5%92%8CGEN%E7%83%AD%E8%BA%AB%E6%96%B9%E5%BC%8F%E6%9B%9D%E5%85%89%23",
-          "hot": 150793,
+          "title": "女队有无孙颖莎为何差距这么大",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%98%9F%E6%9C%89%E6%97%A0%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%BA%E4%BD%95%E5%B7%AE%E8%B7%9D%E8%BF%99%E4%B9%88%E5%A4%A7%23",
+          "hot": 150237,
           "label": null
         },
         {
-          "title": "田曦薇听潘珺雅发言哭了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%90%AC%E6%BD%98%E7%8F%BA%E9%9B%85%E5%8F%91%E8%A8%80%E5%93%AD%E4%BA%86%23",
-          "hot": 150775,
+          "title": "马海伦说漏嘴小糯米在英国",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%B5%B7%E4%BC%A6%E8%AF%B4%E6%BC%8F%E5%98%B4%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9C%A8%E8%8B%B1%E5%9B%BD%23",
+          "hot": 149058,
           "label": null
         },
         {
-          "title": "TOP登陆少年成团800天营业",
-          "url": "https://s.weibo.com/weibo?q=%23TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E6%88%90%E5%9B%A2800%E5%A4%A9%E8%90%A5%E4%B8%9A%23",
-          "hot": 149581,
-          "label": null
-        },
-        {
-          "title": "史上电池容量最大标准iPhone",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9C%80%E5%A4%A7%E6%A0%87%E5%87%86iPhone%23",
-          "hot": 147446,
-          "label": null
-        },
-        {
-          "title": "进博会燃油车浓度极高",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%87%83%E6%B2%B9%E8%BD%A6%E6%B5%93%E5%BA%A6%E6%9E%81%E9%AB%98%23",
-          "hot": 146730,
-          "label": null
-        },
-        {
-          "title": "王一博开香槟被喷一身",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BC%80%E9%A6%99%E6%A7%9F%E8%A2%AB%E5%96%B7%E4%B8%80%E8%BA%AB%23",
-          "hot": 146376,
-          "label": null
-        },
-        {
-          "title": "白小纯 原生家庭",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%20%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23",
-          "hot": 146329,
+          "title": "女生白血病复发老师病房上最后一课",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%99%BD%E8%A1%80%E7%97%85%E5%A4%8D%E5%8F%91%E8%80%81%E5%B8%88%E7%97%85%E6%88%BF%E4%B8%8A%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%23",
+          "hot": 147345,
           "label": null
         }
       ]
     },
     "douyin": {
       "label": "抖音",
-      "fetchedAt": "2026-11-07T13:27:39.083Z",
+      "fetchedAt": "2026-11-08T06:44:41.875Z",
       "count": 50,
       "items": [
         {
-          "title": "IG对战GEN",
-          "url": "https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN",
-          "hot": 11709662,
+          "title": "开拓者惨败马刺 杨瀚森首次两双",
+          "url": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E6%83%A8%E8%B4%A5%E9%A9%AC%E5%88%BA%20%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C",
+          "hot": 12207209,
           "label": "新"
         },
         {
-          "title": "湘超1/4决赛：益阳VS长沙",
-          "url": "https://www.douyin.com/search/%E6%B9%98%E8%B6%851%2F4%E5%86%B3%E8%B5%9B%EF%BC%9A%E7%9B%8A%E9%98%B3VS%E9%95%BF%E6%B2%99",
-          "hot": 11509055,
-          "label": "新"
-        },
-        {
-          "title": "中国第43次南极考察队出征",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81",
-          "hot": 11165324,
-          "label": null
-        },
-        {
-          "title": "英雄联盟S16半决赛赛程公布",
-          "url": "https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83",
-          "hot": 11072116,
-          "label": "新"
-        },
-        {
-          "title": "立冬吃什么",
-          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%90%83%E4%BB%80%E4%B9%88",
-          "hot": 10389016,
-          "label": null
-        },
-        {
-          "title": "立冬初雪被毛茸茸治愈了",
-          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%88%9D%E9%9B%AA%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%BA%86",
-          "hot": 10359187,
+          "title": "伊朗解除导弹射程限制",
+          "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E8%A7%A3%E9%99%A4%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E9%99%90%E5%88%B6",
+          "hot": 12098583,
           "label": "爆"
         },
         {
-          "title": "天赐官宣入驻抖音直播",
-          "url": "https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD",
-          "hot": 9252701,
-          "label": "新"
+          "title": "三个维度看消费市场动能",
+          "url": "https://www.douyin.com/search/%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E7%9C%8B%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%8A%A8%E8%83%BD",
+          "hot": 10943711,
+          "label": "爆"
+        },
+        {
+          "title": "今年第32号台风查帕卡生成",
+          "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AC%AC32%E5%8F%B7%E5%8F%B0%E9%A3%8E%E6%9F%A5%E5%B8%95%E5%8D%A1%E7%94%9F%E6%88%90",
+          "hot": 10756724,
+          "label": "爆"
         },
         {
           "title": "泰山主场迎战成都蓉城",
           "url": "https://www.douyin.com/search/%E6%B3%B0%E5%B1%B1%E4%B8%BB%E5%9C%BA%E8%BF%8E%E6%88%98%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E",
-          "hot": 9225156,
+          "hot": 9770064,
           "label": null
         },
         {
-          "title": "这口烧烤我画地为牢",
-          "url": "https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2",
-          "hot": 9208555,
+          "title": "中超大连英博vs天津津门虎",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9Avs%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E",
+          "hot": 9696493,
           "label": "新"
         },
         {
-          "title": "寻找你的答案之书",
-          "url": "https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6",
-          "hot": 9152730,
+          "title": "最后一位开国将军王扶之逝世",
+          "url": "https://www.douyin.com/search/%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E5%BC%80%E5%9B%BD%E5%B0%86%E5%86%9B%E7%8E%8B%E6%89%B6%E4%B9%8B%E9%80%9D%E4%B8%96",
+          "hot": 8115630,
+          "label": null
+        },
+        {
+          "title": "两部门部署暴雪暴雨防范应对",
+          "url": "https://www.douyin.com/search/%E4%B8%A4%E9%83%A8%E9%97%A8%E9%83%A8%E7%BD%B2%E6%9A%B4%E9%9B%AA%E6%9A%B4%E9%9B%A8%E9%98%B2%E8%8C%83%E5%BA%94%E5%AF%B9",
+          "hot": 8030385,
+          "label": null
+        },
+        {
+          "title": "以总统授权埃森科特组建新政府",
+          "url": "https://www.douyin.com/search/%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%8E%88%E6%9D%83%E5%9F%83%E6%A3%AE%E7%A7%91%E7%89%B9%E7%BB%84%E5%BB%BA%E6%96%B0%E6%94%BF%E5%BA%9C",
+          "hot": 7780854,
+          "label": null
+        },
+        {
+          "title": "布伦特油价一周暴跌超16%",
+          "url": "https://www.douyin.com/search/%E5%B8%83%E4%BC%A6%E7%89%B9%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25",
+          "hot": 7754781,
+          "label": null
+        },
+        {
+          "title": "各级国足集训大名单公布",
+          "url": "https://www.douyin.com/search/%E5%90%84%E7%BA%A7%E5%9B%BD%E8%B6%B3%E9%9B%86%E8%AE%AD%E5%A4%A7%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+          "hot": 7754620,
           "label": "爆"
         },
         {
-          "title": "东风61列装火箭军传递出什么信号",
-          "url": "https://www.douyin.com/search/%E4%B8%9C%E9%A3%8E61%E5%88%97%E8%A3%85%E7%81%AB%E7%AE%AD%E5%86%9B%E4%BC%A0%E9%80%92%E5%87%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
-          "hot": 9145850,
+          "title": "深度复盘IG不敌GenG",
+          "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E4%B8%8D%E6%95%8CGenG",
+          "hot": 7746516,
           "label": "爆"
         },
         {
-          "title": "美丽不冻人的冬季穿搭",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E4%B8%BD%E4%B8%8D%E5%86%BB%E4%BA%BA%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
-          "hot": 9135175,
+          "title": "警惕网络畸形审美",
+          "url": "https://www.douyin.com/search/%E8%AD%A6%E6%83%95%E7%BD%91%E7%BB%9C%E7%95%B8%E5%BD%A2%E5%AE%A1%E7%BE%8E",
+          "hot": 7742488,
+          "label": null
+        },
+        {
+          "title": "BLG成为LPL最后的希望",
+          "url": "https://www.douyin.com/search/BLG%E6%88%90%E4%B8%BALPL%E6%9C%80%E5%90%8E%E7%9A%84%E5%B8%8C%E6%9C%9B",
+          "hot": 7735558,
+          "label": null
+        },
+        {
+          "title": "郑雨的人生从未放晴",
+          "url": "https://www.douyin.com/search/%E9%83%91%E9%9B%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BB%8E%E6%9C%AA%E6%94%BE%E6%99%B4",
+          "hot": 7733794,
           "label": "爆"
         },
         {
-          "title": "10月辟谣榜",
-          "url": "https://www.douyin.com/search/10%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C",
-          "hot": 9082058,
+          "title": "这段红色历史跳出课本直抵人心",
+          "url": "https://www.douyin.com/search/%E8%BF%99%E6%AE%B5%E7%BA%A2%E8%89%B2%E5%8E%86%E5%8F%B2%E8%B7%B3%E5%87%BA%E8%AF%BE%E6%9C%AC%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83",
+          "hot": 7732132,
+          "label": "爆"
+        },
+        {
+          "title": "网友镜头下的北京雪景",
+          "url": "https://www.douyin.com/search/%E7%BD%91%E5%8F%8B%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%8C%97%E4%BA%AC%E9%9B%AA%E6%99%AF",
+          "hot": 7698498,
+          "label": null
+        },
+        {
+          "title": "GenG发抖音庆祝进入S16决赛",
+          "url": "https://www.douyin.com/search/GenG%E5%8F%91%E6%8A%96%E9%9F%B3%E5%BA%86%E7%A5%9D%E8%BF%9B%E5%85%A5S16%E5%86%B3%E8%B5%9B",
+          "hot": 7696547,
+          "label": null
+        },
+        {
+          "title": "AI霸气出场名场面",
+          "url": "https://www.douyin.com/search/AI%E9%9C%B8%E6%B0%94%E5%87%BA%E5%9C%BA%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "hot": 7690363,
+          "label": null
+        },
+        {
+          "title": "GEN零封IG晋级决赛",
+          "url": "https://www.douyin.com/search/GEN%E9%9B%B6%E5%B0%81IG%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
+          "hot": 7689851,
+          "label": null
+        },
+        {
+          "title": "郝熠然也来唱想你就写信了",
+          "url": "https://www.douyin.com/search/%E9%83%9D%E7%86%A0%E7%84%B6%E4%B9%9F%E6%9D%A5%E5%94%B1%E6%83%B3%E4%BD%A0%E5%B0%B1%E5%86%99%E4%BF%A1%E4%BA%86",
+          "hot": 7684577,
+          "label": null
+        },
+        {
+          "title": "纵然我的相思有千千万万重",
+          "url": "https://www.douyin.com/search/%E7%BA%B5%E7%84%B6%E6%88%91%E7%9A%84%E7%9B%B8%E6%80%9D%E6%9C%89%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E9%87%8D",
+          "hot": 7684511,
+          "label": null
+        },
+        {
+          "title": "当网友看到IG被淘汰",
+          "url": "https://www.douyin.com/search/%E5%BD%93%E7%BD%91%E5%8F%8B%E7%9C%8B%E5%88%B0IG%E8%A2%AB%E6%B7%98%E6%B1%B0",
+          "hot": 7674933,
+          "label": "爆"
+        },
+        {
+          "title": "现场观战S16半决赛",
+          "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98S16%E5%8D%8A%E5%86%B3%E8%B5%9B",
+          "hot": 7667760,
+          "label": "爆"
+        },
+        {
+          "title": "王源镇江演唱会",
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E9%95%87%E6%B1%9F%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "hot": 7667051,
+          "label": "爆"
+        },
+        {
+          "title": "当我把EXO写在脸上被吴世勋看见",
+          "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%8A%8AEXO%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E8%A2%AB%E5%90%B4%E4%B8%96%E5%8B%8B%E7%9C%8B%E8%A7%81",
+          "hot": 7666815,
+          "label": "爆"
+        },
+        {
+          "title": "拉宏骑粉凤凰闯哈萨克斯坦",
+          "url": "https://www.douyin.com/search/%E6%8B%89%E5%AE%8F%E9%AA%91%E7%B2%89%E5%87%A4%E5%87%B0%E9%97%AF%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6",
+          "hot": 7663781,
+          "label": "爆"
+        },
+        {
+          "title": "拜见珠海巨无霸菠萝包大王",
+          "url": "https://www.douyin.com/search/%E6%8B%9C%E8%A7%81%E7%8F%A0%E6%B5%B7%E5%B7%A8%E6%97%A0%E9%9C%B8%E8%8F%A0%E8%90%9D%E5%8C%85%E5%A4%A7%E7%8E%8B",
+          "hot": 7660448,
+          "label": "新"
+        },
+        {
+          "title": "天赐官宣入驻抖音直播",
+          "url": "https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD",
+          "hot": 7659794,
           "label": null
         },
         {
           "title": "天鹅湖转了一个圈圈",
           "url": "https://www.douyin.com/search/%E5%A4%A9%E9%B9%85%E6%B9%96%E8%BD%AC%E4%BA%86%E4%B8%80%E4%B8%AA%E5%9C%88%E5%9C%88",
-          "hot": 9066696,
+          "hot": 7646050,
           "label": null
         },
         {
-          "title": "北京下雪",
-          "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA",
-          "hot": 8930757,
-          "label": null
-        },
-        {
-          "title": "把力量借给IG",
-          "url": "https://www.douyin.com/search/%E6%8A%8A%E5%8A%9B%E9%87%8F%E5%80%9F%E7%BB%99IG",
-          "hot": 8913060,
-          "label": null
-        },
-        {
-          "title": "墨尔本中国公民遇害案嫌犯已归案",
-          "url": "https://www.douyin.com/search/%E5%A2%A8%E5%B0%94%E6%9C%AC%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E5%BD%92%E6%A1%88",
-          "hot": 8627828,
+          "title": "各主播评价IG不敌GenG",
+          "url": "https://www.douyin.com/search/%E5%90%84%E4%B8%BB%E6%92%AD%E8%AF%84%E4%BB%B7IG%E4%B8%8D%E6%95%8CGenG",
+          "hot": 7643083,
           "label": "爆"
         },
         {
           "title": "立冬心愿是平安顺遂",
           "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%BF%83%E6%84%BF%E6%98%AF%E5%B9%B3%E5%AE%89%E9%A1%BA%E9%81%82",
-          "hot": 8512710,
-          "label": null
-        },
-        {
-          "title": "立冬第一条祝福送给你",
-          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E7%AC%AC%E4%B8%80%E6%9D%A1%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E4%BD%A0",
-          "hot": 8487390,
-          "label": "爆"
-        },
-        {
-          "title": "纵然我的相思有千千万万重",
-          "url": "https://www.douyin.com/search/%E7%BA%B5%E7%84%B6%E6%88%91%E7%9A%84%E7%9B%B8%E6%80%9D%E6%9C%89%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E9%87%8D",
-          "hot": 8450644,
-          "label": null
-        },
-        {
-          "title": "今日立冬积极过冬",
-          "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC%E7%A7%AF%E6%9E%81%E8%BF%87%E5%86%AC",
-          "hot": 8420834,
-          "label": null
-        },
-        {
-          "title": "王力宏广州演唱会",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "hot": 8404520,
-          "label": "新"
-        },
-        {
-          "title": "辽超决赛朝阳战胜本溪",
-          "url": "https://www.douyin.com/search/%E8%BE%BD%E8%B6%85%E5%86%B3%E8%B5%9B%E6%9C%9D%E9%98%B3%E6%88%98%E8%83%9C%E6%9C%AC%E6%BA%AA",
-          "hot": 8316954,
-          "label": null
-        },
-        {
-          "title": "宋亚轩肯为我花心思就好",
-          "url": "https://www.douyin.com/search/%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%82%AF%E4%B8%BA%E6%88%91%E8%8A%B1%E5%BF%83%E6%80%9D%E5%B0%B1%E5%A5%BD",
-          "hot": 7978992,
-          "label": "新"
-        },
-        {
-          "title": "王安宇古人也会肌肉比心",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%AE%89%E5%AE%87%E5%8F%A4%E4%BA%BA%E4%B9%9F%E4%BC%9A%E8%82%8C%E8%82%89%E6%AF%94%E5%BF%83",
-          "hot": 7963505,
-          "label": null
-        },
-        {
-          "title": "T1战胜KC晋级4强",
-          "url": "https://www.douyin.com/search/T1%E6%88%98%E8%83%9CKC%E6%99%8B%E7%BA%A74%E5%BC%BA",
-          "hot": 7943812,
-          "label": null
-        },
-        {
-          "title": "王源镇江演唱会",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E9%95%87%E6%B1%9F%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "hot": 7843035,
-          "label": "新"
-        },
-        {
-          "title": "李荣浩嘉兴演唱会",
-          "url": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%98%89%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "hot": 7834357,
-          "label": "新"
-        },
-        {
-          "title": "秋冬百搭通勤风穿搭合集",
-          "url": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E7%99%BE%E6%90%AD%E9%80%9A%E5%8B%A4%E9%A3%8E%E7%A9%BF%E6%90%AD%E5%90%88%E9%9B%86",
-          "hot": 7830306,
-          "label": "爆"
-        },
-        {
-          "title": "郝熠然也来唱想你就写信了",
-          "url": "https://www.douyin.com/search/%E9%83%9D%E7%86%A0%E7%84%B6%E4%B9%9F%E6%9D%A5%E5%94%B1%E6%83%B3%E4%BD%A0%E5%B0%B1%E5%86%99%E4%BF%A1%E4%BA%86",
-          "hot": 7828590,
+          "hot": 7642963,
           "label": null
         },
         {
           "title": "收到了一枚满是纪念意义的戒指",
           "url": "https://www.douyin.com/search/%E6%94%B6%E5%88%B0%E4%BA%86%E4%B8%80%E6%9E%9A%E6%BB%A1%E6%98%AF%E7%BA%AA%E5%BF%B5%E6%84%8F%E4%B9%89%E7%9A%84%E6%88%92%E6%8C%87",
-          "hot": 7799672,
+          "hot": 7640955,
+          "label": null
+        },
+        {
+          "title": "王安宇古人也会肌肉比心",
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%AE%89%E5%AE%87%E5%8F%A4%E4%BA%BA%E4%B9%9F%E4%BC%9A%E8%82%8C%E8%82%89%E6%AF%94%E5%BF%83",
+          "hot": 7640576,
           "label": null
         },
         {
           "title": "S16淘汰赛热点赛事观察",
           "url": "https://www.douyin.com/search/S16%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%83%AD%E7%82%B9%E8%B5%9B%E4%BA%8B%E8%A7%82%E5%AF%9F",
-          "hot": 7765204,
+          "hot": 7636988,
           "label": "爆"
         },
         {
           "title": "我很有当老大的天赋",
           "url": "https://www.douyin.com/search/%E6%88%91%E5%BE%88%E6%9C%89%E5%BD%93%E8%80%81%E5%A4%A7%E7%9A%84%E5%A4%A9%E8%B5%8B",
-          "hot": 7746476,
-          "label": null
-        },
-        {
-          "title": "民间大爷纯手搓复刻应县木塔",
-          "url": "https://www.douyin.com/search/%E6%B0%91%E9%97%B4%E5%A4%A7%E7%88%B7%E7%BA%AF%E6%89%8B%E6%90%93%E5%A4%8D%E5%88%BB%E5%BA%94%E5%8E%BF%E6%9C%A8%E5%A1%94",
-          "hot": 7744260,
-          "label": null
-        },
-        {
-          "title": "第五人格终于想起自己是恐怖游戏",
-          "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E7%BB%88%E4%BA%8E%E6%83%B3%E8%B5%B7%E8%87%AA%E5%B7%B1%E6%98%AF%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F",
-          "hot": 7735104,
-          "label": "爆"
-        },
-        {
-          "title": "虞书欣云初造型压迫感满满",
-          "url": "https://www.douyin.com/search/%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%91%E5%88%9D%E9%80%A0%E5%9E%8B%E5%8E%8B%E8%BF%AB%E6%84%9F%E6%BB%A1%E6%BB%A1",
-          "hot": 7734610,
-          "label": "新"
-        },
-        {
-          "title": "当我把EXO写在脸上被吴世勋看见",
-          "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%8A%8AEXO%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E8%A2%AB%E5%90%B4%E4%B8%96%E5%8B%8B%E7%9C%8B%E8%A7%81",
-          "hot": 7730877,
-          "label": "新"
-        },
-        {
-          "title": "昊天武道会狙击赛道火热开赛",
-          "url": "https://www.douyin.com/search/%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A%E7%8B%99%E5%87%BB%E8%B5%9B%E9%81%93%E7%81%AB%E7%83%AD%E5%BC%80%E8%B5%9B",
-          "hot": 7730045,
-          "label": null
-        },
-        {
-          "title": "趵突泉夫妇官宣领证",
-          "url": "https://www.douyin.com/search/%E8%B6%B5%E7%AA%81%E6%B3%89%E5%A4%AB%E5%A6%87%E5%AE%98%E5%AE%A3%E9%A2%86%E8%AF%81",
-          "hot": 7729486,
-          "label": "爆"
-        },
-        {
-          "title": "琵琶曲拼好歌版",
-          "url": "https://www.douyin.com/search/%E7%90%B5%E7%90%B6%E6%9B%B2%E6%8B%BC%E5%A5%BD%E6%AD%8C%E7%89%88",
-          "hot": 7729462,
+          "hot": 7636924,
           "label": null
         },
         {
           "title": "许青冷面判官正义执法",
           "url": "https://www.douyin.com/search/%E8%AE%B8%E9%9D%92%E5%86%B7%E9%9D%A2%E5%88%A4%E5%AE%98%E6%AD%A3%E4%B9%89%E6%89%A7%E6%B3%95",
-          "hot": 7724462,
+          "hot": 7635890,
+          "label": null
+        },
+        {
+          "title": "美丽不冻人的冬季穿搭",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E4%B8%BD%E4%B8%8D%E5%86%BB%E4%BA%BA%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
+          "hot": 7635357,
+          "label": null
+        },
+        {
+          "title": "当我们开始谈论爱情",
+          "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E4%BB%AC%E5%BC%80%E5%A7%8B%E8%B0%88%E8%AE%BA%E7%88%B1%E6%83%85",
+          "hot": 7635170,
+          "label": "爆"
+        },
+        {
+          "title": "立冬初雪被毛茸茸治愈了",
+          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%88%9D%E9%9B%AA%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%BA%86",
+          "hot": 7634477,
+          "label": null
+        },
+        {
+          "title": "秋冬百搭通勤风穿搭合集",
+          "url": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E7%99%BE%E6%90%AD%E9%80%9A%E5%8B%A4%E9%A3%8E%E7%A9%BF%E6%90%AD%E5%90%88%E9%9B%86",
+          "hot": 7633186,
+          "label": "爆"
+        },
+        {
+          "title": "火影手游尾兽化金角全技能爆料",
+          "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E5%B0%BE%E5%85%BD%E5%8C%96%E9%87%91%E8%A7%92%E5%85%A8%E6%8A%80%E8%83%BD%E7%88%86%E6%96%99",
+          "hot": 7632713,
+          "label": "爆"
+        },
+        {
+          "title": "盛唐初雪飘落洛阳城",
+          "url": "https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E",
+          "hot": 7631657,
           "label": null
         },
         {
           "title": "秋冬顶男穿搭从薄到厚合集",
           "url": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E9%A1%B6%E7%94%B7%E7%A9%BF%E6%90%AD%E4%BB%8E%E8%96%84%E5%88%B0%E5%8E%9A%E5%90%88%E9%9B%86",
-          "hot": 7722025,
+          "hot": 7629514,
           "label": null
+        },
+        {
+          "title": "寻找你的答案之书",
+          "url": "https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6",
+          "hot": 7627574,
+          "label": null
+        },
+        {
+          "title": "王力宏广州演唱会",
+          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "hot": 7625000,
+          "label": "爆"
         },
         {
           "title": "老实打工人放狠话就许飞这样",
           "url": "https://www.douyin.com/search/%E8%80%81%E5%AE%9E%E6%89%93%E5%B7%A5%E4%BA%BA%E6%94%BE%E7%8B%A0%E8%AF%9D%E5%B0%B1%E8%AE%B8%E9%A3%9E%E8%BF%99%E6%A0%B7",
-          "hot": 7721321,
+          "hot": 7623911,
           "label": "爆"
-        },
-        {
-          "title": "眉山自助“偷”甘蔗活动火热重启",
-          "url": "https://www.douyin.com/search/%E7%9C%89%E5%B1%B1%E8%87%AA%E5%8A%A9%E2%80%9C%E5%81%B7%E2%80%9D%E7%94%98%E8%94%97%E6%B4%BB%E5%8A%A8%E7%81%AB%E7%83%AD%E9%87%8D%E5%90%AF",
-          "hot": 7720778,
-          "label": "爆"
-        },
-        {
-          "title": "韩系秋冬显瘦穿搭",
-          "url": "https://www.douyin.com/search/%E9%9F%A9%E7%B3%BB%E7%A7%8B%E5%86%AC%E6%98%BE%E7%98%A6%E7%A9%BF%E6%90%AD",
-          "hot": 7705083,
-          "label": null
         },
         {
           "title": "冬天从一串长长长糖葫芦开始",
           "url": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E4%BB%8E%E4%B8%80%E4%B8%B2%E9%95%BF%E9%95%BF%E9%95%BF%E7%B3%96%E8%91%AB%E8%8A%A6%E5%BC%80%E5%A7%8B",
-          "hot": 7704577,
+          "hot": 7622129,
           "label": "爆"
         },
         {
-          "title": "黄景瑜拍了肱二头肌比心",
-          "url": "https://www.douyin.com/search/%E9%BB%84%E6%99%AF%E7%91%9C%E6%8B%8D%E4%BA%86%E8%82%B1%E4%BA%8C%E5%A4%B4%E8%82%8C%E6%AF%94%E5%BF%83",
-          "hot": 7691155,
-          "label": "爆"
-        },
-        {
-          "title": "溏心蛋这样吃太超前了",
-          "url": "https://www.douyin.com/search/%E6%BA%8F%E5%BF%83%E8%9B%8B%E8%BF%99%E6%A0%B7%E5%90%83%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86",
-          "hot": 7683741,
-          "label": "爆"
-        },
-        {
-          "title": "又到穿费尔岛的季节了",
-          "url": "https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E7%A9%BF%E8%B4%B9%E5%B0%94%E5%B2%9B%E7%9A%84%E5%AD%A3%E8%8A%82%E4%BA%86",
-          "hot": 7683667,
+          "title": "一句烂奇迹 我不小心惹了上帝",
+          "url": "https://www.douyin.com/search/%E4%B8%80%E5%8F%A5%E7%83%82%E5%A5%87%E8%BF%B9%20%E6%88%91%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%83%B9%E4%BA%86%E4%B8%8A%E5%B8%9D",
+          "hot": 7622053,
           "label": null
         },
         {
-          "title": "我的不烧心旅行地藏不住了",
-          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%8D%E7%83%A7%E5%BF%83%E6%97%85%E8%A1%8C%E5%9C%B0%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "hot": 7683163,
+          "title": "就这样闯入王楚然的世界里",
+          "url": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E9%97%AF%E5%85%A5%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C",
+          "hot": 7617735,
           "label": null
         }
       ]
     },
     "xhs": {
       "label": "小红书",
-      "fetchedAt": "2026-11-07T13:27:40.130Z",
+      "fetchedAt": "2026-11-08T06:44:43.333Z",
       "count": 20,
       "items": [
         {
