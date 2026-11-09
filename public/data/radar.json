@@ -1,44 +1,24 @@
 {
-<<<<<<< HEAD
-  "generatedAt": "2026-11-08T21:46:45.097Z",
-  "date": "2026-11-08",
-=======
-  "generatedAt": "2026-11-09T09:46:39.772Z",
+  "generatedAt": "2026-11-09T09:59:24.227Z",
   "date": "2026-11-09",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "S",
       "seat": "总榜Top1",
-<<<<<<< HEAD
-      "title": "大连时隔21年重夺中超冠军",
-      "topic": "大连时隔21年重夺中超冠军",
-      "eventName": "大连时隔21年重夺中超冠军",
-      "platform": "抖音",
-      "rank": 1,
-      "hot": 11692493,
-      "hotValue": 11692493,
-      "url": "https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E6%97%B6%E9%9A%9421%E5%B9%B4%E9%87%8D%E5%A4%BA%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B",
-=======
       "title": "BLG战胜T1挺进决赛",
       "topic": "BLG战胜T1挺进决赛",
       "eventName": "BLG战胜T1挺进决赛",
       "platform": "抖音",
       "rank": 1,
-      "hot": 12166700,
-      "hotValue": 12166700,
+      "hot": 12190201,
+      "hotValue": 12190201,
       "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CT1%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-<<<<<<< HEAD
-          "hot": 11692493
-=======
-          "hot": 12166700
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
+          "hot": 12190201
         }
       ],
       "totalScore": 91.3,
@@ -51,22 +31,14 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-<<<<<<< HEAD
-      "collectedAt": "2026-11-08T21:46:45.097Z",
-      "eventSummary": "围绕「大连时隔21年重夺中超冠军」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「大连时隔21年重夺中超冠军」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-=======
-      "collectedAt": "2026-11-09T09:46:39.772Z",
-      "eventSummary": "围绕「BLG战胜T1挺进决赛」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「BLG战胜T1挺进决赛」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
+      "collectedAt": "2026-11-09T09:59:24.227Z",
+      "eventSummary": "竞技赛场关键战结束：一方以明确比分战胜对手，成功挺进/晋级下一阶段（或拿下冠军），比赛过程与结果成为粉丝与路人共同讨论的焦点。",
+      "propagation": "顶级电竞赛事的强对抗与\"胜负悬念\"自带情绪峰值；关键对局的过程跌宕与最终晋级/夺冠结果，牵动粉丝的胜负欲与集体荣誉感，观赛讨论、名场面切片与\"冠军归属\"话题在多个平台同步引爆，参与感与分享欲强。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top2",
-<<<<<<< HEAD
-=======
       "title": "黄仁勋承认婚外情",
       "topic": "黄仁勋承认婚外情",
       "eventName": "黄仁勋承认婚外情",
@@ -92,145 +64,45 @@
       "duration": "平稳(第1名, 在榜4小时)",
       "rankChange": "平稳(第1名, 在榜4小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-09T09:46:39.772Z",
-      "eventSummary": "围绕「黄仁勋承认婚外情」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「黄仁勋承认婚外情」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-11-09T09:59:24.227Z",
+      "eventSummary": "知名人物就婚外情传闻作出公开回应，承认相关事实并道歉，事件涉及个人隐私与公众人物形象，引发广泛讨论。",
+      "propagation": "公众人物婚外情风波叠加\"八卦好奇心\"与\"道德评判\"双重动力；当事人公开承认后，公众在吃瓜、追问细节与价值观讨论之间快速流转，媒体跟进 + 网友两极声音叠加，话题黏性与传播张力强。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     },
     {
       "level": "A",
       "seat": "总榜Top3",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
       "title": "电视剧《小城良方》",
       "topic": "电视剧《小城良方》",
       "eventName": "电视剧《小城良方》",
       "platform": "知微",
-<<<<<<< HEAD
-      "rank": 2,
-      "hot": 3279,
-      "hotValue": 3279,
-=======
       "rank": 3,
       "hot": 3568,
       "hotValue": 3568,
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
       "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
-<<<<<<< HEAD
-          "rank": 1,
-          "hot": 3279
-=======
           "rank": 3,
           "hot": 3568
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
         }
       ],
       "totalScore": 74.1,
       "posScore": 77.8,
       "hotScore": 83.3,
       "trendScore": 85,
-<<<<<<< HEAD
-      "trendEvidence": "持续高位(第1名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第1名, 在榜11小时)",
-      "rankChange": "持续高位(第1名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-08T21:46:45.097Z",
-=======
       "trendEvidence": "持续高位(第3名, 在榜11小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-09T09:46:39.772Z",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
-      "eventSummary": "围绕「电视剧《小城良方》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "collectedAt": "2026-11-09T09:59:24.227Z",
+      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-<<<<<<< HEAD
-      "level": "A",
-      "seat": "总榜Top3",
-      "title": "疑似秦始皇儿子头骨面容复原图",
-      "topic": "疑似秦始皇儿子头骨面容复原图",
-      "eventName": "疑似秦始皇儿子头骨面容复原图",
-      "platform": "微博",
-      "rank": 3,
-      "hot": 1727042,
-      "hotValue": 1727042,
-      "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%23",
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 1727042
-        }
-      ],
-      "totalScore": 78.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-08T21:46:45.097Z",
-      "eventSummary": "围绕「疑似秦始皇儿子头骨面容复原图」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「疑似秦始皇儿子头骨面容复原图」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
-      "title": "陕西发生重大刑案嫌疑人持刀在逃",
-      "topic": "陕西发生重大刑案嫌疑人持刀在逃",
-      "eventName": "陕西发生重大刑案嫌疑人持刀在逃",
-      "platform": "知微",
-      "rank": 4,
-      "hot": 716,
-      "hotValue": 716,
-      "url": "https://ef.zhiweidata.com/eventRk/3eea91cccb179ba610180605/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 716
-        }
-      ],
-      "totalScore": 77.9,
-      "posScore": 77.8,
-      "hotScore": 83.3,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 6→3, 在榜3小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 6→3, 在榜3小时",
-      "rankChange": "排名上升 6→3, 在榜3小时",
-      "excludeCat": null,
-      "collectedAt": "2026-11-08T21:46:45.097Z",
-      "eventSummary": "围绕「陕西发生重大刑案嫌疑人持刀在逃」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「陕西发生重大刑案嫌疑人持刀在逃」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top5",
-      "title": "“厕所偷拍黑产”涉及未成年",
-      "topic": "“厕所偷拍黑产”涉及未成年",
-      "eventName": "“厕所偷拍黑产”涉及未成年",
-      "platform": "知微",
-      "rank": 5,
-      "hot": 178,
-      "hotValue": 178,
-      "url": "https://ef.zhiweidata.com/eventRk/0c20215abd6598a610180618/profil",
-=======
       "level": "B",
       "seat": "总榜Top4",
       "title": "成都蓉城领先18分丢冠",
@@ -241,33 +113,16 @@
       "hot": 2847,
       "hotValue": 2847,
       "url": "https://ef.zhiweidata.com/eventRk/a446e586e421e52110180630/profil",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-<<<<<<< HEAD
-          "hot": 178
-=======
           "hot": 2847
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
         }
       ],
       "totalScore": 68,
       "posScore": 66.7,
       "hotScore": 72.2,
-<<<<<<< HEAD
-      "trendScore": 100,
-      "trendEvidence": "排名上升 8→4, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 8→4, 在榜11小时",
-      "rankChange": "排名上升 8→4, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-11-08T21:46:45.097Z",
-      "eventSummary": "围绕「“厕所偷拍黑产”涉及未成年」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
-=======
       "trendScore": 85,
       "trendEvidence": "持续高位(第4名, 在榜11小时)",
       "resonanceScore": 45,
@@ -275,25 +130,13 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-09T09:46:39.772Z",
-      "eventSummary": "围绕「成都蓉城领先18分丢冠」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「成都蓉城领先18分丢冠」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
+      "collectedAt": "2026-11-09T09:59:24.227Z",
+      "eventSummary": "球队在赛季大部分时间保持领先的情况下，最后一轮/收官阶段被反超，最终与冠军失之交臂，遗憾结果引发球迷广泛讨论。",
+      "propagation": "\"大热却丢冠\"的反差剧情自带强戏剧冲突；球队长期领先却在收官被逆转，跌宕过程放大了球迷的失望与愤怒，\"到嘴的冠军飞了\"的遗憾感极具情绪共鸣，复盘、吐槽与\"谁该背锅\"的讨论持续发酵。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-<<<<<<< HEAD
-      "seat": "总榜Top6",
-      "title": " 2026“苏超”开赛",
-      "topic": " 2026“苏超”开赛",
-      "eventName": " 2026“苏超”开赛",
-      "platform": "知微",
-      "rank": 6,
-      "hot": 142,
-      "hotValue": 142,
-      "url": "https://ef.zhiweidata.com/eventRk/4dcd3c3251d8ab6c10178799/profil",
-=======
       "seat": "总榜Top5",
       "title": "47岁中国籍外卖员墨尔本遇害身亡",
       "topic": "47岁中国籍外卖员墨尔本遇害身亡",
@@ -303,33 +146,16 @@
       "hot": 266,
       "hotValue": 266,
       "url": "https://ef.zhiweidata.com/eventRk/5e0d819360075b9510180632/profil",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
       "platforms": [
         {
           "platform": "知微",
           "rank": 5,
-<<<<<<< HEAD
-          "hot": 142
-=======
           "hot": 266
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
         }
       ],
-      "totalScore": 58.2,
+      "totalScore": 65.7,
       "posScore": 55.6,
       "hotScore": 61.1,
-<<<<<<< HEAD
-      "trendScore": 70,
-      "trendEvidence": "平稳(第5名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "平稳(第5名, 在榜11小时)",
-      "rankChange": "平稳(第5名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-08T21:46:45.097Z",
-      "eventSummary": "围绕「 2026“苏超”开赛」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「2026“苏超”开赛」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-=======
       "trendScore": 100,
       "trendEvidence": "排名上升 6→5, 在榜11小时",
       "resonanceScore": 45,
@@ -337,11 +163,10 @@
       "duration": "排名上升 6→5, 在榜11小时",
       "rankChange": "排名上升 6→5, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-09T09:46:39.772Z",
-      "eventSummary": "某高校发生人员坠楼事件，警方已介入调查，事件起因与后续处理受到外界关注。",
+      "collectedAt": "2026-11-09T09:59:24.227Z",
+      "eventSummary": "事件造成人员伤亡，警方/相关部门已介入调查，事件起因与后续处理受到公众关注。",
       "propagation": "突发悲剧引发公共关切与对事件真相的追问；警方/官方介入调查后，公众对\"起因与责任\"的讨论、对当事人的关切构成热度主体，情绪黏性高。",
->>>>>>> 2084cbb (daily update 2026-11-09 0946)
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     }
   ]
 }
