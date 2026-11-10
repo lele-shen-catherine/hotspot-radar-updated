@@ -1,0 +1,3083 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 800812,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-11-03",
+        "sumH": 1325300,
+        "info": [
+          {
+            "eventId": "9456661ab9b83bcb10180507",
+            "img": "88.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "二十届五中全会在京召开",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 15.17,
+            "hE": 201037,
+            "tags": [
+              "二十届五中全会"
+            ]
+          },
+          {
+            "eventId": "721080c5ed24eea610180576",
+            "img": "1793692647738.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "九寨沟景区发生游客冲突",
+            "startTime": 1793548800000,
+            "oldPoint": 0,
+            "pro": 13.95,
+            "hE": 184839,
+            "tags": [
+              "九寨沟",
+              "打人"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 12.94,
+            "hE": 171499,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.97,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 9.35,
+            "hE": 123884,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 6.85,
+            "hE": 90752,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "9e13457a7264bb2510180583",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "力箭二号遥二运载火箭发射成功",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 4.01,
+            "hE": 53080,
+            "tags": [
+              "火箭发射",
+              "力箭二号"
+            ]
+          },
+          {
+            "eventId": "506b65460529cb3a10180529",
+            "img": "5.png",
+            "pointPro": 99.94,
+            "firstType": "政务",
+            "name": "国务院原副总理刘延东逝世",
+            "startTime": 1793116800000,
+            "oldPoint": 0,
+            "pro": 3.74,
+            "hE": 49518,
+            "tags": [
+              "刘延东",
+              "去世"
+            ]
+          },
+          {
+            "eventId": "5292be379009080910180539",
+            "img": "1793242309506.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "国产3A武侠动作游戏《影之刃零》上线",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 3.37,
+            "hE": 44609,
+            "tags": [
+              "影之刃零",
+              "游戏"
+            ]
+          },
+          {
+            "eventId": "155e116d000a431610180585",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "刘延东同志遗体在京火化",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 3.24,
+            "hE": 42914,
+            "tags": [
+              "刘延东"
+            ]
+          },
+          {
+            "eventId": "c18c778751a9cb5610180584",
+            "img": "6.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "高校通报有人男扮女装进女生宿舍",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 2.73,
+            "hE": 36162,
+            "tags": [
+              "武汉工商学院",
+              "校园安全",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 327006
+          }
+        ]
+      },
+      {
+        "time": "2026-11-04",
+        "sumH": 1002946,
+        "info": [
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 3,
+            "pro": 28.4,
+            "hE": 284843,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 17.92,
+            "hE": 179750,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "9456661ab9b83bcb10180507",
+            "img": "88.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "二十届五中全会在京召开",
+            "startTime": 1792944000000,
+            "oldPoint": 0,
+            "pro": 7.32,
+            "hE": 73423,
+            "tags": [
+              "二十届五中全会"
+            ]
+          },
+          {
+            "eventId": "78a7aeab29e181c810180588",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "苹果天气App预报北京上海厦门等地-30℃",
+            "startTime": 1793721600000,
+            "oldPoint": 104,
+            "pro": 4.18,
+            "hE": 41879,
+            "tags": [
+              "苹果",
+              "天气"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 4,
+            "pro": 3.43,
+            "hE": 34404,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "9e2cc8986a60b29010180587",
+            "img": "33.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "秦朔起诉抖音集团副总裁李亮",
+            "startTime": 1793548800000,
+            "oldPoint": 16,
+            "pro": 3.37,
+            "hE": 33806,
+            "tags": [
+              "秦朔",
+              "字节跳动",
+              "起诉"
+            ]
+          },
+          {
+            "eventId": "7cda65be76e8312d10180610",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "短剧演员刘念被曝涉刑事犯罪",
+            "startTime": 1793721600000,
+            "oldPoint": 103,
+            "pro": 3.03,
+            "hE": 30362,
+            "tags": [
+              "刘念"
+            ]
+          },
+          {
+            "eventId": "2bbe761ae0c96e0e10180604",
+            "img": "13.jpg",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "延安大学副教授白保国投湖去世",
+            "startTime": 1793635200000,
+            "oldPoint": 34,
+            "pro": 2.58,
+            "hE": 25903,
+            "tags": [
+              "延安大学",
+              "副教授",
+              "去世",
+              "投湖"
+            ]
+          },
+          {
+            "eventId": "721080c5ed24eea610180576",
+            "img": "1793692647738.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "九寨沟景区发生游客冲突",
+            "startTime": 1793548800000,
+            "oldPoint": 1,
+            "pro": 2.51,
+            "hE": 25167,
+            "tags": [
+              "九寨沟",
+              "打人"
+            ]
+          },
+          {
+            "eventId": "cdbab18ed4aad82410180602",
+            "img": "11.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "贺兰山失联22岁女孩已确认死亡",
+            "startTime": 1793635200000,
+            "oldPoint": 29,
+            "pro": 1.91,
+            "hE": 19113,
+            "tags": [
+              "贺兰山",
+              "死亡",
+              "失联"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 254296
+          }
+        ]
+      },
+      {
+        "time": "2026-11-05",
+        "sumH": 905768,
+        "info": [
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 22.83,
+            "hE": 206803,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "456c1a478e0a4a6c10180625",
+            "img": "44.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "2027年放假安排出炉",
+            "startTime": 1793808000000,
+            "oldPoint": 106,
+            "pro": 19.71,
+            "hE": 178568,
+            "tags": [
+              "法定节假日",
+              "放假"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 15.18,
+            "hE": 137530,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "548d63a3dd7ba4d110180620",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "C罗宣布从葡萄牙国家队退役",
+            "startTime": 1793808000000,
+            "oldPoint": 107,
+            "pro": 11.13,
+            "hE": 100834,
+            "tags": [
+              "C罗",
+              "国家队",
+              "退役"
+            ]
+          },
+          {
+            "eventId": "0c20215abd6598a610180618",
+            "img": "2.jpg",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "“厕所偷拍黑产”涉及未成年",
+            "startTime": 1793808000000,
+            "oldPoint": 101,
+            "pro": 4.53,
+            "hE": 41065,
+            "tags": [
+              "黑产",
+              "偷拍"
+            ]
+          },
+          {
+            "eventId": "3eea91cccb179ba610180605",
+            "img": "14.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "陕西发生重大刑案嫌疑人持刀在逃",
+            "startTime": 1793721600000,
+            "oldPoint": 17,
+            "pro": 3.88,
+            "hE": 35104,
+            "tags": [
+              "嫌疑人",
+              "刑事案件",
+              "陕西"
+            ]
+          },
+          {
+            "eventId": "12a5cd1335424b1510180617",
+            "img": "1.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "官方通报殡仪馆发错骨灰",
+            "startTime": 1793808000000,
+            "oldPoint": 61,
+            "pro": 2.92,
+            "hE": 26490,
+            "tags": [
+              "骨灰",
+              "安徽",
+              "发错"
+            ]
+          },
+          {
+            "eventId": "18191607d934a3e710180460",
+            "img": "1792634212526.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "电视剧《嫁金钗》",
+            "startTime": 1792080000000,
+            "oldPoint": 4,
+            "pro": 2.54,
+            "hE": 23030,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "2bbe761ae0c96e0e10180604",
+            "img": "13.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "延安大学副教授白保国投湖去世",
+            "startTime": 1793635200000,
+            "oldPoint": 7,
+            "pro": 1.99,
+            "hE": 18054,
+            "tags": [
+              "延安大学",
+              "副教授",
+              "去世",
+              "投湖"
+            ]
+          },
+          {
+            "eventId": "3274e6ec4728c3a810180621",
+            "img": "5.jpg",
+            "pointPro": 99.9,
+            "firstType": "国际",
+            "name": "欧洲多架客机收到炸弹威胁",
+            "startTime": 1793635200000,
+            "oldPoint": 11,
+            "pro": 1.81,
+            "hE": 16432,
+            "tags": [
+              "客机",
+              "炸弹",
+              "欧洲",
+              "威胁"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 121858
+          }
+        ]
+      },
+      {
+        "time": "2026-11-06",
+        "sumH": 522520,
+        "info": [
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 23.55,
+            "hE": 123042,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 23.36,
+            "hE": 122087,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "456c1a478e0a4a6c10180625",
+            "img": "44.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "2027年放假安排出炉",
+            "startTime": 1793808000000,
+            "oldPoint": 1,
+            "pro": 11.61,
+            "hE": 60681,
+            "tags": [
+              "法定节假日",
+              "放假"
+            ]
+          },
+          {
+            "eventId": "548d63a3dd7ba4d110180620",
+            "img": "4.jpg",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "C罗宣布从葡萄牙国家队退役",
+            "startTime": 1793808000000,
+            "oldPoint": 3,
+            "pro": 8.76,
+            "hE": 45750,
+            "tags": [
+              "C罗",
+              "国家队",
+              "退役"
+            ]
+          },
+          {
+            "eventId": "ca336ea90e767e0510180623",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "违法犯罪",
+            "name": "歌手袁成杰成失信被执行人",
+            "startTime": 1793808000000,
+            "oldPoint": 13,
+            "pro": 6.9,
+            "hE": 36060,
+            "tags": [
+              "袁成杰",
+              "失信"
+            ]
+          },
+          {
+            "eventId": "65241b083a82a3a510180619",
+            "img": "3.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "无印良品2700多万条用户信息疑泄露",
+            "startTime": 1793289600000,
+            "oldPoint": 20,
+            "pro": 3.59,
+            "hE": 18769,
+            "tags": [
+              "无印良品",
+              "信息泄露"
+            ]
+          },
+          {
+            "eventId": "0c20215abd6598a610180618",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "“厕所偷拍黑产”涉及未成年",
+            "startTime": 1793808000000,
+            "oldPoint": 4,
+            "pro": 3.08,
+            "hE": 16083,
+            "tags": [
+              "黑产",
+              "偷拍"
+            ]
+          },
+          {
+            "eventId": "bc3898072db6136410180579",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "清华毕业生英国留学疑遭电诈后失联",
+            "startTime": 1793548800000,
+            "oldPoint": 19,
+            "pro": 2.8,
+            "hE": 14635,
+            "tags": [
+              "留学生",
+              "失联",
+              "电诈"
+            ]
+          },
+          {
+            "eventId": "3eea91cccb179ba610180605",
+            "img": "14.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "陕西发生重大刑案嫌疑人持刀在逃",
+            "startTime": 1793721600000,
+            "oldPoint": 5,
+            "pro": 2.47,
+            "hE": 12930,
+            "tags": [
+              "嫌疑人",
+              "刑事案件",
+              "陕西"
+            ]
+          },
+          {
+            "eventId": "94715579dc3cc18b10180634",
+            "img": "1794205077554.png",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "汪苏泷演唱会言论引热议",
+            "startTime": 1793721600000,
+            "oldPoint": 67,
+            "pro": 2.3,
+            "hE": 12027,
+            "tags": [
+              "汪苏泷"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 60456
+          }
+        ]
+      },
+      {
+        "time": "2026-11-07",
+        "sumH": 254955,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 40.53,
+            "hE": 103324,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 19.47,
+            "hE": 49628,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "5e0d819360075b9510180632",
+            "img": "44.png",
+            "pointPro": 99.97,
+            "firstType": "国际",
+            "name": "47岁中国籍外卖员墨尔本遇害身亡",
+            "startTime": 1793894400000,
+            "oldPoint": 90,
+            "pro": 12.98,
+            "hE": 33089,
+            "tags": [
+              "墨尔本",
+              "遇害"
+            ]
+          },
+          {
+            "eventId": "3274e6ec4728c3a810180621",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "国际",
+            "name": "欧洲多架客机收到炸弹威胁",
+            "startTime": 1793635200000,
+            "oldPoint": 10,
+            "pro": 3.21,
+            "hE": 8186,
+            "tags": [
+              "客机",
+              "炸弹",
+              "欧洲",
+              "威胁"
+            ]
+          },
+          {
+            "eventId": "b7113e61b845767a10180631",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "“戴上推不倒”的智能指环引争议，产品多平台下架",
+            "startTime": 1793980800000,
+            "oldPoint": 99,
+            "pro": 3.16,
+            "hE": 8062,
+            "tags": [
+              "Brainkey即沃",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0c20215abd6598a610180618",
+            "img": "2.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "“厕所偷拍黑产”涉及未成年",
+            "startTime": 1793808000000,
+            "oldPoint": 6,
+            "pro": 2.97,
+            "hE": 7560,
+            "tags": [
+              "黑产",
+              "偷拍"
+            ]
+          },
+          {
+            "eventId": "548d63a3dd7ba4d110180620",
+            "img": "4.jpg",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "C罗宣布从葡萄牙国家队退役",
+            "startTime": 1793808000000,
+            "oldPoint": 3,
+            "pro": 2.91,
+            "hE": 7419,
+            "tags": [
+              "C罗",
+              "国家队",
+              "退役"
+            ]
+          },
+          {
+            "eventId": "2bbe761ae0c96e0e10180604",
+            "img": "13.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "延安大学副教授白保国投湖去世",
+            "startTime": 1793635200000,
+            "oldPoint": 14,
+            "pro": 2.69,
+            "hE": 6865,
+            "tags": [
+              "延安大学",
+              "副教授",
+              "去世",
+              "投湖"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 13,
+            "pro": 1.55,
+            "hE": 3950,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "456c1a478e0a4a6c10180625",
+            "img": "44.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "2027年放假安排出炉",
+            "startTime": 1793808000000,
+            "oldPoint": 2,
+            "pro": 1.42,
+            "hE": 3617,
+            "tags": [
+              "法定节假日",
+              "放假"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 23255
+          }
+        ]
+      },
+      {
+        "time": "2026-11-08",
+        "sumH": 416115,
+        "info": [
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 37,
+            "pro": 31.28,
+            "hE": 130158,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 22.57,
+            "hE": 93924,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.97,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 47,
+            "pro": 9.89,
+            "hE": 41164,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "724d52554ceaa94a10180637",
+            "img": "3.jpg",
+            "pointPro": 99.96,
+            "firstType": "国际",
+            "name": "波兰检方就枪击案展开涉恐调查",
+            "startTime": 1794067200000,
+            "oldPoint": 25,
+            "pro": 9.19,
+            "hE": 38233,
+            "tags": [
+              "枪击案",
+              "波兰"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.94,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 1,
+            "pro": 7.8,
+            "hE": 32468,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "2e30aac24caed30910180633",
+            "img": "1794204874855.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "胖东来回应“卡蓓诺洗发水产地造假”",
+            "startTime": 1793980800000,
+            "oldPoint": 28,
+            "pro": 4.35,
+            "hE": 18121,
+            "tags": [
+              "胖东来",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5e0d819360075b9510180632",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "47岁中国籍外卖员墨尔本遇害身亡",
+            "startTime": 1793894400000,
+            "oldPoint": 2,
+            "pro": 3.42,
+            "hE": 14250,
+            "tags": [
+              "墨尔本",
+              "遇害"
+            ]
+          },
+          {
+            "eventId": "0c20215abd6598a610180618",
+            "img": "2.jpg",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "“厕所偷拍黑产”涉及未成年",
+            "startTime": 1793808000000,
+            "oldPoint": 5,
+            "pro": 2.08,
+            "hE": 8668,
+            "tags": [
+              "黑产",
+              "偷拍"
+            ]
+          },
+          {
+            "eventId": "b7113e61b845767a10180631",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "“戴上推不倒”的智能指环引争议，产品多平台下架",
+            "startTime": 1793980800000,
+            "oldPoint": 4,
+            "pro": 1.38,
+            "hE": 5735,
+            "tags": [
+              "Brainkey即沃",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 20,
+            "pro": 1.14,
+            "hE": 4735,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 28659
+          }
+        ]
+      },
+      {
+        "time": "2026-11-09",
+        "sumH": 866974,
+        "info": [
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 45,
+            "pro": 42.08,
+            "hE": 364785,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.99,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 2,
+            "pro": 15.89,
+            "hE": 137789,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 10.7,
+            "hE": 92805,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.96,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 4,
+            "pro": 6.78,
+            "hE": 58760,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 5.63,
+            "hE": 48838,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "c66d05571633eee610180642",
+            "img": "33.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "王健林14年后再任万达商管董事长",
+            "startTime": 1794153600000,
+            "oldPoint": 76,
+            "pro": 3.26,
+            "hE": 28232,
+            "tags": [
+              "王健林",
+              "万达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "86ea63d1824e960710180635",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "河南财经政法大学通报教师性骚扰女生",
+            "startTime": 1794153600000,
+            "oldPoint": 60,
+            "pro": 2.41,
+            "hE": 20852,
+            "tags": [
+              "河南财经政法大学",
+              "教师",
+              "性骚扰"
+            ]
+          },
+          {
+            "eventId": "7179bd4da5b70ecb10180638",
+            "img": "4.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "央视曝光桂林扶梯只建不养",
+            "startTime": 1794067200000,
+            "oldPoint": 10,
+            "pro": 2.1,
+            "hE": 18206,
+            "tags": [
+              "扶梯",
+              "桂林"
+            ]
+          },
+          {
+            "eventId": "724d52554ceaa94a10180637",
+            "img": "3.jpg",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "波兰检方就枪击案展开涉恐调查",
+            "startTime": 1794067200000,
+            "oldPoint": 3,
+            "pro": 1.78,
+            "hE": 15466,
+            "tags": [
+              "枪击案",
+              "波兰"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 9,
+            "pro": 1.56,
+            "hE": 13526,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 67715
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-11-09 21",
+        "sumH": 26988,
+        "info": [
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 35.35,
+            "hE": 9541,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 14.94,
+            "hE": 4033,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 14.91,
+            "hE": 4024,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 6.81,
+            "hE": 1838,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.89,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 5.69,
+            "hE": 1535,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.86,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 0,
+            "pro": 4.96,
+            "hE": 1338,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "7179bd4da5b70ecb10180638",
+            "img": "4.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "央视曝光桂林扶梯只建不养",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 2.36,
+            "hE": 637,
+            "tags": [
+              "扶梯",
+              "桂林"
+            ]
+          },
+          {
+            "eventId": "c66d05571633eee610180642",
+            "img": "33.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "王健林14年后再任万达商管董事长",
+            "startTime": 1794153600000,
+            "oldPoint": 0,
+            "pro": 2.09,
+            "hE": 563,
+            "tags": [
+              "王健林",
+              "万达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5e0d819360075b9510180632",
+            "img": "44.png",
+            "pointPro": 99.78,
+            "firstType": "国际",
+            "name": "47岁中国籍外卖员墨尔本遇害身亡",
+            "startTime": 1793894400000,
+            "oldPoint": 0,
+            "pro": 1.71,
+            "hE": 462,
+            "tags": [
+              "墨尔本",
+              "遇害"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 1.37,
+            "hE": 371,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2646
+          }
+        ]
+      },
+      {
+        "time": "2026-11-09 22",
+        "sumH": 20711,
+        "info": [
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 38.9,
+            "hE": 8057,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 2,
+            "pro": 15.86,
+            "hE": 3286,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 12.64,
+            "hE": 2619,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 4,
+            "pro": 7.21,
+            "hE": 1494,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 5,
+            "pro": 4.6,
+            "hE": 953,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.87,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 3,
+            "pro": 3.83,
+            "hE": 792,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 10,
+            "pro": 2.71,
+            "hE": 561,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 9,
+            "pro": 2.07,
+            "hE": 429,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "5e0d819360075b9510180632",
+            "img": "44.png",
+            "pointPro": 99.79,
+            "firstType": "国际",
+            "name": "47岁中国籍外卖员墨尔本遇害身亡",
+            "startTime": 1793894400000,
+            "oldPoint": 8,
+            "pro": 1.84,
+            "hE": 381,
+            "tags": [
+              "墨尔本",
+              "遇害"
+            ]
+          },
+          {
+            "eventId": "7179bd4da5b70ecb10180638",
+            "img": "4.png",
+            "pointPro": 99.76,
+            "firstType": "社会",
+            "name": "央视曝光桂林扶梯只建不养",
+            "startTime": 1794067200000,
+            "oldPoint": 6,
+            "pro": 1.77,
+            "hE": 368,
+            "tags": [
+              "扶梯",
+              "桂林"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1771
+          }
+        ]
+      },
+      {
+        "time": "2026-11-09 23",
+        "sumH": 16221,
+        "info": [
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 30.67,
+            "hE": 4975,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 21.98,
+            "hE": 3565,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.94,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 3,
+            "pro": 14.69,
+            "hE": 2383,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 1,
+            "pro": 7.97,
+            "hE": 1292,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "5e0d819360075b9510180632",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "47岁中国籍外卖员墨尔本遇害身亡",
+            "startTime": 1793894400000,
+            "oldPoint": 8,
+            "pro": 4.15,
+            "hE": 673,
+            "tags": [
+              "墨尔本",
+              "遇害"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.86,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 4.11,
+            "hE": 666,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 7,
+            "pro": 3.09,
+            "hE": 501,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "7179bd4da5b70ecb10180638",
+            "img": "4.png",
+            "pointPro": 99.8,
+            "firstType": "社会",
+            "name": "央视曝光桂林扶梯只建不养",
+            "startTime": 1794067200000,
+            "oldPoint": 9,
+            "pro": 3.01,
+            "hE": 488,
+            "tags": [
+              "扶梯",
+              "桂林"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.77,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 4,
+            "pro": 2.46,
+            "hE": 399,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "86ea63d1824e960710180635",
+            "img": "1.jpg",
+            "pointPro": 99.74,
+            "firstType": "社会",
+            "name": "河南财经政法大学通报教师性骚扰女生",
+            "startTime": 1794153600000,
+            "oldPoint": 20,
+            "pro": 1.45,
+            "hE": 235,
+            "tags": [
+              "河南财经政法大学",
+              "教师",
+              "性骚扰"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1044
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 00",
+        "sumH": 8686,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 39.58,
+            "hE": 3439,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 28.64,
+            "hE": 2488,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 2,
+            "pro": 14.33,
+            "hE": 1245,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 3,
+            "pro": 5.57,
+            "hE": 484,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "5e0d819360075b9510180632",
+            "img": "44.png",
+            "pointPro": 99.83,
+            "firstType": "国际",
+            "name": "47岁中国籍外卖员墨尔本遇害身亡",
+            "startTime": 1793894400000,
+            "oldPoint": 4,
+            "pro": 2.48,
+            "hE": 215,
+            "tags": [
+              "墨尔本",
+              "遇害"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.79,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 2.47,
+            "hE": 215,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 11,
+            "pro": 1.8,
+            "hE": 157,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "5982462a1dec194c10180643",
+            "img": "44.png",
+            "pointPro": 99.71,
+            "firstType": "社会",
+            "name": "无锡出现女用站立式小便厕位",
+            "startTime": 1794153600000,
+            "oldPoint": 12,
+            "pro": 1.59,
+            "hE": 138,
+            "tags": [
+              "厕所"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 6,
+            "pro": 1.16,
+            "hE": 101,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.63,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 8,
+            "pro": 1.01,
+            "hE": 87,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 117
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 01",
+        "sumH": 6080,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 56.94,
+            "hE": 3462,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 1,
+            "pro": 18.1,
+            "hE": 1100,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.88,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 2,
+            "pro": 11.13,
+            "hE": 677,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.81,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 3.62,
+            "hE": 220,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 6,
+            "pro": 2.69,
+            "hE": 164,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.69,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 3,
+            "pro": 2.28,
+            "hE": 138,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "2e30aac24caed30910180633",
+            "img": "1794204874855.png",
+            "pointPro": 99.63,
+            "firstType": "企业",
+            "name": "胖东来回应“卡蓓诺洗发水产地造假”",
+            "startTime": 1793980800000,
+            "oldPoint": 50,
+            "pro": 1.39,
+            "hE": 85,
+            "tags": [
+              "胖东来",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "548d63a3dd7ba4d110180620",
+            "img": "4.jpg",
+            "pointPro": 99.56,
+            "firstType": "体育",
+            "name": "C罗宣布从葡萄牙国家队退役",
+            "startTime": 1793808000000,
+            "oldPoint": 23,
+            "pro": 1.26,
+            "hE": 77,
+            "tags": [
+              "C罗",
+              "国家队",
+              "退役"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.5,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 8,
+            "pro": 0.76,
+            "hE": 46,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "d62cac63368e258810180571",
+            "img": "11.png",
+            "pointPro": 99.44,
+            "firstType": "社会",
+            "name": "李佳琦首卖Token",
+            "startTime": 1793548800000,
+            "oldPoint": 37,
+            "pro": 0.59,
+            "hE": 36,
+            "tags": [
+              "李佳琦",
+              "Token"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 75
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 02",
+        "sumH": 5939,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 58.23,
+            "hE": 3458,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 1,
+            "pro": 24.61,
+            "hE": 1462,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 4,
+            "pro": 8.18,
+            "hE": 486,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.75,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 3,
+            "pro": 4.43,
+            "hE": 263,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "724d52554ceaa94a10180637",
+            "img": "3.jpg",
+            "pointPro": 99.67,
+            "firstType": "国际",
+            "name": "波兰检方就枪击案展开涉恐调查",
+            "startTime": 1794067200000,
+            "oldPoint": 38,
+            "pro": 2.89,
+            "hE": 172,
+            "tags": [
+              "枪击案",
+              "波兰"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.58,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 2,
+            "pro": 0.73,
+            "hE": 43,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "9e13457a7264bb2510180583",
+            "img": "5.jpg",
+            "pointPro": 99.5,
+            "firstType": "企业",
+            "name": "力箭二号遥二运载火箭发射成功",
+            "startTime": 1793635200000,
+            "oldPoint": 33,
+            "pro": 0.7,
+            "hE": 41,
+            "tags": [
+              "火箭发射",
+              "力箭二号"
+            ]
+          },
+          {
+            "eventId": "c66d05571633eee610180642",
+            "img": "33.png",
+            "pointPro": 99.42,
+            "firstType": "企业",
+            "name": "王健林14年后再任万达商管董事长",
+            "startTime": 1794153600000,
+            "oldPoint": 11,
+            "pro": 0.13,
+            "hE": 8,
+            "tags": [
+              "王健林",
+              "万达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.33,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 0.05,
+            "hE": 3,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "c4c037d0a719a21a10180613",
+            "img": "1793844774989.png",
+            "pointPro": 99.25,
+            "firstType": "政务",
+            "name": "王毅同菲律宾外长拉扎罗通电话",
+            "startTime": 1793635200000,
+            "oldPoint": 64,
+            "pro": 0.02,
+            "hE": 1,
+            "tags": [
+              "王毅",
+              "菲律宾"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 03",
+        "sumH": 4840,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 76.98,
+            "hE": 3726,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 1,
+            "pro": 16.16,
+            "hE": 782,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.6,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 5,
+            "pro": 4.53,
+            "hE": 219,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.4,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 2,
+            "pro": 2.31,
+            "hE": 112,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.2,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 8,
+            "pro": 0.02,
+            "hE": 1,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "4dcd3c3251d8ab6c10178799",
+            "img": "ScreenShot_2026-05-21_100430_708.png",
+            "pointPro": 0,
+            "firstType": "体育",
+            "name": " 2026“苏超”开赛",
+            "startTime": 1775836800000,
+            "oldPoint": 12,
+            "pro": 0,
+            "hE": 0,
+            "tags": [
+              "苏超",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 0,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 13,
+            "pro": 0,
+            "hE": 0,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 0,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 14,
+            "pro": 0,
+            "hE": 0,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "456c1a478e0a4a6c10180625",
+            "img": "44.png",
+            "pointPro": 0,
+            "firstType": "社会",
+            "name": "2027年放假安排出炉",
+            "startTime": 1793808000000,
+            "oldPoint": 15,
+            "pro": 0,
+            "hE": 0,
+            "tags": [
+              "法定节假日",
+              "放假"
+            ]
+          },
+          {
+            "eventId": "42830eacd585cdb110179686",
+            "img": "1786348467196.png",
+            "pointPro": 0,
+            "firstType": "娱乐",
+            "name": "男演员罗正靠“穷”走红",
+            "startTime": 1784736000000,
+            "oldPoint": 16,
+            "pro": 0,
+            "hE": 0,
+            "tags": [
+              "罗正"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 0
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 04",
+        "sumH": 5178,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 75.4,
+            "hE": 3905,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 1,
+            "pro": 13.81,
+            "hE": 715,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.85,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 11,
+            "pro": 3.05,
+            "hE": 158,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "c66d05571633eee610180642",
+            "img": "33.png",
+            "pointPro": 99.77,
+            "firstType": "企业",
+            "name": "王健林14年后再任万达商管董事长",
+            "startTime": 1794153600000,
+            "oldPoint": 43,
+            "pro": 3.03,
+            "hE": 157,
+            "tags": [
+              "王健林",
+              "万达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "5982462a1dec194c10180643",
+            "img": "44.png",
+            "pointPro": 99.69,
+            "firstType": "社会",
+            "name": "无锡出现女用站立式小便厕位",
+            "startTime": 1794153600000,
+            "oldPoint": 65,
+            "pro": 1.32,
+            "hE": 68,
+            "tags": [
+              "厕所"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.62,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 3,
+            "pro": 0.88,
+            "hE": 45,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.54,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 2,
+            "pro": 0.84,
+            "hE": 44,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.46,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 4,
+            "pro": 0.81,
+            "hE": 42,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.38,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 75,
+            "pro": 0.76,
+            "hE": 39,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "86ea63d1824e960710180635",
+            "img": "1.jpg",
+            "pointPro": 99.31,
+            "firstType": "社会",
+            "name": "河南财经政法大学通报教师性骚扰女生",
+            "startTime": 1794153600000,
+            "oldPoint": 53,
+            "pro": 0.04,
+            "hE": 2,
+            "tags": [
+              "河南财经政法大学",
+              "教师",
+              "性骚扰"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 05",
+        "sumH": 6645,
+        "info": [
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 52.76,
+            "hE": 3505,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 1,
+            "pro": 24.58,
+            "hE": 1633,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.86,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 6,
+            "pro": 14.53,
+            "hE": 965,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.79,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 2,
+            "pro": 2.7,
+            "hE": 180,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.71,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 62,
+            "pro": 1.54,
+            "hE": 102,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "c66d05571633eee610180642",
+            "img": "33.png",
+            "pointPro": 99.64,
+            "firstType": "企业",
+            "name": "王健林14年后再任万达商管董事长",
+            "startTime": 1794153600000,
+            "oldPoint": 3,
+            "pro": 1.02,
+            "hE": 68,
+            "tags": [
+              "王健林",
+              "万达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b7113e61b845767a10180631",
+            "img": "33.png",
+            "pointPro": 99.57,
+            "firstType": "企业",
+            "name": "“戴上推不倒”的智能指环引争议，产品多平台下架",
+            "startTime": 1793980800000,
+            "oldPoint": 57,
+            "pro": 0.81,
+            "hE": 54,
+            "tags": [
+              "Brainkey即沃",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.5,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 7,
+            "pro": 0.72,
+            "hE": 48,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "2e30aac24caed30910180633",
+            "img": "1794204874855.png",
+            "pointPro": 99.43,
+            "firstType": "企业",
+            "name": "胖东来回应“卡蓓诺洗发水产地造假”",
+            "startTime": 1793980800000,
+            "oldPoint": 46,
+            "pro": 0.69,
+            "hE": 46,
+            "tags": [
+              "胖东来",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "724d52554ceaa94a10180637",
+            "img": "3.jpg",
+            "pointPro": 99.36,
+            "firstType": "国际",
+            "name": "波兰检方就枪击案展开涉恐调查",
+            "startTime": 1794067200000,
+            "oldPoint": 36,
+            "pro": 0.58,
+            "hE": 39,
+            "tags": [
+              "枪击案",
+              "波兰"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 06",
+        "sumH": 13197,
+        "info": [
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 1,
+            "pro": 27.22,
+            "hE": 3593,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 22.38,
+            "hE": 2954,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 3,
+            "pro": 16.47,
+            "hE": 2173,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.88,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 2,
+            "pro": 13.04,
+            "hE": 1721,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 48,
+            "pro": 5.42,
+            "hE": 715,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "724d52554ceaa94a10180637",
+            "img": "3.jpg",
+            "pointPro": 99.8,
+            "firstType": "国际",
+            "name": "波兰检方就枪击案展开涉恐调查",
+            "startTime": 1794067200000,
+            "oldPoint": 9,
+            "pro": 4.1,
+            "hE": 542,
+            "tags": [
+              "枪击案",
+              "波兰"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.76,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 4,
+            "pro": 3.72,
+            "hE": 491,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "c66d05571633eee610180642",
+            "img": "33.png",
+            "pointPro": 99.72,
+            "firstType": "企业",
+            "name": "王健林14年后再任万达商管董事长",
+            "startTime": 1794153600000,
+            "oldPoint": 5,
+            "pro": 2.34,
+            "hE": 309,
+            "tags": [
+              "王健林",
+              "万达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.68,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 7,
+            "pro": 0.88,
+            "hE": 116,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "5e0d819360075b9510180632",
+            "img": "44.png",
+            "pointPro": 99.64,
+            "firstType": "国际",
+            "name": "47岁中国籍外卖员墨尔本遇害身亡",
+            "startTime": 1793894400000,
+            "oldPoint": 10,
+            "pro": 0.64,
+            "hE": 84,
+            "tags": [
+              "墨尔本",
+              "遇害"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 499
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 07",
+        "sumH": 23511,
+        "info": [
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 38.65,
+            "hE": 9086,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.97,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 3,
+            "pro": 13.39,
+            "hE": 3148,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 11.67,
+            "hE": 2743,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 4,
+            "pro": 9.11,
+            "hE": 2142,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.88,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 6,
+            "pro": 8.2,
+            "hE": 1928,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.84,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 2,
+            "pro": 7.84,
+            "hE": 1843,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 8,
+            "pro": 3.16,
+            "hE": 742,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "c66d05571633eee610180642",
+            "img": "33.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "王健林14年后再任万达商管董事长",
+            "startTime": 1794153600000,
+            "oldPoint": 7,
+            "pro": 1.93,
+            "hE": 455,
+            "tags": [
+              "王健林",
+              "万达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 10,
+            "pro": 1.31,
+            "hE": 307,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "2c8396200d6bc20b10180573",
+            "img": "33.png",
+            "pointPro": 99.72,
+            "firstType": "违法犯罪",
+            "name": "航空公司外包客服出售明星艺人航班信息",
+            "startTime": 1793548800000,
+            "oldPoint": 16,
+            "pro": 1.23,
+            "hE": 289,
+            "tags": [
+              "航班信息",
+              "非法出售"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 828
+          }
+        ]
+      },
+      {
+        "time": "2026-11-10 08",
+        "sumH": 36581,
+        "info": [
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 31.02,
+            "hE": 11348,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 3,
+            "pro": 15.91,
+            "hE": 5820,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "e2cd25e1a4a6d55b10180639",
+            "img": "5.jpg",
+            "pointPro": 99.94,
+            "firstType": "违法犯罪",
+            "name": "陕西一政务服务中心遭人驾挖掘机破坏",
+            "startTime": 1794153600000,
+            "oldPoint": 4,
+            "pro": 12.81,
+            "hE": 4688,
+            "tags": [
+              "服务中心",
+              "挖掘机",
+              "陕西",
+              "破坏"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 10.36,
+            "hE": 3791,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "d0b79973ec65245c10180636",
+            "img": "2.jpg",
+            "pointPro": 99.88,
+            "firstType": "灾难",
+            "name": "太原火灾致14死 相关负责人被控制",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 6.95,
+            "hE": 2544,
+            "tags": [
+              "太原",
+              "火灾"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.85,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 1,
+            "pro": 6.2,
+            "hE": 2269,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 8,
+            "pro": 4.19,
+            "hE": 1534,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "0442e71d87c9974210180387",
+            "img": "22.png",
+            "pointPro": 99.79,
+            "firstType": "国际",
+            "name": "ChinaHaul持续走红",
+            "startTime": 1790784000000,
+            "oldPoint": 26,
+            "pro": 2.98,
+            "hE": 1091,
+            "tags": [
+              "China Haul"
+            ]
+          },
+          {
+            "eventId": "a446e586e421e52110180630",
+            "img": "22.png",
+            "pointPro": 99.76,
+            "firstType": "体育",
+            "name": "成都蓉城领先18分丢冠",
+            "startTime": 1794067200000,
+            "oldPoint": 6,
+            "pro": 2.42,
+            "hE": 885,
+            "tags": [
+              "中超联赛",
+              "足球"
+            ]
+          },
+          {
+            "eventId": "7179bd4da5b70ecb10180638",
+            "img": "4.png",
+            "pointPro": 99.74,
+            "firstType": "社会",
+            "name": "央视曝光桂林扶梯只建不养",
+            "startTime": 1794067200000,
+            "oldPoint": 13,
+            "pro": 1.93,
+            "hE": 707,
+            "tags": [
+              "扶梯",
+              "桂林"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1904
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}

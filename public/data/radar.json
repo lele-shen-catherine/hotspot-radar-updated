@@ -4,7 +4,7 @@
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
       "title": "全网老吃家带着绝活开锅了",
       "topic": "全网老吃家带着绝活开锅了",
@@ -16,7 +16,7 @@
       "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%80%81%E5%90%83%E5%AE%B6%E5%B8%A6%E7%9D%80%E7%BB%9D%E6%B4%BB%E5%BC%80%E9%94%85%E4%BA%86",
       "platforms": [
         {
-          "platform": "抖音",
+          "platform": "微博",
           "rank": 1,
           "hot": 11771278
         }
@@ -24,12 +24,12 @@
       "totalScore": 84.4,
       "posScore": 98,
       "hotScore": 99,
-      "trendScore": 85,
-      "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'爆'",
-      "rankChange": "抖音标记'爆'",
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 石家庄天降陨石)",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
       "collectedAt": "2026-11-10T00:46:39.669Z",
       "eventSummary": "围绕「全网老吃家带着绝活开锅了」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
@@ -82,7 +82,7 @@
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%20%E7%8E%8B%E5%AD%90%E7%92%87%23",
       "platforms": [
         {
-          "platform": "微博",
+          "platform": "抖音",
           "rank": 1,
           "hot": 8079119
         }
@@ -91,11 +91,11 @@
       "posScore": 98,
       "hotScore": 99,
       "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "trendEvidence": "抖音标记'新'(刚上榜)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
+      "duration": "抖音标记'新'(刚上榜)",
+      "rankChange": "抖音标记'新'(刚上榜)",
       "excludeCat": null,
       "collectedAt": "2026-11-10T00:46:39.669Z",
       "eventSummary": "围绕「白小纯 王子璇」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
@@ -105,9 +105,9 @@
     {
       "level": "A",
       "seat": "总榜Top4",
-      "title": "电视剧《小城良方》",
-      "topic": "电视剧《小城良方》",
-      "eventName": "电视剧《小城良方》",
+      "title": "陕西一政务服务中心遭人驾挖掘机破坏",
+      "topic": "陕西一政务服务中心遭人驾挖掘机破坏",
+      "eventName": "陕西一政务服务中心遭人驾挖掘机破坏",
       "platform": "知微",
       "rank": 4,
       "hot": 3565,
@@ -186,7 +186,7 @@
           "hot": 672
         }
       ],
-      "totalScore": 65.7,
+      "totalScore": 61.9,
       "posScore": 55.6,
       "hotScore": 61.1,
       "trendScore": 100,

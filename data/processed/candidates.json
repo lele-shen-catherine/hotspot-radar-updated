@@ -5,8 +5,8 @@
   "date": "2026-11-10",
   "rulesSummary": {
     "maxRankPerPlatform": 30,
-    "candidateCount": 89,
-    "pendingReviewCount": 1
+    "candidateCount": 88,
+    "pendingReviewCount": 2
   },
   "candidates": [
     {
@@ -74,8 +74,8 @@
       ]
     },
     {
-      "id": "webwide-2-电视剧小城良方",
-      "title": "电视剧《小城良方》",
+      "id": "webwide-2-石家庄天降陨石",
+      "title": "石家庄天降陨石",
       "crossPlatform": false,
       "platforms": [
         {
@@ -346,8 +346,8 @@
       ]
     },
     {
-      "id": "douyin-6-攻击11全方位展示",
-      "title": "攻击11全方位展示",
+      "id": "douyin-6-我的家乡申请出战",
+      "title": "我的家乡申请出战",
       "crossPlatform": false,
       "platforms": [
         {
@@ -1438,6 +1438,14 @@
     {
       "id": "webwide-3-特朗普中期选举失利",
       "title": "特朗普中期选举失利",
+      "categories": [
+        "政治及高度敏感"
+      ],
+      "reason": "命中「政治及高度敏感」关键词"
+    },
+    {
+      "id": "douyin-29-玫瑰战争首播观后感",
+      "title": "玫瑰战争首播观后感",
       "categories": [
         "政治及高度敏感"
       ],
