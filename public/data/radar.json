@@ -1,57 +1,24 @@
 {
-  "generatedAt": "2026-11-10T15:47:45.428Z",
+  "generatedAt": "2026-11-10T23:09:58.362Z",
   "date": "2026-11-10",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "S",
-      "seat": "总榜Top1",
-      "title": "勇士51分大胜鹈鹕豪取8连胜",
-      "topic": "勇士51分大胜鹈鹕豪取8连胜",
-      "eventName": "勇士51分大胜鹈鹕豪取8连胜",
-      "platform": "抖音",
-      "rank": 1,
-      "hot": 11120357,
-      "hotValue": 11120357,
-      "url": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C",
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 11120357
-        }
-      ],
-      "totalScore": 85.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "抖音标记'新'(刚上榜)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 勇士51分大胜鹈鹕)",
-      "duration": "抖音标记'新'(刚上榜)",
-      "rankChange": "抖音标记'新'(刚上榜)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-10T15:47:45.428Z",
-      "eventSummary": "围绕「勇士51分大胜鹈鹕豪取8连胜」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「勇士51分大胜鹈鹕豪取8连胜」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
       "level": "A",
-      "seat": "总榜Top2",
+      "seat": "总榜Top1",
       "title": "综艺《后会友期》",
       "topic": "综艺《后会友期》",
       "eventName": "综艺《后会友期》",
       "platform": "知微",
-      "rank": 2,
-      "hot": 12936,
-      "hotValue": 12936,
+      "rank": 1,
+      "hot": 6916,
+      "hotValue": 6916,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 12936
+          "hot": 6916
         }
       ],
       "totalScore": 80.3,
@@ -64,31 +31,64 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-10T15:47:45.428Z",
+      "collectedAt": "2026-11-10T23:09:58.362Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top3",
-      "title": "女子月薪2万被裁才知社保基数按4000算",
-      "topic": "女子月薪2万被裁才知社保基数按4000算",
-      "eventName": "女子月薪2万被裁才知社保基数按4000算",
-      "platform": "微博",
-      "rank": 3,
-      "hot": 1171743,
-      "hotValue": 1171743,
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%88%E8%96%AA2%E4%B8%87%E8%A2%AB%E8%A3%81%E6%89%8D%E7%9F%A5%E7%A4%BE%E4%BF%9D%E5%9F%BA%E6%95%B0%E6%8C%894000%E7%AE%97%23",
+      "seat": "总榜Top2",
+      "title": "梁家辉第39届金鸡奖最佳男主角",
+      "topic": "梁家辉第39届金鸡奖最佳男主角",
+      "eventName": "梁家辉第39届金鸡奖最佳男主角",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 12135754,
+      "hotValue": 12135754,
+      "url": "https://www.douyin.com/search/%E6%A2%81%E5%AE%B6%E8%BE%89%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92",
       "platforms": [
         {
-          "platform": "微博",
+          "platform": "抖音",
           "rank": 1,
-          "hot": 1171743
+          "hot": 12135754
         }
       ],
       "totalScore": 78.1,
       "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "抖音标记'新'(刚上榜)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音标记'新'(刚上榜)",
+      "rankChange": "抖音标记'新'(刚上榜)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-10T23:09:58.362Z",
+      "eventSummary": "围绕「梁家辉第39届金鸡奖最佳男主角」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「梁家辉第39届金鸡奖最佳男主角」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top3",
+      "title": "高叶金鸡影后",
+      "topic": "高叶金鸡影后",
+      "eventName": "高叶金鸡影后",
+      "platform": "微博",
+      "rank": 3,
+      "hot": 3542371,
+      "hotValue": 3542371,
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 3542371
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98.1,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -97,93 +97,93 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-10T15:47:45.428Z",
-      "eventSummary": "围绕「女子月薪2万被裁才知社保基数按4000算」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「女子月薪2万被裁才知社保基数按4000算」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-10T23:09:58.362Z",
+      "eventSummary": "围绕「高叶金鸡影后」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「高叶金鸡影后」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top4",
-      "title": "黄仁勋承认婚外情",
-      "topic": "黄仁勋承认婚外情",
-      "eventName": "黄仁勋承认婚外情",
+      "title": "电视剧《小城良方》",
+      "topic": "电视剧《小城良方》",
+      "eventName": "电视剧《小城良方》",
       "platform": "知微",
       "rank": 4,
-      "hot": 5872,
-      "hotValue": 5872,
-      "url": "https://ef.zhiweidata.com/eventRk/0cb21c21d58cbc3010180629/profil",
+      "hot": 2472,
+      "hotValue": 2472,
+      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 5872
+          "hot": 2472
         }
       ],
-      "totalScore": 74.1,
+      "totalScore": 77.9,
       "posScore": 77.8,
       "hotScore": 83.3,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "trendScore": 100,
+      "trendEvidence": "排名上升 3→2, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第2名, 在榜11小时)",
-      "rankChange": "持续高位(第2名, 在榜11小时)",
+      "duration": "排名上升 3→2, 在榜11小时",
+      "rankChange": "排名上升 3→2, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-10T15:47:45.428Z",
-      "eventSummary": "知名人物就婚外情传闻作出公开回应，承认相关事实并道歉，事件涉及个人隐私与公众人物形象，引发广泛讨论。",
-      "propagation": "公众人物婚外情风波叠加\"八卦好奇心\"与\"道德评判\"双重动力；当事人公开承认后，公众在吃瓜、追问细节与价值观讨论之间快速流转，媒体跟进 + 网友两极声音叠加，话题黏性与传播张力强。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+      "collectedAt": "2026-11-10T23:09:58.362Z",
+      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
+      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
-      "level": "A",
+      "level": "B",
       "seat": "总榜Top5",
-      "title": "石家庄天降陨石",
-      "topic": "石家庄天降陨石",
-      "eventName": "石家庄天降陨石",
+      "title": "花坛藏尸案一审宣判",
+      "topic": "花坛藏尸案一审宣判",
+      "eventName": "花坛藏尸案一审宣判",
       "platform": "知微",
       "rank": 5,
-      "hot": 3498,
-      "hotValue": 3498,
-      "url": "https://ef.zhiweidata.com/eventRk/8506dd4225b8ed9310180640/profil",
+      "hot": 2199,
+      "hotValue": 2199,
+      "url": "https://ef.zhiweidata.com/eventRk/eb97a566a790414310180647/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 3498
+          "hot": 2199
         }
       ],
-      "totalScore": 71.8,
+      "totalScore": 68,
       "posScore": 66.7,
       "hotScore": 72.2,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 4→3, 在榜11小时",
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第3名, 在榜11小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 4→3, 在榜11小时",
-      "rankChange": "排名上升 4→3, 在榜11小时",
+      "duration": "持续高位(第3名, 在榜11小时)",
+      "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-10T15:47:45.428Z",
-      "eventSummary": "围绕「石家庄天降陨石」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「石家庄天降陨石」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-10T23:09:58.362Z",
+      "eventSummary": "围绕「花坛藏尸案一审宣判」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「花坛藏尸案一审宣判」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "电视剧《小城良方》",
-      "topic": "电视剧《小城良方》",
-      "eventName": "电视剧《小城良方》",
+      "title": "黄仁勋承认婚外情",
+      "topic": "黄仁勋承认婚外情",
+      "eventName": "黄仁勋承认婚外情",
       "platform": "知微",
       "rank": 6,
-      "hot": 3175,
-      "hotValue": 3175,
-      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
+      "hot": 1883,
+      "hotValue": 1883,
+      "url": "https://ef.zhiweidata.com/eventRk/0cb21c21d58cbc3010180629/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 3175
+          "hot": 1883
         }
       ],
       "totalScore": 61.9,
@@ -196,10 +196,10 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-10T15:47:45.428Z",
-      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
-      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-11-10T23:09:58.362Z",
+      "eventSummary": "知名人物就婚外情传闻作出公开回应，承认相关事实并道歉，事件涉及个人隐私与公众人物形象，引发广泛讨论。",
+      "propagation": "公众人物婚外情风波叠加\"八卦好奇心\"与\"道德评判\"双重动力；当事人公开承认后，公众在吃瓜、追问细节与价值观讨论之间快速流转，媒体跟进 + 网友两极声音叠加，话题黏性与传播张力强。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     }
   ]
 }
