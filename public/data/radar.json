@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T15:00:01.475Z",
+  "generatedAt": "2026-11-11T15:15:25.566Z",
   "date": "2026-11-11",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
@@ -11,14 +11,14 @@
       "eventName": "凯尔特人大胜76人",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11563700,
-      "hotValue": 11563700,
+      "hot": 11898988,
+      "hotValue": 11898988,
       "url": "https://www.douyin.com/search/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%E5%A4%A7%E8%83%9C76%E4%BA%BA",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11563700
+          "hot": 11898988
         }
       ],
       "totalScore": 84.4,
@@ -31,7 +31,7 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-11-11T15:00:01.475Z",
+      "collectedAt": "2026-11-11T15:15:25.566Z",
       "eventSummary": "围绕「凯尔特人大胜76人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「凯尔特人大胜76人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -44,14 +44,14 @@
       "eventName": "综艺《后会友期》",
       "platform": "知微",
       "rank": 2,
-      "hot": 10059,
-      "hotValue": 10059,
+      "hot": 15899,
+      "hotValue": 15899,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 10059
+          "hot": 15899
         }
       ],
       "totalScore": 80.8,
@@ -64,7 +64,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-11T15:00:01.475Z",
+      "collectedAt": "2026-11-11T15:15:25.566Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -72,52 +72,19 @@
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "比亚迪大唐前后轮毂装反",
-      "topic": "比亚迪大唐前后轮毂装反",
-      "eventName": "比亚迪大唐前后轮毂装反",
-      "platform": "知微",
-      "rank": 3,
-      "hot": 9880,
-      "hotValue": 9880,
-      "url": "https://ef.zhiweidata.com/eventRk/507bd5ed5133083110180658/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 9880
-        }
-      ],
-      "totalScore": 79,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 4→2, 在榜1小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 4→2, 在榜1小时",
-      "rankChange": "排名上升 4→2, 在榜1小时",
-      "excludeCat": null,
-      "collectedAt": "2026-11-11T15:00:01.475Z",
-      "eventSummary": "围绕「比亚迪大唐前后轮毂装反」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「比亚迪大唐前后轮毂装反」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
       "title": "林生斌名下关联13家公司",
       "topic": "林生斌名下关联13家公司",
       "eventName": "林生斌名下关联13家公司",
       "platform": "微博",
-      "rank": 4,
-      "hot": 1189562,
-      "hotValue": 1189562,
+      "rank": 3,
+      "hot": 1205056,
+      "hotValue": 1205056,
       "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E5%90%8D%E4%B8%8B%E5%85%B3%E8%81%9413%E5%AE%B6%E5%85%AC%E5%8F%B8%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1189562
+          "hot": 1205056
         }
       ],
       "totalScore": 78.1,
@@ -130,60 +97,60 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-11T15:00:01.475Z",
+      "collectedAt": "2026-11-11T15:15:25.566Z",
       "eventSummary": "围绕「林生斌名下关联13家公司」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「林生斌名下关联13家公司」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top5",
-      "title": "张雪冠军车拍卖款不再捐给韩红基金会",
-      "topic": "张雪冠军车拍卖款不再捐给韩红基金会",
-      "eventName": "张雪冠军车拍卖款不再捐给韩红基金会",
+      "seat": "总榜Top4",
+      "title": "比亚迪大唐前后轮毂装反",
+      "topic": "比亚迪大唐前后轮毂装反",
+      "eventName": "比亚迪大唐前后轮毂装反",
       "platform": "知微",
-      "rank": 5,
-      "hot": 3241,
-      "hotValue": 3241,
-      "url": "https://ef.zhiweidata.com/eventRk/2da456e860b83a8510180656/profil",
+      "rank": 4,
+      "hot": 4329,
+      "hotValue": 4329,
+      "url": "https://ef.zhiweidata.com/eventRk/507bd5ed5133083110180658/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 4,
-          "hot": 3241
+          "rank": 2,
+          "hot": 4329
         }
       ],
-      "totalScore": 71.3,
-      "posScore": 60,
-      "hotScore": 65,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第4名, 在榜11小时)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 张雪冠军车拍卖款不再捐给韩红基金会)",
-      "duration": "持续高位(第4名, 在榜11小时)",
-      "rankChange": "持续高位(第4名, 在榜11小时)",
+      "totalScore": 71.5,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 70,
+      "trendEvidence": "平稳(第2名, 在榜2小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "平稳(第2名, 在榜2小时)",
+      "rankChange": "平稳(第2名, 在榜2小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-11T15:00:01.475Z",
-      "eventSummary": "华为与赛力斯调整双方在智能汽车业务上的合作模式，涉及技术、渠道与分成安排，行业关注合作走向。",
-      "propagation": "围绕「张雪冠军车拍卖款不再捐给韩红基金会」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-11T15:15:25.566Z",
+      "eventSummary": "围绕「比亚迪大唐前后轮毂装反」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「比亚迪大唐前后轮毂装反」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top6",
+      "seat": "总榜Top5",
       "title": "电视剧《小城良方》",
       "topic": "电视剧《小城良方》",
       "eventName": "电视剧《小城良方》",
       "platform": "知微",
-      "rank": 6,
-      "hot": 4891,
-      "hotValue": 4891,
+      "rank": 5,
+      "hot": 4240,
+      "hotValue": 4240,
       "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 4891
+          "hot": 4240
         }
       ],
       "totalScore": 69.8,
@@ -196,9 +163,42 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-11T15:00:01.475Z",
+      "collectedAt": "2026-11-11T15:15:25.566Z",
       "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top6",
+      "title": "梁家辉首获金鸡奖 实现三金大满贯",
+      "topic": "梁家辉首获金鸡奖 实现三金大满贯",
+      "eventName": "梁家辉首获金鸡奖 实现三金大满贯",
+      "platform": "知微",
+      "rank": 6,
+      "hot": 2428,
+      "hotValue": 2428,
+      "url": "https://ef.zhiweidata.com/eventRk/67b815a9d98a778810180653/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 4,
+          "hot": 2428
+        }
+      ],
+      "totalScore": 68,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 5→4, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 5→4, 在榜11小时",
+      "rankChange": "排名上升 5→4, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-11-11T15:15:25.566Z",
+      "eventSummary": "围绕「梁家辉首获金鸡奖 实现三金大满贯」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「梁家辉首获金鸡奖 实现三金大满贯」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
