@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-10T06:30:11.155Z",
+  "updatedAt": "2026-11-11T01:36:57.292Z",
   "entries": [
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "current": true
+    },
+    {
+      "date": "2026-11-10",
+      "current": false
     },
     {
       "date": "2026-11-09",
@@ -15,10 +19,6 @@
     },
     {
       "date": "2026-11-05",
-      "current": false
-    },
-    {
-      "date": "2026-11-04",
       "current": false
     }
   ]
