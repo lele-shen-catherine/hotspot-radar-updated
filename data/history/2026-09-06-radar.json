@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T11:26:48.998Z",
+  "date": "2026-09-06",
+  "sourceGeneratedAt": "2026-09-06T19:26:44.785Z",
+  "provider": "local-rules",
+  "model": "auditable-score-v1",
+  "summary": {
+    "analyzed": 24,
+    "selected": 5,
+    "rejected": 19
+  },
+  "hotspots": [
+    {
+      "id": "douyin-8-才刚开学我就已经想家了",
+      "title": "才刚开学我就已经想家了",
+      "ruleScore": 68.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 8,
+          "hot": 8491434,
+          "url": "https://www.douyin.com/search/%E6%89%8D%E5%88%9A%E5%BC%80%E5%AD%A6%E6%88%91%E5%B0%B1%E5%B7%B2%E7%BB%8F%E6%83%B3%E5%AE%B6%E4%BA%86"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 82.4,
+      "creativityScore": 82,
+      "totalScore": 75.5,
+      "level": "A",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "才刚开学我就已经想家了",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“才刚开学我就已经想家了”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-9-泡椒美食唤醒我的舌尖味蕾",
+      "title": "泡椒美食唤醒我的舌尖味蕾",
+      "ruleScore": 67.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 9,
+          "hot": 8422700,
+          "url": "https://www.douyin.com/search/%E6%B3%A1%E6%A4%92%E7%BE%8E%E9%A3%9F%E5%94%A4%E9%86%92%E6%88%91%E7%9A%84%E8%88%8C%E5%B0%96%E5%91%B3%E8%95%BE"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 81.2,
+      "creativityScore": 82,
+      "totalScore": 74.8,
+      "level": "A",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "泡椒美食唤醒我的舌尖味蕾",
+      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
+      "communicationIdea": "围绕“泡椒美食唤醒我的舌尖味蕾”给出可直接尝试的菜单、做法或购买清单。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-10-原来学习好真的有肉吃",
+      "title": "原来学习好真的有肉吃",
+      "ruleScore": 66.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 10,
+          "hot": 8403837,
+          "url": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E5%AD%A6%E4%B9%A0%E5%A5%BD%E7%9C%9F%E7%9A%84%E6%9C%89%E8%82%89%E5%90%83"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 80,
+      "creativityScore": 82,
+      "totalScore": 74.1,
+      "level": "A",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "原来学习好真的有肉吃",
+      "businessAction": "结合相关餐饮或到家商品制作当日主题推荐，并设置短时活动入口。",
+      "communicationIdea": "围绕“原来学习好真的有肉吃”给出可直接尝试的菜单、做法或购买清单。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-18-花少2穿搭",
+      "title": "花少2穿搭",
+      "ruleScore": 55.4,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 18,
+          "hot": 653068,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E7%A9%BF%E6%90%AD%23"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 70.4,
+      "creativityScore": 82,
+      "totalScore": 67,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "花少2穿搭",
+      "businessAction": "制作轻量互动内容或主题商品集合，先小范围发布并观察反馈。",
+      "communicationIdea": "用“花少2穿搭”作为内容切入点，提供具体参与方式。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-25-用ai拼豆的方式打开旅行",
+      "title": "用AI拼豆的方式打开旅行",
+      "ruleScore": 51.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": true,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 25,
+          "hot": 7758023,
+          "url": "https://www.douyin.com/search/%E7%94%A8AI%E6%8B%BC%E8%B1%86%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E6%97%85%E8%A1%8C"
+        }
+      ],
+      "worthLeveraging": true,
+      "riskLevel": "low",
+      "relevanceScore": 82,
+      "timelinessScore": 62,
+      "creativityScore": 72,
+      "totalScore": 62.9,
+      "level": "B",
+      "reason": "热度、业务相关性和可执行性达到入选阈值。",
+      "eventSummary": "用AI拼豆的方式打开旅行",
+      "businessAction": "整理目的地、出行或周末消费清单，并明确价格与适用条件。",
+      "communicationIdea": "围绕“用AI拼豆的方式打开旅行”制作实用攻略，避免夸大承诺。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "douyin-2-中国女篮vs捷克女篮",
+      "title": "中国女篮vs捷克女篮",
+      "ruleScore": 55.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 2,
+          "hot": 10879621,
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%8D%B7%E5%85%8B%E5%A5%B3%E7%AF%AE"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 89.6,
+      "creativityScore": 42,
+      "totalScore": 54.7,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "中国女篮vs捷克女篮",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-1-iphone18pro配色",
+      "title": "iPhone18Pro 配色",
+      "ruleScore": 53.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 1,
+          "hot": 1750320,
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%20%E9%85%8D%E8%89%B2%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 90.8,
+      "creativityScore": 42,
+      "totalScore": 54.2,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "iPhone18Pro 配色",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-3-青春华章",
+      "title": "青春华章",
+      "ruleScore": 54.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 3,
+          "hot": 10768730,
+          "url": "https://www.douyin.com/search/%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 88.4,
+      "creativityScore": 42,
+      "totalScore": 54,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "青春华章",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-2-雷军向所有品牌表达感谢",
+      "title": "雷军向所有品牌表达感谢",
+      "ruleScore": 52.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 2,
+          "hot": 1745365,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%90%91%E6%89%80%E6%9C%89%E5%93%81%E7%89%8C%E8%A1%A8%E8%BE%BE%E6%84%9F%E8%B0%A2%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 89.6,
+      "creativityScore": 42,
+      "totalScore": 53.5,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "雷军向所有品牌表达感谢",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-4-伊朗称打击了美军航母和驱逐舰",
+      "title": "伊朗称打击了美军航母和驱逐舰",
+      "ruleScore": 53.1,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 4,
+          "hot": 10651676,
+          "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E4%BA%86%E7%BE%8E%E5%86%9B%E8%88%AA%E6%AF%8D%E5%92%8C%E9%A9%B1%E9%80%90%E8%88%B0"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 87.2,
+      "creativityScore": 42,
+      "totalScore": 53.3,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "伊朗称打击了美军航母和驱逐舰",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-3-把青春华章写在祖国大地上",
+      "title": "把青春华章写在祖国大地上",
+      "ruleScore": 51.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 3,
+          "hot": 1729846,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 88.4,
+      "creativityScore": 42,
+      "totalScore": 52.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "把青春华章写在祖国大地上",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-5-新闻联播",
+      "title": "新闻联播",
+      "ruleScore": 52,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 5,
+          "hot": 9977550,
+          "url": "https://www.douyin.com/search/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 86,
+      "creativityScore": 42,
+      "totalScore": 52.6,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "新闻联播",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-4-财政部将向中国人寿集团注资350亿",
+      "title": "财政部将向中国人寿集团注资350亿",
+      "ruleScore": 50.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 4,
+          "hot": 1713683,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E9%9B%86%E5%9B%A2%E6%B3%A8%E8%B5%84350%E4%BA%BF%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 87.2,
+      "creativityScore": 42,
+      "totalScore": 52.1,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "财政部将向中国人寿集团注资350亿",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-6-你的背包让我走得好缓慢",
+      "title": "你的背包让我走得好缓慢",
+      "ruleScore": 51,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 6,
+          "hot": 9802784,
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E7%9A%84%E8%83%8C%E5%8C%85%E8%AE%A9%E6%88%91%E8%B5%B0%E5%BE%97%E5%A5%BD%E7%BC%93%E6%85%A2"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 84.8,
+      "creativityScore": 42,
+      "totalScore": 51.9,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "你的背包让我走得好缓慢",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-7-军训才艺大赏",
+      "title": "军训才艺大赏",
+      "ruleScore": 49.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 7,
+          "hot": 8606057,
+          "url": "https://www.douyin.com/search/%E5%86%9B%E8%AE%AD%E6%89%8D%E8%89%BA%E5%A4%A7%E8%B5%8F"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 83.6,
+      "creativityScore": 42,
+      "totalScore": 51.1,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "军训才艺大赏",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-6-提前剪掉的7个葫芦讽刺了谁",
+      "title": "提前剪掉的7个葫芦讽刺了谁",
+      "ruleScore": 48.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 6,
+          "hot": 1676587,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E5%89%AA%E6%8E%89%E7%9A%847%E4%B8%AA%E8%91%AB%E8%8A%A6%E8%AE%BD%E5%88%BA%E4%BA%86%E8%B0%81%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 84.8,
+      "creativityScore": 42,
+      "totalScore": 50.8,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "提前剪掉的7个葫芦讽刺了谁",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-7-本周这些数据值得关注",
+      "title": "本周这些数据值得关注",
+      "ruleScore": 47.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 7,
+          "hot": 1666484,
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 83.6,
+      "creativityScore": 42,
+      "totalScore": 50.1,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "本周这些数据值得关注",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-8-ig离冒泡赛只差一步",
+      "title": "ig离冒泡赛只差一步",
+      "ruleScore": 46.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 8,
+          "hot": 1636678,
+          "url": "https://s.weibo.com/weibo?q=%23ig%E7%A6%BB%E5%86%92%E6%B3%A1%E8%B5%9B%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%AD%A5%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 82.4,
+      "creativityScore": 42,
+      "totalScore": 49.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "ig离冒泡赛只差一步",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-9-一地严查赵一鸣好想来等零食门店",
+      "title": "一地严查赵一鸣好想来等零食门店",
+      "ruleScore": 45.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 9,
+          "hot": 1626180,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E5%A5%BD%E6%83%B3%E6%9D%A5%E7%AD%89%E9%9B%B6%E9%A3%9F%E9%97%A8%E5%BA%97%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 81.2,
+      "creativityScore": 42,
+      "totalScore": 48.7,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "一地严查赵一鸣好想来等零食门店",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-11-张雪机车法国站七冠之战",
+      "title": "张雪机车法国站七冠之战",
+      "ruleScore": 45.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 11,
+          "hot": 8336114,
+          "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E4%B8%83%E5%86%A0%E4%B9%8B%E6%88%98"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 78.8,
+      "creativityScore": 42,
+      "totalScore": 48.4,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "张雪机车法国站七冠之战",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-10-爷爷提前剪葫芦是给流量的一记耳光",
+      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "ruleScore": 44.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 10,
+          "hot": 1606934,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E8%91%AB%E8%8A%A6%E6%98%AF%E7%BB%99%E6%B5%81%E9%87%8F%E7%9A%84%E4%B8%80%E8%AE%B0%E8%80%B3%E5%85%89%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 80,
+      "creativityScore": 42,
+      "totalScore": 48,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "爷爷提前剪葫芦是给流量的一记耳光",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-12-厄尔尼诺到底是啥",
+      "title": "厄尔尼诺到底是啥",
+      "ruleScore": 44.8,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 12,
+          "hot": 8317089,
+          "url": "https://www.douyin.com/search/%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%88%B0%E5%BA%95%E6%98%AF%E5%95%A5"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 77.6,
+      "creativityScore": 42,
+      "totalScore": 47.7,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "厄尔尼诺到底是啥",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "weibo-11-锤娜丽莎回应打针减肥质疑",
+      "title": "锤娜丽莎回应打针减肥质疑",
+      "ruleScore": 43.6,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "weibo",
+          "rank": 11,
+          "hot": 1599925,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%89%93%E9%92%88%E5%87%8F%E8%82%A5%E8%B4%A8%E7%96%91%23"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 78.8,
+      "creativityScore": 42,
+      "totalScore": 47.3,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "锤娜丽莎回应打针减肥质疑",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    },
+    {
+      "id": "douyin-13-青铜峡大坝开始泄洪系谣言",
+      "title": "青铜峡大坝开始泄洪系谣言",
+      "ruleScore": 43.7,
+      "crossPlatform": false,
+      "businessKeywordMatch": false,
+      "excluded": false,
+      "exclusionReason": "",
+      "platforms": [
+        {
+          "platform": "douyin",
+          "rank": 13,
+          "hot": 8026393,
+          "url": "https://www.douyin.com/search/%E9%9D%92%E9%93%9C%E5%B3%A1%E5%A4%A7%E5%9D%9D%E5%BC%80%E5%A7%8B%E6%B3%84%E6%B4%AA%E7%B3%BB%E8%B0%A3%E8%A8%80"
+        }
+      ],
+      "worthLeveraging": false,
+      "riskLevel": "low",
+      "relevanceScore": 38,
+      "timelinessScore": 76.4,
+      "creativityScore": 42,
+      "totalScore": 47,
+      "level": "observe",
+      "reason": "当前业务相关性或可执行性不足，建议观察。",
+      "eventSummary": "青铜峡大坝开始泄洪系谣言",
+      "businessAction": "暂不发布，继续观察榜单持续时间与跨平台扩散情况。",
+      "communicationIdea": "保留为趋势观察，不直接追热点。",
+      "riskNote": "发布前复核事实、版权和品牌语境。"
+    }
+  ]
+}
