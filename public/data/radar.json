@@ -1,27 +1,60 @@
 {
-  "generatedAt": "2026-11-12T23:31:46.705Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-13T15:24:00.692Z",
+  "date": "2026-11-13",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
-      "title": "11月12日24时油价下调",
-      "topic": "11月12日24时油价下调",
-      "eventName": "11月12日24时油价下调",
-      "platform": "抖音",
+      "title": "2027研究生报考人数347万",
+      "topic": "2027研究生报考人数347万",
+      "eventName": "2027研究生报考人数347万",
+      "platform": "微博",
       "rank": 1,
-      "hot": 12543927,
-      "hotValue": 12543927,
-      "url": "https://www.douyin.com/search/11%E6%9C%8812%E6%97%A524%E6%97%B6%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83",
+      "hot": 1134233,
+      "hotValue": 1134233,
+      "url": "https://s.weibo.com/weibo?q=%232027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1134233
+        }
+      ],
+      "totalScore": 85.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 2027研究生报考人数347万)",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-13T15:24:00.692Z",
+      "eventSummary": "围绕「2027研究生报考人数347万」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「2027研究生报考人数347万」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top2",
+      "title": "油价下调 加满一箱油少花约26元",
+      "topic": "油价下调 加满一箱油少花约26元",
+      "eventName": "油价下调 加满一箱油少花约26元",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 11345741,
+      "hotValue": 11345741,
+      "url": "https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83%20%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B1%E7%BA%A626%E5%85%83",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12543927
+          "hot": 11345741
         }
       ],
-      "totalScore": 84.3,
+      "totalScore": 84.4,
       "posScore": 98,
       "hotScore": 99,
       "trendScore": 85,
@@ -31,27 +64,60 @@
       "duration": "抖音标记'爆'",
       "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-11-12T23:31:46.705Z",
-      "eventSummary": "围绕「11月12日24时油价下调」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「11月12日24时油价下调」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-13T15:24:00.692Z",
+      "eventSummary": "围绕「油价下调 加满一箱油少花约26元」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「油价下调 加满一箱油少花约26元」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top2",
+      "seat": "总榜Top3",
+      "title": "黄仁勋辞职",
+      "topic": "黄仁勋辞职",
+      "eventName": "黄仁勋辞职",
+      "platform": "知微",
+      "rank": 3,
+      "hot": 14561,
+      "hotValue": 14561,
+      "url": "https://ef.zhiweidata.com/eventRk/ed4c5e7c03037d6b10180679/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 2,
+          "hot": 14561
+        }
+      ],
+      "totalScore": 82.3,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 周鸿祎回应黄仁勋辞职对中国AI影响)",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-13T15:24:00.692Z",
+      "eventSummary": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「黄仁勋辞职」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
       "title": "综艺《后会友期》",
       "topic": "综艺《后会友期》",
       "eventName": "综艺《后会友期》",
       "platform": "知微",
-      "rank": 2,
-      "hot": 13865,
-      "hotValue": 13865,
+      "rank": 4,
+      "hot": 30944,
+      "hotValue": 30944,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 13865
+          "hot": 30944
         }
       ],
       "totalScore": 80.8,
@@ -64,126 +130,60 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-12T23:31:46.705Z",
+      "collectedAt": "2026-11-13T15:24:00.692Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top3",
-      "title": "黄仁勋承认婚外情",
-      "topic": "黄仁勋承认婚外情",
-      "eventName": "黄仁勋承认婚外情",
-      "platform": "知微",
-      "rank": 3,
-      "hot": 9484,
-      "hotValue": 9484,
-      "url": "https://ef.zhiweidata.com/eventRk/0cb21c21d58cbc3010180629/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 9484
-        }
-      ],
-      "totalScore": 79,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 6→2, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 6→2, 在榜11小时",
-      "rankChange": "排名上升 6→2, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-11-12T23:31:46.705Z",
-      "eventSummary": "知名人物就婚外情传闻作出公开回应，承认相关事实并道歉，事件涉及个人隐私与公众人物形象，引发广泛讨论。",
-      "propagation": "公众人物婚外情风波叠加\"八卦好奇心\"与\"道德评判\"双重动力；当事人公开承认后，公众在吃瓜、追问细节与价值观讨论之间快速流转，媒体跟进 + 网友两极声音叠加，话题黏性与传播张力强。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
-      "title": "刘欢妻子长文",
-      "topic": "刘欢妻子长文",
-      "eventName": "刘欢妻子长文",
-      "platform": "微博",
-      "rank": 4,
-      "hot": 1669765,
-      "hotValue": 1669765,
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E9%95%BF%E6%96%87%23",
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 1669765
-        }
-      ],
-      "totalScore": 77.7,
-      "posScore": 98,
-      "hotScore": 97.1,
-      "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-12T23:31:46.705Z",
-      "eventSummary": "围绕「刘欢妻子长文」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「刘欢妻子长文」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "B",
       "seat": "总榜Top5",
-      "title": "电视剧《小城良方》",
-      "topic": "电视剧《小城良方》",
-      "eventName": "电视剧《小城良方》",
+      "title": "上海和平饭店51万天价餐事件",
+      "topic": "上海和平饭店51万天价餐事件",
+      "eventName": "上海和平饭店51万天价餐事件",
       "platform": "知微",
       "rank": 5,
-      "hot": 5728,
-      "hotValue": 5728,
-      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
+      "hot": 6244,
+      "hotValue": 6244,
+      "url": "https://ef.zhiweidata.com/eventRk/c73c24091c83c86610180660/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 5728
+          "hot": 6244
         }
       ],
-      "totalScore": 69.8,
+      "totalScore": 73.5,
       "posScore": 70,
       "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
+      "trendScore": 100,
+      "trendEvidence": "排名上升 7→3, 在榜1小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
+      "duration": "排名上升 7→3, 在榜1小时",
+      "rankChange": "排名上升 7→3, 在榜1小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-12T23:31:46.705Z",
-      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
-      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "collectedAt": "2026-11-13T15:24:00.692Z",
+      "eventSummary": "围绕「上海和平饭店51万天价餐事件」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "个体隐私与公共讨论的冲突事件；涉及未成年人/隐私细节，公众情绪强但需高审慎，共情与质疑并存，借势时必须规避个体隐私披露与站队审判，仅宜从\"公共场所安全/家长监护\"的公共服务视角中性切入。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "腾讯辟谣裁员50%",
-      "topic": "腾讯辟谣裁员50%",
-      "eventName": "腾讯辟谣裁员50%",
+      "title": "黄仁勋承认婚外情",
+      "topic": "黄仁勋承认婚外情",
+      "eventName": "黄仁勋承认婚外情",
       "platform": "知微",
       "rank": 6,
-      "hot": 3284,
-      "hotValue": 3284,
-      "url": "https://ef.zhiweidata.com/eventRk/a602183c67594bcd10180677/profil",
+      "hot": 5326,
+      "hotValue": 5326,
+      "url": "https://ef.zhiweidata.com/eventRk/0cb21c21d58cbc3010180629/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 3284
+          "hot": 5326
         }
       ],
       "totalScore": 64.3,
@@ -196,10 +196,10 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-12T23:31:46.705Z",
-      "eventSummary": "围绕「腾讯辟谣裁员50%」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「腾讯辟谣裁员50%」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+      "collectedAt": "2026-11-13T15:24:00.692Z",
+      "eventSummary": "知名人物就婚外情传闻作出公开回应，承认相关事实并道歉，事件涉及个人隐私与公众人物形象，引发广泛讨论。",
+      "propagation": "公众人物婚外情风波叠加\"八卦好奇心\"与\"道德评判\"双重动力；当事人公开承认后，公众在吃瓜、追问细节与价值观讨论之间快速流转，媒体跟进 + 网友两极声音叠加，话题黏性与传播张力强。",
+      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
     }
   ]
 }
