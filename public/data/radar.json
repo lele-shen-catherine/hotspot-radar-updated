@@ -1,57 +1,24 @@
 {
-  "generatedAt": "2026-11-13T22:50:25.720Z",
-  "date": "2026-11-13",
+  "generatedAt": "2026-11-14T15:05:23.072Z",
+  "date": "2026-11-14",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
       "seat": "总榜Top1",
-      "title": "油价下调 加满一箱油少花约26元",
-      "topic": "油价下调 加满一箱油少花约26元",
-      "eventName": "油价下调 加满一箱油少花约26元",
-      "platform": "抖音",
-      "rank": 1,
-      "hot": 11134215,
-      "hotValue": 11134215,
-      "url": "https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83%20%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B1%E7%BA%A626%E5%85%83",
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 11134215
-        }
-      ],
-      "totalScore": 84.4,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 85,
-      "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'爆'",
-      "rankChange": "抖音标记'爆'",
-      "excludeCat": null,
-      "collectedAt": "2026-11-13T22:50:25.720Z",
-      "eventSummary": "围绕「油价下调 加满一箱油少花约26元」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「油价下调 加满一箱油少花约26元」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
       "title": "综艺《后会友期》",
       "topic": "综艺《后会友期》",
       "eventName": "综艺《后会友期》",
       "platform": "知微",
-      "rank": 2,
-      "hot": 12239,
-      "hotValue": 12239,
+      "rank": 1,
+      "hot": 14247,
+      "hotValue": 14247,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 12239
+          "hot": 14247
         }
       ],
       "totalScore": 80.8,
@@ -64,31 +31,64 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-13T22:50:25.720Z",
+      "collectedAt": "2026-11-14T15:05:23.072Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
+      "seat": "总榜Top2",
+      "title": "BLG对阵GEN",
+      "topic": "BLG对阵GEN",
+      "eventName": "BLG对阵GEN",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 11638278,
+      "hotValue": 11638278,
+      "url": "https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN",
+      "platforms": [
+        {
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 11638278
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "抖音标记'新'(刚上榜)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音标记'新'(刚上榜)",
+      "rankChange": "抖音标记'新'(刚上榜)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-14T15:05:23.072Z",
+      "eventSummary": "焦点赛事结束，比分已出，胜负结果与比赛过程成为讨论焦点。",
+      "propagation": "顶级电竞赛事的强对抗与\"胜负悬念\"自带情绪峰值；关键对局的过程跌宕与最终晋级/夺冠结果，牵动粉丝的胜负欲与集体荣誉感，观赛讨论、名场面切片与\"冠军归属\"话题在多个平台同步引爆，参与感与分享欲强。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
       "seat": "总榜Top3",
-      "title": "飞秒手术全球1000万例中国750万例",
-      "topic": "飞秒手术全球1000万例中国750万例",
-      "eventName": "飞秒手术全球1000万例中国750万例",
+      "title": "曝S16决赛还有重磅官宣",
+      "topic": "曝S16决赛还有重磅官宣",
+      "eventName": "曝S16决赛还有重磅官宣",
       "platform": "微博",
       "rank": 3,
-      "hot": 1158263,
-      "hotValue": 1158263,
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B%23",
+      "hot": 1128783,
+      "hotValue": 1128783,
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DS16%E5%86%B3%E8%B5%9B%E8%BF%98%E6%9C%89%E9%87%8D%E7%A3%85%E5%AE%98%E5%AE%A3%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1158263
+          "hot": 1128783
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98.1,
+      "posScore": 98,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -97,27 +97,60 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-13T22:50:25.720Z",
-      "eventSummary": "当事人突发健康问题，被紧急送医并接受手术/治疗，消息经网络流传引发关注。",
-      "propagation": "公众对知名人物健康的强烈共情与关切；突发健康事件自带即时性，舆论在\"关心病情-传递祝福-讨论生活方式\"间流转，情绪黏性高。",
+      "collectedAt": "2026-11-14T15:05:23.072Z",
+      "eventSummary": "歌手许嵩与演员冯禧公开了恋情/结婚关系：两人用公开方式官宣，粉丝与路人共同见证，\"许嵩冯禧\"相关话题迅速上榜；公众在祝福与\"考古两人过往\"之间集体参与，甜蜜氛围成为情绪主线。",
+      "propagation": "公众人物婚恋官宣自带\"CP/情感\"的高浓度围观；明星/公众人物公开关系，公众在\"祝福-八卦-考古\"间集体参与，粉丝记忆与路人好感叠加，甜蜜感与代入感驱动跨平台转发与祝福。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top4",
+      "title": "黄仁勋辞职",
+      "topic": "黄仁勋辞职",
+      "eventName": "黄仁勋辞职",
+      "platform": "知微",
+      "rank": 4,
+      "hot": 3797,
+      "hotValue": 3797,
+      "url": "https://ef.zhiweidata.com/eventRk/ed4c5e7c03037d6b10180679/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 3797
+        }
+      ],
+      "totalScore": 76.8,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第3名, 在榜11小时)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 黄仁勋辞职或影响史上最大IPO)",
+      "duration": "持续高位(第3名, 在榜11小时)",
+      "rankChange": "持续高位(第3名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-14T15:05:23.072Z",
+      "eventSummary": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「黄仁勋辞职」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top5",
       "title": "电视剧《小城良方》",
       "topic": "电视剧《小城良方》",
       "eventName": "电视剧《小城良方》",
       "platform": "知微",
-      "rank": 4,
-      "hot": 6854,
-      "hotValue": 6854,
+      "rank": 5,
+      "hot": 5500,
+      "hotValue": 5500,
       "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 6854
+          "hot": 5500
         }
       ],
       "totalScore": 75.3,
@@ -130,76 +163,43 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-13T22:50:25.720Z",
+      "collectedAt": "2026-11-14T15:05:23.072Z",
       "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top5",
-      "title": "黄仁勋辞职",
-      "topic": "黄仁勋辞职",
-      "eventName": "黄仁勋辞职",
-      "platform": "知微",
-      "rank": 5,
-      "hot": 5317,
-      "hotValue": 5317,
-      "url": "https://ef.zhiweidata.com/eventRk/ed4c5e7c03037d6b10180679/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 5317
-        }
-      ],
-      "totalScore": 69.8,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜11小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜11小时)",
-      "rankChange": "持续高位(第3名, 在榜11小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-13T22:50:25.720Z",
-      "eventSummary": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「黄仁勋辞职」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "B",
       "seat": "总榜Top6",
-      "title": "河南财经政法大学通报教师性骚扰女生",
-      "topic": "河南财经政法大学通报教师性骚扰女生",
-      "eventName": "河南财经政法大学通报教师性骚扰女生",
+      "title": "微软多项服务宕机",
+      "topic": "微软多项服务宕机",
+      "eventName": "微软多项服务宕机",
       "platform": "知微",
       "rank": 6,
-      "hot": 4401,
-      "hotValue": 4401,
-      "url": "https://ef.zhiweidata.com/eventRk/86ea63d1824e960710180635/profil",
+      "hot": 987,
+      "hotValue": 987,
+      "url": "https://ef.zhiweidata.com/eventRk/066d6950881ae38e10180683/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 4401
+          "hot": 987
         }
       ],
       "totalScore": 68,
       "posScore": 60,
       "hotScore": 65,
       "trendScore": 100,
-      "trendEvidence": "排名上升 9→4, 在榜1小时",
+      "trendEvidence": "排名上升 5→4, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 9→4, 在榜1小时",
-      "rankChange": "排名上升 9→4, 在榜1小时",
+      "duration": "排名上升 5→4, 在榜11小时",
+      "rankChange": "排名上升 5→4, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-13T22:50:25.720Z",
-      "eventSummary": "围绕「河南财经政法大学通报教师性骚扰女生」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "官方通报自带公信力与强传播势能；公众人物/主体与监管结果形成强冲突叙事，评论区情绪共振与二次解读推动话题在榜单持续上探。",
-      "riskNote": "风险等级：高。涉及个体隐私/高敏感，仅做公共信息服务与理性引导，不披露隐私、不站队审判、不煽动对立。"
+      "collectedAt": "2026-11-14T15:05:23.072Z",
+      "eventSummary": "围绕「微软多项服务宕机」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「微软多项服务宕机」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }
