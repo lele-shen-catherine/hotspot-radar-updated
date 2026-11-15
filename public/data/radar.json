@@ -1,90 +1,24 @@
 {
-  "generatedAt": "2026-11-15T15:15:56.063Z",
+  "generatedAt": "2026-11-15T22:14:52.167Z",
   "date": "2026-11-15",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "S",
-      "seat": "总榜Top1",
-      "title": "BLG夺冠",
-      "topic": "BLG夺冠",
-      "eventName": "BLG夺冠",
-      "platform": "抖音",
-      "rank": 1,
-      "hot": 10890661,
-      "hotValue": 10890661,
-      "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0",
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 10890661
-        }
-      ],
-      "totalScore": 85.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "抖音无在榜时长(按60)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: BLG夺冠引来半个娱乐圈、BLG夺冠Tim送iPhoneDuo)",
-      "duration": "抖音无在榜时长(按60)",
-      "rankChange": "抖音无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-15T15:15:56.063Z",
-      "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
-      "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "S",
-      "seat": "总榜Top2",
-      "title": "Knight曝打1分钟就发现chovy不对劲",
-      "topic": "Knight曝打1分钟就发现chovy不对劲",
-      "eventName": "Knight曝打1分钟就发现chovy不对劲",
-      "platform": "微博",
-      "rank": 2,
-      "hot": 1642285,
-      "hotValue": 1642285,
-      "url": "https://s.weibo.com/weibo?q=%23Knight%E6%9B%9D%E6%89%931%E5%88%86%E9%92%9F%E5%B0%B1%E5%8F%91%E7%8E%B0chovy%E4%B8%8D%E5%AF%B9%E5%8A%B2%23",
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 1642285
-        }
-      ],
-      "totalScore": 85.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: Knight夺得FMVP)",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-15T15:15:56.063Z",
-      "eventSummary": "围绕「Knight曝打1分钟就发现chovy不对劲」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「Knight曝打1分钟就发现chovy不对劲」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
       "level": "A",
-      "seat": "总榜Top3",
+      "seat": "总榜Top1",
       "title": "综艺《后会友期》",
       "topic": "综艺《后会友期》",
       "eventName": "综艺《后会友期》",
       "platform": "知微",
-      "rank": 3,
-      "hot": 5924,
-      "hotValue": 5924,
+      "rank": 1,
+      "hot": 5328,
+      "hotValue": 5328,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 5924
+          "hot": 5328
         }
       ],
       "totalScore": 80.8,
@@ -97,9 +31,75 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-15T15:15:56.063Z",
+      "collectedAt": "2026-11-15T22:14:52.167Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top2",
+      "title": "深度复盘BLG决赛表现",
+      "topic": "深度复盘BLG决赛表现",
+      "eventName": "深度复盘BLG决赛表现",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 12045891,
+      "hotValue": 12045891,
+      "url": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E5%86%B3%E8%B5%9B%E8%A1%A8%E7%8E%B0",
+      "platforms": [
+        {
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 12045891
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "抖音无在榜时长(按60)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音无在榜时长(按60)",
+      "rankChange": "抖音无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-15T22:14:52.167Z",
+      "eventSummary": "竞技赛场关键战结束：一方以明确比分战胜对手，成功挺进/晋级下一阶段（或拿下冠军），比赛过程与结果成为粉丝与路人共同讨论的焦点。",
+      "propagation": "顶级电竞赛事的强对抗与\"胜负悬念\"自带情绪峰值；关键对局的过程跌宕与最终晋级/夺冠结果，牵动粉丝的胜负欲与集体荣誉感，观赛讨论、名场面切片与\"冠军归属\"话题在多个平台同步引爆，参与感与分享欲强。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top3",
+      "title": "方博复出首冠",
+      "topic": "方博复出首冠",
+      "eventName": "方博复出首冠",
+      "platform": "微博",
+      "rank": 3,
+      "hot": 1206231,
+      "hotValue": 1206231,
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E9%A6%96%E5%86%A0%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1206231
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-15T22:14:52.167Z",
+      "eventSummary": "围绕「方博复出首冠」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「方博复出首冠」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -110,14 +110,14 @@
       "eventName": "电视剧《小城良方》",
       "platform": "知微",
       "rank": 4,
-      "hot": 5117,
-      "hotValue": 5117,
+      "hot": 4199,
+      "hotValue": 4199,
       "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 5117
+          "hot": 4199
         }
       ],
       "totalScore": 75.3,
@@ -130,7 +130,7 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-15T15:15:56.063Z",
+      "collectedAt": "2026-11-15T22:14:52.167Z",
       "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -143,14 +143,14 @@
       "eventName": "黄仁勋辞职",
       "platform": "知微",
       "rank": 5,
-      "hot": 1025,
-      "hotValue": 1025,
+      "hot": 1215,
+      "hotValue": 1215,
       "url": "https://ef.zhiweidata.com/eventRk/ed4c5e7c03037d6b10180679/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 1025
+          "hot": 1215
         }
       ],
       "totalScore": 69.8,
@@ -163,7 +163,7 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-15T15:15:56.063Z",
+      "collectedAt": "2026-11-15T22:14:52.167Z",
       "eventSummary": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「黄仁勋辞职」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -171,34 +171,34 @@
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "山姆超市一羽绒服卖断货",
-      "topic": "山姆超市一羽绒服卖断货",
-      "eventName": "山姆超市一羽绒服卖断货",
+      "title": "电影《复仇者联盟4:终局之战（加码臻享版）》",
+      "topic": "电影《复仇者联盟4:终局之战（加码臻享版）》",
+      "eventName": "电影《复仇者联盟4:终局之战（加码臻享版）》",
       "platform": "知微",
       "rank": 6,
-      "hot": 352,
-      "hotValue": 352,
-      "url": "https://ef.zhiweidata.com/eventRk/40ae1adc79a2956010180667/profil",
+      "hot": 377,
+      "hotValue": 377,
+      "url": "https://ef.zhiweidata.com/eventRk/4a376e665d27b6d310180233/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 352
+          "hot": 377
         }
       ],
-      "totalScore": 68,
+      "totalScore": 58,
       "posScore": 60,
       "hotScore": 65,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 5→4, 在榜6小时",
+      "trendScore": 60,
+      "trendEvidence": "刚上榜(在榜0小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 5→4, 在榜6小时",
-      "rankChange": "排名上升 5→4, 在榜6小时",
+      "duration": "刚上榜(在榜0小时)",
+      "rankChange": "刚上榜(在榜0小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-15T15:15:56.063Z",
-      "eventSummary": "围绕「山姆超市一羽绒服卖断货」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「山姆超市一羽绒服卖断货」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-15T22:14:52.167Z",
+      "eventSummary": "围绕「电影《复仇者联盟4:终局之战（加码臻享版）》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「电影《复仇者联盟4:终局之战（加码臻享版）》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
