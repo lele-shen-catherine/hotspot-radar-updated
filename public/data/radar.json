@@ -1,57 +1,90 @@
 {
-  "generatedAt": "2026-11-14T21:44:44.974Z",
-  "date": "2026-11-14",
+  "generatedAt": "2026-11-15T15:15:56.063Z",
+  "date": "2026-11-15",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
-      "title": "国足对阵马来西亚",
-      "topic": "国足对阵马来西亚",
-      "eventName": "国足对阵马来西亚",
+      "title": "BLG夺冠",
+      "topic": "BLG夺冠",
+      "eventName": "BLG夺冠",
       "platform": "抖音",
       "rank": 1,
-      "hot": 12110054,
-      "hotValue": 12110054,
-      "url": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A",
+      "hot": 10890661,
+      "hotValue": 10890661,
+      "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 12110054
+          "hot": 10890661
         }
       ],
-      "totalScore": 84.4,
+      "totalScore": 85.1,
       "posScore": 98,
       "hotScore": 99,
-      "trendScore": 85,
-      "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'爆'",
-      "rankChange": "抖音标记'爆'",
+      "trendScore": 60,
+      "trendEvidence": "抖音无在榜时长(按60)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: BLG夺冠引来半个娱乐圈、BLG夺冠Tim送iPhoneDuo)",
+      "duration": "抖音无在榜时长(按60)",
+      "rankChange": "抖音无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-14T21:44:44.974Z",
-      "eventSummary": "焦点赛事结束，比分已出，胜负结果与比赛过程成为讨论焦点。",
-      "propagation": "顶级电竞赛事的强对抗与\"胜负悬念\"自带情绪峰值；关键对局的过程跌宕与最终晋级/夺冠结果，牵动粉丝的胜负欲与集体荣誉感，观赛讨论、名场面切片与\"冠军归属\"话题在多个平台同步引爆，参与感与分享欲强。",
+      "collectedAt": "2026-11-15T15:15:56.063Z",
+      "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
+      "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "S",
+      "seat": "总榜Top2",
+      "title": "Knight曝打1分钟就发现chovy不对劲",
+      "topic": "Knight曝打1分钟就发现chovy不对劲",
+      "eventName": "Knight曝打1分钟就发现chovy不对劲",
+      "platform": "微博",
+      "rank": 2,
+      "hot": 1642285,
+      "hotValue": 1642285,
+      "url": "https://s.weibo.com/weibo?q=%23Knight%E6%9B%9D%E6%89%931%E5%88%86%E9%92%9F%E5%B0%B1%E5%8F%91%E7%8E%B0chovy%E4%B8%8D%E5%AF%B9%E5%8A%B2%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1642285
+        }
+      ],
+      "totalScore": 85.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: Knight夺得FMVP)",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-15T15:15:56.063Z",
+      "eventSummary": "围绕「Knight曝打1分钟就发现chovy不对劲」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「Knight曝打1分钟就发现chovy不对劲」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top2",
+      "seat": "总榜Top3",
       "title": "综艺《后会友期》",
       "topic": "综艺《后会友期》",
       "eventName": "综艺《后会友期》",
       "platform": "知微",
-      "rank": 2,
-      "hot": 11861,
-      "hotValue": 11861,
+      "rank": 3,
+      "hot": 5924,
+      "hotValue": 5924,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 11861
+          "hot": 5924
         }
       ],
       "totalScore": 80.8,
@@ -64,27 +97,27 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-14T21:44:44.974Z",
+      "collectedAt": "2026-11-15T15:15:56.063Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top3",
+      "seat": "总榜Top4",
       "title": "电视剧《小城良方》",
       "topic": "电视剧《小城良方》",
       "eventName": "电视剧《小城良方》",
       "platform": "知微",
-      "rank": 3,
-      "hot": 6715,
-      "hotValue": 6715,
+      "rank": 4,
+      "hot": 5117,
+      "hotValue": 5117,
       "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 6715
+          "hot": 5117
         }
       ],
       "totalScore": 75.3,
@@ -97,27 +130,27 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-14T21:44:44.974Z",
+      "collectedAt": "2026-11-15T15:15:56.063Z",
       "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top4",
+      "seat": "总榜Top5",
       "title": "黄仁勋辞职",
       "topic": "黄仁勋辞职",
       "eventName": "黄仁勋辞职",
       "platform": "知微",
-      "rank": 4,
-      "hot": 2921,
-      "hotValue": 2921,
+      "rank": 5,
+      "hot": 1025,
+      "hotValue": 1025,
       "url": "https://ef.zhiweidata.com/eventRk/ed4c5e7c03037d6b10180679/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 3,
-          "hot": 2921
+          "hot": 1025
         }
       ],
       "totalScore": 69.8,
@@ -130,43 +163,43 @@
       "duration": "持续高位(第3名, 在榜11小时)",
       "rankChange": "持续高位(第3名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-14T21:44:44.974Z",
+      "collectedAt": "2026-11-15T15:15:56.063Z",
       "eventSummary": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「黄仁勋辞职」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top5",
-      "title": "“零元面馆”持续引争议",
-      "topic": "“零元面馆”持续引争议",
-      "eventName": "“零元面馆”持续引争议",
+      "seat": "总榜Top6",
+      "title": "山姆超市一羽绒服卖断货",
+      "topic": "山姆超市一羽绒服卖断货",
+      "eventName": "山姆超市一羽绒服卖断货",
       "platform": "知微",
-      "rank": 5,
-      "hot": 1535,
-      "hotValue": 1535,
-      "url": "https://ef.zhiweidata.com/eventRk/aead27409781d3c310180641/profil",
+      "rank": 6,
+      "hot": 352,
+      "hotValue": 352,
+      "url": "https://ef.zhiweidata.com/eventRk/40ae1adc79a2956010180667/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 1535
+          "hot": 352
         }
       ],
       "totalScore": 68,
       "posScore": 60,
       "hotScore": 65,
       "trendScore": 100,
-      "trendEvidence": "排名上升 7→4, 在榜11小时",
+      "trendEvidence": "排名上升 5→4, 在榜6小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 7→4, 在榜11小时",
-      "rankChange": "排名上升 7→4, 在榜11小时",
+      "duration": "排名上升 5→4, 在榜6小时",
+      "rankChange": "排名上升 5→4, 在榜6小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-14T21:44:44.974Z",
-      "eventSummary": "围绕「“零元面馆”持续引争议」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "身份反差与价值观张力极强，共情与质疑两极，公共资源公平性议题易引发争论，属高热度但需谨慎跟进。",
-      "riskNote": "风险等级：中。涉及公众人物/监管议题，情绪易极化，仅客观陈述，不娱乐化、不替当事人下结论。"
+      "collectedAt": "2026-11-15T15:15:56.063Z",
+      "eventSummary": "围绕「山姆超市一羽绒服卖断货」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「山姆超市一羽绒服卖断货」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
 }
