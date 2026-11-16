@@ -1,0 +1,3070 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 854267,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-11-10",
+        "sumH": 1448649,
+        "info": [
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 0,
+            "pro": 23.29,
+            "hE": 337409,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "eb97a566a790414310180647",
+            "img": "1.jpg",
+            "pointPro": 99.99,
+            "firstType": "违法犯罪",
+            "name": "花坛藏尸案一审宣判",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 15.68,
+            "hE": 227143,
+            "tags": [
+              "花坛藏尸案",
+              "宣判"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 14.21,
+            "hE": 205802,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "67b815a9d98a778810180653",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "梁家辉首获金鸡奖 实现三金大满贯",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 9.44,
+            "hE": 136724,
+            "tags": [
+              "梁家辉",
+              "金鸡奖"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 8.09,
+            "hE": 117169,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 5.62,
+            "hE": 81448,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 0,
+            "pro": 3.72,
+            "hE": 53955,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 2.68,
+            "hE": 38780,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "1b5e8bd9ba38ad9410180654",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "我国幼小初学龄人口已达峰",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 2.29,
+            "hE": 33212,
+            "tags": [
+              "学龄人口"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 2.01,
+            "hE": 29070,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 187937
+          }
+        ]
+      },
+      {
+        "time": "2026-11-11",
+        "sumH": 1175405,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 2,
+            "pro": 19.66,
+            "hE": 231129,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 0,
+            "pro": 11.43,
+            "hE": 134366,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 5,
+            "pro": 8.24,
+            "hE": 96912,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 88,
+            "pro": 7.56,
+            "hE": 88891,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "67b815a9d98a778810180653",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "梁家辉首获金鸡奖 实现三金大满贯",
+            "startTime": 1794240000000,
+            "oldPoint": 3,
+            "pro": 7.44,
+            "hE": 87433,
+            "tags": [
+              "梁家辉",
+              "金鸡奖"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 4,
+            "pro": 4.57,
+            "hE": 53691,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "01ac829b345842d010180666",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "霍启山娜然将结婚",
+            "startTime": 1794326400000,
+            "oldPoint": 65,
+            "pro": 4.52,
+            "hE": 53158,
+            "tags": [
+              "霍启山",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "ed29ebe19b763d5410180652",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "扬州地震",
+            "startTime": 1794326400000,
+            "oldPoint": 91,
+            "pro": 4.48,
+            "hE": 52680,
+            "tags": [
+              "地震",
+              "扬州"
+            ]
+          },
+          {
+            "eventId": "507bd5ed5133083110180658",
+            "img": "1.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "比亚迪大唐前后轮毂装反",
+            "startTime": 1793721600000,
+            "oldPoint": 20,
+            "pro": 3.67,
+            "hE": 43103,
+            "tags": [
+              "比亚迪",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2da456e860b83a8510180656",
+            "img": "55.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "张雪冠军车拍卖款不再捐给韩红基金会",
+            "startTime": 1794240000000,
+            "oldPoint": 44,
+            "pro": 3.23,
+            "hE": 38000,
+            "tags": [
+              "韩红基金会",
+              "张雪机车"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 296042
+          }
+        ]
+      },
+      {
+        "time": "2026-11-12",
+        "sumH": 1704366,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 29.04,
+            "hE": 494991,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 83,
+            "pro": 10.49,
+            "hE": 178740,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "12e61a79cc8244a510180674",
+            "img": "2.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "赵丽颖起诉红果短剧",
+            "startTime": 1794326400000,
+            "oldPoint": 10,
+            "pro": 9.32,
+            "hE": 158908,
+            "tags": [
+              "赵丽颖",
+              "红果",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a602183c67594bcd10180677",
+            "img": "5.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "腾讯辟谣裁员50%",
+            "startTime": 1794412800000,
+            "oldPoint": 61,
+            "pro": 7.82,
+            "hE": 133360,
+            "tags": [
+              "腾讯",
+              "裁员",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 6.29,
+            "hE": 107279,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 6.14,
+            "hE": 104665,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 3,
+            "pro": 4.91,
+            "hE": 83728,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "27b0c6e4c6313a3210180675",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "德芙广告宣扬错误婚恋观被罚80万元",
+            "startTime": 1794412800000,
+            "oldPoint": 86,
+            "pro": 3.57,
+            "hE": 60845,
+            "tags": [
+              "德芙",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 1,
+            "pro": 3.54,
+            "hE": 60364,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 28,
+            "pro": 3.38,
+            "hE": 57584,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 263902
+          }
+        ]
+      },
+      {
+        "time": "2026-11-13",
+        "sumH": 1323611,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 31.76,
+            "hE": 420343,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 1,
+            "pro": 22.16,
+            "hE": 293330,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 4,
+            "pro": 8.97,
+            "hE": 118753,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "b524c04cd69d8b2c10180684",
+            "img": "2.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "2027研究生报考人数347万",
+            "startTime": 1794499200000,
+            "oldPoint": 80,
+            "pro": 5.03,
+            "hE": 66530,
+            "tags": [
+              "研究生",
+              "报考"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 4.93,
+            "hE": 65275,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 47,
+            "pro": 4.45,
+            "hE": 58836,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d46d490ad1ae299410180687",
+            "img": "5.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "湖北省委原书记王忠林被查",
+            "startTime": 1794499200000,
+            "oldPoint": 84,
+            "pro": 3.55,
+            "hE": 46935,
+            "tags": [
+              "王忠林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "c8c91d643cdd803e10180685",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "官方通报交大基因编辑事件",
+            "startTime": 1794499200000,
+            "oldPoint": 86,
+            "pro": 3,
+            "hE": 39717,
+            "tags": [
+              "上海交通大学",
+              "基因编辑",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 8,
+            "pro": 2.48,
+            "hE": 32809,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "c73c24091c83c86610180660",
+            "img": "956129c0-e5a7-4f65-ad78-0a9864b0af35.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "上海和平饭店51万天价餐事件",
+            "startTime": 1794067200000,
+            "oldPoint": 30,
+            "pro": 1.68,
+            "hE": 22192,
+            "tags": [
+              "和平饭店",
+              "餐饮"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 158891
+          }
+        ]
+      },
+      {
+        "time": "2026-11-14",
+        "sumH": 814083,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 30.66,
+            "hE": 249576,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.99,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 22,
+            "pro": 22.11,
+            "hE": 179962,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 16.22,
+            "hE": 132021,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 1,
+            "pro": 9.79,
+            "hE": 79707,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 5,
+            "pro": 3.86,
+            "hE": 31390,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 4,
+            "pro": 2.34,
+            "hE": 19071,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d46d490ad1ae299410180687",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "湖北省委原书记王忠林被查",
+            "startTime": 1794499200000,
+            "oldPoint": 6,
+            "pro": 1.88,
+            "hE": 15339,
+            "tags": [
+              "王忠林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 18,
+            "pro": 1.65,
+            "hE": 13452,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 24,
+            "pro": 1.4,
+            "hE": 11385,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 16,
+            "pro": 1.27,
+            "hE": 10361,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 71819
+          }
+        ]
+      },
+      {
+        "time": "2026-11-15",
+        "sumH": 825052,
+        "info": [
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 41,
+            "pro": 46.92,
+            "hE": 387130,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 20.24,
+            "hE": 166966,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 13.19,
+            "hE": 108835,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 1,
+            "pro": 4.9,
+            "hE": 40422,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 3,
+            "pro": 3.64,
+            "hE": 30027,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "c6d8740d0d4c6a3710180703",
+            "img": "44.png",
+            "pointPro": 99.93,
+            "firstType": "违法犯罪",
+            "name": "央视曝光火车票洗钱犯罪",
+            "startTime": 1794672000000,
+            "oldPoint": 84,
+            "pro": 1.22,
+            "hE": 10092,
+            "tags": [
+              "央视曝光",
+              "洗钱"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 1.12,
+            "hE": 9251,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 4,
+            "pro": 1.05,
+            "hE": 8639,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 10,
+            "pro": 0.97,
+            "hE": 7990,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 8,
+            "pro": 0.91,
+            "hE": 7516,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 48184
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16",
+        "sumH": 857276,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 26.43,
+            "hE": 226602,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 12.45,
+            "hE": 106691,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 23,
+            "pro": 11.93,
+            "hE": 102252,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 0,
+            "pro": 7.57,
+            "hE": 64894,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 80,
+            "pro": 6.55,
+            "hE": 56180,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 81,
+            "pro": 6.1,
+            "hE": 52264,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 5.1,
+            "hE": 43734,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 82,
+            "pro": 4.91,
+            "hE": 42052,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 3,
+            "pro": 3.74,
+            "hE": 32022,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "41a2606d292c380410180741",
+            "img": "3.jpg",
+            "pointPro": 99.89,
+            "firstType": "政务",
+            "name": "西藏人大常委会原副主任王峻被公诉",
+            "startTime": 1794758400000,
+            "oldPoint": 86,
+            "pro": 2.5,
+            "hE": 21469,
+            "tags": [
+              "王峻",
+              "公诉"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 109116
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-11-16 12",
+        "sumH": 61271,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 40.66,
+            "hE": 24912,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 0,
+            "pro": 12.05,
+            "hE": 7384,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 7.82,
+            "hE": 4794,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 6.54,
+            "hE": 4008,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 5.99,
+            "hE": 3671,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 5.67,
+            "hE": 3472,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 0,
+            "pro": 5.58,
+            "hE": 3417,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 0,
+            "pro": 2.84,
+            "hE": 1741,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 0,
+            "pro": 2.26,
+            "hE": 1382,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 1.57,
+            "hE": 963,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5527
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 13",
+        "sumH": 55401,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 29.43,
+            "hE": 16307,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 16.26,
+            "hE": 9007,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 1,
+            "pro": 12.54,
+            "hE": 6950,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 5,
+            "pro": 10.37,
+            "hE": 5744,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 7.08,
+            "hE": 3924,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 5.07,
+            "hE": 2807,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 7,
+            "pro": 3.77,
+            "hE": 2089,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.83,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 2.32,
+            "hE": 1284,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.8,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 8,
+            "pro": 2.3,
+            "hE": 1273,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.78,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 14,
+            "pro": 2.13,
+            "hE": 1181,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4835
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 14",
+        "sumH": 59908,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 30.16,
+            "hE": 18067,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 2,
+            "pro": 15.18,
+            "hE": 9096,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 13.68,
+            "hE": 8197,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 10.02,
+            "hE": 6003,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 6.5,
+            "hE": 3896,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 6,
+            "pro": 5.51,
+            "hE": 3300,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 4.31,
+            "hE": 2585,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.83,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 4.19,
+            "hE": 2513,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.8,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 9,
+            "pro": 2.19,
+            "hE": 1311,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.78,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 8,
+            "pro": 1.65,
+            "hE": 990,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3950
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 15",
+        "sumH": 62779,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 32.59,
+            "hE": 20458,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 14.04,
+            "hE": 8815,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 1,
+            "pro": 12.76,
+            "hE": 8013,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 10.19,
+            "hE": 6398,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 5.54,
+            "hE": 3479,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 5,
+            "pro": 5.3,
+            "hE": 3327,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "4cd82279d661a7d610180651",
+            "img": "5.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "理想回应理想i6团购返佣",
+            "startTime": 1794240000000,
+            "oldPoint": 63,
+            "pro": 4,
+            "hE": 2509,
+            "tags": [
+              "理想",
+              "报警",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 2.71,
+            "hE": 1704,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 8,
+            "pro": 2.36,
+            "hE": 1484,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.79,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 1.88,
+            "hE": 1182,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5410
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 16",
+        "sumH": 49267,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 23.34,
+            "hE": 11501,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 2,
+            "pro": 15.01,
+            "hE": 7394,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 12.05,
+            "hE": 5934,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 10.69,
+            "hE": 5265,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 5,
+            "pro": 7.68,
+            "hE": 3783,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 8,
+            "pro": 5.37,
+            "hE": 2647,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 3.61,
+            "hE": 1777,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 3.24,
+            "hE": 1595,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "39bc41c14d12224a10180740",
+            "img": "2.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "大麦公告CEO樊路远离职",
+            "startTime": 1794758400000,
+            "oldPoint": 76,
+            "pro": 2.93,
+            "hE": 1445,
+            "tags": [
+              "大麦网",
+              "CEO",
+              "离职"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.78,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 10,
+            "pro": 1.95,
+            "hE": 963,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6963
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 17",
+        "sumH": 41584,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 21.67,
+            "hE": 9010,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 1,
+            "pro": 13.22,
+            "hE": 5498,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 11.44,
+            "hE": 4758,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "39bc41c14d12224a10180740",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "大麦公告CEO樊路远离职",
+            "startTime": 1794758400000,
+            "oldPoint": 8,
+            "pro": 11.28,
+            "hE": 4689,
+            "tags": [
+              "大麦网",
+              "CEO",
+              "离职"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 11.13,
+            "hE": 4628,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 4,
+            "pro": 7.87,
+            "hE": 3271,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 4.75,
+            "hE": 1976,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.83,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 9,
+            "pro": 3,
+            "hE": 1247,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 5,
+            "pro": 2.54,
+            "hE": 1056,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 2.49,
+            "hE": 1034,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4417
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 18",
+        "sumH": 31924,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 24.53,
+            "hE": 7832,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 5,
+            "pro": 13.21,
+            "hE": 4218,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 12.3,
+            "hE": 3928,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 10.97,
+            "hE": 3502,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 7.3,
+            "hE": 2329,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 1,
+            "pro": 6.91,
+            "hE": 2206,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "39bc41c14d12224a10180740",
+            "img": "2.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "大麦公告CEO樊路远离职",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 4.89,
+            "hE": 1561,
+            "tags": [
+              "大麦网",
+              "CEO",
+              "离职"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.84,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 7,
+            "pro": 3.96,
+            "hE": 1263,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "145722868da6e9dd10180739",
+            "img": "1.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "英特尔股价暴跌近三成后被告",
+            "startTime": 1794758400000,
+            "oldPoint": 11,
+            "pro": 3.66,
+            "hE": 1169,
+            "tags": [
+              "英特尔",
+              "诉讼",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 9,
+            "pro": 3.14,
+            "hE": 1002,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2914
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 19",
+        "sumH": 34055,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 37.16,
+            "hE": 12655,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 11.15,
+            "hE": 3796,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 1,
+            "pro": 8.6,
+            "hE": 2928,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 5,
+            "pro": 7.71,
+            "hE": 2627,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 6.36,
+            "hE": 2165,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.85,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 7,
+            "pro": 4.78,
+            "hE": 1629,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "145722868da6e9dd10180739",
+            "img": "1.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "英特尔股价暴跌近三成后被告",
+            "startTime": 1794758400000,
+            "oldPoint": 8,
+            "pro": 4.44,
+            "hE": 1512,
+            "tags": [
+              "英特尔",
+              "诉讼",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 4.36,
+            "hE": 1485,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "39bc41c14d12224a10180740",
+            "img": "2.jpg",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "大麦公告CEO樊路远离职",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 2.94,
+            "hE": 1002,
+            "tags": [
+              "大麦网",
+              "CEO",
+              "离职"
+            ]
+          },
+          {
+            "eventId": "a602183c67594bcd10180677",
+            "img": "5.jpg",
+            "pointPro": 99.74,
+            "firstType": "企业",
+            "name": "腾讯辟谣裁员50%",
+            "startTime": 1794412800000,
+            "oldPoint": 13,
+            "pro": 2.33,
+            "hE": 794,
+            "tags": [
+              "腾讯",
+              "裁员",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3462
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 20",
+        "sumH": 38922,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 25.51,
+            "hE": 9930,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 15,
+            "pro": 21.59,
+            "hE": 8403,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 9.15,
+            "hE": 3563,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 2,
+            "pro": 8.97,
+            "hE": 3493,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 3,
+            "pro": 7.26,
+            "hE": 2824,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 3.67,
+            "hE": 1430,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 3.67,
+            "hE": 1427,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 10,
+            "pro": 3.48,
+            "hE": 1355,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "145722868da6e9dd10180739",
+            "img": "1.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "英特尔股价暴跌近三成后被告",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 2.91,
+            "hE": 1133,
+            "tags": [
+              "英特尔",
+              "诉讼",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "39bc41c14d12224a10180740",
+            "img": "2.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "大麦公告CEO樊路远离职",
+            "startTime": 1794758400000,
+            "oldPoint": 8,
+            "pro": 2.74,
+            "hE": 1066,
+            "tags": [
+              "大麦网",
+              "CEO",
+              "离职"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4298
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 21",
+        "sumH": 38971,
+        "info": [
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 27.72,
+            "hE": 10804,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 24.38,
+            "hE": 9502,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 11.3,
+            "hE": 4405,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 7.48,
+            "hE": 2914,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 4,
+            "pro": 6.23,
+            "hE": 2428,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 4.18,
+            "hE": 1628,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 3,
+            "pro": 3.36,
+            "hE": 1311,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 13,
+            "pro": 3.11,
+            "hE": 1213,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "145722868da6e9dd10180739",
+            "img": "1.jpg",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "英特尔股价暴跌近三成后被告",
+            "startTime": 1794758400000,
+            "oldPoint": 8,
+            "pro": 2.06,
+            "hE": 803,
+            "tags": [
+              "英特尔",
+              "诉讼",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "daab44d8203e1a7610180710",
+            "img": "1794814539397.png",
+            "pointPro": 99.77,
+            "firstType": "企业",
+            "name": "波司登王力宏同款仅售16件",
+            "startTime": 1794585600000,
+            "oldPoint": 18,
+            "pro": 1.59,
+            "hE": 619,
+            "tags": [
+              "王力宏",
+              "波司登",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3344
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 22",
+        "sumH": 28303,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 30.52,
+            "hE": 8638,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 17.66,
+            "hE": 4999,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 15.32,
+            "hE": 4335,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 4,
+            "pro": 7.07,
+            "hE": 2000,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 5,
+            "pro": 4.32,
+            "hE": 1222,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 4.02,
+            "hE": 1137,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.83,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 6,
+            "pro": 3.48,
+            "hE": 985,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 16,
+            "pro": 3.09,
+            "hE": 874,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 7,
+            "pro": 2.66,
+            "hE": 754,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.75,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 10,
+            "pro": 2.44,
+            "hE": 689,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2670
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16 23",
+        "sumH": 17844,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 40.84,
+            "hE": 7287,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 26.89,
+            "hE": 4799,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 4.66,
+            "hE": 832,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 4.63,
+            "hE": 826,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.85,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 3.41,
+            "hE": 609,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 3,
+            "pro": 2.89,
+            "hE": 515,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 7,
+            "pro": 2.42,
+            "hE": 432,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.74,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 9,
+            "pro": 2.36,
+            "hE": 422,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "a602183c67594bcd10180677",
+            "img": "5.jpg",
+            "pointPro": 99.7,
+            "firstType": "企业",
+            "name": "腾讯辟谣裁员50%",
+            "startTime": 1794412800000,
+            "oldPoint": 11,
+            "pro": 2.34,
+            "hE": 418,
+            "tags": [
+              "腾讯",
+              "裁员",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "daab44d8203e1a7610180710",
+            "img": "1794814539397.png",
+            "pointPro": 99.67,
+            "firstType": "企业",
+            "name": "波司登王力宏同款仅售16件",
+            "startTime": 1794585600000,
+            "oldPoint": 15,
+            "pro": 1.78,
+            "hE": 317,
+            "tags": [
+              "王力宏",
+              "波司登",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1387
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}

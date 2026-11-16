@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T15:21:41.966Z",
-  "date": "2026-11-16",
+  "generatedAt": "2026-11-17T00:18:49.404Z",
+  "date": "2026-11-17",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
@@ -11,14 +11,14 @@
       "eventName": "综艺《后会友期》",
       "platform": "知微",
       "rank": 1,
-      "hot": 15726,
-      "hotValue": 15726,
+      "hot": 7287,
+      "hotValue": 7287,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 15726
+          "hot": 7287
         }
       ],
       "totalScore": 80.8,
@@ -31,7 +31,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-16T15:21:41.966Z",
+      "collectedAt": "2026-11-17T00:18:49.404Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -39,52 +39,19 @@
     {
       "level": "A",
       "seat": "总榜Top2",
-      "title": "电视剧《小城良方》",
-      "topic": "电视剧《小城良方》",
-      "eventName": "电视剧《小城良方》",
-      "platform": "知微",
-      "rank": 2,
-      "hot": 6002,
-      "hotValue": 6002,
-      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 6002
-        }
-      ],
-      "totalScore": 79,
-      "posScore": 80,
-      "hotScore": 85,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 3→2, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 3→2, 在榜11小时",
-      "rankChange": "排名上升 3→2, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-11-16T15:21:41.966Z",
-      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
-      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top3",
       "title": "习近平将同普京特朗普会晤",
       "topic": "习近平将同普京特朗普会晤",
       "eventName": "习近平将同普京特朗普会晤",
       "platform": "抖音",
-      "rank": 3,
-      "hot": 11979214,
-      "hotValue": 11979214,
+      "rank": 2,
+      "hot": 12108399,
+      "hotValue": 12108399,
       "url": "https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11979214
+          "hot": 12108399
         }
       ],
       "totalScore": 78.1,
@@ -97,31 +64,31 @@
       "duration": "抖音无在榜时长(按60)",
       "rankChange": "抖音无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-16T15:21:41.966Z",
+      "collectedAt": "2026-11-17T00:18:49.404Z",
       "eventSummary": "围绕「习近平将同普京特朗普会晤」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「习近平将同普京特朗普会晤」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top4",
+      "seat": "总榜Top3",
       "title": "中俄美元首会晤将在深圳举行",
       "topic": "中俄美元首会晤将在深圳举行",
       "eventName": "中俄美元首会晤将在深圳举行",
       "platform": "微博",
-      "rank": 4,
-      "hot": 1014978,
-      "hotValue": 1014978,
+      "rank": 3,
+      "hot": 857112,
+      "hotValue": 857112,
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1014978
+          "hot": 857112
         }
       ],
       "totalScore": 78.1,
-      "posScore": 98.1,
+      "posScore": 98,
       "hotScore": 99,
       "trendScore": 60,
       "trendEvidence": "微博单次快照无在榜时长(按60)",
@@ -130,75 +97,108 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-16T15:21:41.966Z",
+      "collectedAt": "2026-11-17T00:18:49.404Z",
       "eventSummary": "围绕「中俄美元首会晤将在深圳举行」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「中俄美元首会晤将在深圳举行」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
-      "seat": "总榜Top5",
-      "title": "BLG夺冠",
-      "topic": "BLG夺冠",
-      "eventName": "BLG夺冠",
+      "seat": "总榜Top4",
+      "title": "电视剧《小城良方》",
+      "topic": "电视剧《小城良方》",
+      "eventName": "电视剧《小城良方》",
       "platform": "知微",
-      "rank": 5,
-      "hot": 2975,
-      "hotValue": 2975,
-      "url": "https://ef.zhiweidata.com/eventRk/e0bcdeeecd542dda10180700/profil",
+      "rank": 4,
+      "hot": 4799,
+      "hotValue": 4799,
+      "url": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 4,
-          "hot": 2975
+          "rank": 2,
+          "hot": 4799
         }
       ],
-      "totalScore": 75,
-      "posScore": 60,
-      "hotScore": 65,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 5→4, 在榜11小时",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 用我的方式庆祝BLG夺冠、管泽元谈BLG夺冠)",
-      "duration": "排名上升 5→4, 在榜11小时",
-      "rankChange": "排名上升 5→4, 在榜11小时",
+      "totalScore": 75.3,
+      "posScore": 80,
+      "hotScore": 85,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-16T15:21:41.966Z",
-      "eventSummary": "越野跑选手赵家驹在“巨人之旅”赛事中破纪录夺冠，其成绩与表现成为关注焦点。",
-      "propagation": "竞技对抗自带悬念与强代入感；赛果反转 + 关键人物表现制造强戏剧性，观赛情绪与胜负讨论在多个平台同步发酵，传播窗口短而集中。",
+      "collectedAt": "2026-11-17T00:18:49.404Z",
+      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
+      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top5",
+      "title": "黄仁勋辞职",
+      "topic": "黄仁勋辞职",
+      "eventName": "黄仁勋辞职",
+      "platform": "知微",
+      "rank": 5,
+      "hot": 832,
+      "hotValue": 832,
+      "url": "https://ef.zhiweidata.com/eventRk/ed4c5e7c03037d6b10180679/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 832
+        }
+      ],
+      "totalScore": 73.5,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 5→3, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 5→3, 在榜11小时",
+      "rankChange": "排名上升 5→3, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-11-17T00:18:49.404Z",
+      "eventSummary": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「黄仁勋辞职」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
       "seat": "总榜Top6",
-      "title": "北大羽绒服卖断货",
-      "topic": "北大羽绒服卖断货",
-      "eventName": "北大羽绒服卖断货",
+      "title": "DeepSeek因算力不足限额",
+      "topic": "DeepSeek因算力不足限额",
+      "eventName": "DeepSeek因算力不足限额",
       "platform": "知微",
       "rank": 6,
-      "hot": 5618,
-      "hotValue": 5618,
-      "url": "https://ef.zhiweidata.com/eventRk/3698c63d1554bcee10180702/profil",
+      "hot": 826,
+      "hotValue": 826,
+      "url": "https://ef.zhiweidata.com/eventRk/06c584e15700233310180708/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 3,
-          "hot": 5618
+          "rank": 4,
+          "hot": 826
         }
       ],
-      "totalScore": 69.8,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜7小时)",
+      "totalScore": 68,
+      "posScore": 60,
+      "hotScore": 65,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 6→4, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜7小时)",
-      "rankChange": "持续高位(第3名, 在榜7小时)",
+      "duration": "排名上升 6→4, 在榜11小时",
+      "rankChange": "排名上升 6→4, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-16T15:21:41.966Z",
-      "eventSummary": "围绕「北大羽绒服卖断货」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「北大羽绒服卖断货」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-17T00:18:49.404Z",
+      "eventSummary": "围绕「DeepSeek因算力不足限额」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「DeepSeek因算力不足限额」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
