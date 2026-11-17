@@ -1,0 +1,3052 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 1314534,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-11-10",
+        "sumH": 1448654,
+        "info": [
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 0,
+            "pro": 23.29,
+            "hE": 337409,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "eb97a566a790414310180647",
+            "img": "1.jpg",
+            "pointPro": 99.99,
+            "firstType": "违法犯罪",
+            "name": "花坛藏尸案一审宣判",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 15.68,
+            "hE": 227143,
+            "tags": [
+              "花坛藏尸案",
+              "宣判"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 14.21,
+            "hE": 205803,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "67b815a9d98a778810180653",
+            "img": "22.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "梁家辉首获金鸡奖 实现三金大满贯",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 9.44,
+            "hE": 136726,
+            "tags": [
+              "梁家辉",
+              "金鸡奖"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 8.09,
+            "hE": 117169,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 5.62,
+            "hE": 81448,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "8506dd4225b8ed9310180640",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "石家庄天降陨石",
+            "startTime": 1793894400000,
+            "oldPoint": 0,
+            "pro": 3.72,
+            "hE": 53955,
+            "tags": [
+              "陨石",
+              "火流星",
+              "石家庄"
+            ]
+          },
+          {
+            "eventId": "46a0246c8bcdcbde10180612",
+            "img": "1793844609780.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "特朗普中期选举失利",
+            "startTime": 1793635200000,
+            "oldPoint": 0,
+            "pro": 2.68,
+            "hE": 38780,
+            "tags": [
+              "特朗普"
+            ]
+          },
+          {
+            "eventId": "1b5e8bd9ba38ad9410180654",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "我国幼小初学龄人口已达峰",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 2.29,
+            "hE": 33212,
+            "tags": [
+              "学龄人口"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 0,
+            "pro": 2.01,
+            "hE": 29070,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 187939
+          }
+        ]
+      },
+      {
+        "time": "2026-11-11",
+        "sumH": 1175503,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 2,
+            "pro": 19.66,
+            "hE": 231130,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 0,
+            "pro": 11.43,
+            "hE": 134366,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 5,
+            "pro": 8.24,
+            "hE": 96912,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 88,
+            "pro": 7.56,
+            "hE": 88891,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "67b815a9d98a778810180653",
+            "img": "22.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "梁家辉首获金鸡奖 实现三金大满贯",
+            "startTime": 1794240000000,
+            "oldPoint": 3,
+            "pro": 7.44,
+            "hE": 87440,
+            "tags": [
+              "梁家辉",
+              "金鸡奖"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 4,
+            "pro": 4.57,
+            "hE": 53691,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "01ac829b345842d010180666",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "霍启山娜然将结婚",
+            "startTime": 1794326400000,
+            "oldPoint": 65,
+            "pro": 4.52,
+            "hE": 53158,
+            "tags": [
+              "霍启山",
+              "结婚"
+            ]
+          },
+          {
+            "eventId": "ed29ebe19b763d5410180652",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "灾难",
+            "name": "扬州地震",
+            "startTime": 1794326400000,
+            "oldPoint": 91,
+            "pro": 4.49,
+            "hE": 52739,
+            "tags": [
+              "地震",
+              "扬州"
+            ]
+          },
+          {
+            "eventId": "507bd5ed5133083110180658",
+            "img": "1.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "比亚迪大唐前后轮毂装反",
+            "startTime": 1793721600000,
+            "oldPoint": 20,
+            "pro": 3.67,
+            "hE": 43103,
+            "tags": [
+              "比亚迪",
+              "道歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2da456e860b83a8510180656",
+            "img": "55.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "张雪冠军车拍卖款不再捐给韩红基金会",
+            "startTime": 1794240000000,
+            "oldPoint": 44,
+            "pro": 3.23,
+            "hE": 38000,
+            "tags": [
+              "韩红基金会",
+              "张雪机车"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 296073
+          }
+        ]
+      },
+      {
+        "time": "2026-11-12",
+        "sumH": 1704371,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 29.04,
+            "hE": 494991,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 83,
+            "pro": 10.49,
+            "hE": 178740,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "12e61a79cc8244a510180674",
+            "img": "2.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "赵丽颖起诉红果短剧",
+            "startTime": 1794326400000,
+            "oldPoint": 10,
+            "pro": 9.32,
+            "hE": 158908,
+            "tags": [
+              "赵丽颖",
+              "红果",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a602183c67594bcd10180677",
+            "img": "5.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "腾讯辟谣裁员50%",
+            "startTime": 1794412800000,
+            "oldPoint": 61,
+            "pro": 7.82,
+            "hE": 133360,
+            "tags": [
+              "腾讯",
+              "裁员",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 6.29,
+            "hE": 107279,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 6.14,
+            "hE": 104665,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 3,
+            "pro": 4.91,
+            "hE": 83728,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "27b0c6e4c6313a3210180675",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "德芙广告宣扬错误婚恋观被罚80万元",
+            "startTime": 1794412800000,
+            "oldPoint": 86,
+            "pro": 3.57,
+            "hE": 60845,
+            "tags": [
+              "德芙",
+              "罚款",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 1,
+            "pro": 3.54,
+            "hE": 60364,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 28,
+            "pro": 3.38,
+            "hE": 57584,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 263907
+          }
+        ]
+      },
+      {
+        "time": "2026-11-13",
+        "sumH": 1323646,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 31.76,
+            "hE": 420344,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 1,
+            "pro": 22.16,
+            "hE": 293330,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 4,
+            "pro": 8.97,
+            "hE": 118753,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "b524c04cd69d8b2c10180684",
+            "img": "2.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "2027研究生报考人数347万",
+            "startTime": 1794499200000,
+            "oldPoint": 80,
+            "pro": 5.03,
+            "hE": 66530,
+            "tags": [
+              "研究生",
+              "报考"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 4.93,
+            "hE": 65275,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 47,
+            "pro": 4.44,
+            "hE": 58836,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d46d490ad1ae299410180687",
+            "img": "5.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "湖北省委原书记王忠林被查",
+            "startTime": 1794499200000,
+            "oldPoint": 84,
+            "pro": 3.55,
+            "hE": 46935,
+            "tags": [
+              "王忠林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "c8c91d643cdd803e10180685",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "官方通报交大基因编辑事件",
+            "startTime": 1794499200000,
+            "oldPoint": 86,
+            "pro": 3,
+            "hE": 39717,
+            "tags": [
+              "上海交通大学",
+              "基因编辑",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 8,
+            "pro": 2.48,
+            "hE": 32809,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "c73c24091c83c86610180660",
+            "img": "956129c0-e5a7-4f65-ad78-0a9864b0af35.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "上海和平饭店51万天价餐事件",
+            "startTime": 1794067200000,
+            "oldPoint": 30,
+            "pro": 1.68,
+            "hE": 22192,
+            "tags": [
+              "和平饭店",
+              "餐饮"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 158925
+          }
+        ]
+      },
+      {
+        "time": "2026-11-14",
+        "sumH": 814089,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 30.66,
+            "hE": 249576,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.99,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 22,
+            "pro": 22.11,
+            "hE": 179962,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 16.22,
+            "hE": 132021,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 1,
+            "pro": 9.79,
+            "hE": 79707,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 5,
+            "pro": 3.86,
+            "hE": 31390,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 4,
+            "pro": 2.34,
+            "hE": 19071,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d46d490ad1ae299410180687",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "湖北省委原书记王忠林被查",
+            "startTime": 1794499200000,
+            "oldPoint": 6,
+            "pro": 1.88,
+            "hE": 15339,
+            "tags": [
+              "王忠林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 18,
+            "pro": 1.65,
+            "hE": 13452,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 24,
+            "pro": 1.4,
+            "hE": 11385,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 16,
+            "pro": 1.27,
+            "hE": 10361,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 71825
+          }
+        ]
+      },
+      {
+        "time": "2026-11-15",
+        "sumH": 833774,
+        "info": [
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 41,
+            "pro": 46.43,
+            "hE": 387130,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 20.03,
+            "hE": 166966,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 13.05,
+            "hE": 108835,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 1,
+            "pro": 4.85,
+            "hE": 40422,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 3,
+            "pro": 3.6,
+            "hE": 30027,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "c6d8740d0d4c6a3710180703",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "违法犯罪",
+            "name": "央视曝光火车票洗钱犯罪",
+            "startTime": 1794672000000,
+            "oldPoint": 84,
+            "pro": 1.21,
+            "hE": 10094,
+            "tags": [
+              "央视曝光",
+              "洗钱"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 1.11,
+            "hE": 9251,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 4,
+            "pro": 1.04,
+            "hE": 8641,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 1.03,
+            "hE": 8554,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 10,
+            "pro": 0.96,
+            "hE": 7990,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 55864
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16",
+        "sumH": 1490549,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 8,
+            "pro": 31.93,
+            "hE": 475911,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 15.32,
+            "hE": 228368,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 7.17,
+            "hE": 106928,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 24,
+            "pro": 6.87,
+            "hE": 102418,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 77,
+            "pro": 6.22,
+            "hE": 92683,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 0,
+            "pro": 4.35,
+            "hE": 64899,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 80,
+            "pro": 3.78,
+            "hE": 56312,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 84,
+            "pro": 3.52,
+            "hE": 52455,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 2.93,
+            "hE": 43737,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 85,
+            "pro": 2.84,
+            "hE": 42369,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 224469
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-11-17 04",
+        "sumH": 11264,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 42.62,
+            "hE": 4801,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 39.91,
+            "hE": 4495,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 3.12,
+            "hE": 351,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 0,
+            "pro": 2.46,
+            "hE": 278,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 0,
+            "pro": 2.15,
+            "hE": 242,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "23482b7b15c669e310180746",
+            "img": "22.png",
+            "pointPro": 99.76,
+            "firstType": "娱乐",
+            "name": "曝厉娜卷入借贷纠纷",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 1.33,
+            "hE": 150,
+            "tags": [
+              "厉娜",
+              "借贷纠纷"
+            ]
+          },
+          {
+            "eventId": "39bc41c14d12224a10180740",
+            "img": "2.jpg",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "大麦公告CEO樊路远离职",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 1.29,
+            "hE": 145,
+            "tags": [
+              "大麦网",
+              "CEO",
+              "离职"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.67,
+            "firstType": "企业",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 1.28,
+            "hE": 144,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.62,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 0,
+            "pro": 1.27,
+            "hE": 143,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "145722868da6e9dd10180739",
+            "img": "1.jpg",
+            "pointPro": 99.57,
+            "firstType": "企业",
+            "name": "英特尔股价暴跌近三成后被告",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 0.96,
+            "hE": 108,
+            "tags": [
+              "英特尔",
+              "诉讼",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 407
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 05",
+        "sumH": 12950,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 34.42,
+            "hE": 4457,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 32.59,
+            "hE": 4220,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 12.25,
+            "hE": 1586,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 11,
+            "pro": 3.89,
+            "hE": 504,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 3,
+            "pro": 3.69,
+            "hE": 477,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 8,
+            "pro": 3.3,
+            "hE": 428,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 16,
+            "pro": 2.64,
+            "hE": 341,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.75,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 4,
+            "pro": 1.11,
+            "hE": 144,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "145722868da6e9dd10180739",
+            "img": "1.jpg",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "英特尔股价暴跌近三成后被告",
+            "startTime": 1794758400000,
+            "oldPoint": 9,
+            "pro": 1.07,
+            "hE": 138,
+            "tags": [
+              "英特尔",
+              "诉讼",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "39bc41c14d12224a10180740",
+            "img": "2.jpg",
+            "pointPro": 99.68,
+            "firstType": "企业",
+            "name": "大麦公告CEO樊路远离职",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 0.88,
+            "hE": 114,
+            "tags": [
+              "大麦网",
+              "CEO",
+              "离职"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 541
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 06",
+        "sumH": 21778,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 24.73,
+            "hE": 5386,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 22.05,
+            "hE": 4801,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 1,
+            "pro": 20.14,
+            "hE": 4386,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 5.82,
+            "hE": 1268,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 5.08,
+            "hE": 1105,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 4.29,
+            "hE": 935,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 25,
+            "pro": 3.59,
+            "hE": 782,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 7,
+            "pro": 2.6,
+            "hE": 566,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 17,
+            "pro": 2.41,
+            "hE": 525,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.75,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 10,
+            "pro": 1.99,
+            "hE": 434,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1590
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 07",
+        "sumH": 36569,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 35.03,
+            "hE": 12809,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 15.82,
+            "hE": 5786,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 12.19,
+            "hE": 4458,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 6.97,
+            "hE": 2549,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.9,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 3.62,
+            "hE": 1325,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 6,
+            "pro": 3.43,
+            "hE": 1253,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 3,
+            "pro": 3.16,
+            "hE": 1155,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 9,
+            "pro": 2.57,
+            "hE": 939,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "daab44d8203e1a7610180710",
+            "img": "1794814539397.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "波司登王力宏同款仅售16件",
+            "startTime": 1794585600000,
+            "oldPoint": 12,
+            "pro": 2.42,
+            "hE": 886,
+            "tags": [
+              "王力宏",
+              "波司登",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 14,
+            "pro": 2.18,
+            "hE": 797,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4612
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 08",
+        "sumH": 55107,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 42.6,
+            "hE": 23473,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 10.53,
+            "hE": 5802,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 9.06,
+            "hE": 4995,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 7.19,
+            "hE": 3963,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 11,
+            "pro": 4.6,
+            "hE": 2533,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 3.71,
+            "hE": 2047,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 3.6,
+            "hE": 1983,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 5,
+            "pro": 3.5,
+            "hE": 1927,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 7,
+            "pro": 1.71,
+            "hE": 944,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.79,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 10,
+            "pro": 1.69,
+            "hE": 931,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6509
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 09",
+        "sumH": 96523,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 59.16,
+            "hE": 57102,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 7.02,
+            "hE": 6777,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 4.55,
+            "hE": 4395,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 4.54,
+            "hE": 4387,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 15,
+            "pro": 3.87,
+            "hE": 3738,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 2.35,
+            "hE": 2265,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 2.32,
+            "hE": 2244,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 8,
+            "pro": 2.18,
+            "hE": 2100,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 7,
+            "pro": 1.68,
+            "hE": 1622,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "daab44d8203e1a7610180710",
+            "img": "1794814539397.png",
+            "pointPro": 99.77,
+            "firstType": "企业",
+            "name": "波司登王力宏同款仅售16件",
+            "startTime": 1794585600000,
+            "oldPoint": 11,
+            "pro": 1.48,
+            "hE": 1430,
+            "tags": [
+              "王力宏",
+              "波司登",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 10463
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 10",
+        "sumH": 110307,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 65.27,
+            "hE": 72003,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 6.06,
+            "hE": 6690,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 4,
+            "pro": 4.35,
+            "hE": 4803,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 3.78,
+            "hE": 4169,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 3.47,
+            "hE": 3826,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 8,
+            "pro": 2.45,
+            "hE": 2705,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 2.36,
+            "hE": 2602,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "daab44d8203e1a7610180710",
+            "img": "1794814539397.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "波司登王力宏同款仅售16件",
+            "startTime": 1794585600000,
+            "oldPoint": 9,
+            "pro": 1.65,
+            "hE": 1820,
+            "tags": [
+              "王力宏",
+              "波司登",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 11,
+            "pro": 1.46,
+            "hE": 1610,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "e0d87ea111624b8510180759",
+            "img": "1794899179839.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "于东来奖励员工310辆坦克700",
+            "startTime": 1794758400000,
+            "oldPoint": 10,
+            "pro": 1.26,
+            "hE": 1389,
+            "tags": [
+              "胖东来"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 8690
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 11",
+        "sumH": 91605,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 61.14,
+            "hE": 56009,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 6.2,
+            "hE": 5677,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 2,
+            "pro": 6.01,
+            "hE": 5508,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 4,
+            "pro": 4.09,
+            "hE": 3745,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 3.74,
+            "hE": 3425,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 3.56,
+            "hE": 3263,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "daab44d8203e1a7610180710",
+            "img": "1794814539397.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "波司登王力宏同款仅售16件",
+            "startTime": 1794585600000,
+            "oldPoint": 7,
+            "pro": 2.6,
+            "hE": 2382,
+            "tags": [
+              "王力宏",
+              "波司登",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 12,
+            "pro": 2.33,
+            "hE": 2135,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 8,
+            "pro": 1.46,
+            "hE": 1338,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 17,
+            "pro": 1.15,
+            "hE": 1054,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 7069
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 12",
+        "sumH": 52816,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 57.41,
+            "hE": 30320,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 10.78,
+            "hE": 5694,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 6.63,
+            "hE": 3499,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 2,
+            "pro": 4.97,
+            "hE": 2623,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 3.77,
+            "hE": 1993,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 2.62,
+            "hE": 1381,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 13,
+            "pro": 1.58,
+            "hE": 835,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 12,
+            "pro": 1.3,
+            "hE": 685,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 8,
+            "pro": 1.11,
+            "hE": 585,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.79,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 10,
+            "pro": 1.1,
+            "hE": 583,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4618
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 13",
+        "sumH": 55880,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 54.87,
+            "hE": 30662,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 12.61,
+            "hE": 7044,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "e0d87ea111624b8510180759",
+            "img": "1794899179839.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "于东来奖励员工310辆坦克700",
+            "startTime": 1794758400000,
+            "oldPoint": 13,
+            "pro": 6.23,
+            "hE": 3480,
+            "tags": [
+              "胖东来"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 5.46,
+            "hE": 3051,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 3,
+            "pro": 3.38,
+            "hE": 1890,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 2.14,
+            "hE": 1197,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 5,
+            "pro": 1.97,
+            "hE": 1099,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.84,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 9,
+            "pro": 1.91,
+            "hE": 1066,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "0ecb6e55445dd8d710180664",
+            "img": "4.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "林生斌相关多项争议引发关注",
+            "startTime": 1794326400000,
+            "oldPoint": 7,
+            "pro": 1.09,
+            "hE": 607,
+            "tags": [
+              "林生斌",
+              "网络舆情"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 8,
+            "pro": 0.97,
+            "hE": 543,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5241
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 14",
+        "sumH": 89441,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 60.61,
+            "hE": 54206,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "e0d87ea111624b8510180759",
+            "img": "1794899179839.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "于东来奖励员工310辆坦克700",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 9.33,
+            "hE": 8344,
+            "tags": [
+              "胖东来"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 9.17,
+            "hE": 8200,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 5.61,
+            "hE": 5016,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 4,
+            "pro": 2.35,
+            "hE": 2102,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 6,
+            "pro": 1.63,
+            "hE": 1460,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 1.44,
+            "hE": 1285,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "a602183c67594bcd10180677",
+            "img": "5.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "腾讯辟谣裁员50%",
+            "startTime": 1794412800000,
+            "oldPoint": 10,
+            "pro": 1.43,
+            "hE": 1276,
+            "tags": [
+              "腾讯",
+              "裁员",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "12e61a79cc8244a510180674",
+            "img": "2.jpg",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "赵丽颖起诉红果短剧",
+            "startTime": 1794326400000,
+            "oldPoint": 11,
+            "pro": 1.36,
+            "hE": 1215,
+            "tags": [
+              "赵丽颖",
+              "红果",
+              "起诉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.79,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 7,
+            "pro": 0.89,
+            "hE": 798,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5539
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17 15",
+        "sumH": 84789,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 60.22,
+            "hE": 51059,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 2,
+            "pro": 9.84,
+            "hE": 8345,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "e0d87ea111624b8510180759",
+            "img": "1794899179839.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "于东来奖励员工310辆坦克700",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 9.25,
+            "hE": 7843,
+            "tags": [
+              "胖东来"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 3,
+            "pro": 3.3,
+            "hE": 2801,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 5,
+            "pro": 3.26,
+            "hE": 2768,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 1.62,
+            "hE": 1372,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 4,
+            "pro": 1.55,
+            "hE": 1315,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "a602183c67594bcd10180677",
+            "img": "5.jpg",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "腾讯辟谣裁员50%",
+            "startTime": 1794412800000,
+            "oldPoint": 7,
+            "pro": 1.45,
+            "hE": 1225,
+            "tags": [
+              "腾讯",
+              "裁员",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 9,
+            "pro": 1.13,
+            "hE": 955,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "43ac480b86a23e7e10180420",
+            "img": "1792389140917.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "盛艾敬被曝父母欠薪345万元被法院强制执行",
+            "startTime": 1791734400000,
+            "oldPoint": 43,
+            "pro": 1.01,
+            "hE": 860,
+            "tags": [
+              "盛艾敬"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6246
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}

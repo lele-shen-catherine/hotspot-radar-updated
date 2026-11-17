@@ -1,22 +1,94 @@
 {
-  "updatedAt": "2026-11-16T16:18:54.695Z",
-  "collectedAt": "2026-11-16T16:18:54.695Z",
-  "date": "2026-11-16",
+  "updatedAt": "2026-11-17T08:33:30.771Z",
+  "collectedAt": "2026-11-17T08:33:30.771Z",
+  "date": "2026-11-17",
   "events": [
     {
+      "level": "S",
+      "eventName": "于东来奖励员工310辆坦克700",
+      "topic": "于东来奖励员工310辆坦克700",
+      "score": 85.1,
+      "platform": "微博",
+      "platformDetail": {
+        "platform": "微博",
+        "currentRank": 1,
+        "peakRank": 1,
+        "hotValue": "106.8w",
+        "collectedAt": "2026-11-17T08:33:30.771Z",
+        "duration": "微博单次快照无在榜时长(按60)",
+        "rankChange": "微博单次快照无在榜时长(按60)",
+        "link": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5310%E8%BE%86%E5%9D%A6%E5%85%8B700%23"
+      },
+      "explanation": "围绕「于东来奖励员工310辆坦克700」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「于东来奖励员工310辆坦克700」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "于东来奖励员工310辆坦克700",
+      "eventSummary": "围绕「于东来奖励员工310辆坦克700」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 85.1,
+      "source": "微博",
+      "heat": "106.8w",
+      "crossPlatform": [
+        "微博"
+      ],
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1067765
+        }
+      ]
+    },
+    {
       "level": "A",
-      "eventName": "综艺《后会友期》",
-      "topic": "综艺《后会友期》",
+      "eventName": "2026 APEC深圳峰会",
+      "topic": "2026 APEC深圳峰会",
       "score": 80.8,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
         "currentRank": 1,
         "peakRank": 1,
-        "hotValue": "7287",
-        "collectedAt": "2026-11-16T16:18:54.695Z",
+        "hotValue": "5.1w",
+        "collectedAt": "2026-11-17T08:33:30.771Z",
         "duration": "持续高位(第1名, 在榜11小时)",
         "rankChange": "持续高位(第1名, 在榜11小时)",
+        "link": "https://ef.zhiweidata.com/eventRk/ca27e66d33bcda7b10180758/profil"
+      },
+      "explanation": "围绕「2026 APEC深圳峰会」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "whyHot": "围绕「2026 APEC深圳峰会」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "title": "2026 APEC深圳峰会",
+      "eventSummary": "围绕「2026 APEC深圳峰会」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
+      "totalScore": 80.8,
+      "source": "知微",
+      "heat": "5.1w",
+      "crossPlatform": [
+        "知微"
+      ],
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 1,
+          "hot": 51059
+        }
+      ]
+    },
+    {
+      "level": "A",
+      "eventName": "综艺《后会友期》",
+      "topic": "综艺《后会友期》",
+      "score": 79,
+      "platform": "知微",
+      "platformDetail": {
+        "platform": "知微",
+        "currentRank": 2,
+        "peakRank": 2,
+        "hotValue": "8345",
+        "collectedAt": "2026-11-17T08:33:30.771Z",
+        "duration": "排名上升 3→2, 在榜11小时",
+        "rankChange": "排名上升 3→2, 在榜11小时",
         "link": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil"
       },
       "explanation": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
@@ -25,106 +97,34 @@
       "title": "综艺《后会友期》",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 80.8,
+      "totalScore": 79,
       "source": "知微",
-      "heat": "7287",
+      "heat": "8345",
       "crossPlatform": [
         "知微"
       ],
       "platforms": [
         {
           "platform": "知微",
-          "rank": 1,
-          "hot": 7287
+          "rank": 2,
+          "hot": 8345
         }
       ]
     },
     {
-      "level": "A",
-      "eventName": "习近平将同普京特朗普会晤",
-      "topic": "习近平将同普京特朗普会晤",
-      "score": 78.1,
-      "platform": "抖音",
-      "platformDetail": {
-        "platform": "抖音",
-        "currentRank": 1,
-        "peakRank": 1,
-        "hotValue": "1210.8w",
-        "collectedAt": "2026-11-16T16:18:54.695Z",
-        "duration": "抖音无在榜时长(按60)",
-        "rankChange": "抖音无在榜时长(按60)",
-        "link": "https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4"
-      },
-      "explanation": "围绕「习近平将同普京特朗普会晤」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「习近平将同普京特朗普会晤」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "习近平将同普京特朗普会晤",
-      "eventSummary": "围绕「习近平将同普京特朗普会晤」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 78.1,
-      "source": "抖音",
-      "heat": "1210.8w",
-      "crossPlatform": [
-        "抖音"
-      ],
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 12108399
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "中俄美元首会晤将在深圳举行",
-      "topic": "中俄美元首会晤将在深圳举行",
-      "score": 78.1,
-      "platform": "微博",
-      "platformDetail": {
-        "platform": "微博",
-        "currentRank": 1,
-        "peakRank": 1,
-        "hotValue": "85.7w",
-        "collectedAt": "2026-11-16T16:18:54.695Z",
-        "duration": "微博单次快照无在榜时长(按60)",
-        "rankChange": "微博单次快照无在榜时长(按60)",
-        "link": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23"
-      },
-      "explanation": "围绕「中俄美元首会晤将在深圳举行」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「中俄美元首会晤将在深圳举行」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "中俄美元首会晤将在深圳举行",
-      "eventSummary": "围绕「中俄美元首会晤将在深圳举行」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 78.1,
-      "source": "微博",
-      "heat": "85.7w",
-      "crossPlatform": [
-        "微博"
-      ],
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 857112
-        }
-      ]
-    },
-    {
-      "level": "A",
+      "level": "B",
       "eventName": "电视剧《小城良方》",
       "topic": "电视剧《小城良方》",
-      "score": 75.3,
+      "score": 64.3,
       "platform": "知微",
       "platformDetail": {
         "platform": "知微",
-        "currentRank": 2,
-        "peakRank": 2,
-        "hotValue": "4799",
-        "collectedAt": "2026-11-16T16:18:54.695Z",
-        "duration": "持续高位(第2名, 在榜11小时)",
-        "rankChange": "持续高位(第2名, 在榜11小时)",
+        "currentRank": 4,
+        "peakRank": 4,
+        "hotValue": "2801",
+        "collectedAt": "2026-11-17T08:33:30.771Z",
+        "duration": "持续高位(第4名, 在榜11小时)",
+        "rankChange": "持续高位(第4名, 在榜11小时)",
         "link": "https://ef.zhiweidata.com/eventRk/083e832b3e8dd45c10180521/profil"
       },
       "explanation": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
@@ -133,81 +133,9 @@
       "title": "电视剧《小城良方》",
       "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 75.3,
+      "totalScore": 64.3,
       "source": "知微",
-      "heat": "4799",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 2,
-          "hot": 4799
-        }
-      ]
-    },
-    {
-      "level": "A",
-      "eventName": "黄仁勋辞职",
-      "topic": "黄仁勋辞职",
-      "score": 73.5,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 3,
-        "peakRank": 3,
-        "hotValue": "832",
-        "collectedAt": "2026-11-16T16:18:54.695Z",
-        "duration": "排名上升 5→3, 在榜11小时",
-        "rankChange": "排名上升 5→3, 在榜11小时",
-        "link": "https://ef.zhiweidata.com/eventRk/ed4c5e7c03037d6b10180679/profil"
-      },
-      "explanation": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「黄仁勋辞职」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "黄仁勋辞职",
-      "eventSummary": "围绕「黄仁勋辞职」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 73.5,
-      "source": "知微",
-      "heat": "832",
-      "crossPlatform": [
-        "知微"
-      ],
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 832
-        }
-      ]
-    },
-    {
-      "level": "B",
-      "eventName": "DeepSeek因算力不足限额",
-      "topic": "DeepSeek因算力不足限额",
-      "score": 68,
-      "platform": "知微",
-      "platformDetail": {
-        "platform": "知微",
-        "currentRank": 4,
-        "peakRank": 4,
-        "hotValue": "826",
-        "collectedAt": "2026-11-16T16:18:54.695Z",
-        "duration": "排名上升 6→4, 在榜11小时",
-        "rankChange": "排名上升 6→4, 在榜11小时",
-        "link": "https://ef.zhiweidata.com/eventRk/06c584e15700233310180708/profil"
-      },
-      "explanation": "围绕「DeepSeek因算力不足限额」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "whyHot": "围绕「DeepSeek因算力不足限额」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "risk": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "title": "DeepSeek因算力不足限额",
-      "eventSummary": "围绕「DeepSeek因算力不足限额」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。",
-      "totalScore": 68,
-      "source": "知微",
-      "heat": "826",
+      "heat": "2801",
       "crossPlatform": [
         "知微"
       ],
@@ -215,7 +143,7 @@
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 826
+          "hot": 2801
         }
       ]
     }
