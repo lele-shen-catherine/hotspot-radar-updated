@@ -1,0 +1,3107 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 1546042,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-11-13",
+        "sumH": 1324269,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 31.74,
+            "hE": 420344,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.99,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 0,
+            "pro": 22.15,
+            "hE": 293330,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 0,
+            "pro": 8.97,
+            "hE": 118753,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "b524c04cd69d8b2c10180684",
+            "img": "2.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "2027研究生报考人数347万",
+            "startTime": 1794499200000,
+            "oldPoint": 0,
+            "pro": 5.02,
+            "hE": 66531,
+            "tags": [
+              "研究生",
+              "报考"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 4.93,
+            "hE": 65275,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 0,
+            "pro": 4.44,
+            "hE": 58837,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d46d490ad1ae299410180687",
+            "img": "5.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "湖北省委原书记王忠林被查",
+            "startTime": 1794499200000,
+            "oldPoint": 0,
+            "pro": 3.54,
+            "hE": 46935,
+            "tags": [
+              "王忠林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "c8c91d643cdd803e10180685",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "官方通报交大基因编辑事件",
+            "startTime": 1794499200000,
+            "oldPoint": 0,
+            "pro": 3,
+            "hE": 39721,
+            "tags": [
+              "上海交通大学",
+              "基因编辑",
+              "通报"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 0,
+            "pro": 2.48,
+            "hE": 32809,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "c73c24091c83c86610180660",
+            "img": "956129c0-e5a7-4f65-ad78-0a9864b0af35.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "上海和平饭店51万天价餐事件",
+            "startTime": 1794067200000,
+            "oldPoint": 0,
+            "pro": 1.68,
+            "hE": 22192,
+            "tags": [
+              "和平饭店",
+              "餐饮"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 159542
+          }
+        ]
+      },
+      {
+        "time": "2026-11-14",
+        "sumH": 814201,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 30.65,
+            "hE": 249576,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.99,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 22,
+            "pro": 22.1,
+            "hE": 179962,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 16.21,
+            "hE": 132021,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 1,
+            "pro": 9.79,
+            "hE": 79707,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 5,
+            "pro": 3.86,
+            "hE": 31394,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 4,
+            "pro": 2.34,
+            "hE": 19071,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d46d490ad1ae299410180687",
+            "img": "5.jpg",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "湖北省委原书记王忠林被查",
+            "startTime": 1794499200000,
+            "oldPoint": 6,
+            "pro": 1.88,
+            "hE": 15339,
+            "tags": [
+              "王忠林",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "aead27409781d3c310180641",
+            "img": "22.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "“零元面馆”持续引争议",
+            "startTime": 1794067200000,
+            "oldPoint": 18,
+            "pro": 1.65,
+            "hE": 13452,
+            "tags": [
+              "零元面馆"
+            ]
+          },
+          {
+            "eventId": "40ae1adc79a2956010180667",
+            "img": "22.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "山姆超市一羽绒服卖断货",
+            "startTime": 1794326400000,
+            "oldPoint": 24,
+            "pro": 1.4,
+            "hE": 11385,
+            "tags": [
+              "山姆",
+              "羽绒服"
+            ]
+          },
+          {
+            "eventId": "6d6243076185e13a10180649",
+            "img": "3.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "Anthropic发布Claude最强模型",
+            "startTime": 1794240000000,
+            "oldPoint": 16,
+            "pro": 1.27,
+            "hE": 10361,
+            "tags": [
+              "Anthropic",
+              "大模型"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 71933
+          }
+        ]
+      },
+      {
+        "time": "2026-11-15",
+        "sumH": 836579,
+        "info": [
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 41,
+            "pro": 46.28,
+            "hE": 387130,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 19.96,
+            "hE": 166966,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 13.01,
+            "hE": 108835,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "305632782367437210180701",
+            "img": "22.png",
+            "pointPro": 99.96,
+            "firstType": "国际",
+            "name": "全美航班停飞",
+            "startTime": 1794499200000,
+            "oldPoint": 1,
+            "pro": 4.85,
+            "hE": 40607,
+            "tags": [
+              "航空",
+              "美国"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 3,
+            "pro": 3.59,
+            "hE": 30027,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "c6d8740d0d4c6a3710180703",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "违法犯罪",
+            "name": "央视曝光火车票洗钱犯罪",
+            "startTime": 1794672000000,
+            "oldPoint": 86,
+            "pro": 1.21,
+            "hE": 10094,
+            "tags": [
+              "央视曝光",
+              "洗钱"
+            ]
+          },
+          {
+            "eventId": "0cb21c21d58cbc3010180629",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋承认婚外情",
+            "startTime": 1794067200000,
+            "oldPoint": 5,
+            "pro": 1.11,
+            "hE": 9251,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "066d6950881ae38e10180683",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "微软多项服务宕机",
+            "startTime": 1794499200000,
+            "oldPoint": 4,
+            "pro": 1.03,
+            "hE": 8643,
+            "tags": [
+              "微软",
+              "故障",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 1.02,
+            "hE": 8554,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "7d40332ca255966d10180670",
+            "img": "55.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "第九届中国国际进口博览会",
+            "startTime": 1793548800000,
+            "oldPoint": 10,
+            "pro": 0.96,
+            "hE": 7990,
+            "tags": [
+              "进博会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 58482
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16",
+        "sumH": 1530381,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 8,
+            "pro": 31.1,
+            "hE": 475911,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 14.92,
+            "hE": 228368,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 6.99,
+            "hE": 106928,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "3698c63d1554bcee10180702",
+            "img": "33.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "北大羽绒服卖断货",
+            "startTime": 1794672000000,
+            "oldPoint": 25,
+            "pro": 6.69,
+            "hE": 102418,
+            "tags": [
+              "北京大学",
+              "文创"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.96,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 80,
+            "pro": 6.06,
+            "hE": 92683,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 0,
+            "pro": 4.24,
+            "hE": 64899,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 82,
+            "pro": 3.69,
+            "hE": 56457,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "19920add4548bd9a10180742",
+            "img": "4.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "闲鱼暗语造谣者被行政处罚",
+            "startTime": 1794758400000,
+            "oldPoint": 88,
+            "pro": 3.43,
+            "hE": 52455,
+            "tags": [
+              "闲鱼",
+              "起诉",
+              "造谣"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 2.86,
+            "hE": 43783,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "2d0b163690c70b9510180706",
+            "img": "1794813831129.png",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "亚马尔疑转发歧视亚裔视频",
+            "startTime": 1794758400000,
+            "oldPoint": 90,
+            "pro": 2.77,
+            "hE": 42370,
+            "tags": [
+              "亚马尔"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 264109
+          }
+        ]
+      },
+      {
+        "time": "2026-11-17",
+        "sumH": 1451608,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 49.2,
+            "hE": 714191,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 11.03,
+            "hE": 160169,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "083e832b3e8dd45c10180521",
+            "img": "1793154530670.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《小城良方》",
+            "startTime": 1792080000000,
+            "oldPoint": 2,
+            "pro": 4.53,
+            "hE": 65816,
+            "tags": [
+              "电视剧"
+            ]
+          },
+          {
+            "eventId": "17bcba1d12456e5910180782",
+            "img": "11.png",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "曝信小呆中奖后抑郁",
+            "startTime": 1794844800000,
+            "oldPoint": 75,
+            "pro": 3.78,
+            "hE": 54931,
+            "tags": [
+              "信小呆",
+              "抑郁症"
+            ]
+          },
+          {
+            "eventId": "82ab82051e52969a10180761",
+            "img": "2.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "360集团副总裁卜思南被带走调查",
+            "startTime": 1794758400000,
+            "oldPoint": 28,
+            "pro": 2.6,
+            "hE": 37727,
+            "tags": [
+              "360",
+              "副总裁",
+              "调查",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "e0d87ea111624b8510180759",
+            "img": "1794899179839.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "于东来奖励员工310辆坦克700",
+            "startTime": 1794758400000,
+            "oldPoint": 29,
+            "pro": 2.57,
+            "hE": 37307,
+            "tags": [
+              "胖东来"
+            ]
+          },
+          {
+            "eventId": "361e205cbc7826db10180747",
+            "img": "33.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "罗伯特帕丁森出演新任007",
+            "startTime": 1794758400000,
+            "oldPoint": 15,
+            "pro": 2.5,
+            "hE": 36262,
+            "tags": [
+              "罗伯特帕丁森"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 58,
+            "pro": 2.46,
+            "hE": 35663,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 5,
+            "pro": 2.28,
+            "hE": 33068,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 8,
+            "pro": 1.99,
+            "hE": 28838,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 247636
+          }
+        ]
+      },
+      {
+        "time": "2026-11-18",
+        "sumH": 1567475,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 54.63,
+            "hE": 856350,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 11.06,
+            "hE": 173337,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "01b960155e0bbc2310180783",
+            "img": "22.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "陆毅女儿贝儿官宣出道",
+            "startTime": 1794931200000,
+            "oldPoint": 98,
+            "pro": 4.16,
+            "hE": 65227,
+            "tags": [
+              "百沐娱乐",
+              "出道"
+            ]
+          },
+          {
+            "eventId": "79ae344c579485ce10180780",
+            "img": "6.jpg",
+            "pointPro": 99.97,
+            "firstType": "社会",
+            "name": "游客曝1600的烤全羊剥不出1两肉",
+            "startTime": 1794844800000,
+            "oldPoint": 55,
+            "pro": 3.59,
+            "hE": 56231,
+            "tags": [
+              "烤全羊",
+              "四川",
+              "立案调查"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 9,
+            "pro": 3.01,
+            "hE": 47221,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "4e22645dc785e91e10180784",
+            "img": "33.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "冯薪朵钟正自曝未婚先孕",
+            "startTime": 1794931200000,
+            "oldPoint": 99,
+            "pro": 2.34,
+            "hE": 36667,
+            "tags": [
+              "未婚先孕"
+            ]
+          },
+          {
+            "eventId": "3a110352a40c8be810180775",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "中方回应英伟达向中国停供H200",
+            "startTime": 1794931200000,
+            "oldPoint": 76,
+            "pro": 2,
+            "hE": 31357,
+            "tags": [
+              "英伟达",
+              "H200芯片",
+              "停供"
+            ]
+          },
+          {
+            "eventId": "cd75d8359d3167d410180776",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "苹果公司发生大规模网络技术故障",
+            "startTime": 1794844800000,
+            "oldPoint": 35,
+            "pro": 1.82,
+            "hE": 28569,
+            "tags": [
+              "苹果",
+              "故障"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 8,
+            "pro": 1.68,
+            "hE": 26393,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "03532218bdcb658910180800",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "作家斯琴高娃逝世",
+            "startTime": 1794844800000,
+            "oldPoint": 50,
+            "pro": 1.25,
+            "hE": 19659,
+            "tags": [
+              "逝世"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 226464
+          }
+        ]
+      },
+      {
+        "time": "2026-11-19",
+        "sumH": 1906686,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 40.27,
+            "hE": 767780,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 25.82,
+            "hE": 492269,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.98,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 10,
+            "pro": 8.23,
+            "hE": 156835,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 22,
+            "pro": 6.43,
+            "hE": 122537,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 14,
+            "pro": 5.5,
+            "hE": 104908,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 12,
+            "pro": 2.87,
+            "hE": 54783,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "30cd63192eb99ac610180794",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "宁德向理想一天发3封要钱邮件",
+            "startTime": 1794931200000,
+            "oldPoint": 33,
+            "pro": 2.09,
+            "hE": 39811,
+            "tags": [
+              "宁德时代",
+              "理想",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "b79c343cd56a6a7510180777",
+            "img": "3.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "媒体评湘雅二医院被爆发“全AI论文”",
+            "startTime": 1794499200000,
+            "oldPoint": 16,
+            "pro": 1.03,
+            "hE": 19733,
+            "tags": [
+              "湘雅二医院",
+              "论文",
+              "AI"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 4,
+            "pro": 0.78,
+            "hE": 14818,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "b21e8db546e4e64a10180802",
+            "img": "33.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "格力回应因150元成被执行人",
+            "startTime": 1795017600000,
+            "oldPoint": 107,
+            "pro": 0.62,
+            "hE": 11873,
+            "tags": [
+              "格力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 121339
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-11-20 11",
+        "sumH": 82129,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 34.46,
+            "hE": 28299,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 28.29,
+            "hE": 23232,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 0,
+            "pro": 6.44,
+            "hE": 5292,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 5.46,
+            "hE": 4481,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 0,
+            "pro": 5.43,
+            "hE": 4462,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 0,
+            "pro": 4.24,
+            "hE": 3480,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 2.69,
+            "hE": 2209,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 0,
+            "pro": 1.78,
+            "hE": 1461,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "06c584e15700233310180708",
+            "img": "1794814123094.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "DeepSeek因算力不足限额",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 1.33,
+            "hE": 1096,
+            "tags": [
+              "DeepSeek",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 0,
+            "pro": 1.31,
+            "hE": 1077,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 7040
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 12",
+        "sumH": 87666,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 49.38,
+            "hE": 43290,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 26.31,
+            "hE": 23061,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 2,
+            "pro": 4.19,
+            "hE": 3676,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 3.53,
+            "hE": 3096,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 4,
+            "pro": 3.05,
+            "hE": 2676,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 5,
+            "pro": 2.56,
+            "hE": 2243,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 6,
+            "pro": 1.89,
+            "hE": 1657,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 7,
+            "pro": 1.33,
+            "hE": 1166,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 9,
+            "pro": 1.09,
+            "hE": 954,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 12,
+            "pro": 1.02,
+            "hE": 896,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4951
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 13",
+        "sumH": 79232,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 39.27,
+            "hE": 31119,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 27.28,
+            "hE": 21612,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 2,
+            "pro": 6.47,
+            "hE": 5123,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 9,
+            "pro": 5.53,
+            "hE": 4384,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 4,
+            "pro": 5.02,
+            "hE": 3976,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 3.58,
+            "hE": 2836,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 5,
+            "pro": 3.24,
+            "hE": 2565,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 7,
+            "pro": 2.14,
+            "hE": 1699,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 6,
+            "pro": 1.88,
+            "hE": 1487,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "b21e8db546e4e64a10180802",
+            "img": "33.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "格力回应因150元成被执行人",
+            "startTime": 1795017600000,
+            "oldPoint": 13,
+            "pro": 0.76,
+            "hE": 600,
+            "tags": [
+              "格力",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3831
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 14",
+        "sumH": 99400,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 36.17,
+            "hE": 35958,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 24.91,
+            "hE": 24765,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 9.43,
+            "hE": 9373,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "d2e1e36b5445ede610180809",
+            "img": "4.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "华泰证券辟谣",
+            "startTime": 1795104000000,
+            "oldPoint": 12,
+            "pro": 4.39,
+            "hE": 4363,
+            "tags": [
+              "华泰证券",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 2,
+            "pro": 4.32,
+            "hE": 4290,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 8,
+            "pro": 4.04,
+            "hE": 4019,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 4,
+            "pro": 3.91,
+            "hE": 3887,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.85,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 2.82,
+            "hE": 2807,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 6,
+            "pro": 1.61,
+            "hE": 1604,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "ed4c5e7c03037d6b10180679",
+            "img": "11.png",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "黄仁勋辞职",
+            "startTime": 1794412800000,
+            "oldPoint": 20,
+            "pro": 1.39,
+            "hE": 1384,
+            "tags": [
+              "黄仁勋",
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 6950
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 15",
+        "sumH": 95361,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 30.35,
+            "hE": 28944,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 29.12,
+            "hE": 27765,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 5,
+            "pro": 10.19,
+            "hE": 9717,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 6.75,
+            "hE": 6440,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 4,
+            "pro": 4.96,
+            "hE": 4734,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 6,
+            "pro": 4.85,
+            "hE": 4628,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 4.12,
+            "hE": 3933,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "d2e1e36b5445ede610180809",
+            "img": "4.jpg",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "华泰证券辟谣",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 2.19,
+            "hE": 2089,
+            "tags": [
+              "华泰证券",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 10,
+            "pro": 1.5,
+            "hE": 1434,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 8,
+            "pro": 1.2,
+            "hE": 1143,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4534
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 16",
+        "sumH": 166665,
+        "info": [
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 34.52,
+            "hE": 57539,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 23.58,
+            "hE": 39306,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.96,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 20.75,
+            "hE": 34589,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 4.67,
+            "hE": 7790,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 4.39,
+            "hE": 7317,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 4,
+            "pro": 3.13,
+            "hE": 5219,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 5,
+            "pro": 2.07,
+            "hE": 3446,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 10,
+            "pro": 1.45,
+            "hE": 2424,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 8,
+            "pro": 0.99,
+            "hE": 1643,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "d2e1e36b5445ede610180809",
+            "img": "4.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "华泰证券辟谣",
+            "startTime": 1795104000000,
+            "oldPoint": 7,
+            "pro": 0.97,
+            "hE": 1613,
+            "tags": [
+              "华泰证券",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5779
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 17",
+        "sumH": 133659,
+        "info": [
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 42.91,
+            "hE": 57348,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 21.23,
+            "hE": 28371,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 16.4,
+            "hE": 21918,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 5,
+            "pro": 4.15,
+            "hE": 5543,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 3.03,
+            "hE": 4045,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 6,
+            "pro": 2.53,
+            "hE": 3385,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 1.66,
+            "hE": 2215,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 8,
+            "pro": 1.64,
+            "hE": 2192,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.83,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 7,
+            "pro": 1.61,
+            "hE": 2158,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 10,
+            "pro": 1.14,
+            "hE": 1521,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4963
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 18",
+        "sumH": 94340,
+        "info": [
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 32.6,
+            "hE": 30752,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 2,
+            "pro": 25.53,
+            "hE": 24081,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.95,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 1,
+            "pro": 21.36,
+            "hE": 20153,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 3,
+            "pro": 4.6,
+            "hE": 4343,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 5,
+            "pro": 3.03,
+            "hE": 2854,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 4,
+            "pro": 2.76,
+            "hE": 2604,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.86,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 2.26,
+            "hE": 2130,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "e0bcdeeecd542dda10180700",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "BLG夺冠",
+            "startTime": 1794672000000,
+            "oldPoint": 8,
+            "pro": 1.91,
+            "hE": 1798,
+            "tags": [
+              "英雄联盟",
+              "电子竞技"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 7,
+            "pro": 1.3,
+            "hE": 1230,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "b79c343cd56a6a7510180777",
+            "img": "3.jpg",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "媒体评湘雅二医院被爆发“全AI论文”",
+            "startTime": 1794499200000,
+            "oldPoint": 15,
+            "pro": 0.85,
+            "hE": 804,
+            "tags": [
+              "湘雅二医院",
+              "论文",
+              "AI"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3591
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 19",
+        "sumH": 66578,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 29.11,
+            "hE": 19378,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 26.93,
+            "hE": 17928,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 20.59,
+            "hE": 13705,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 3,
+            "pro": 8.03,
+            "hE": 5347,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 5,
+            "pro": 2.64,
+            "hE": 1759,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 2.4,
+            "hE": 1595,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 4,
+            "pro": 1.74,
+            "hE": 1156,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "5bd481c56b336a4710180767",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "娱乐",
+            "name": "《哈利波特：魔法觉醒》宣布将停服",
+            "startTime": 1794758400000,
+            "oldPoint": 21,
+            "pro": 1.59,
+            "hE": 1061,
+            "tags": [
+              "哈利波特：魔法觉醒",
+              "停服"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 11,
+            "pro": 0.9,
+            "hE": 596,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.8,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 8,
+            "pro": 0.86,
+            "hE": 572,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3481
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 20",
+        "sumH": 55915,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 33.18,
+            "hE": 18551,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 2,
+            "pro": 22.46,
+            "hE": 12557,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 1,
+            "pro": 17.54,
+            "hE": 9805,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 3,
+            "pro": 8.91,
+            "hE": 4983,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 6,
+            "pro": 4.57,
+            "hE": 2555,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 4,
+            "pro": 1.92,
+            "hE": 1072,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 8,
+            "pro": 1.64,
+            "hE": 915,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.84,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 1.46,
+            "hE": 819,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "5bd481c56b336a4710180767",
+            "img": "11.png",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "《哈利波特：魔法觉醒》宣布将停服",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 1.38,
+            "hE": 772,
+            "tags": [
+              "哈利波特：魔法觉醒",
+              "停服"
+            ]
+          },
+          {
+            "eventId": "d2e1e36b5445ede610180809",
+            "img": "4.jpg",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "华泰证券辟谣",
+            "startTime": 1795104000000,
+            "oldPoint": 11,
+            "pro": 1.11,
+            "hE": 623,
+            "tags": [
+              "华泰证券",
+              "辟谣"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3263
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 21",
+        "sumH": 55032,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 39.55,
+            "hE": 21766,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 21.2,
+            "hE": 11667,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 17.17,
+            "hE": 9448,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 3,
+            "pro": 8.58,
+            "hE": 4720,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 4,
+            "pro": 3.79,
+            "hE": 2085,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 1.93,
+            "hE": 1065,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 5,
+            "pro": 1.65,
+            "hE": 907,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 6,
+            "pro": 0.67,
+            "hE": 371,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "ed07266127c48e2110180808",
+            "img": "3.png",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "警方介入调查订婚请喝奶茶骗局",
+            "startTime": 1794931200000,
+            "oldPoint": 10,
+            "pro": 0.54,
+            "hE": 297,
+            "tags": [
+              "奶茶",
+              "调查",
+              "骗局"
+            ]
+          },
+          {
+            "eventId": "30cd63192eb99ac610180794",
+            "img": "2.jpg",
+            "pointPro": 99.8,
+            "firstType": "企业",
+            "name": "宁德向理想一天发3封要钱邮件",
+            "startTime": 1794931200000,
+            "oldPoint": 30,
+            "pro": 0.42,
+            "hE": 233,
+            "tags": [
+              "宁德时代",
+              "理想",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2473
+          }
+        ]
+      },
+      {
+        "time": "2026-11-20 22",
+        "sumH": 43984,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 29.05,
+            "hE": 12777,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 25.08,
+            "hE": 11032,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 13.19,
+            "hE": 5800,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 3,
+            "pro": 13.08,
+            "hE": 5752,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 4,
+            "pro": 9.51,
+            "hE": 4184,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 2.54,
+            "hE": 1119,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.85,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 7,
+            "pro": 1.6,
+            "hE": 705,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 6,
+            "pro": 1.13,
+            "hE": 499,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "5ed0be1066484aca10180222",
+            "img": "1790575629597.png",
+            "pointPro": 99.79,
+            "firstType": "娱乐",
+            "name": "电影《神探之痕迹》",
+            "startTime": 1789488000000,
+            "oldPoint": 12,
+            "pro": 0.62,
+            "hE": 272,
+            "tags": [
+              "电影"
+            ]
+          },
+          {
+            "eventId": "30cd63192eb99ac610180794",
+            "img": "2.jpg",
+            "pointPro": 99.77,
+            "firstType": "企业",
+            "name": "宁德向理想一天发3封要钱邮件",
+            "startTime": 1794931200000,
+            "oldPoint": 9,
+            "pro": 0.55,
+            "hE": 241,
+            "tags": [
+              "宁德时代",
+              "理想",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 1603
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
