@@ -1,57 +1,24 @@
 {
-  "generatedAt": "2026-11-23T16:19:27.315Z",
-  "date": "2026-11-23",
+  "generatedAt": "2026-11-24T02:40:08.726Z",
+  "date": "2026-11-24",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
       "level": "A",
       "seat": "总榜Top1",
-      "title": "勇士险胜凯尔特人",
-      "topic": "勇士险胜凯尔特人",
-      "eventName": "勇士险胜凯尔特人",
-      "platform": "抖音",
-      "rank": 1,
-      "hot": 11983420,
-      "hotValue": 11983420,
-      "url": "https://www.douyin.com/search/%E5%8B%87%E5%A3%AB%E9%99%A9%E8%83%9C%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA",
-      "platforms": [
-        {
-          "platform": "抖音",
-          "rank": 1,
-          "hot": 11983420
-        }
-      ],
-      "totalScore": 84.4,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 85,
-      "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'爆'",
-      "rankChange": "抖音标记'爆'",
-      "excludeCat": null,
-      "collectedAt": "2026-11-23T16:19:27.315Z",
-      "eventSummary": "围绕「勇士险胜凯尔特人」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「勇士险胜凯尔特人」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top2",
       "title": "综艺《后会友期》",
       "topic": "综艺《后会友期》",
       "eventName": "综艺《后会友期》",
       "platform": "知微",
-      "rank": 2,
-      "hot": 13028,
-      "hotValue": 13028,
+      "rank": 1,
+      "hot": 9241,
+      "hotValue": 9241,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 13028
+          "hot": 9241
         }
       ],
       "totalScore": 80.8,
@@ -64,27 +31,60 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-23T16:19:27.315Z",
+      "collectedAt": "2026-11-24T02:40:08.726Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
+      "seat": "总榜Top2",
+      "title": "甲亢哥百米能跑赢博尔特吗",
+      "topic": "甲亢哥百米能跑赢博尔特吗",
+      "eventName": "甲亢哥百米能跑赢博尔特吗",
+      "platform": "抖音",
+      "rank": 2,
+      "hot": 11923615,
+      "hotValue": 11923615,
+      "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E7%99%BE%E7%B1%B3%E8%83%BD%E8%B7%91%E8%B5%A2%E5%8D%9A%E5%B0%94%E7%89%B9%E5%90%97",
+      "platforms": [
+        {
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 11923615
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "抖音无在榜时长(按60)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音无在榜时长(按60)",
+      "rankChange": "抖音无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-24T02:40:08.726Z",
+      "eventSummary": "围绕「甲亢哥百米能跑赢博尔特吗」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「甲亢哥百米能跑赢博尔特吗」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
       "seat": "总榜Top3",
-      "title": "血压130到139不再是正常血压",
-      "topic": "血压130到139不再是正常血压",
-      "eventName": "血压130到139不再是正常血压",
+      "title": "野桃直播",
+      "topic": "野桃直播",
+      "eventName": "野桃直播",
       "platform": "微博",
       "rank": 3,
-      "hot": 1149527,
-      "hotValue": 1149527,
-      "url": "https://s.weibo.com/weibo?q=%23%E8%A1%80%E5%8E%8B130%E5%88%B0139%E4%B8%8D%E5%86%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B%23",
+      "hot": 697667,
+      "hotValue": 697667,
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E6%A1%83%E7%9B%B4%E6%92%AD%23",
       "platforms": [
         {
           "platform": "微博",
           "rank": 1,
-          "hot": 1149527
+          "hot": 697667
         }
       ],
       "totalScore": 78.1,
@@ -97,27 +97,27 @@
       "duration": "微博单次快照无在榜时长(按60)",
       "rankChange": "微博单次快照无在榜时长(按60)",
       "excludeCat": null,
-      "collectedAt": "2026-11-23T16:19:27.315Z",
-      "eventSummary": "围绕「血压130到139不再是正常血压」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「血压130到139不再是正常血压」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-24T02:40:08.726Z",
+      "eventSummary": "围绕「野桃直播」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「野桃直播」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "A",
       "seat": "总榜Top4",
-      "title": "2026 APEC深圳峰会",
-      "topic": "2026 APEC深圳峰会",
-      "eventName": "2026 APEC深圳峰会",
+      "title": "爱奇艺退市警告",
+      "topic": "爱奇艺退市警告",
+      "eventName": "爱奇艺退市警告",
       "platform": "知微",
       "rank": 4,
-      "hot": 5936,
-      "hotValue": 5936,
-      "url": "https://ef.zhiweidata.com/eventRk/ca27e66d33bcda7b10180758/profil",
+      "hot": 4282,
+      "hotValue": 4282,
+      "url": "https://ef.zhiweidata.com/eventRk/4b917edeede4730410180793/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 5936
+          "hot": 4282
         }
       ],
       "totalScore": 75.3,
@@ -130,75 +130,75 @@
       "duration": "持续高位(第2名, 在榜11小时)",
       "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-23T16:19:27.315Z",
-      "eventSummary": "围绕「2026 APEC深圳峰会」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「2026 APEC深圳峰会」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top5",
-      "title": "爱奇艺退市警告",
-      "topic": "爱奇艺退市警告",
-      "eventName": "爱奇艺退市警告",
-      "platform": "知微",
-      "rank": 5,
-      "hot": 2401,
-      "hotValue": 2401,
-      "url": "https://ef.zhiweidata.com/eventRk/4b917edeede4730410180793/profil",
-      "platforms": [
-        {
-          "platform": "知微",
-          "rank": 3,
-          "hot": 2401
-        }
-      ],
-      "totalScore": 73.5,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 4→3, 在榜11小时",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 4→3, 在榜11小时",
-      "rankChange": "排名上升 4→3, 在榜11小时",
-      "excludeCat": null,
-      "collectedAt": "2026-11-23T16:19:27.315Z",
+      "collectedAt": "2026-11-24T02:40:08.726Z",
       "eventSummary": "围绕「爱奇艺退市警告」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「爱奇艺退市警告」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
+      "seat": "总榜Top5",
+      "title": "2026 APEC深圳峰会",
+      "topic": "2026 APEC深圳峰会",
+      "eventName": "2026 APEC深圳峰会",
+      "platform": "知微",
+      "rank": 5,
+      "hot": 285,
+      "hotValue": 285,
+      "url": "https://ef.zhiweidata.com/eventRk/ca27e66d33bcda7b10180758/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 285
+        }
+      ],
+      "totalScore": 69.8,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第3名, 在榜11小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第3名, 在榜11小时)",
+      "rankChange": "持续高位(第3名, 在榜11小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-24T02:40:08.726Z",
+      "eventSummary": "围绕「2026 APEC深圳峰会」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「2026 APEC深圳峰会」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
       "seat": "总榜Top6",
-      "title": "中俄美三国元首历史首次面对面会晤",
-      "topic": "中俄美三国元首历史首次面对面会晤",
-      "eventName": "中俄美三国元首历史首次面对面会晤",
+      "title": "史上最大IPO：Anthropic每股定价83美元",
+      "topic": "史上最大IPO：Anthropic每股定价83美元",
+      "eventName": "史上最大IPO：Anthropic每股定价83美元",
       "platform": "知微",
       "rank": 6,
-      "hot": 1076,
-      "hotValue": 1076,
-      "url": "https://ef.zhiweidata.com/eventRk/80649d4d79a208c010180748/profil",
+      "hot": 107,
+      "hotValue": 107,
+      "url": "https://ef.zhiweidata.com/eventRk/934450e3e964165010180785/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 1076
+          "hot": 107
         }
       ],
       "totalScore": 68,
       "posScore": 60,
       "hotScore": 65,
       "trendScore": 100,
-      "trendEvidence": "排名上升 7→4, 在榜9小时",
+      "trendEvidence": "排名上升 10→4, 在榜7小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 7→4, 在榜9小时",
-      "rankChange": "排名上升 7→4, 在榜9小时",
+      "duration": "排名上升 10→4, 在榜7小时",
+      "rankChange": "排名上升 10→4, 在榜7小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-23T16:19:27.315Z",
-      "eventSummary": "围绕「中俄美三国元首历史首次面对面会晤」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「中俄美三国元首历史首次面对面会晤」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-24T02:40:08.726Z",
+      "eventSummary": "围绕「史上最大IPO：Anthropic每股定价83美元」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「史上最大IPO：Anthropic每股定价83美元」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
