@@ -1,0 +1,3091 @@
+{
+  "code": "200",
+  "data": {
+    "dayHotSum": 791361,
+    "dayHotLevel": "高",
+    "rankDay": [
+      {
+        "time": "2026-11-20",
+        "sumH": 1790958,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 23.88,
+            "hE": 427724,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 22.43,
+            "hE": 401763,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 12.4,
+            "hE": 222100,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 12.28,
+            "hE": 219973,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 0,
+            "pro": 6.4,
+            "hE": 114584,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 0,
+            "pro": 5.67,
+            "hE": 101552,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.93,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 3.67,
+            "hE": 65715,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "b0d438e1112c21e510180806",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "12306迎来重大更新",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 2.48,
+            "hE": 44464,
+            "tags": [
+              "12306",
+              "更新"
+            ]
+          },
+          {
+            "eventId": "14b9c3c1c8981b8810180762",
+            "img": "3.jpg",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "马斯克确认即将前往中国",
+            "startTime": 1794844800000,
+            "oldPoint": 0,
+            "pro": 2.37,
+            "hE": 42422,
+            "tags": [
+              "马斯克",
+              "访华"
+            ]
+          },
+          {
+            "eventId": "aa51a62d5e9cbac510180856",
+            "img": "66.jpg",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电视剧《今天是太阳雨》",
+            "startTime": 1793894400000,
+            "oldPoint": 0,
+            "pro": 1.01,
+            "hE": 18071,
+            "tags": [
+              "电视剧",
+              "《今天是太阳雨》"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 132590
+          }
+        ]
+      },
+      {
+        "time": "2026-11-21",
+        "sumH": 987699,
+        "info": [
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 100,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 22.01,
+            "hE": 217367,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 19.19,
+            "hE": 189588,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 17.32,
+            "hE": 171060,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 4,
+            "pro": 11.74,
+            "hE": 115974,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 4.73,
+            "hE": 46708,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 6,
+            "pro": 4.6,
+            "hE": 45437,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "902360ed320c973a10180827",
+            "img": "33.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "孙芮自曝已结婚怀孕",
+            "startTime": 1795190400000,
+            "oldPoint": 97,
+            "pro": 3.24,
+            "hE": 31968,
+            "tags": [
+              "孙芮"
+            ]
+          },
+          {
+            "eventId": "aa51a62d5e9cbac510180856",
+            "img": "66.jpg",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "电视剧《今天是太阳雨》",
+            "startTime": 1793894400000,
+            "oldPoint": 9,
+            "pro": 2.77,
+            "hE": 27391,
+            "tags": [
+              "电视剧",
+              "《今天是太阳雨》"
+            ]
+          },
+          {
+            "eventId": "0b7ca7ae42a8776310180813",
+            "img": "22.png",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "AI攻克黎曼猜想",
+            "startTime": 1795104000000,
+            "oldPoint": 40,
+            "pro": 2.5,
+            "hE": 24684,
+            "tags": [
+              "Anthropic",
+              "黎曼猜想"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 5,
+            "pro": 2.2,
+            "hE": 21734,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 95788
+          }
+        ]
+      },
+      {
+        "time": "2026-11-22",
+        "sumH": 826171,
+        "info": [
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 21.3,
+            "hE": 175981,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 18.33,
+            "hE": 151411,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.98,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 15.8,
+            "hE": 130538,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 3,
+            "pro": 13.33,
+            "hE": 110168,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "ce8c772674c79b6610180823",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "官方通报百万粉丝主播被指私闯果园",
+            "startTime": 1795276800000,
+            "oldPoint": 63,
+            "pro": 7.04,
+            "hE": 58143,
+            "tags": [
+              "果园",
+              "主播",
+              "糟蹋"
+            ]
+          },
+          {
+            "eventId": "7d6194112380944710180812",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "国际",
+            "name": "AI作弊引发韩国高考混乱 韩国教育部长引咎辞职",
+            "startTime": 1795276800000,
+            "oldPoint": 24,
+            "pro": 4.23,
+            "hE": 34914,
+            "tags": [
+              "高考",
+              "AI",
+              "韩国",
+              "作弊"
+            ]
+          },
+          {
+            "eventId": "0b7ca7ae42a8776310180813",
+            "img": "22.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "AI攻克黎曼猜想",
+            "startTime": 1795104000000,
+            "oldPoint": 8,
+            "pro": 3.27,
+            "hE": 27021,
+            "tags": [
+              "Anthropic",
+              "黎曼猜想"
+            ]
+          },
+          {
+            "eventId": "80649d4d79a208c010180748",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "国际",
+            "name": "中俄美三国元首历史首次面对面会晤",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 3.03,
+            "hE": 25029,
+            "tags": [
+              "特朗普",
+              "普京",
+              "习近平",
+              "会晤"
+            ]
+          },
+          {
+            "eventId": "2bd9d50855e7b99d10180815",
+            "img": "44.png",
+            "pointPro": 99.91,
+            "firstType": "社会",
+            "name": "金价下跌 北京菜百金条卖断货",
+            "startTime": 1795104000000,
+            "oldPoint": 29,
+            "pro": 2.1,
+            "hE": 17368,
+            "tags": [
+              "金价"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 4,
+            "pro": 1.56,
+            "hE": 12901,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 82697
+          }
+        ]
+      },
+      {
+        "time": "2026-11-23",
+        "sumH": 1284857,
+        "info": [
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 28,
+            "pro": 19.32,
+            "hE": 248258,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 15.77,
+            "hE": 202565,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 12.21,
+            "hE": 156891,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.97,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 10.23,
+            "hE": 131490,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 3,
+            "pro": 7.64,
+            "hE": 98163,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "ce8c772674c79b6610180823",
+            "img": "5.jpg",
+            "pointPro": 99.95,
+            "firstType": "社会",
+            "name": "官方通报百万粉丝主播被指私闯果园",
+            "startTime": 1795276800000,
+            "oldPoint": 4,
+            "pro": 7.61,
+            "hE": 97768,
+            "tags": [
+              "果园",
+              "主播",
+              "糟蹋"
+            ]
+          },
+          {
+            "eventId": "ce5dc727e600ae4e10180826",
+            "img": "22.png",
+            "pointPro": 99.94,
+            "firstType": "社会",
+            "name": "许昌外卖小哥一句“treetree的”带火炸鸡",
+            "startTime": 1794499200000,
+            "oldPoint": 23,
+            "pro": 6.61,
+            "hE": 84989,
+            "tags": [
+              "炸鸡"
+            ]
+          },
+          {
+            "eventId": "86edc58c88a5521110180820",
+            "img": "2.jpg",
+            "pointPro": 99.93,
+            "firstType": "社会",
+            "name": "幼儿园开始招2岁孩子",
+            "startTime": 1795363200000,
+            "oldPoint": 92,
+            "pro": 3.21,
+            "hE": 41255,
+            "tags": [
+              "幼儿园",
+              "学前教育"
+            ]
+          },
+          {
+            "eventId": "d0d044032723e54010180819",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "社会",
+            "name": "北大韦东奕再获奖",
+            "startTime": 1795276800000,
+            "oldPoint": 10,
+            "pro": 3.18,
+            "hE": 40847,
+            "tags": [
+              "韦东奕",
+              "获奖"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 9,
+            "pro": 1.36,
+            "hE": 17534,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 165097
+          }
+        ]
+      },
+      {
+        "time": "2026-11-24",
+        "sumH": 1614654,
+        "info": [
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 0,
+            "pro": 26.07,
+            "hE": 420999,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 17.95,
+            "hE": 289790,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.98,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 48,
+            "pro": 15.98,
+            "hE": 258032,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 8.7,
+            "hE": 140449,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.96,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 5.66,
+            "hE": 91347,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 4,
+            "pro": 5.65,
+            "hE": 91240,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "79687d7003ec77a910180837",
+            "img": "6.jpg",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "上海市委书记陈吉宁被查",
+            "startTime": 1795449600000,
+            "oldPoint": 103,
+            "pro": 3.08,
+            "hE": 49733,
+            "tags": [
+              "陈吉宁",
+              "被查"
+            ]
+          },
+          {
+            "eventId": "089597e97d71c62210180832",
+            "img": "1.jpg",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "豆包小豆公测",
+            "startTime": 1795449600000,
+            "oldPoint": 70,
+            "pro": 2.1,
+            "hE": 33919,
+            "tags": [
+              "豆包",
+              "公测"
+            ]
+          },
+          {
+            "eventId": "80418e3785b5ae3c10180841",
+            "img": "33.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "红果短剧上线“时间锁”",
+            "startTime": 1795449600000,
+            "oldPoint": 106,
+            "pro": 1.4,
+            "hE": 22544,
+            "tags": [
+              "红果"
+            ]
+          },
+          {
+            "eventId": "db73d16b3864d31110180834",
+            "img": "3.jpg",
+            "pointPro": 99.9,
+            "firstType": "违法犯罪",
+            "name": "吴胜华受贿1.13亿被判无期",
+            "startTime": 1795449600000,
+            "oldPoint": 109,
+            "pro": 1.3,
+            "hE": 20955,
+            "tags": [
+              "吴胜华",
+              "判刑"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 195646
+          }
+        ]
+      },
+      {
+        "time": "2026-11-25",
+        "sumH": 1176436,
+        "info": [
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 100,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 2,
+            "pro": 37.05,
+            "hE": 435853,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.99,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 10.36,
+            "hE": 121823,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 0,
+            "pro": 9.87,
+            "hE": 116119,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 7.31,
+            "hE": 86043,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.95,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 5.65,
+            "hE": 66495,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "4e6e903cea95913a10180846",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "企业",
+            "name": "可口可乐不再标生产日期",
+            "startTime": 1795449600000,
+            "oldPoint": 26,
+            "pro": 5.27,
+            "hE": 62051,
+            "tags": [
+              "可口可乐",
+              "生产日期"
+            ]
+          },
+          {
+            "eventId": "bb68481978b8e7e210180849",
+            "img": "3.jpg",
+            "pointPro": 99.93,
+            "firstType": "违法犯罪",
+            "name": "央视揭秘走私孕妇血样大案",
+            "startTime": 1795536000000,
+            "oldPoint": 95,
+            "pro": 2.23,
+            "hE": 26219,
+            "tags": [
+              "走私案",
+              "央视曝光"
+            ]
+          },
+          {
+            "eventId": "934450e3e964165010180785",
+            "img": "44.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "史上最大IPO：Anthropic每股定价83美元",
+            "startTime": 1794931200000,
+            "oldPoint": 11,
+            "pro": 2.13,
+            "hE": 25004,
+            "tags": [
+              "Anthropic",
+              "IPO",
+              "上市"
+            ]
+          },
+          {
+            "eventId": "c9e10b3d393beea110180851",
+            "img": "5.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "斗鱼及创始人陈少杰被执行1.9亿余元",
+            "startTime": 1795536000000,
+            "oldPoint": 96,
+            "pro": 2.04,
+            "hE": 23976,
+            "tags": [
+              "陈少杰",
+              "斗鱼直播",
+              "执行",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "65c10d44619c74b210180847",
+            "img": "2.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "旺旺中期净利下滑近四成，旺仔牛奶受渠道分流",
+            "startTime": 1795363200000,
+            "oldPoint": 18,
+            "pro": 1.53,
+            "hE": 18024,
+            "tags": [
+              "旺旺",
+              "利润",
+              "下滑",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 194829
+          }
+        ]
+      },
+      {
+        "time": "2026-11-26",
+        "sumH": 1091056,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 37.52,
+            "hE": 409393,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "2a1d0b1cd649bcb710180855",
+            "img": "44.png",
+            "pointPro": 99.99,
+            "firstType": "社会",
+            "name": "蔡磊已进入渐冻症终末期",
+            "startTime": 1795536000000,
+            "oldPoint": 41,
+            "pro": 12.87,
+            "hE": 140377,
+            "tags": [
+              "蔡磊",
+              "渐冻症"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.97,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 7.44,
+            "hE": 81226,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 0,
+            "pro": 6.63,
+            "hE": 72295,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 5.33,
+            "hE": 58203,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "22c419973668bbcb10180852",
+            "img": "11.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "网友抵制王玉雯代言皮革",
+            "startTime": 1795536000000,
+            "oldPoint": 10,
+            "pro": 3.6,
+            "hE": 39308,
+            "tags": [
+              "王玉雯",
+              "皮革"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.92,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 2,
+            "pro": 3.47,
+            "hE": 37854,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.91,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 47,
+            "pro": 3.2,
+            "hE": 34941,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "4e6e903cea95913a10180846",
+            "img": "1.jpg",
+            "pointPro": 99.9,
+            "firstType": "企业",
+            "name": "可口可乐不再标生产日期",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 2.2,
+            "hE": 23987,
+            "tags": [
+              "可口可乐",
+              "生产日期"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.88,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 60,
+            "pro": 1.83,
+            "hE": 20017,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 173455
+          }
+        ]
+      }
+    ],
+    "rankHour": [
+      {
+        "time": "2026-11-27 05",
+        "sumH": 3315,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 28.75,
+            "hE": 953,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.96,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 11.07,
+            "hE": 367,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.93,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 0,
+            "pro": 9.96,
+            "hE": 330,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 0,
+            "pro": 9.91,
+            "hE": 328,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 0,
+            "pro": 9.08,
+            "hE": 301,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 0,
+            "pro": 6.15,
+            "hE": 204,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 0,
+            "pro": 4.74,
+            "hE": 157,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.74,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 0,
+            "pro": 4.5,
+            "hE": 149,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.7,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 0,
+            "pro": 3.26,
+            "hE": 108,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "41e13dad398a450510180874",
+            "img": "33.png",
+            "pointPro": 99.67,
+            "firstType": "社会",
+            "name": "北大教师右眼被注入工业气体获赔388万",
+            "startTime": 1795622400000,
+            "oldPoint": 0,
+            "pro": 2.94,
+            "hE": 97,
+            "tags": [
+              "北大",
+              "索赔",
+              "医疗事故"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 321
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 06",
+        "sumH": 10995,
+        "info": [
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 6,
+            "pro": 28.19,
+            "hE": 3099,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 17.56,
+            "hE": 1930,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 3,
+            "pro": 9.97,
+            "hE": 1096,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 11,
+            "pro": 8.07,
+            "hE": 887,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.87,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 1,
+            "pro": 6.05,
+            "hE": 665,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 5.19,
+            "hE": 571,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.81,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 4,
+            "pro": 5.01,
+            "hE": 551,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.77,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 4.36,
+            "hE": 480,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "d3cbed039dbe6bc210180873",
+            "img": "22.png",
+            "pointPro": 99.74,
+            "firstType": "国际",
+            "name": "美国公布新一轮301关税提案",
+            "startTime": 1795536000000,
+            "oldPoint": 18,
+            "pro": 3.8,
+            "hE": 417,
+            "tags": [
+              "美国",
+              "关税"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.71,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 8,
+            "pro": 3.26,
+            "hE": 359,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 940
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 07",
+        "sumH": 22411,
+        "info": [
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 0,
+            "pro": 27.91,
+            "hE": 6255,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.97,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 2,
+            "pro": 18.1,
+            "hE": 4057,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 16.63,
+            "hE": 3727,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.91,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 8.7,
+            "hE": 1950,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 3,
+            "pro": 5.52,
+            "hE": 1237,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.86,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 4,
+            "pro": 4.33,
+            "hE": 971,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 3.14,
+            "hE": 703,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.8,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 2.68,
+            "hE": 600,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "d3cbed039dbe6bc210180873",
+            "img": "22.png",
+            "pointPro": 99.77,
+            "firstType": "国际",
+            "name": "美国公布新一轮301关税提案",
+            "startTime": 1795536000000,
+            "oldPoint": 8,
+            "pro": 2.22,
+            "hE": 497,
+            "tags": [
+              "美国",
+              "关税"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.74,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 9,
+            "pro": 1.74,
+            "hE": 390,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2024
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 08",
+        "sumH": 39723,
+        "info": [
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 100,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 0,
+            "pro": 25.7,
+            "hE": 10207,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 99.98,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 2,
+            "pro": 22.36,
+            "hE": 8883,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.95,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 1,
+            "pro": 10.21,
+            "hE": 4056,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.93,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 3,
+            "pro": 8.18,
+            "hE": 3251,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 7,
+            "pro": 5.37,
+            "hE": 2131,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.88,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 5,
+            "pro": 4.53,
+            "hE": 1798,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 4,
+            "pro": 4.25,
+            "hE": 1688,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 6,
+            "pro": 3.81,
+            "hE": 1513,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "d3cbed039dbe6bc210180873",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "美国公布新一轮301关税提案",
+            "startTime": 1795536000000,
+            "oldPoint": 8,
+            "pro": 2.69,
+            "hE": 1067,
+            "tags": [
+              "美国",
+              "关税"
+            ]
+          },
+          {
+            "eventId": "41e13dad398a450510180874",
+            "img": "33.png",
+            "pointPro": 99.79,
+            "firstType": "社会",
+            "name": "北大教师右眼被注入工业气体获赔388万",
+            "startTime": 1795622400000,
+            "oldPoint": 10,
+            "pro": 1.73,
+            "hE": 686,
+            "tags": [
+              "北大",
+              "索赔",
+              "医疗事故"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 4443
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 09",
+        "sumH": 48861,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 1,
+            "pro": 34.82,
+            "hE": 17016,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 0,
+            "pro": 20.16,
+            "hE": 9850,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 2,
+            "pro": 10.65,
+            "hE": 5204,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.94,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 6.84,
+            "hE": 3340,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.91,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 5,
+            "pro": 6.01,
+            "hE": 2936,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 7,
+            "pro": 5.58,
+            "hE": 2727,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 4.53,
+            "hE": 2215,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 3,
+            "pro": 3.65,
+            "hE": 1784,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 17,
+            "pro": 0.75,
+            "hE": 365,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "aa51a62d5e9cbac510180856",
+            "img": "66.jpg",
+            "pointPro": 99.81,
+            "firstType": "娱乐",
+            "name": "电视剧《今天是太阳雨》",
+            "startTime": 1793894400000,
+            "oldPoint": 18,
+            "pro": 0.63,
+            "hE": 308,
+            "tags": [
+              "电视剧",
+              "《今天是太阳雨》"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3116
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 10",
+        "sumH": 57633,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 40.92,
+            "hE": 23586,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 1,
+            "pro": 16.82,
+            "hE": 9696,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 2,
+            "pro": 7.77,
+            "hE": 4476,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 4,
+            "pro": 7.41,
+            "hE": 4270,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 5.99,
+            "hE": 3452,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.9,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 3.85,
+            "hE": 2221,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 3.17,
+            "hE": 1827,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 7,
+            "pro": 2.37,
+            "hE": 1368,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.84,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 12,
+            "pro": 1.79,
+            "hE": 1033,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d3cbed039dbe6bc210180873",
+            "img": "22.png",
+            "pointPro": 99.82,
+            "firstType": "国际",
+            "name": "美国公布新一轮301关税提案",
+            "startTime": 1795536000000,
+            "oldPoint": 11,
+            "pro": 0.89,
+            "hE": 511,
+            "tags": [
+              "美国",
+              "关税"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 5193
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 11",
+        "sumH": 44534,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 31.1,
+            "hE": 13851,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 1,
+            "pro": 17.91,
+            "hE": 7975,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.96,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 10.65,
+            "hE": 4742,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.94,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 2,
+            "pro": 8.5,
+            "hE": 3785,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 6.55,
+            "hE": 2915,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.9,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 5.9,
+            "hE": 2630,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.88,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 4.67,
+            "hE": 2078,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 7,
+            "pro": 3.1,
+            "hE": 1379,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.83,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 8,
+            "pro": 2.09,
+            "hE": 931,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "d3cbed039dbe6bc210180873",
+            "img": "22.png",
+            "pointPro": 99.81,
+            "firstType": "国际",
+            "name": "美国公布新一轮301关税提案",
+            "startTime": 1795536000000,
+            "oldPoint": 9,
+            "pro": 1.14,
+            "hE": 506,
+            "tags": [
+              "美国",
+              "关税"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3742
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 12",
+        "sumH": 61676,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 72.54,
+            "hE": 44744,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.98,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 1,
+            "pro": 7.34,
+            "hE": 4529,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.96,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 3,
+            "pro": 4.32,
+            "hE": 2663,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.93,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 4,
+            "pro": 3.37,
+            "hE": 2079,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.91,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 5,
+            "pro": 2.62,
+            "hE": 1619,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.89,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 2,
+            "pro": 2.01,
+            "hE": 1239,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 7,
+            "pro": 1.97,
+            "hE": 1216,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 1.04,
+            "hE": 639,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "908a814a625bb3c810180825",
+            "img": "11.png",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "黄仁勋重返英伟达",
+            "startTime": 1795363200000,
+            "oldPoint": 8,
+            "pro": 0.86,
+            "hE": 532,
+            "tags": [
+              "黄仁勋",
+              "英伟达",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "2a1d0b1cd649bcb710180855",
+            "img": "44.png",
+            "pointPro": 99.8,
+            "firstType": "社会",
+            "name": "蔡磊已进入渐冻症终末期",
+            "startTime": 1795536000000,
+            "oldPoint": 12,
+            "pro": 0.62,
+            "hE": 382,
+            "tags": [
+              "蔡磊",
+              "渐冻症"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2034
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 13",
+        "sumH": 45763,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 63.15,
+            "hE": 28898,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 1,
+            "pro": 8.69,
+            "hE": 3975,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.94,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 5.55,
+            "hE": 2542,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 4,
+            "pro": 5.45,
+            "hE": 2494,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 2,
+            "pro": 3.41,
+            "hE": 1559,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.86,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 15,
+            "pro": 3.01,
+            "hE": 1377,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.83,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 2.09,
+            "hE": 956,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 7,
+            "pro": 1.99,
+            "hE": 909,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "089597e97d71c62210180832",
+            "img": "1.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "豆包小豆公测",
+            "startTime": 1795449600000,
+            "oldPoint": 19,
+            "pro": 0.99,
+            "hE": 453,
+            "tags": [
+              "豆包",
+              "公测"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.75,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 0.92,
+            "hE": 420,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2180
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 14",
+        "sumH": 50042,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 58.01,
+            "hE": 29030,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 1,
+            "pro": 11.48,
+            "hE": 5743,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.95,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 7.58,
+            "hE": 3795,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.92,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 5.02,
+            "hE": 2510,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.89,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 5,
+            "pro": 3.75,
+            "hE": 1878,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.86,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 6,
+            "pro": 2.66,
+            "hE": 1333,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.84,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 4,
+            "pro": 1.84,
+            "hE": 920,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.81,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 7,
+            "pro": 1.25,
+            "hE": 626,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.78,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 10,
+            "pro": 1.03,
+            "hE": 516,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 9,
+            "pro": 0.95,
+            "hE": 477,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3214
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 15",
+        "sumH": 47765,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 60.31,
+            "hE": 28806,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.97,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 1,
+            "pro": 10.15,
+            "hE": 4847,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.95,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 3,
+            "pro": 5.72,
+            "hE": 2734,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 2,
+            "pro": 5.71,
+            "hE": 2725,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.89,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 3.22,
+            "hE": 1540,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.87,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 2.16,
+            "hE": 1033,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.84,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 7,
+            "pro": 1.95,
+            "hE": 933,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.82,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 4,
+            "pro": 1.77,
+            "hE": 845,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "4b917edeede4730410180793",
+            "img": "1.jpg",
+            "pointPro": 99.79,
+            "firstType": "企业",
+            "name": "爱奇艺退市警告",
+            "startTime": 1795017600000,
+            "oldPoint": 8,
+            "pro": 1.46,
+            "hE": 695,
+            "tags": [
+              "爱奇艺",
+              "退市警告"
+            ]
+          },
+          {
+            "eventId": "2582e03744e0375110180872",
+            "img": "11.png",
+            "pointPro": 99.76,
+            "firstType": "企业",
+            "name": "英伟达暂停向东南亚四国交付AI服务器",
+            "startTime": 1795622400000,
+            "oldPoint": 9,
+            "pro": 1.1,
+            "hE": 525,
+            "tags": [
+              "英伟达"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 3082
+          }
+        ]
+      },
+      {
+        "time": "2026-11-27 16",
+        "sumH": 36774,
+        "info": [
+          {
+            "eventId": "676677a9cc12533d10180644",
+            "img": "1794275654403.png",
+            "pointPro": 100,
+            "firstType": "娱乐",
+            "name": "综艺《后会友期》",
+            "startTime": 1792598400000,
+            "oldPoint": 0,
+            "pro": 48.09,
+            "hE": 17685,
+            "tags": [
+              "芒果TV",
+              "综艺节目"
+            ]
+          },
+          {
+            "eventId": "a978642a82022c7610180862",
+            "img": "5.png",
+            "pointPro": 99.97,
+            "firstType": "娱乐",
+            "name": "电视剧《两京十五日》",
+            "startTime": 1795104000000,
+            "oldPoint": 2,
+            "pro": 15.9,
+            "hE": 5848,
+            "tags": [
+              "电视剧",
+              "《两京十五日》"
+            ]
+          },
+          {
+            "eventId": "6a364aaae540b3a210180869",
+            "img": "5.png",
+            "pointPro": 99.95,
+            "firstType": "企业",
+            "name": "三只松鼠致歉",
+            "startTime": 1795536000000,
+            "oldPoint": 1,
+            "pro": 6.86,
+            "hE": 2521,
+            "tags": [
+              "三只松鼠",
+              "致歉",
+              "危机"
+            ]
+          },
+          {
+            "eventId": "ca27e66d33bcda7b10180758",
+            "img": "1794887894738.png",
+            "pointPro": 99.92,
+            "firstType": "政务",
+            "name": "2026 APEC深圳峰会",
+            "startTime": 1794758400000,
+            "oldPoint": 3,
+            "pro": 4.78,
+            "hE": 1759,
+            "tags": [
+              "APEC会议"
+            ]
+          },
+          {
+            "eventId": "aa51a62d5e9cbac510180856",
+            "img": "66.jpg",
+            "pointPro": 99.9,
+            "firstType": "娱乐",
+            "name": "电视剧《今天是太阳雨》",
+            "startTime": 1793894400000,
+            "oldPoint": 19,
+            "pro": 3.33,
+            "hE": 1224,
+            "tags": [
+              "电视剧",
+              "《今天是太阳雨》"
+            ]
+          },
+          {
+            "eventId": "2167da08e256aa5010180810",
+            "img": "5.jpg",
+            "pointPro": 99.87,
+            "firstType": "企业",
+            "name": "华为全新子品牌星芒正式发布",
+            "startTime": 1795104000000,
+            "oldPoint": 7,
+            "pro": 3.09,
+            "hE": 1136,
+            "tags": [
+              "华为",
+              "发布会"
+            ]
+          },
+          {
+            "eventId": "7d6194112380944710180812",
+            "img": "11.png",
+            "pointPro": 99.85,
+            "firstType": "国际",
+            "name": "AI作弊引发韩国高考混乱 韩国教育部长引咎辞职",
+            "startTime": 1795276800000,
+            "oldPoint": 12,
+            "pro": 3.06,
+            "hE": 1127,
+            "tags": [
+              "高考",
+              "AI",
+              "韩国",
+              "作弊"
+            ]
+          },
+          {
+            "eventId": "8c566538c85b516710180875",
+            "img": "44.png",
+            "pointPro": 99.82,
+            "firstType": "社会",
+            "name": "美团、淘宝闪购全面取消超时扣款处罚",
+            "startTime": 1795622400000,
+            "oldPoint": 6,
+            "pro": 3.02,
+            "hE": 1111,
+            "tags": [
+              "美团",
+              "淘宝闪购",
+              "骑手"
+            ]
+          },
+          {
+            "eventId": "982b7c553167da2810180871",
+            "img": "1.jpg",
+            "pointPro": 99.79,
+            "firstType": "体育",
+            "name": "中国男篮周琦肘击对手遭驱逐",
+            "startTime": 1795622400000,
+            "oldPoint": 4,
+            "pro": 1.98,
+            "hE": 730,
+            "tags": [
+              "周琦",
+              "中国男篮",
+              "犯规"
+            ]
+          },
+          {
+            "eventId": "28633489c94733b510180835",
+            "img": "4.jpg",
+            "pointPro": 99.77,
+            "firstType": "社会",
+            "name": "神舟24号发射圆满成功",
+            "startTime": 1795449600000,
+            "oldPoint": 5,
+            "pro": 1.81,
+            "hE": 666,
+            "tags": [
+              "神舟二十四号"
+            ]
+          },
+          {
+            "eventId": "otherEventId",
+            "name": "其他",
+            "hE": 2967
+          }
+        ]
+      }
+    ]
+  },
+  "message": "操作成功",
+  "state": true
+}
