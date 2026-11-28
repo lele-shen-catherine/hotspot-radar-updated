@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-28T16:30:05.656Z",
+  "generatedAt": "2026-11-28T23:46:21.886Z",
   "date": "2026-11-28",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "S",
+      "level": "A",
       "seat": "总榜Top1",
-      "title": "巴方官员同巴基斯坦航天员通话",
-      "topic": "巴方官员同巴基斯坦航天员通话",
-      "eventName": "巴方官员同巴基斯坦航天员通话",
+      "title": "淡人穿出时髦感的冬季穿搭",
+      "topic": "淡人穿出时髦感的冬季穿搭",
+      "eventName": "淡人穿出时髦感的冬季穿搭",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11187406,
-      "hotValue": 11187406,
-      "url": "https://www.douyin.com/search/%E5%B7%B4%E6%96%B9%E5%AE%98%E5%91%98%E5%90%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D",
+      "hot": 11817485,
+      "hotValue": 11817485,
+      "url": "https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11187406
+          "hot": 11817485
         }
       ],
-      "totalScore": 85.1,
+      "totalScore": 84.4,
       "posScore": 98,
       "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "抖音标记'新'(刚上榜)",
-      "resonanceScore": 80,
-      "resonanceEvidence": "两源共振(其他: 巴方官员同巴基斯坦航天员天地通话)",
-      "duration": "抖音标记'新'(刚上榜)",
-      "rankChange": "抖音标记'新'(刚上榜)",
+      "trendScore": 85,
+      "trendEvidence": "抖音标记'爆'",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "抖音标记'爆'",
+      "rankChange": "抖音标记'爆'",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T16:30:05.656Z",
-      "eventSummary": "围绕「巴方官员同巴基斯坦航天员通话」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "高客单/新鲜事物自带猎奇与话题溢价；\"太空旅行商业化\"首现属性强，稀缺性与科技感叠加制造讨论峰值，属偏中性的商业化动作。",
+      "collectedAt": "2026-11-28T23:46:21.886Z",
+      "eventSummary": "围绕「淡人穿出时髦感的冬季穿搭」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "低门槛可复刻的穿搭模板；同色系+叠穿公式人人都能用衣橱单品还原，强视觉传播 + 入秋仪式感，达人展示与评论区种草推动扩散。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -44,14 +44,14 @@
       "eventName": "综艺《后会友期》",
       "platform": "知微",
       "rank": 2,
-      "hot": 6263,
-      "hotValue": 6263,
+      "hot": 9914,
+      "hotValue": 9914,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 6263
+          "hot": 9914
         }
       ],
       "totalScore": 80.8,
@@ -64,7 +64,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T16:30:05.656Z",
+      "collectedAt": "2026-11-28T23:46:21.886Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -72,85 +72,118 @@
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "2026 APEC深圳峰会",
-      "topic": "2026 APEC深圳峰会",
-      "eventName": "2026 APEC深圳峰会",
-      "platform": "知微",
+      "title": "司机送还遗失手机收100元乘客报警",
+      "topic": "司机送还遗失手机收100元乘客报警",
+      "eventName": "司机送还遗失手机收100元乘客报警",
+      "platform": "微博",
       "rank": 3,
-      "hot": 2870,
-      "hotValue": 2870,
-      "url": "https://ef.zhiweidata.com/eventRk/ca27e66d33bcda7b10180758/profil",
+      "hot": 1151047,
+      "hotValue": 1151047,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E9%80%81%E8%BF%98%E9%81%97%E5%A4%B1%E6%89%8B%E6%9C%BA%E6%94%B6100%E5%85%83%E4%B9%98%E5%AE%A2%E6%8A%A5%E8%AD%A6%23",
+      "platforms": [
+        {
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1151047
+        }
+      ],
+      "totalScore": 78.1,
+      "posScore": 98,
+      "hotScore": 99,
+      "trendScore": 60,
+      "trendEvidence": "微博单次快照无在榜时长(按60)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "微博单次快照无在榜时长(按60)",
+      "rankChange": "微博单次快照无在榜时长(按60)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-28T23:46:21.886Z",
+      "eventSummary": "围绕「司机送还遗失手机收100元乘客报警」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "新品首发自带\"即时体验\"冲动；科技/新品发布制造悬念，KOL 开箱 + 评论区讨论带动跨平台扩散。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top4",
+      "title": "电视剧《两京十五日》",
+      "topic": "电视剧《两京十五日》",
+      "eventName": "电视剧《两京十五日》",
+      "platform": "知微",
+      "rank": 4,
+      "hot": 3871,
+      "hotValue": 3871,
+      "url": "https://ef.zhiweidata.com/eventRk/a978642a82022c7610180862/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 2,
-          "hot": 2870
+          "hot": 3871
         }
       ],
-      "totalScore": 79,
+      "totalScore": 75.3,
       "posScore": 80,
       "hotScore": 85,
-      "trendScore": 100,
-      "trendEvidence": "排名上升 3→2, 在榜11小时",
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第2名, 在榜11小时)",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 3→2, 在榜11小时",
-      "rankChange": "排名上升 3→2, 在榜11小时",
+      "duration": "持续高位(第2名, 在榜11小时)",
+      "rankChange": "持续高位(第2名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T16:30:05.656Z",
+      "collectedAt": "2026-11-28T23:46:21.886Z",
+      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
+      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "A",
+      "seat": "总榜Top5",
+      "title": "2026 APEC深圳峰会",
+      "topic": "2026 APEC深圳峰会",
+      "eventName": "2026 APEC深圳峰会",
+      "platform": "知微",
+      "rank": 5,
+      "hot": 1580,
+      "hotValue": 1580,
+      "url": "https://ef.zhiweidata.com/eventRk/ca27e66d33bcda7b10180758/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 1580
+        }
+      ],
+      "totalScore": 73.5,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 100,
+      "trendEvidence": "排名上升 4→3, 在榜11小时",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "排名上升 4→3, 在榜11小时",
+      "rankChange": "排名上升 4→3, 在榜11小时",
+      "excludeCat": null,
+      "collectedAt": "2026-11-28T23:46:21.886Z",
       "eventSummary": "围绕「2026 APEC深圳峰会」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「2026 APEC深圳峰会」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
       "level": "B",
-      "seat": "总榜Top4",
+      "seat": "总榜Top6",
       "title": "神舟24号发射圆满成功",
       "topic": "神舟24号发射圆满成功",
       "eventName": "神舟24号发射圆满成功",
       "platform": "知微",
-      "rank": 4,
-      "hot": 2460,
-      "hotValue": 2460,
+      "rank": 6,
+      "hot": 1579,
+      "hotValue": 1579,
       "url": "https://ef.zhiweidata.com/eventRk/28633489c94733b510180835/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 3,
-          "hot": 2460
-        }
-      ],
-      "totalScore": 69.8,
-      "posScore": 70,
-      "hotScore": 75,
-      "trendScore": 85,
-      "trendEvidence": "持续高位(第3名, 在榜10小时)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "持续高位(第3名, 在榜10小时)",
-      "rankChange": "持续高位(第3名, 在榜10小时)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-28T16:30:05.656Z",
-      "eventSummary": "围绕「神舟24号发射圆满成功」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「神舟24号发射圆满成功」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "B",
-      "seat": "总榜Top5",
-      "title": "电视剧《两京十五日》",
-      "topic": "电视剧《两京十五日》",
-      "eventName": "电视剧《两京十五日》",
-      "platform": "知微",
-      "rank": 5,
-      "hot": 1790,
-      "hotValue": 1790,
-      "url": "https://ef.zhiweidata.com/eventRk/a978642a82022c7610180862/profil",
-      "platforms": [
-        {
-          "platform": "知微",
           "rank": 4,
-          "hot": 1790
+          "hot": 1579
         }
       ],
       "totalScore": 64.3,
@@ -163,9 +196,9 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T16:30:05.656Z",
-      "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
-      "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
+      "collectedAt": "2026-11-28T23:46:21.886Z",
+      "eventSummary": "围绕「神舟24号发射圆满成功」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「神舟24号发射圆满成功」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     }
   ]
