@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-28T00:55:31.886Z",
+  "generatedAt": "2026-11-28T16:30:05.656Z",
   "date": "2026-11-28",
   "note": "固定6席: 知微Top4 + 抖音Top1 + 微博Top1; 去重后按热度值降序; 热度值仅用于S/A/B分级",
   "hotspots": [
     {
-      "level": "A",
+      "level": "S",
       "seat": "总榜Top1",
-      "title": "驻日使馆提醒中国公民防范地震",
-      "topic": "驻日使馆提醒中国公民防范地震",
-      "eventName": "驻日使馆提醒中国公民防范地震",
+      "title": "巴方官员同巴基斯坦航天员通话",
+      "topic": "巴方官员同巴基斯坦航天员通话",
+      "eventName": "巴方官员同巴基斯坦航天员通话",
       "platform": "抖音",
       "rank": 1,
-      "hot": 11158489,
-      "hotValue": 11158489,
-      "url": "https://www.douyin.com/search/%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%98%B2%E8%8C%83%E5%9C%B0%E9%9C%87",
+      "hot": 11187406,
+      "hotValue": 11187406,
+      "url": "https://www.douyin.com/search/%E5%B7%B4%E6%96%B9%E5%AE%98%E5%91%98%E5%90%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D",
       "platforms": [
         {
           "platform": "抖音",
           "rank": 1,
-          "hot": 11158489
+          "hot": 11187406
         }
       ],
-      "totalScore": 84.4,
+      "totalScore": 85.1,
       "posScore": 98,
       "hotScore": 99,
-      "trendScore": 85,
-      "trendEvidence": "抖音标记'爆'",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "抖音标记'爆'",
-      "rankChange": "抖音标记'爆'",
+      "trendScore": 60,
+      "trendEvidence": "抖音标记'新'(刚上榜)",
+      "resonanceScore": 80,
+      "resonanceEvidence": "两源共振(其他: 巴方官员同巴基斯坦航天员天地通话)",
+      "duration": "抖音标记'新'(刚上榜)",
+      "rankChange": "抖音标记'新'(刚上榜)",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T00:55:31.886Z",
-      "eventSummary": "围绕「驻日使馆提醒中国公民防范地震」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「驻日使馆提醒中国公民防范地震」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "collectedAt": "2026-11-28T16:30:05.656Z",
+      "eventSummary": "围绕「巴方官员同巴基斯坦航天员通话」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "高客单/新鲜事物自带猎奇与话题溢价；\"太空旅行商业化\"首现属性强，稀缺性与科技感叠加制造讨论峰值，属偏中性的商业化动作。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -44,14 +44,14 @@
       "eventName": "综艺《后会友期》",
       "platform": "知微",
       "rank": 2,
-      "hot": 6282,
-      "hotValue": 6282,
+      "hot": 6263,
+      "hotValue": 6263,
       "url": "https://ef.zhiweidata.com/eventRk/676677a9cc12533d10180644/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 1,
-          "hot": 6282
+          "hot": 6263
         }
       ],
       "totalScore": 80.8,
@@ -64,7 +64,7 @@
       "duration": "持续高位(第1名, 在榜11小时)",
       "rankChange": "持续高位(第1名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T00:55:31.886Z",
+      "collectedAt": "2026-11-28T16:30:05.656Z",
       "eventSummary": "围绕「综艺《后会友期》」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「综艺《后会友期》」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
@@ -72,67 +72,67 @@
     {
       "level": "A",
       "seat": "总榜Top3",
-      "title": "三只松鼠一夜整改反而让人唏嘘",
-      "topic": "三只松鼠一夜整改反而让人唏嘘",
-      "eventName": "三只松鼠一夜整改反而让人唏嘘",
-      "platform": "微博",
-      "rank": 3,
-      "hot": 689053,
-      "hotValue": 689053,
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E4%B8%80%E5%A4%9C%E6%95%B4%E6%94%B9%E5%8F%8D%E8%80%8C%E8%AE%A9%E4%BA%BA%E5%94%8F%E5%98%98%23",
-      "platforms": [
-        {
-          "platform": "微博",
-          "rank": 1,
-          "hot": 689053
-        }
-      ],
-      "totalScore": 78.1,
-      "posScore": 98,
-      "hotScore": 99,
-      "trendScore": 60,
-      "trendEvidence": "微博单次快照无在榜时长(按60)",
-      "resonanceScore": 45,
-      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "微博单次快照无在榜时长(按60)",
-      "rankChange": "微博单次快照无在榜时长(按60)",
-      "excludeCat": null,
-      "collectedAt": "2026-11-28T00:55:31.886Z",
-      "eventSummary": "围绕「三只松鼠一夜整改反而让人唏嘘」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
-      "propagation": "围绕「三只松鼠一夜整改反而让人唏嘘」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
-      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
-    },
-    {
-      "level": "A",
-      "seat": "总榜Top4",
       "title": "2026 APEC深圳峰会",
       "topic": "2026 APEC深圳峰会",
       "eventName": "2026 APEC深圳峰会",
       "platform": "知微",
-      "rank": 4,
-      "hot": 1638,
-      "hotValue": 1638,
+      "rank": 3,
+      "hot": 2870,
+      "hotValue": 2870,
       "url": "https://ef.zhiweidata.com/eventRk/ca27e66d33bcda7b10180758/profil",
       "platforms": [
         {
           "platform": "知微",
-          "rank": 3,
-          "hot": 1638
+          "rank": 2,
+          "hot": 2870
         }
       ],
-      "totalScore": 73.5,
-      "posScore": 70,
-      "hotScore": 75,
+      "totalScore": 79,
+      "posScore": 80,
+      "hotScore": 85,
       "trendScore": 100,
-      "trendEvidence": "排名上升 5→3, 在榜11小时",
+      "trendEvidence": "排名上升 3→2, 在榜11小时",
       "resonanceScore": 45,
       "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
-      "duration": "排名上升 5→3, 在榜11小时",
-      "rankChange": "排名上升 5→3, 在榜11小时",
+      "duration": "排名上升 3→2, 在榜11小时",
+      "rankChange": "排名上升 3→2, 在榜11小时",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T00:55:31.886Z",
+      "collectedAt": "2026-11-28T16:30:05.656Z",
       "eventSummary": "围绕「2026 APEC深圳峰会」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
       "propagation": "围绕「2026 APEC深圳峰会」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
+      "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
+    },
+    {
+      "level": "B",
+      "seat": "总榜Top4",
+      "title": "神舟24号发射圆满成功",
+      "topic": "神舟24号发射圆满成功",
+      "eventName": "神舟24号发射圆满成功",
+      "platform": "知微",
+      "rank": 4,
+      "hot": 2460,
+      "hotValue": 2460,
+      "url": "https://ef.zhiweidata.com/eventRk/28633489c94733b510180835/profil",
+      "platforms": [
+        {
+          "platform": "知微",
+          "rank": 3,
+          "hot": 2460
+        }
+      ],
+      "totalScore": 69.8,
+      "posScore": 70,
+      "hotScore": 75,
+      "trendScore": 85,
+      "trendEvidence": "持续高位(第3名, 在榜10小时)",
+      "resonanceScore": 45,
+      "resonanceEvidence": "仅单平台, 未确认外部讨论证据",
+      "duration": "持续高位(第3名, 在榜10小时)",
+      "rankChange": "持续高位(第3名, 在榜10小时)",
+      "excludeCat": null,
+      "collectedAt": "2026-11-28T16:30:05.656Z",
+      "eventSummary": "围绕「神舟24号发射圆满成功」所涉事项，相关主体/进展已引发关注，各方对其经过与影响持续讨论。",
+      "propagation": "围绕「神舟24号发射圆满成功」，公众对该事件本身的关注与讨论形成热度主体；其话题贴近日常关切、具备传播触发点，讨论与转发带动话题持续被关注。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
     },
     {
@@ -143,14 +143,14 @@
       "eventName": "电视剧《两京十五日》",
       "platform": "知微",
       "rank": 5,
-      "hot": 1615,
-      "hotValue": 1615,
+      "hot": 1790,
+      "hotValue": 1790,
       "url": "https://ef.zhiweidata.com/eventRk/a978642a82022c7610180862/profil",
       "platforms": [
         {
           "platform": "知微",
           "rank": 4,
-          "hot": 1615
+          "hot": 1790
         }
       ],
       "totalScore": 64.3,
@@ -163,7 +163,7 @@
       "duration": "持续高位(第4名, 在榜11小时)",
       "rankChange": "持续高位(第4名, 在榜11小时)",
       "excludeCat": null,
-      "collectedAt": "2026-11-28T00:55:31.886Z",
+      "collectedAt": "2026-11-28T16:30:05.656Z",
       "eventSummary": "电视剧播出后口碑与热度持续走高，剧情、角色与话题引发观众追剧与讨论，成为近期热门剧集。",
       "propagation": "爆款剧集自带\"追剧沉浸感\"与社交话题；剧情/角色/名场面持续输出话题，追剧党熬夜与分享欲带动长尾传播。",
       "riskNote": "风险等级：低。可自然关联本地生活消费场景，注意不夸大功效、不做虚假承诺。"
